@@ -32,3 +32,10 @@ This is an independent project, not an official CERL service. Source attribution
 ## Project lead
 
 Stefan Matter. Developed from the experience of Prayer Books in Motion within PRAYTICIPATE; this new project has a broader collection-based scope. Institutional participation or endorsement will only be stated when agreed.
+
+## Zurich map prototype
+
+The first map is available from the repository-root `index.html` once GitHub Pages
+is enabled. See [first-map.md](docs/first-map.md) for preparation, deployment and
+known limitations. The UI includes the timeline, connections, circles, heatmap,
+MEI subject/keyword filters, languages, printing places and saved selections.
