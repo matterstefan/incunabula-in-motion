@@ -1,0 +1,33 @@
+name: Retrieve Zurich MEI holdings
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Run test first; full retrieves all matching records
+        type: choice
+        default: test
+        options:
+          - test
+          - full
+permissions:
+  contents: read
+concurrency:
+  group: cerl-retrieval
+  cancel-in-progress: false
+jobs:
+  retrieve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v6
+      - name: Retrieve and inspect MEI records
+        env:
+          CERL_USER_AGENT: ${{ secrets.CERL_USER_AGENT }}
+          MODE: ${{ inputs.mode }}
+        run: python3 -u scripts/fetch_library.py --mode "$MODE"
+      - uses: actions/upload-artifact@v7
+        with:
+          name: zurich-mei-results
+          path: data/retrieved/
+          if-no-files-found: error
+          retention-days: 90
