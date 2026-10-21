@@ -1,6 +1,7 @@
 """Retrieve current Zurich holdings; preserve complete MEI records."""
 import argparse
 import csv
+import html
 from collections import defaultdict
 from pathlib import Path
 from mei_client import request_page, fetch_complete_query, RateLimiter, atomic_write_json, now_iso
@@ -18,7 +19,7 @@ def validate_records(records):
 
 def terms(value):
     if isinstance(value, str):
-        return [v.strip() for v in value.split(";") if v.strip()]
+        return [v.strip() for v in html.unescape(value).split(";") if v.strip()]
     if isinstance(value, list):
         return [term for v in value for term in terms(v)]
     return []

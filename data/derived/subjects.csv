@@ -1,0 +1,230 @@
+term,source_fields,copies,editions
+Abridgment,keywords,1,1
+Administraion-civil,keywords,3,3
+Administration-church,keywords,1,1
+Anthology,keywords,6,6
+Arithmetic,subject,1,1
+Astronomy,subject,4,3
+Bible,keywords,21,18
+Biography,keywords,6,6
+Celebratory works,keywords,3,2
+Classical studies,keywords,15,13
+Collection,keywords,38,32
+Commentary,keywords,52,44
+Current affairs,subject,4,4
+Dictionary,keywords,1,1
+Ecclesiastical history,subject,1,1
+Economics,keywords,1,1
+Education,keywords,66,57
+Encyclopaedia,keywords,8,7
+Geography,keywords,2,2
+Geometry,subject,3,3
+Grammar,keywords | subject,30,27
+Greek,keywords,3,3
+HIstory,subject,1,1
+Hagiography,subject,2,2
+Hebraica,keywords,2,2
+History,keywords | subject,32,30
+History?,subject,2,2
+Index,keywords,14,12
+Inquisition,keywords,3,3
+Inquisition?,keywords,1,1
+Jest,keywords,2,2
+Law,keywords,1,1
+Law canon,keywords | subject,4,4
+Law-canon,keywords | subject,45,36
+Law-civil,keywords | subject,16,14
+Law-civil&canon,subject,3,3
+Law-national,subject,2,2
+Law-practical,subject,9,9
+Law-procedural,subject,3,3
+Letter Collection,keywords,5,3
+Letter collection,keywords,10,9
+Literature,keywords | subject,62,56
+Literature social,subject,1,1
+Literature-devotional,keywords | subject,24,24
+Literature-moral,subject,34,30
+Literature-social,keywords | subject,10,8
+Liturgy,keywords | subject,3,3
+Medicine,keywords | subject,10,8
+Military art,subject,1,1
+Mystical works,keywords,4,3
+Philology,keywords,4,4
+Philosophy,keywords | subject,21,19
+Philosophy-logic,subject,1,1
+Philosophy-natural,keywords | subject,6,5
+Philosophy-political,keywords | subject,2,2
+Physics,keywords,1,1
+Poetry,keywords,19,17
+Polemical works,keywords,1,1
+Popular,keywords,2,2
+Religion,keywords,6,6
+Rhetoric,subject,30,26
+Surgery,keywords,1,1
+Theology,subject,26,21
+Theology-biblical,keywords | subject,8,7
+Theology-biblical?,subject,1,1
+Theology-ecclesiology,keywords | subject,4,4
+Theology-moral,keywords | subject,18,16
+Theology-pastoral,keywords | subject,37,32
+Theology-pastoral?,subject,6,6
+Theology-practical,keywords | subject,4,4
+Theology-speculative,subject,10,9
+Translation,keywords,15,12
+Travel,keywords,1,1
+Turcica,keywords,1,1
+abridgement,keywords,1,1
+abridgment,keywords,2,2
+administration civil,keywords,2,2
+administration-church,keywords,7,7
+administration-civil,keywords,3,3
+agriculture,subject,4,4
+almanacs,keywords,4,4
+anatomy,keywords,4,4
+animals,keywords,11,11
+anthology,keywords,19,18
+antology,keywords,2,2
+aphorisms,keywords,2,2
+architecture,keywords,1,1
+arithmetic,subject,3,3
+astrology,keywords | subject,21,19
+astronomy,keywords | subject,26,24
+bible,keywords | subject,96,66
+biography,keywords,15,15
+birth,keywords,3,3
+calendar,keywords,7,6
+celebratory,keywords,1,1
+celebratory work,keywords,2,2
+celebratory works,keywords,12,12
+check,keywords,2,2
+children,keywords,2,2
+chivalry,keywords,5,5
+classical,keywords,1,1
+classical studies,keywords,26,25
+collection,keywords,289,252
+commentary,keywords,350,302
+conceptio,keywords,2,2
+conception,keywords,1,1
+cosmography,keywords,6,5
+cosmology,keywords,1,1
+current affairs,keywords | subject,32,26
+current affaris,keywords,1,1
+demonology,keywords,3,3
+dictionaries,keywords,4,4
+dictionary,keywords,39,34
+diplomacy,keywords,2,2
+ecclesiastical history,keywords | subject,5,5
+economics,keywords,1,1
+education,keywords,414,368
+education?,keywords,7,7
+encyclopaedia,keywords,4,4
+encyclopedia,keywords,14,12
+epistolography,keywords,13,10
+exorcism,keywords,1,1
+female,keywords,7,7
+geography,keywords | subject,8,7
+glossary,keywords,1,1
+grammar,subject,56,56
+grants &,keywords,15,14
+greek,keywords,3,3
+hagiography,keywords | subject,28,25
+hebraica,keywords,28,23
+herbals,keywords,2,2
+history,keywords | subject,70,62
+index,keywords,24,20
+inquisition,keywords,5,5
+jest,keywords,4,4
+law,keywords,6,5
+law canon,keywords | subject,5,3
+law civil,subject,2,2
+law practical,keywords,3,2
+law-canon,keywords | subject,91,81
+law-civil,keywords | subject,75,67
+law-civil&canon,subject,25,23
+law-national,keywords | subject,4,3
+law-practical,keywords,6,6
+law-procedural,keywords,3,3
+law?,keywords,1,1
+letter collection,keywords,7,7
+letter collections,keywords,7,7
+letter-collection,keywords,1,1
+licences,keywords,2,1
+licenses,keywords,13,13
+literature,keywords | subject,81,75
+literature devotional,keywords | subject,17,15
+literature moral,subject,3,3
+literature social,subject,2,1
+literature-devotional,keywords | subject,37,29
+literature-devotional?,subject,3,3
+literature-moral,keywords | subject,32,30
+literature-social,keywords | subject,12,11
+liturgy,keywords | subject,74,57
+liturgy?,keywords,2,2
+local,keywords,26,23
+magic,keywords,3,3
+medicine,keywords | subject,36,35
+medicine-practical,keywords | subject,28,28
+medicine-practical?,keywords,2,2
+memory,keywords,3,3
+minerals,keywords,5,5
+music,keywords | subject,4,4
+mystical works,keywords,4,4
+natural history,subject,6,5
+new testament,keywords,5,4
+non-naturals,keywords,11,11
+notary,keywords,7,7
+parody,keywords,2,1
+pathologies,keywords,7,7
+pharmacopeia,keywords,6,6
+pharmacopoeia,keywords,3,3
+philology,keywords,1,1
+philosophy,keywords | subject,53,50
+philosophy logic,subject,4,4
+philosophy-ethics,subject,21,18
+philosophy-logic,keywords | subject,20,18
+philosophy-natural,keywords | subject,22,20
+philosophy-political,keywords | subject,18,17
+philosophyy-natural,keywords,1,1
+plague,keywords,8,8
+plants,keywords,13,13
+poetry,keywords,93,87
+poetry?,keywords,1,1
+polemical,keywords,1,1
+polemical works,keywords,47,35
+popular,keywords,4,4
+propaganda?,keywords,1,1
+prophetic works,keywords,4,4
+prophetical works,keywords,1,1
+rabbinics,keywords,1,1
+recipes,keywords,10,10
+regimen sanitatis,keywords,12,11
+religion,keywords,32,28
+reproduction,keywords,3,3
+rethoric,keywords,6,6
+rhetoric,keywords | subject,59,54
+surgery,keywords,4,4
+syphilis,keywords,1,1
+theatre,keywords,11,9
+theatre?,keywords,1,1
+theology,keywords | subject,36,31
+theology ecclesiology,subject,4,2
+theology pastoral,subject,11,11
+theology-biblical,keywords | subject,21,19
+theology-ecclesiology,subject,3,3
+theology-ecclesiology?,subject,1,1
+theology-moral,keywords | subject,39,36
+theology-pastoral,keywords | subject,159,133
+theology-pastoral?,subject,3,2
+theology-practical,keywords | subject,20,17
+theology-practical?,keywords,2,1
+theology-spaculative,subject,1,1
+theology-speculative,keywords | subject,97,84
+theology-speculative?,keywords,3,2
+thermal waters,keywords,1,1
+tools,keywords,1,1
+translation,keywords,184,159
+travel,keywords,18,17
+trial,keywords,6,6
+turcica,keywords,11,11
+wine,keywords,1,1
+women,keywords,1,1

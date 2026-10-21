@@ -1,0 +1,20 @@
+{
+  "copies": 1609,
+  "provenance_blocks": 5951,
+  "place_occurrences": 5560,
+  "relationships": 1609,
+  "editions_with_istc_id": 1419,
+  "copies_with_subject_or_keywords": 1607,
+  "copies_without_subject_or_keywords": 2,
+  "gw_linked_editions": 1419,
+  "gw_multiple_match_editions": 9,
+  "stations": 8778,
+  "station_types": {
+    "print_place": 1609,
+    "provenance_place": 5560,
+    "current_holding": 1609
+  },
+  "stations_with_coordinates": 8108,
+  "unresolved_place_groups": 80,
+  "reused_mapping_stations": 2582
+}
