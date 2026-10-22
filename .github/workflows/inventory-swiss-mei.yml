@@ -1,0 +1,24 @@
+name: Inventory Swiss MEI holdings
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: cerl-retrieval
+  cancel-in-progress: false
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v6
+      - name: Inventory current Swiss holdings
+        env:
+          CERL_USER_AGENT: ${{ secrets.CERL_USER_AGENT }}
+        run: python3 -u scripts/inventory_swiss_mei.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: swiss-mei-inventory
+          path: data/retrieved/swiss-inventory/
+          if-no-files-found: error
+          retention-days: 90
