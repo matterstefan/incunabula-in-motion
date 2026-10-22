@@ -1,11 +1,12 @@
 {
-  "copies": 1609,
-  "stations": 8778,
-  "mapped_stations": 8734,
+  "institutions": 21,
+  "copies": 3394,
+  "stations": 17565,
+  "mapped_stations": 17345,
   "issue_types": {
-    "coordinate_conflict": 4,
-    "date_review": 18
+    "date_review": 26,
+    "coordinate_conflict": 4
   },
-  "retrieved_at": "2026-10-21T11:58:08.323516+00:00",
-  "source_query": "data.holdingInstitutionId:ZurichZB"
+  "retrieved_at": "2026-10-22T08:52:07.060178+00:00",
+  "source_query": "data.holdingInstitution.country:CH"
 }

@@ -2,8 +2,8 @@
 
 const CURRENT_YEAR = 2026;
 const DATA_URLS = {
-  copies: "data/map/copies.csv?v=20261021-1",
-  stations: "data/map/stations.csv?v=20261021-1",
+  copies: "data/map/copies.csv?v=20261022-swiss-1",
+  stations: "data/map/stations.csv?v=20261022-swiss-1",
 };
 
 const languageLabels = { nds: "Low German", grc: "Ancient Greek", gre: "Greek (GW)", heb: "Hebrew", arc: "Aramaic", ara: "Arabic", tur: "Turkish", hrv: "Croatian", srp: "Serbian", cat: "Catalan", cze: "Czech", lat: "Latin", dut: "Dutch", ita: "Italian", ger: "German", chu: "Church Slavonic", frm: "Middle French", fre: "French", eng: "English", spa: "Spanish" };
@@ -30,6 +30,7 @@ const state = {
   showSaved: false,
   collections: new Set(["core"]),
   subjects: new Set(),
+  libraries: new Set(),
   search: "",
   places: new Set(),
   languages: new Set(),
@@ -44,7 +45,7 @@ const state = {
 const els = Object.fromEntries([
   "search-controls", "save-matches", "show-selection", "clear-selection", "selection-status",
   "location-style-controls", "style-circles", "style-heatmap", "heatmap-legend", "circle-legend",
-  "subject-filter", "subject-clear",
+  "subject-filter", "subject-clear", "library-filter", "library-clear", "library-summary",
   "year-slider", "year-output", "search-input", "place-filter", "language-filter",
   "print-list", "result-summary", "reset-button", "select-visible", "clear-visible",
   "detail-panel", "detail-content", "detail-close", "about-panel", "about-button",
@@ -364,7 +365,28 @@ function searchable(copy) {
 }
 
 function copyCollections(copy) { return (copy.collection_groups || "core").split(" | "); }
-function matchesCollection(copy) { return !state.subjects.size || (copy.mei_terms || "").split(" | ").some(term => state.subjects.has(term)); }
+function matchesSubjects(copy) { return !state.subjects.size || (copy.mei_terms || "").split(" | ").some(term => state.subjects.has(term)); }
+function matchesCollection(copy) { return matchesSubjects(copy) && (!state.libraries.size || state.libraries.has(copy.holding_institution_id)); }
+function updateLibraryFilter() {
+  const counts = new Map();
+  for (const copy of state.copies) {
+    if (!matchesSubjects(copy) || (state.search && !searchable(copy).includes(state.search))) continue;
+    if (state.places.size && !state.places.has(filterPlaceLabel(printStation(copy.copy_id)))) continue;
+    if (state.languages.size && !copyFilterLanguages(copy).some(code => state.languages.has(code))) continue;
+    counts.set(copy.holding_institution_id, (counts.get(copy.holding_institution_id)||0)+1);
+  }
+  for (const input of els["library-filter"].querySelectorAll("input")) {
+    const count=counts.get(input.value)||0;
+    input.checked=state.libraries.has(input.value);
+    input.disabled=!count && !input.checked;
+    const label=input.closest("label");
+    label.classList.toggle("filter-unavailable",input.disabled);
+    label.querySelector(".filter-count").textContent=` (${count.toLocaleString("en")})`;
+  }
+  const names=[...state.libraries].map(id=>(state.copies.find(c=>c.holding_institution_id===id)?.holding_institution_name||id).trim());
+  els["library-summary"].textContent=names.length===0 ? "All 21 libraries" : names.length===1 ? names[0] : `${names.length} libraries selected`;
+  els["library-summary"].title=names.join(" or ") || "All 21 libraries";
+}
 
 function copyLanguageCodes(copy) {
   const gw = state.editionLanguages[copy.host_istc_id]?.codes;
@@ -403,6 +425,7 @@ function filterCounts() {
   return { places, languages };
 }
 function updateFilterAvailability() {
+  updateLibraryFilter();
   const counts = filterCounts();
   for (const [kind, selected, available] of [["place", state.places, counts.places], ["language", state.languages, counts.languages]]) {
     for (const input of els[`${kind}-filter`].querySelectorAll("input")) {
@@ -751,7 +774,7 @@ function openDetail(copyId, fromConnection = false) {
     <p class="detail-lead">${escapeHtml(print?.location_label || "Printing place unknown")}, ${escapeHtml(printYear(copy))} · ${escapeHtml(copy.shelfmark || "no shelfmark")}</p>
     <dl class="detail-facts">
       <dt>MEI</dt><dd><a href="${escapeHtml(copy.mei_url)}" target="_blank" rel="noopener">${escapeHtml(copy.mei_id)}</a></dd>
-      <dt>ISTC</dt><dd><a href="https://data.cerl.org/istc/${escapeHtml(copy.host_istc_id)}" target="_blank" rel="noopener">${escapeHtml(copy.host_istc_id)}</a></dd>
+      <dt>ISTC</dt><dd>${copy.host_istc_id ? `<a href="https://data.cerl.org/istc/${escapeHtml(copy.host_istc_id)}" target="_blank" rel="noopener">${escapeHtml(copy.host_istc_id)}</a>` : "No edition reference supplied"}</dd>
       <dt>GW</dt><dd>${escapeHtml(copy.gw_references || "not specified")}</dd>
       <dt>MEI terms</dt><dd>${escapeHtml(copy.mei_terms || "not specified")}</dd>
       <dt>Language</dt><dd>${escapeHtml(copyLanguageLabel(copy))}</dd>
@@ -802,6 +825,8 @@ function closePanel(panel) {
 }
 
 function populateFilters() {
+  const libraries=new Map(state.copies.map(c=>[c.holding_institution_id,(c.holding_institution_name||c.holding_institution_id).trim()]));
+  els["library-filter"].innerHTML=[...libraries].sort((a,b)=>a[1].localeCompare(b[1],"en")).map(([id,name])=>`<label><input type="checkbox" value="${escapeHtml(id)}"> <span>${escapeHtml(name)}<small class="filter-count"></small></span></label>`).join("");
   const counts = new Map();
   for (const copy of state.copies) for (const term of new Set((copy.mei_terms || "").split(" | ").filter(Boolean))) counts.set(term, (counts.get(term)||0)+1);
   els["subject-filter"].innerHTML = [...counts].sort((a,b)=>a[0].localeCompare(b[0],"en")).map(([term,count])=>`<label><input type="checkbox" value="${escapeHtml(term)}"> <span>${escapeHtml(term)} <small>(${count})</small></span></label>`).join("");
@@ -829,6 +854,13 @@ function changeCollection(group, checked) {
 }
 
 function bindEvents() {
+  els["library-filter"].addEventListener("change", event => {
+    const input=event.target;
+    if(input.type!=="checkbox")return;
+    input.checked ? state.libraries.add(input.value) : state.libraries.delete(input.value);
+    focusCopy(null);closePanel(els["detail-panel"]);render();
+  });
+  els["library-clear"].addEventListener("click",()=>{state.libraries.clear();focusCopy(null);closePanel(els["detail-panel"]);render();});
   els["subject-filter"].addEventListener("change", event => {
     const input = event.target;
     if (input.type !== "checkbox") return;
@@ -910,6 +942,7 @@ function bindEvents() {
   els["reset-button"].addEventListener("click", () => {
     state.showSaved = false;
     state.collections = new Set(["core"]);
+    state.libraries.clear();
     state.subjects.clear(); els["subject-filter"].querySelectorAll("input").forEach(i => i.checked=false);
     focusCopy(null); closePanel(els["detail-panel"]);
     state.year = CURRENT_YEAR; state.search = ""; state.places.clear(); state.languages.clear(); state.focusedCopy = null;
@@ -932,10 +965,10 @@ function bindEvents() {
 async function loadData() {
   try {
     const [copyResponse, stationResponse] = await Promise.all(Object.values(DATA_URLS).map(url => fetch(url)));
-    const digitalResponse = await fetch("data/map/digital-links.json?v=20261021-1");
+    const digitalResponse = await fetch("data/map/digital-links.json?v=20261022-swiss-1");
     if (!digitalResponse.ok) throw new Error("Could not load digitisation links.");
     state.digitalLinks = await digitalResponse.json();
-    const languageResponse = await fetch("data/map/edition-languages.json?v=20261021-1");
+    const languageResponse = await fetch("data/map/edition-languages.json?v=20261022-swiss-1");
     if (!languageResponse.ok) throw new Error("Could not load language data.");
     state.editionLanguages = (await languageResponse.json()).editions;
     if (!copyResponse.ok || !stationResponse.ok) throw new Error("Could not load the data files.");

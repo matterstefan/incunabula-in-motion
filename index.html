@@ -7,7 +7,7 @@
     <title>Incunabula in Motion – Copies in motion</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%2375132f'/%3E%3Cpath d='M17 14h23c5 0 9 4 9 9v27H26c-5 0-9-4-9-9V14Z' fill='%23fff'/%3E%3Cpath d='M26 14v36M33 23h10M33 30h10M33 37h8' stroke='%2375132f' stroke-width='3'/%3E%3C/svg%3E">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-    <link rel="stylesheet" href="assets/styles.css?v=20261021-1">
+    <link rel="stylesheet" href="assets/styles.css?v=20261022-swiss-1">
   </head>
   <body>
     <header class="topbar">
@@ -47,7 +47,15 @@
         <section class="filter-panel" aria-labelledby="filter-title">
           <h2 id="filter-title" class="visually-hidden">Select and filter copies</h2>
           <div id="search-controls">
-          <p class="collection-caption"><strong>Zentralbibliothek Zürich</strong><br><small>1,609 MEI copy records · retrieved 21 October 2026</small></p>
+          <p class="collection-caption"><strong>Swiss collections in MEI</strong><br><small>3,394 copy records · 21 libraries · 22 October 2026</small></p>
+          <div class="multi-filter library-select"><details id="library-dropdown">
+            <summary id="library-summary">All 21 libraries</summary>
+            <div class="multi-menu">
+              <p>Current holding libraries. Match any selection (OR); counts reflect the other filters.</p>
+              <button id="library-clear" class="text-button" type="button">Clear selection — show all</button>
+              <div id="library-filter" role="group" aria-label="Current holding libraries"></div>
+            </div>
+          </details></div>
           <details class="subject-dropdown"><summary>MEI subjects and keywords</summary>
             <p class="method-note">Choose any term (OR). Combined with the other filters (AND). Source spellings are retained.</p>
             <button id="subject-clear" class="text-button" type="button">Clear subject selection</button>
@@ -136,12 +144,12 @@
       </div>
       <h2 id="about-title">About Incunabula in Motion</h2>
       <h3>Exploring the histories of individual copies</h3>
-      <p>Incunabula in Motion is an experimental data visualisation by Stefan Matter. This first version explores 1,609 copy records held by the Zentralbibliothek Zürich and retrieved from Material Evidence in Incunabula (MEI) on 21 October 2026. It adapts the interface developed for <a href="https://matterstefan.github.io/prayer-books-in-motion/" target="_blank" rel="noopener">Prayer Books in Motion</a>. Future versions may include further institutional collections.</p>
+      <p>Incunabula in Motion is an experimental data visualisation by Stefan Matter. This version explores 3,394 copy records from 21 Swiss holding institutions, retrieved from Material Evidence in Incunabula (MEI) on 22 October 2026. It adapts the interface developed for <a href="https://matterstefan.github.io/prayer-books-in-motion/" target="_blank" rel="noopener">Prayer Books in Motion</a>. The library filter allows individual collections to be explored separately or together. These are the records currently identified as Swiss holdings in MEI, not a census of all incunabula held in Switzerland or the complete holdings of each library.</p>
       <h3>Sources and scope</h3>
       <p><a href="https://data.cerl.org/mei/" target="_blank" rel="noopener">MEI</a> supplies copy identities, holding information and provenance. Edition references link to <a href="https://data.cerl.org/istc/" target="_blank" rel="noopener">ISTC</a> and the <a href="https://www.gesamtkatalogderwiegendrucke.de/" target="_blank" rel="noopener">GW</a>. Printing statements and language information use the October 2026 GW export supplied by Oliver Duntze. Multiple GW matches remain documented; no arbitrary candidate is selected.</p>
       <p>This is a data-reuse experiment, not a new catalogue or a complete reconstruction of journeys. One map record represents one MEI copy record. Provenance is not automatically transferred between prints now bound together. Coverage reflects the available records, and missing evidence does not establish absence.</p>
       <h3>Filters and selection</h3>
-      <p>The subject filter combines the bibliographic subject and keyword fields embedded in MEI. These describe editions, not individual ownership events. Source terms are retained, including differences in spelling and capitalisation. Selected terms are combined with OR; subjects, printing places, languages and text search are combined with AND. Multilingual editions match each language.</p>
+      <p>The subject filter combines the bibliographic subject and keyword fields embedded in MEI. These describe editions, not individual ownership events. Source terms are retained, including differences in spelling and capitalisation. Choices within each filter are combined with OR; libraries, subjects, printing places, languages and text search are combined with AND. Multilingual editions match each language.</p>
       <p>Use <strong>Add checked matches</strong> to collect copies across several searches, then <strong>Show selection</strong> to explore them together. This selection lasts while the page is open and is lost on reload.</p>
       <h3>Timeline and routes</h3>
       <p>The sequence begins with the printing place where identifiable and ends with the present holding institution. The last identifiable location is carried forward between dated records; this does not establish continuous presence. Unknown and conflicting dates remain visible in the full present-day sequence. GW normalised printing years serve as display anchors; approximate, before/after and other qualified dating remains flagged and the original date statement is displayed.</p>
@@ -151,10 +159,10 @@
       <p>Source values are retained separately from display decisions. Unidentified Seefeld and conflicting Zürich coordinates are withheld from the map pending clarification. Multiple or alternative printing places are not converted into invented sequential journeys. Consecutive records at the same point are visually consolidated, retaining their underlying evidence.</p>
       <h3>Credits and data preparation</h3>
       <p>Thanks to the cataloguers and institutions contributing to MEI, ISTC and GW; to Falk Eisermann and Oliver Duntze for advice and the GW export; and to CERL and Helena Nebel for enabling scripted retrieval. Coordinates are supplemented by <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). The map uses Leaflet and OpenStreetMap contributors' data.</p>
-      <p><a href="https://github.com/matterstefan/incunabula-in-motion" target="_blank" rel="noopener">Source code, preparation scripts and review decisions on GitHub</a>. This page loads prepared data; opening it does not query CERL. Access credentials are not part of the website. First Zurich prototype: 21 October 2026.</p>
+      <p><a href="https://github.com/matterstefan/incunabula-in-motion" target="_blank" rel="noopener">Source code, preparation scripts and review decisions on GitHub</a>. This page loads prepared data; opening it does not query CERL. Access credentials are not part of the website. Swiss collections update: 22 October 2026; initial Zurich prototype: 21 October 2026.</p>
     </aside>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-    <script src="assets/app.js?v=20261021-1" defer></script>
+    <script src="assets/app.js?v=20261022-swiss-1" defer></script>
   </body>
 </html>

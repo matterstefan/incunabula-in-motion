@@ -1,0 +1,22 @@
+﻿institution_id,institution_names,mei_copies,distinct_istc_editions,copies_with_provenance_blocks,provenance_blocks,example_mei_id,example_mei_url
+ZurichZB,"Zürich, Zentralbibliothek",1609,1419,1608,5951,02129976,https://data.cerl.org/mei/02129976
+SolothurnZB,"Solothurn, Zentralbibliothek ",1070,867,1070,3572,02134041,https://data.cerl.org/mei/02134041
+SionMediatheque," Sion, Médiathèque Valais",257,229,257,871,02153265,https://data.cerl.org/mei/02153265
+LuganoBC,"Lugano, Biblioteca Cantonale",198,191,198,993,00200987,https://data.cerl.org/mei/00200987
+LocarnoSasso,"Locarno, Biblioteca Madonna del Sasso",49,46,37,177,02009796,https://data.cerl.org/mei/02009796
+BibliotecaSalitadeiFratiLugano,"Lugano, Biblioteca Salita dei Frati",37,37,34,161,02129065,https://data.cerl.org/mei/02129065
+BigorioConvSM,"Bigorio, Convento Santa Maria",34,34,29,89,02017772,https://data.cerl.org/mei/02017772
+SionArchivesdelEtat,"Sion, Archives de l'Etat du Valais",33,33,33,152,02152477,https://data.cerl.org/mei/02152477
+SaintMauriceAbbaye,"Saint-Maurice, Bibliothèque de l'Abbaye de Saint-Maurice",30,27,30,116,02152797,https://data.cerl.org/mei/02152797
+BourgSaintPierreGrandSaintBernard,"Bourg-St-Pierre, Archives et Bibliothèque de l'Hospice du Grand-Saint-Bernard",22,22,22,97,02152344,https://data.cerl.org/mei/02152344
+BellinzonaA,"Bellinzona, Archivio di Stato del Cantone Ticino",17,17,17,81,02127758,https://data.cerl.org/mei/02127758
+FaidoCap,"Faido, Convento dei Cappuccini",16,16,12,56,02140546,https://data.cerl.org/mei/02140546
+SionArchEv,"Sion, Archives de l'Evêché",7,7,7,36,02152727,https://data.cerl.org/mei/02152727
+UnterbachParishLibrary,"Unterbäch, Parish Library",3,3,3,12,02154673,https://data.cerl.org/mei/02154673
+BaselUB,"Basel, Universitätsbibliothek",2,2,1,3,02151138,https://data.cerl.org/mei/02151138
+GeneveBodmer,"Genève, Fondation Martin Bodmer  ",2,2,2,6,02141643,https://data.cerl.org/mei/02141643
+HWSCL,"Eisenbibliothek, Stiftung der Georg Fischer AG",2,2,0,0,02172669,https://data.cerl.org/mei/02172669
+LeukParishLibrary,"Leuk, Parish Library",2,2,2,10,02154674,https://data.cerl.org/mei/02154674
+SaintMauriceCap,"Saint-Maurice, Bibliothèque du Couvent des Capucins",2,2,2,4,02152689,https://data.cerl.org/mei/02152689
+GeneveBibdItalien,"Genève, Université de Genève, Fondation Barbier-Mueller pour l’étude de la poésie de la Renaissance",1,1,1,5,02141603,https://data.cerl.org/mei/02141603
+StGallenBenedikt,"St. Gallen, Stiftsbibliothek  ",1,1,1,4,02148639,https://data.cerl.org/mei/02148639

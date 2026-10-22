@@ -10,7 +10,7 @@ context.assert=assert;
 context.copiesText=fs.readFileSync('data/map/copies.csv','utf8');
 context.stationsText=fs.readFileSync('data/map/stations.csv','utf8');
 vm.runInContext(`
-state.copies=parseCsv(copiesText).filter(directCopy);
+state.copies=parseCsv(copiesText).filter(directCopy).filter(c=>c.holding_institution_id==='ZurichZB');
 for(const s of parseCsv(stationsText)){if(!state.stationsByCopy.has(s.copy_id))state.stationsByCopy.set(s.copy_id,[]);state.stationsByCopy.get(s.copy_id).push(s)}
 for(const a of state.stationsByCopy.values())a.sort((a,b)=>Number(a.source_order)-Number(b.source_order)||Number(a.place_order_within_source)-Number(b.place_order_within_source));
 state.copies.forEach(c=>state.selected.add(c.copy_id));

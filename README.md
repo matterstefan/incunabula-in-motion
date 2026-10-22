@@ -2,7 +2,7 @@
 
 An exploratory project for visualising the provenance and circulation of individual incunabula copies recorded in Material Evidence in Incunabula (MEI).
 
-The project builds on the mapping application developed for [Prayer Books in Motion](https://matterstefan.github.io/prayer-books-in-motion/). Its first planned case study is the incunabula collection of the Zentralbibliothek Zürich. The application will be designed to accommodate further libraries through explicit collection configurations.
+The project builds on the mapping application developed for [Prayer Books in Motion](https://matterstefan.github.io/prayer-books-in-motion/). The initial Zurich prototype has been extended to 3,394 MEI copy records from 21 Swiss holding institutions (snapshot: 22 October 2026). Individual libraries can be selected separately or together.
 
 ## Purpose
 
@@ -17,11 +17,11 @@ Incunabula in Motion aims to make existing catalogue data accessible through map
 - Original source values will remain distinct from documented decisions made for geographical display.
 - A library view will represent its selected MEI records, not necessarily its complete incunabula holdings. Coverage and retrieval dates will be stated.
 
-The initial scope is the Zürich collection. A full MEI dataset is not required for the pilot. Additional libraries can be considered after testing the workflow and the amount of collection-specific review needed.
+The current scope is the Swiss holding institutions represented in the supplied MEI snapshot. This does not imply complete coverage of Swiss libraries or their holdings. See the [Swiss collection preparation and review notes](docs/swiss-collections-20261022.md).
 
 ## Status
 
-Project setup, 21 October 2026. No new catalogue harvest or public application has yet been prepared for this repository. See the [work plan](docs/work-plan.md).
+Swiss collections update, 22 October 2026. The map includes library, subject, printing-place and language filters, a historical timeline, connections, circles and a heatmap. See the [work plan](docs/work-plan.md) and [reproduction instructions](docs/swiss-collections-20261022.md).
 
 ## Access and maintenance
 

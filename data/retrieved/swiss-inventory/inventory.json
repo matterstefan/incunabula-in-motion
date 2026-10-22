@@ -1,0 +1,220 @@
+{
+  "query": "data.holdingInstitution.country:CH",
+  "retrieved_at": "2026-10-22T08:52:07.060178+00:00",
+  "complete": true,
+  "scope": "Current institution country CH; not Swiss provenance. Missing or incorrect country codes may cause omissions.",
+  "copies": 3394,
+  "institutions": 21,
+  "holdings": [
+    {
+      "institution_id": "ZurichZB",
+      "institution_names": "Zürich, Zentralbibliothek",
+      "mei_copies": 1609,
+      "distinct_istc_editions": 1419,
+      "copies_with_provenance_blocks": 1608,
+      "provenance_blocks": 5951,
+      "example_mei_id": "02129976",
+      "example_mei_url": "https://data.cerl.org/mei/02129976"
+    },
+    {
+      "institution_id": "SolothurnZB",
+      "institution_names": "Solothurn, Zentralbibliothek ",
+      "mei_copies": 1070,
+      "distinct_istc_editions": 867,
+      "copies_with_provenance_blocks": 1070,
+      "provenance_blocks": 3572,
+      "example_mei_id": "02134041",
+      "example_mei_url": "https://data.cerl.org/mei/02134041"
+    },
+    {
+      "institution_id": "SionMediatheque",
+      "institution_names": " Sion, Médiathèque Valais",
+      "mei_copies": 257,
+      "distinct_istc_editions": 229,
+      "copies_with_provenance_blocks": 257,
+      "provenance_blocks": 871,
+      "example_mei_id": "02153265",
+      "example_mei_url": "https://data.cerl.org/mei/02153265"
+    },
+    {
+      "institution_id": "LuganoBC",
+      "institution_names": "Lugano, Biblioteca Cantonale",
+      "mei_copies": 198,
+      "distinct_istc_editions": 191,
+      "copies_with_provenance_blocks": 198,
+      "provenance_blocks": 993,
+      "example_mei_id": "00200987",
+      "example_mei_url": "https://data.cerl.org/mei/00200987"
+    },
+    {
+      "institution_id": "LocarnoSasso",
+      "institution_names": "Locarno, Biblioteca Madonna del Sasso",
+      "mei_copies": 49,
+      "distinct_istc_editions": 46,
+      "copies_with_provenance_blocks": 37,
+      "provenance_blocks": 177,
+      "example_mei_id": "02009796",
+      "example_mei_url": "https://data.cerl.org/mei/02009796"
+    },
+    {
+      "institution_id": "BibliotecaSalitadeiFratiLugano",
+      "institution_names": "Lugano, Biblioteca Salita dei Frati",
+      "mei_copies": 37,
+      "distinct_istc_editions": 37,
+      "copies_with_provenance_blocks": 34,
+      "provenance_blocks": 161,
+      "example_mei_id": "02129065",
+      "example_mei_url": "https://data.cerl.org/mei/02129065"
+    },
+    {
+      "institution_id": "BigorioConvSM",
+      "institution_names": "Bigorio, Convento Santa Maria",
+      "mei_copies": 34,
+      "distinct_istc_editions": 34,
+      "copies_with_provenance_blocks": 29,
+      "provenance_blocks": 89,
+      "example_mei_id": "02017772",
+      "example_mei_url": "https://data.cerl.org/mei/02017772"
+    },
+    {
+      "institution_id": "SionArchivesdelEtat",
+      "institution_names": "Sion, Archives de l'Etat du Valais",
+      "mei_copies": 33,
+      "distinct_istc_editions": 33,
+      "copies_with_provenance_blocks": 33,
+      "provenance_blocks": 152,
+      "example_mei_id": "02152477",
+      "example_mei_url": "https://data.cerl.org/mei/02152477"
+    },
+    {
+      "institution_id": "SaintMauriceAbbaye",
+      "institution_names": "Saint-Maurice, Bibliothèque de l'Abbaye de Saint-Maurice",
+      "mei_copies": 30,
+      "distinct_istc_editions": 27,
+      "copies_with_provenance_blocks": 30,
+      "provenance_blocks": 116,
+      "example_mei_id": "02152797",
+      "example_mei_url": "https://data.cerl.org/mei/02152797"
+    },
+    {
+      "institution_id": "BourgSaintPierreGrandSaintBernard",
+      "institution_names": "Bourg-St-Pierre, Archives et Bibliothèque de l'Hospice du Grand-Saint-Bernard",
+      "mei_copies": 22,
+      "distinct_istc_editions": 22,
+      "copies_with_provenance_blocks": 22,
+      "provenance_blocks": 97,
+      "example_mei_id": "02152344",
+      "example_mei_url": "https://data.cerl.org/mei/02152344"
+    },
+    {
+      "institution_id": "BellinzonaA",
+      "institution_names": "Bellinzona, Archivio di Stato del Cantone Ticino",
+      "mei_copies": 17,
+      "distinct_istc_editions": 17,
+      "copies_with_provenance_blocks": 17,
+      "provenance_blocks": 81,
+      "example_mei_id": "02127758",
+      "example_mei_url": "https://data.cerl.org/mei/02127758"
+    },
+    {
+      "institution_id": "FaidoCap",
+      "institution_names": "Faido, Convento dei Cappuccini",
+      "mei_copies": 16,
+      "distinct_istc_editions": 16,
+      "copies_with_provenance_blocks": 12,
+      "provenance_blocks": 56,
+      "example_mei_id": "02140546",
+      "example_mei_url": "https://data.cerl.org/mei/02140546"
+    },
+    {
+      "institution_id": "SionArchEv",
+      "institution_names": "Sion, Archives de l'Evêché",
+      "mei_copies": 7,
+      "distinct_istc_editions": 7,
+      "copies_with_provenance_blocks": 7,
+      "provenance_blocks": 36,
+      "example_mei_id": "02152727",
+      "example_mei_url": "https://data.cerl.org/mei/02152727"
+    },
+    {
+      "institution_id": "UnterbachParishLibrary",
+      "institution_names": "Unterbäch, Parish Library",
+      "mei_copies": 3,
+      "distinct_istc_editions": 3,
+      "copies_with_provenance_blocks": 3,
+      "provenance_blocks": 12,
+      "example_mei_id": "02154673",
+      "example_mei_url": "https://data.cerl.org/mei/02154673"
+    },
+    {
+      "institution_id": "BaselUB",
+      "institution_names": "Basel, Universitätsbibliothek",
+      "mei_copies": 2,
+      "distinct_istc_editions": 2,
+      "copies_with_provenance_blocks": 1,
+      "provenance_blocks": 3,
+      "example_mei_id": "02151138",
+      "example_mei_url": "https://data.cerl.org/mei/02151138"
+    },
+    {
+      "institution_id": "GeneveBodmer",
+      "institution_names": "Genève, Fondation Martin Bodmer  ",
+      "mei_copies": 2,
+      "distinct_istc_editions": 2,
+      "copies_with_provenance_blocks": 2,
+      "provenance_blocks": 6,
+      "example_mei_id": "02141643",
+      "example_mei_url": "https://data.cerl.org/mei/02141643"
+    },
+    {
+      "institution_id": "HWSCL",
+      "institution_names": "Eisenbibliothek, Stiftung der Georg Fischer AG",
+      "mei_copies": 2,
+      "distinct_istc_editions": 2,
+      "copies_with_provenance_blocks": 0,
+      "provenance_blocks": 0,
+      "example_mei_id": "02172669",
+      "example_mei_url": "https://data.cerl.org/mei/02172669"
+    },
+    {
+      "institution_id": "LeukParishLibrary",
+      "institution_names": "Leuk, Parish Library",
+      "mei_copies": 2,
+      "distinct_istc_editions": 2,
+      "copies_with_provenance_blocks": 2,
+      "provenance_blocks": 10,
+      "example_mei_id": "02154674",
+      "example_mei_url": "https://data.cerl.org/mei/02154674"
+    },
+    {
+      "institution_id": "SaintMauriceCap",
+      "institution_names": "Saint-Maurice, Bibliothèque du Couvent des Capucins",
+      "mei_copies": 2,
+      "distinct_istc_editions": 2,
+      "copies_with_provenance_blocks": 2,
+      "provenance_blocks": 4,
+      "example_mei_id": "02152689",
+      "example_mei_url": "https://data.cerl.org/mei/02152689"
+    },
+    {
+      "institution_id": "GeneveBibdItalien",
+      "institution_names": "Genève, Université de Genève, Fondation Barbier-Mueller pour l’étude de la poésie de la Renaissance",
+      "mei_copies": 1,
+      "distinct_istc_editions": 1,
+      "copies_with_provenance_blocks": 1,
+      "provenance_blocks": 5,
+      "example_mei_id": "02141603",
+      "example_mei_url": "https://data.cerl.org/mei/02141603"
+    },
+    {
+      "institution_id": "StGallenBenedikt",
+      "institution_names": "St. Gallen, Stiftsbibliothek  ",
+      "mei_copies": 1,
+      "distinct_istc_editions": 1,
+      "copies_with_provenance_blocks": 1,
+      "provenance_blocks": 4,
+      "example_mei_id": "02148639",
+      "example_mei_url": "https://data.cerl.org/mei/02148639"
+    }
+  ]
+}

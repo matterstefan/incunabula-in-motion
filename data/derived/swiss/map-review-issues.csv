@@ -1,0 +1,31 @@
+station_id,mei_id,kind,detail
+02178526-p004-loc01,02178526,date_review,Source date range is reversed; omitted from historical timeline
+00201243-print,00201243,date_review,Multiple GW date statements; no single timeline date selected
+02133388-p001-loc01,02133388,date_review,Source date range is reversed; omitted from historical timeline
+02129827-p001-loc01,02129827,coordinate_conflict,"Zürich label with 47.58764, 8.29365; original retained, point suppressed"
+00201278-print,00201278,date_review,Multiple GW date statements; no single timeline date selected
+00570605-p002-loc01,00570605,date_review,Source date range is reversed; omitted from historical timeline
+00570778-p003-loc01,00570778,date_review,Source date range is reversed; omitted from historical timeline
+02129912-p003-loc01,02129912,coordinate_conflict,"Zürich label with 36.72539, 47.87914; original retained, point suppressed"
+02129468-p003-loc01,02129468,coordinate_conflict,"Zürich label with 36.72539, 47.87914; original retained, point suppressed"
+02141024-print,02141024,date_review,Multiple GW date statements; no single timeline date selected
+02133539-print,02133539,date_review,Multiple GW date statements; no single timeline date selected
+02141448-print,02141448,date_review,Multiple GW date statements; no single timeline date selected
+00570565-p006-loc01,00570565,date_review,Source date range is reversed; omitted from historical timeline
+00570687-p004-loc01,00570687,date_review,Source date range is reversed; omitted from historical timeline
+02139595-p005-loc01,02139595,date_review,Source date range is reversed; omitted from historical timeline
+02133832-p003-loc01,02133832,date_review,Source date range is reversed; omitted from historical timeline
+00570345-p003-loc01,00570345,coordinate_conflict,"Zürich label with 36.72539, 47.87914; original retained, point suppressed"
+00570437-print,00570437,date_review,Multiple GW date statements; no single timeline date selected
+02133828-print,02133828,date_review,Multiple GW date statements; no single timeline date selected
+02145273-p003-loc01,02145273,date_review,Source date range is reversed; omitted from historical timeline
+02145273-p004-loc01,02145273,date_review,Source date range is reversed; omitted from historical timeline
+02152803-p002-loc01,02152803,date_review,Source date range is reversed; omitted from historical timeline
+00570280-p001-loc01,00570280,date_review,Source date range is reversed; omitted from historical timeline
+02129807-p001-loc01,02129807,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+02140419-p001-loc01,02140419,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+00570605-p002-loc01,00570605,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+02140025-p001-loc01,02140025,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+00570565-p006-loc01,00570565,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+00570687-p004-loc01,00570687,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline
+00570280-p001-loc01,00570280,date_review,Source provenance date precedes the printing-date anchor; omitted from historical timeline

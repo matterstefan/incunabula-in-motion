@@ -1,0 +1,821 @@
+{
+  "reviewed_on": "2026-10-22",
+  "attribution": "Selected GeoNames settlement records, CC BY 4.0. Source coordinates remain untouched.",
+  "mappings": [
+    {
+      "source_label": "Albi",
+      "gid": "3038261",
+      "name": "Albi",
+      "latitude": "43.9298",
+      "longitude": "2.148",
+      "country": "FR",
+      "coordinate_source": "https://www.geonames.org/3038261",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Besançon",
+      "gid": "3033123",
+      "name": "Besançon",
+      "latitude": "47.24878",
+      "longitude": "6.01815",
+      "country": "FR",
+      "coordinate_source": "https://www.geonames.org/3033123",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Chivasso",
+      "gid": "3178745",
+      "name": "Chivasso",
+      "latitude": "45.19093",
+      "longitude": "7.88981",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3178745",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Cremona",
+      "gid": "3177838",
+      "name": "Cremona",
+      "latitude": "45.13325",
+      "longitude": "10.02129",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3177838",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Dijon",
+      "gid": "3021372",
+      "name": "Dijon",
+      "latitude": "47.31344",
+      "longitude": "5.01391",
+      "country": "FR",
+      "coordinate_source": "https://www.geonames.org/3021372",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Florenz",
+      "gid": "3176959",
+      "name": "Florence",
+      "latitude": "43.77925",
+      "longitude": "11.24626",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3176959",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Löwen",
+      "gid": "2792482",
+      "name": "Leuven",
+      "latitude": "50.87959",
+      "longitude": "4.70093",
+      "country": "BE",
+      "coordinate_source": "https://www.geonames.org/2792482",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Mantua",
+      "gid": "3174051",
+      "name": "Mantua",
+      "latitude": "45.16031",
+      "longitude": "10.79784",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3174051",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Moutiers",
+      "gid": "2991325",
+      "name": "Moûtiers",
+      "latitude": "45.48459",
+      "longitude": "6.53146",
+      "country": "FR",
+      "coordinate_source": "https://www.geonames.org/2991325",
+      "note": "MEI 02152551: Breviarium Tarentasiense (Moûtiers-en-Tarentaise, Savoy)."
+    },
+    {
+      "source_label": "Offenburg",
+      "gid": "2857798",
+      "name": "Offenburg",
+      "latitude": "48.47377",
+      "longitude": "7.94495",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2857798",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Reggio d’Emilia",
+      "gid": "3169522",
+      "name": "Reggio nell'Emilia",
+      "latitude": "44.69825",
+      "longitude": "10.63125",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3169522",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "S[peyer",
+      "gid": "2830582",
+      "name": "Speyer",
+      "latitude": "49.32083",
+      "longitude": "8.43111",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2830582",
+      "note": "Bracketed source spelling S[peyer in GW export; MEI 02134128 imprint explicitly S[peyer]. Display lookup only."
+    },
+    {
+      "source_label": "Schussenried",
+      "gid": "2835635",
+      "name": "Bad Schussenried",
+      "latitude": "48.00468",
+      "longitude": "9.65741",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2835635",
+      "note": "MEI 02133475 imprint Schussenried; mapped to Bad Schussenried."
+    },
+    {
+      "source_label": "Siena",
+      "gid": "3166548",
+      "name": "Siena",
+      "latitude": "43.31822",
+      "longitude": "11.33064",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3166548",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Turin",
+      "gid": "3165524",
+      "name": "Turin",
+      "latitude": "45.07049",
+      "longitude": "7.68682",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3165524",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Udine",
+      "gid": "3165072",
+      "name": "Udine",
+      "latitude": "46.0693",
+      "longitude": "13.23715",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3165072",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Breno",
+      "gid": "3181569",
+      "name": "Breno",
+      "latitude": "45.95889",
+      "longitude": "10.30648",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3181569",
+      "note": "MEI 02011741 identifies the Capuchins of Breno (Brescia), alongside Edolo; not Breno in Ticino."
+    },
+    {
+      "source_label": "Convento Santa Maria Bigorio",
+      "gid": "2661504",
+      "name": "Bigorio",
+      "latitude": "46.0701",
+      "longitude": "8.957",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2661504",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Locarno",
+      "gid": "2659869",
+      "name": "Locarno",
+      "latitude": "46.17086",
+      "longitude": "8.79953",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2659869",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Solothurn",
+      "gid": "2658564",
+      "name": "Solothurn",
+      "latitude": "47.20791",
+      "longitude": "7.53714",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658564",
+      "note": "Exact named locality; city-level display point."
+    },
+    {
+      "source_label": "Ulm",
+      "gid": "2820256",
+      "name": "Ulm",
+      "latitude": "48.39841",
+      "longitude": "9.99155",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2820256",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Nuremberg",
+      "gid": "2861650",
+      "name": "Nuremberg",
+      "latitude": "49.45421",
+      "longitude": "11.07752",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2861650",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Nürnberg",
+      "gid": "2861650",
+      "name": "Nuremberg",
+      "latitude": "49.45421",
+      "longitude": "11.07752",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2861650",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Bologna",
+      "gid": "3181928",
+      "name": "Bologna",
+      "latitude": "44.49381",
+      "longitude": "11.33875",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3181928",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Milan",
+      "gid": "3173435",
+      "name": "Milan",
+      "latitude": "45.46427",
+      "longitude": "9.18951",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3173435",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Milano",
+      "gid": "3173435",
+      "name": "Milan",
+      "latitude": "45.46427",
+      "longitude": "9.18951",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3173435",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Mailand",
+      "gid": "3173435",
+      "name": "Milan",
+      "latitude": "45.46427",
+      "longitude": "9.18951",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3173435",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Venice",
+      "gid": "3164603",
+      "name": "Venice",
+      "latitude": "45.43713",
+      "longitude": "12.33265",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3164603",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Venezia",
+      "gid": "3164603",
+      "name": "Venice",
+      "latitude": "45.43713",
+      "longitude": "12.33265",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3164603",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Venedig",
+      "gid": "3164603",
+      "name": "Venice",
+      "latitude": "45.43713",
+      "longitude": "12.33265",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3164603",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Torino",
+      "gid": "3165524",
+      "name": "Turin",
+      "latitude": "45.07049",
+      "longitude": "7.68682",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3165524",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Paris",
+      "gid": "2988507",
+      "name": "Paris",
+      "latitude": "48.85341",
+      "longitude": "2.3488",
+      "country": "FR",
+      "coordinate_source": "https://www.geonames.org/2988507",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Princeton",
+      "gid": "5102922",
+      "name": "Princeton",
+      "latitude": "40.34872",
+      "longitude": "-74.65905",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/5102922",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Schwarzau am Steinfeld",
+      "gid": "2765489",
+      "name": "Schwarzau am Steinfeld",
+      "latitude": "47.73183",
+      "longitude": "16.17094",
+      "country": "AT",
+      "coordinate_source": "https://www.geonames.org/2765489",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Austin",
+      "gid": "4671654",
+      "name": "Austin",
+      "latitude": "30.26715",
+      "longitude": "-97.74306",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/4671654",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Burlington",
+      "gid": "5234372",
+      "name": "Burlington",
+      "latitude": "44.47588",
+      "longitude": "-73.21207",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/5234372",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Iowa City",
+      "gid": "4862034",
+      "name": "Iowa City",
+      "latitude": "41.66113",
+      "longitude": "-91.53017",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/4862034",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Los Angeles",
+      "gid": "5368361",
+      "name": "Los Angeles",
+      "latitude": "34.05223",
+      "longitude": "-118.24368",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/5368361",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "New Haven",
+      "gid": "4839366",
+      "name": "New Haven",
+      "latitude": "41.30815",
+      "longitude": "-72.92816",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/4839366",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Provo",
+      "gid": "5780026",
+      "name": "Provo",
+      "latitude": "40.23384",
+      "longitude": "-111.65853",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/5780026",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "San Marino",
+      "gid": "5392400",
+      "name": "San Marino",
+      "latitude": "34.1214",
+      "longitude": "-118.10646",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/5392400",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Valletta",
+      "gid": "2562305",
+      "name": "Valletta",
+      "latitude": "35.89968",
+      "longitude": "14.5148",
+      "country": "MT",
+      "coordinate_source": "https://www.geonames.org/2562305",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Warschau",
+      "gid": "756135",
+      "name": "Warsaw",
+      "latitude": "52.22977",
+      "longitude": "21.01178",
+      "country": "PL",
+      "coordinate_source": "https://www.geonames.org/756135",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Wellesley",
+      "gid": "4954738",
+      "name": "Wellesley",
+      "latitude": "42.29649",
+      "longitude": "-71.29256",
+      "country": "US",
+      "coordinate_source": "https://www.geonames.org/4954738",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Zwolle",
+      "gid": "2743477",
+      "name": "Zwolle",
+      "latitude": "52.5125",
+      "longitude": "6.09444",
+      "country": "NL",
+      "coordinate_source": "https://www.geonames.org/2743477",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Kiel",
+      "gid": "2891122",
+      "name": "Kiel",
+      "latitude": "54.32133",
+      "longitude": "10.13489",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2891122",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Oldenburg",
+      "gid": "2857458",
+      "name": "Oldenburg",
+      "latitude": "53.14039",
+      "longitude": "8.21479",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2857458",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Prag",
+      "gid": "3067696",
+      "name": "Prague",
+      "latitude": "50.08804",
+      "longitude": "14.42076",
+      "country": "CZ",
+      "coordinate_source": "https://www.geonames.org/3067696",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Salzburg",
+      "gid": "2766824",
+      "name": "Salzburg",
+      "latitude": "47.79941",
+      "longitude": "13.04399",
+      "country": "AT",
+      "coordinate_source": "https://www.geonames.org/2766824",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Zwickau",
+      "gid": "2803560",
+      "name": "Zwickau",
+      "latitude": "50.72724",
+      "longitude": "12.48839",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2803560",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Esztergom",
+      "gid": "3053163",
+      "name": "Esztergom",
+      "latitude": "47.7928",
+      "longitude": "18.74148",
+      "country": "HU",
+      "coordinate_source": "https://www.geonames.org/3053163",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Klosterneuburg",
+      "gid": "2773913",
+      "name": "Klosterneuburg",
+      "latitude": "48.30521",
+      "longitude": "16.32522",
+      "country": "AT",
+      "coordinate_source": "https://www.geonames.org/2773913",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Mergentheim",
+      "gid": "2953402",
+      "name": "Bad Mergentheim",
+      "latitude": "49.4925",
+      "longitude": "9.77361",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2953402",
+      "note": "Previously reviewed settlement vocabulary; exact alias match."
+    },
+    {
+      "source_label": "Stuttgart",
+      "gid": "2825297",
+      "name": "Stuttgart",
+      "latitude": "48.78232",
+      "longitude": "9.17702",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2825297",
+      "note": "Exact printing locality; city-level point."
+    },
+    {
+      "source_label": "Speyer",
+      "gid": "2830582",
+      "name": "Speyer",
+      "latitude": "49.32083",
+      "longitude": "8.43111",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2830582",
+      "note": "Exact printing locality; city-level point."
+    },
+    {
+      "source_label": "Memmingen",
+      "gid": "2871992",
+      "name": "Memmingen",
+      "latitude": "47.98372",
+      "longitude": "10.18527",
+      "country": "DE",
+      "coordinate_source": "https://www.geonames.org/2871992",
+      "note": "Exact printing locality; city-level point."
+    },
+    {
+      "source_label": "Rome",
+      "gid": "3169070",
+      "name": "Rome",
+      "latitude": "41.89193",
+      "longitude": "12.51133",
+      "country": "IT",
+      "coordinate_source": "https://www.geonames.org/3169070",
+      "note": "Exact printing locality; city-level point."
+    }
+  ],
+  "holdings": [
+    {
+      "institution_id": "ZurichZB",
+      "gid": "2657896",
+      "name": "Zürich",
+      "latitude": "47.36667",
+      "longitude": "8.55",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2657896",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SolothurnZB",
+      "gid": "2658564",
+      "name": "Solothurn",
+      "latitude": "47.20791",
+      "longitude": "7.53714",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658564",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SionMediatheque",
+      "gid": "2658576",
+      "name": "Sitten",
+      "latitude": "46.22739",
+      "longitude": "7.35559",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658576",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SionArchivesdelEtat",
+      "gid": "2658576",
+      "name": "Sitten",
+      "latitude": "46.22739",
+      "longitude": "7.35559",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658576",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SionArchEv",
+      "gid": "2658576",
+      "name": "Sitten",
+      "latitude": "46.22739",
+      "longitude": "7.35559",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658576",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "LuganoBC",
+      "gid": "2659836",
+      "name": "Lugano",
+      "latitude": "46.01008",
+      "longitude": "8.96004",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2659836",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "BibliotecaSalitadeiFratiLugano",
+      "gid": "2659836",
+      "name": "Lugano",
+      "latitude": "46.01008",
+      "longitude": "8.96004",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2659836",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "LocarnoSasso",
+      "gid": "2659869",
+      "name": "Locarno",
+      "latitude": "46.17086",
+      "longitude": "8.79953",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2659869",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "BigorioConvSM",
+      "gid": "2661504",
+      "name": "Bigorio",
+      "latitude": "46.0701",
+      "longitude": "8.957",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2661504",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "BourgSaintPierreGrandSaintBernard",
+      "gid": "2661428",
+      "name": "Bourg-Saint-Pierre",
+      "latitude": "45.94876",
+      "longitude": "7.20772",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2661428",
+      "identification_source": "MEI holding institution label",
+      "note": "Source names Bourg-Saint-Pierre; municipality/locality approximation, not the hospice building at the pass."
+    },
+    {
+      "institution_id": "BellinzonaA",
+      "gid": "2661567",
+      "name": "Bellinzona",
+      "latitude": "46.19278",
+      "longitude": "9.01703",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2661567",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "FaidoCap",
+      "gid": "2660830",
+      "name": "Faido",
+      "latitude": "46.477",
+      "longitude": "8.80125",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2660830",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "BaselUB",
+      "gid": "2661604",
+      "name": "Basel",
+      "latitude": "47.55839",
+      "longitude": "7.57327",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2661604",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "GeneveBodmer",
+      "gid": "6691492",
+      "name": "Cologny",
+      "latitude": "46.21672",
+      "longitude": "6.18041",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/6691492",
+      "identification_source": "https://fondationbodmer.ch/contact/",
+      "note": "Official address in Cologny (Geneva); city-level point."
+    },
+    {
+      "institution_id": "GeneveBibdItalien",
+      "gid": "2660646",
+      "name": "Geneva",
+      "latitude": "46.20222",
+      "longitude": "6.14569",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2660646",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "HWSCL",
+      "gid": "2658729",
+      "name": "Schlatt",
+      "latitude": "47.66134",
+      "longitude": "8.70332",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658729",
+      "identification_source": "https://www.eisenbibliothek.ch/en/about/hours.html",
+      "note": "Official address: Klostergut Paradies, Schlatt TG; city-level point."
+    },
+    {
+      "institution_id": "LeukParishLibrary",
+      "gid": "2659908",
+      "name": "Leuk",
+      "latitude": "46.31736",
+      "longitude": "7.63412",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2659908",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SaintMauriceAbbaye",
+      "gid": "2658864",
+      "name": "Saint-Maurice",
+      "latitude": "46.21826",
+      "longitude": "7.0032",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658864",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "SaintMauriceCap",
+      "gid": "2658864",
+      "name": "Saint-Maurice",
+      "latitude": "46.21826",
+      "longitude": "7.0032",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658864",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "StGallenBenedikt",
+      "gid": "2658822",
+      "name": "Sankt Gallen",
+      "latitude": "47.42391",
+      "longitude": "9.37477",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658822",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    },
+    {
+      "institution_id": "UnterbachParishLibrary",
+      "gid": "2658263",
+      "name": "Unterbäch",
+      "latitude": "46.2843",
+      "longitude": "7.79918",
+      "country": "CH",
+      "coordinate_source": "https://www.geonames.org/2658263",
+      "identification_source": "MEI holding institution label",
+      "note": "Current institution mapped to the named locality, not building coordinates."
+    }
+  ],
+  "unresolved": [
+    "Graflingen",
+    "Seefeld"
+  ],
+  "regions": [
+    "Aargau",
+    "Germany",
+    "Switzerland",
+    "Süddeutschland",
+    "Westschweiz",
+    "OrtSüddeutschland"
+  ]
+}
