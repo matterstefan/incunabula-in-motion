@@ -1,0 +1,3301 @@
+{
+  "retrieved_on": "2026-10-22",
+  "selection": "Convenience sample: known Zurich MEI shelfmarks and first ten Z06 hits dated 1531; related shelfmarks also returned. Not representative.",
+  "compared_bibliographic_records": 21,
+  "focused_mei_comparisons": 6,
+  "focused_sixteenth_century_records": 6,
+  "records_with_fields": {
+    "361": 0,
+    "561": 4,
+    "563": 5
+  },
+  "records_with_former_owner_access_points": 14,
+  "copy_scope_status": {
+    "manual_copy_assignment_required": 2,
+    "single_holding_in_response_item_identity_unverified": 18,
+    "online_placeholder_not_physical_copy": 1
+  },
+  "same_361_561_563_in_both_responses": true,
+  "cases": [
+    {
+      "alma_mms_id": "990035139270205508",
+      "swisscollections_id": "991035033689705501",
+      "title": "Chronica, Zeÿt-Buoch und Geschÿcht-Bibel von Anbegyn biss inn diss gegenwertig M. D. xxxj. jar. ...",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Getruckt zuo Strassburg"
+            },
+            {
+              "code": "b",
+              "value": "durch Balthassar Beck ..."
+            },
+            {
+              "code": "c",
+              "value": "1531"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22539518350005508",
+          "shelfmark": "Gal Tz 61 | G",
+          "total_items": "1",
+          "location_code": "RAM"
+        },
+        {
+          "holding_id": "22340636730005508",
+          "shelfmark": "SV 3 | G",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "manual_copy_assignment_required",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Adams F-939, VD 16 F 2064"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "SV 3 | G"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990035139270205508"
+            }
+          ]
+        },
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "Gal Tz 61 | G"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990035139270205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "q",
+              "value": "_"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "SV 3 | G"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990035139270205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "Gal Tz 61 | G"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990035139270205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990036481340205508",
+      "swisscollections_id": "991000969719705501",
+      "title": "Theophylacti Archiepiscopi Bvlgariae, In Qvatvor Evangelia Ennarationes luculentissimæ, diligenter iam tandem atque adamussim recognitæ",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Coloniae"
+            },
+            {
+              "code": "b",
+              "value": "In Aedibus Petri Quentell"
+            },
+            {
+              "code": "c",
+              "value": "Anno Domini M. D. XXXI."
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22407390930005508",
+          "shelfmark": "Rm 56 | G",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [
+          {
+            "tag": "563",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Aus dem Vorbesitz des Klosters Rheinau, Verbalexlibris auf dem Titelblatt"
+              }
+            ]
+          }
+        ],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD16"
+              },
+              {
+                "code": "c",
+                "value": "B 4610"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kloster Rheinau"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)4374885-5"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "Rm 56 | G"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990036481340205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "Rm 56 | G"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990036481340205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990037626940205508",
+      "swisscollections_id": "991113835889705501",
+      "title": "Carmina de vrinarum iudicijs edita",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Venedig"
+            },
+            {
+              "code": "b",
+              "value": "Bernardinus de Vitalibus für Hieronymus de Durantibus"
+            },
+            {
+              "code": "c",
+              "value": "16. Februar 1494"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22357860020005508",
+          "shelfmark": "2.147",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "02129744",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [
+          {
+            "tag": "561",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Lesernotizen beschnitten (auf Bl. 34v und 35v von Konrad Gessner). Hs. Notiz auf Bl. 1r: \"Ampliss. Turicens. consul Heideggerus civibus dono dedit. MDCCLXIX\" (Stadtbibliothek Zürich)."
+              }
+            ]
+          }
+        ],
+        "562": [],
+        "563": [
+          {
+            "tag": "563",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Pappeinband (19. Jh.)."
+              }
+            ]
+          }
+        ],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "3",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 101; GW 270"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Heidegger, Johann Conrad"
+            },
+            {
+              "code": "d",
+              "value": "1710-1778"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)102272905"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990037626940205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "2.147"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990037626940205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "De urinis et pulsibus. Comm: Gentilis Fulginas. Ed: Venantius Mutius",
+      "mei_provenance_blocks": 5
+    },
+    {
+      "alma_mms_id": "990037763520205508",
+      "swisscollections_id": "991104391249705501",
+      "title": "Pomponii Mflae Geographiæ, libri tres",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Vienn Pannoniæ"
+            },
+            {
+              "code": "b",
+              "value": "per Hieronymu[m] Vietorem Philouallem & Ioannem Singreniu[m] ... de Oeting"
+            },
+            {
+              "code": "c",
+              "value": "Anno M.D.XII."
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22337869440005508",
+          "shelfmark": "2.147: b",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [
+          {
+            "tag": "561",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Adriani philoxeni stam[m]en.\") sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              }
+            ]
+          }
+        ],
+        "562": [],
+        "563": [
+          {
+            "tag": "563",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Stempelverzierter Schweinshalbledereinband der Zeit, Metallschliessen (defekt)"
+              }
+            ]
+          }
+        ],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD16"
+              },
+              {
+                "code": "c",
+                "value": "M 2308"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Wirth, Adrian"
+            },
+            {
+              "code": "d",
+              "value": "1503-1563"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)108931700X"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Orelli, Kaspar <<von>>"
+            },
+            {
+              "code": "d",
+              "value": "1756-1809"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)117605921"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147: b"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990037763520205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "2.147: b"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990037763520205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990043572860205508",
+      "swisscollections_id": "991080633169705501",
+      "title": "Antonii Thylesii Cosentini de coronarum generibus commentarius eruditissimus, nusquàm antehac excusus",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Coloniae"
+            },
+            {
+              "code": "b",
+              "value": "sub designationem regiam Ioannes Gymnicus excudebat"
+            },
+            {
+              "code": "c",
+              "value": "An.M. D. XXXI."
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22341930050005508",
+          "shelfmark": "10.430,4",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [
+          {
+            "tag": "561",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Aus dem Vorbesitz Heinrich Bullingers. Er notierte die Kurztitel der im Sammelband enthaltenen Werke auf dem Vorderschnitt"
+              }
+            ]
+          }
+        ],
+        "562": [],
+        "563": [
+          {
+            "tag": "563",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Einband de Zeit, bestehend aus einer mit schwarzer Farbe überstrichenen Pergamenthandschrift"
+              }
+            ]
+          }
+        ],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD 16"
+              },
+              {
+                "code": "c",
+                "value": "T 308"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Bullinger, Heinrich"
+            },
+            {
+              "code": "d",
+              "value": "1504-1575"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)118517384"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "10.430,4"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990043572860205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar über die Signatur 10.430"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "10.430,4"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990043572860205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990045665310205508",
+      "swisscollections_id": "991027780299705501",
+      "title": "Corpus iuris civilis",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Basel"
+            },
+            {
+              "code": "b",
+              "value": "Michael Wenssler für Andreas Helmut"
+            },
+            {
+              "code": "c",
+              "value": "7. Juli 1487"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22262596840005508",
+          "shelfmark": "Ra 2",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "02129912",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 9608; GW 7734"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kloster Rheinau"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)4374885-5"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "Ra 2"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990045665310205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "Ra 2"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990045665310205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "Codex Justinianus. Comm: Franciscus Accursius",
+      "mei_provenance_blocks": 4
+    },
+    {
+      "alma_mms_id": "990046401530205508",
+      "swisscollections_id": "991116422999705501",
+      "title": "Fagifacetus sive de moribus et facetiis mensae (lateinisch und deutsch)",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Basel]"
+            },
+            {
+              "code": "b",
+              "value": "[Michael Furter]"
+            },
+            {
+              "code": "c",
+              "value": "[nach 1. April 1490]"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22372168320005508",
+          "shelfmark": "2.147,3",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 6900; Goff R-138"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147,3"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046401530205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar mit Signatur 2.147"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "2.147,3"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046401530205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990046402400205508",
+      "swisscollections_id": "991111752749705501",
+      "title": "Liber aggregationis",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Köln]"
+            },
+            {
+              "code": "b",
+              "value": "[Kornelius von Zierikzee]"
+            },
+            {
+              "code": "c",
+              "value": "[nach 1500?]"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22312623660005508",
+          "shelfmark": "2.147,4",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 528; GW 655"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147,4"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046402400205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar mit Signatur 2.147"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "2.147,4"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046402400205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990046406460205508",
+      "swisscollections_id": "991144596749705501",
+      "title": "Modus legendi abbreviaturas in utroque iure",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Memmingen"
+            },
+            {
+              "code": "b",
+              "value": "[Albrecht Kunne]"
+            },
+            {
+              "code": "c",
+              "value": "1500"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22402827260005508",
+          "shelfmark": "2.147,10",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 11478; BMC II, 607; Polain 2757"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Heidegger, Johann Conrad"
+            },
+            {
+              "code": "d",
+              "value": "1710-1778"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)102272905"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147,10"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046406460205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar mit Signatur 2.147"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "2.147,10"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046406460205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990046406650205508",
+      "swisscollections_id": "991001379719705501",
+      "title": "Philippica in laudem et defensionem Philippi comitis Rheni Palatini Bavariae ducis",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Strassburg]"
+            },
+            {
+              "code": "b",
+              "value": "Martin Schott"
+            },
+            {
+              "code": "c",
+              "value": "19. November 1498"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22402843400005508",
+          "shelfmark": "2.147,11",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 16186; BMC I, 96; Goff W-47"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stadtbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)17078-1"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "2.147,11"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046406650205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar mit Signatur 2.147"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "2.147,11"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990046406650205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990047317990205508",
+      "swisscollections_id": "991013660599705501",
+      "title": "Casus longi super Digesto novo",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Freiburg]"
+            },
+            {
+              "code": "b",
+              "value": "[Kilian Fischer]"
+            },
+            {
+              "code": "c",
+              "value": "[um 1494]"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22298735360005508",
+          "shelfmark": "Rb 3,4",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "00570263",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Hain 68; Copinger 14; GW 186 [Basel: Joh. Amerbach, um 1489/97]; Goff A-34"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kantonsbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)2046336-4"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kloster Rheinau"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)4374885-5"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "Rb 3,4"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047317990205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar über die Signatur: Rb 3"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "Rb 3,4"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047317990205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "Casus longi super Digesto Novo",
+      "mei_provenance_blocks": 4
+    },
+    {
+      "alma_mms_id": "990047733730205508",
+      "swisscollections_id": "991129097889705501",
+      "title": "Summula mit Kommentar und Interlinearglosse",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Köln"
+            },
+            {
+              "code": "b",
+              "value": "[Drucker \"Retro Minores\" für] Heinrich Quentell"
+            },
+            {
+              "code": "c",
+              "value": "18. Juli 1500"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22324859600005508",
+          "shelfmark": "Ink K 342,7",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "02129360",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [
+          {
+            "tag": "561",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Aus dem Besitz der Stiftsbibliothek am Grossmünster Zürich (Germann, Stiftsbibliothek, S. 222); Stempel der Kantonsbibliothek auf Bl. 1v"
+              }
+            ]
+          }
+        ],
+        "562": [],
+        "563": [
+          {
+            "tag": "563",
+            "ind1": " ",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Halbledereinband (16. Jh.); urspr. Mittelschliesse; Gelbschnitt; Pergament-Hs. (gotische Minuskel) als Makulatur"
+              }
+            ]
+          }
+        ],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "3",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Hain 13710; GW 216"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Großmünster"
+            },
+            {
+              "code": "b",
+              "value": "Stift"
+            },
+            {
+              "code": "b",
+              "value": "Bibliothek"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)4372432-2"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kantonsbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)2046336-4"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "Ink K 342,7"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047733730205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar über die Signatur: Ink K 342,2"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "Ink K 342,7"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047733730205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "Summula sacramentorum Raymundi de Pennaforte metrificata (With commentary and interlinear glosses)",
+      "mei_provenance_blocks": 5
+    },
+    {
+      "alma_mms_id": "990047941940205508",
+      "swisscollections_id": "991117636409705501",
+      "title": "De creatione Adae et formatione Evae",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Rom]"
+            },
+            {
+              "code": "b",
+              "value": "[Bartholomaeus Guldinbeck]"
+            },
+            {
+              "code": "c",
+              "value": "[um 1475]"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22428416220005508",
+          "shelfmark": "Ink K 329,12",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "02129563",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Hain 79; GW 206"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "710",
+          "ind1": "2",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Kantonsbibliothek Zürich"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)2046336-4"
+            },
+            {
+              "code": "e",
+              "value": "Früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "Ink K 329,12"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047941940205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar über die Signatur: Ink K 329"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "Ink K 329,12"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990047941940205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "Vita Adae et Evae (De creatione Adae et formatione Evae)",
+      "mei_provenance_blocks": 2
+    },
+    {
+      "alma_mms_id": "990048649500205508",
+      "swisscollections_id": "991076946879705501",
+      "title": "De nativitatibus",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Venedig"
+            },
+            {
+              "code": "b",
+              "value": "Erhard Ratdolt"
+            },
+            {
+              "code": "c",
+              "value": "24 Dezember 1484"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22424885110005508",
+          "shelfmark": "4.276",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": "02129976",
+      "focus_group": "incunabula_mei_comparison",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "HC 21; GW 113."
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "4.276"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990048649500205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "4.276"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990048649500205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      },
+      "mei_title": "De nativitatibus. Add: Henricus Bate: Magistralis compositio astrolabii",
+      "mei_provenance_blocks": 2
+    },
+    {
+      "alma_mms_id": "990053546370205508",
+      "swisscollections_id": "991153524149705501",
+      "title": "Vßlegung des Commeten erschynen im hochbirg/ zů mitlem Augsten/ Anno 1531",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "[Zürich]"
+            },
+            {
+              "code": "b",
+              "value": "[Christoph Froschauer d. Ä.]"
+            },
+            {
+              "code": "c",
+              "value": "[1531]"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22257869240005508",
+          "shelfmark": "18.280,14",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "3",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Vischer C 197"
+              }
+            ]
+          },
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD16"
+              },
+              {
+                "code": "c",
+                "value": "P 411"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "18.280,14"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990053546370205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "z",
+              "value": "Bestellbar über Signatur 18.280"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "18.280,14"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990053546370205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990057148950205508",
+      "swisscollections_id": "991018202549705501",
+      "title": "<<Des>> hochberümptesten Geschicht schreybers Justini, warhafftige Hystorien, die er auss Trogo Pompeio gezogen und inn viertzig vier Bücher aussgeteylt, darinn er von vil Künigreychen der welt, wie die auff unnd abgang genommen, beschryben",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Gedruckt zuo Augspurg"
+            },
+            {
+              "code": "b",
+              "value": "durch Heynrich Steyner"
+            },
+            {
+              "code": "c",
+              "value": "1531"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22396074640005508",
+          "shelfmark": "Gal Tz 67,2",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD 16 T 2069"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Oeri, Ulrich"
+            },
+            {
+              "code": "d",
+              "value": "1567-1631"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)1035310813"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Simler, Johann Jakob"
+            },
+            {
+              "code": "d",
+              "value": "1716-1788"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)100408605"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Stokar, Anna"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "Gal Tz 67,2"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990057148950205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "71"
+            },
+            {
+              "code": "j",
+              "value": "Gal Tz 67,2"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990057148950205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990060026240205508",
+      "swisscollections_id": "991121995469705501",
+      "title": "Bekandtnuß der vier Frey- vn[d] Reichstätt/ Straßburg/ Costantz/ Memmingen/ vnd Lindaw/ in deren sie keys. Majestat/ vff dem Reichstag zů Augspurg/ im[m] xxx. Jar gehalten/ ihres glaubens vnd fürhabens/ der Religion halb/ rechenschafft gethan haben",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Getruckt zů Straßburg"
+            },
+            {
+              "code": "b",
+              "value": "durch Johan. Schweintzer"
+            },
+            {
+              "code": "c",
+              "value": "vff den xxij. Augusti/ Anno/ M. D. XXXj."
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22320544680005508",
+          "shelfmark": "III Q 351",
+          "total_items": "1",
+          "location_code": "RAM"
+        },
+        {
+          "holding_id": "22320544660005508",
+          "shelfmark": "3.161",
+          "total_items": "1",
+          "location_code": "RARA"
+        }
+      ],
+      "copy_scope_status": "manual_copy_assignment_required",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD16"
+              },
+              {
+                "code": "c",
+                "value": "B 1524"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "j",
+              "value": "3.161"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990060026240205508"
+            }
+          ]
+        },
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "III Q 351"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990060026240205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RARA"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "3.161"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990060026240205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "III Q 351"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990060026240205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990062820400205508",
+      "swisscollections_id": "991123819019705501",
+      "title": "Longe exactissima In Isaiam prophetam commentaria",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Coloniae"
+            },
+            {
+              "code": "b",
+              "value": "Eucharius"
+            },
+            {
+              "code": "c",
+              "value": "1531"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22387545010005508",
+          "shelfmark": "17.371",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": []
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "17.371"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990062820400205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "17.371"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990062820400205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990062820480205508",
+      "swisscollections_id": "991114182459705501",
+      "title": "In Esaiam commentariorum libri tres",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Coloniae"
+            },
+            {
+              "code": "b",
+              "value": "Peter Quentel"
+            },
+            {
+              "code": "c",
+              "value": "1531"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22387523230005508",
+          "shelfmark": "IV S 82: i",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": []
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "IV S 82: i"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990062820480205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "IV S 82: i"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990062820480205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990065840040205508",
+      "swisscollections_id": "991014801549705501",
+      "title": "<<Die>> gantze Bibel",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Getruckt zů Zürich"
+            },
+            {
+              "code": "b",
+              "value": "bey Christoffel Froschouer"
+            },
+            {
+              "code": "c",
+              "value": "im Jar als man zalt M. D. XXXI."
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22320772910005508",
+          "shelfmark": "Online",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "online_placeholder_not_physical_copy",
+      "mei_id_checked": null,
+      "focus_group": "additional_search_result",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD16"
+              },
+              {
+                "code": "c",
+                "value": "B 2690"
+              }
+            ]
+          },
+          {
+            "tag": "510",
+            "ind1": "4",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "Vischer C 192"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "Online"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990065840040205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "66"
+            },
+            {
+              "code": "j",
+              "value": "Online"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990065840040205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    },
+    {
+      "alma_mms_id": "990070507980205508",
+      "swisscollections_id": "991001691089705501",
+      "title": "Blondi Flavii Forliviensis De Roma triumphante libri decem priscorum scriptorum lectoribus utilissimi, ad totiusque Romanæ antiquitatis cognitionem pernecessarii",
+      "publication": [
+        {
+          "tag": "264",
+          "ind1": " ",
+          "ind2": "1",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Basileae"
+            },
+            {
+              "code": "b",
+              "value": "in officina Frobeniana"
+            },
+            {
+              "code": "c",
+              "value": "1531"
+            }
+          ]
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": "22328560750005508",
+          "shelfmark": "IV H 1 | F",
+          "total_items": "1",
+          "location_code": "RAM"
+        }
+      ],
+      "copy_scope_status": "single_holding_in_response_item_identity_unverified",
+      "mei_id_checked": null,
+      "focus_group": "sixteenth_century",
+      "fields": {
+        "361": [],
+        "541": [],
+        "561": [],
+        "562": [],
+        "563": [],
+        "510": [
+          {
+            "tag": "510",
+            "ind1": "0",
+            "ind2": " ",
+            "subfields": [
+              {
+                "code": "a",
+                "value": "VD 16 B 5541"
+              }
+            ]
+          }
+        ]
+      },
+      "former_owners": [
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Pellicanus, Conrad"
+            },
+            {
+              "code": "d",
+              "value": "1478-1556"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)118739867"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        },
+        {
+          "tag": "700",
+          "ind1": "1",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "a",
+              "value": "Pellicanus, Samuel"
+            },
+            {
+              "code": "d",
+              "value": "1527-1564"
+            },
+            {
+              "code": "0",
+              "value": "(DE-588)1013902475"
+            },
+            {
+              "code": "e",
+              "value": "früherer Eigentümer"
+            },
+            {
+              "code": "4",
+              "value": "fmo"
+            }
+          ]
+        }
+      ],
+      "swisscollections_inventory": [
+        {
+          "tag": "852",
+          "ind1": "4",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "j",
+              "value": "IV H 1 | F"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990070507980205508"
+            }
+          ]
+        },
+        {
+          "tag": "949",
+          "ind1": " ",
+          "ind2": " ",
+          "subfields": [
+            {
+              "code": "c",
+              "value": "RAM"
+            },
+            {
+              "code": "p",
+              "value": "12"
+            },
+            {
+              "code": "j",
+              "value": "IV H 1 | F"
+            },
+            {
+              "code": "b",
+              "value": "Z06"
+            },
+            {
+              "code": "9",
+              "value": "(41SLSP_UZB)990070507980205508"
+            }
+          ]
+        }
+      ],
+      "comparison": {
+        "361": true,
+        "561": true,
+        "563": true
+      }
+    }
+  ]
+}

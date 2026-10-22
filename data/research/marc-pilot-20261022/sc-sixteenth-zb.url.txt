@@ -1,0 +1,1 @@
+https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&recordSchema=marc21-xml&query=sc.possessingInstitution%3DZ06+AND+dc.date%3D1531&maximumRecords=10

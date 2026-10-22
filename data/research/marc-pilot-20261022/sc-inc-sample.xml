@@ -1,0 +1,1536 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.2</version><numberOfRecords>32</numberOfRecords><records>
+          <record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02106nam a2200433 c 4500</leader>
+            <controlfield tag="001">991129097889705501</controlfield>
+            <controlfield tag="005">20240314004932.0</controlfield>
+            <controlfield tag="008">040819s1500    gw            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)160165970-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">160165970</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004773373EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991129097889705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990047733730205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047733730205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">rda</subfield>
+            </datafield>
+            <datafield tag="041" ind1="0" ind2=" ">
+                <subfield code="a">lat</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Adamus</subfield>
+                <subfield code="c">Magister</subfield>
+                <subfield code="d">13. Jht.</subfield>
+                <subfield code="0">(DE-588)1089680678</subfield>
+                <subfield code="4">aut</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Summula mit Kommentar und Interlinearglosse</subfield>
+                <subfield code="c">Magister Adam</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Köln</subfield>
+                <subfield code="b">[Drucker &quot;Retro Minores&quot; für] Heinrich Quentell</subfield>
+                <subfield code="c">18. Juli 1500</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">156 ungezählte Blätter</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Drucker gemäss GW</subfield>
+            </datafield>
+            <datafield tag="510" ind1="3" ind2=" ">
+                <subfield code="a">Hain 13710; GW 216</subfield>
+            </datafield>
+            <datafield tag="561" ind1=" " ind2=" ">
+                <subfield code="a">Aus dem Besitz der Stiftsbibliothek am Grossmünster Zürich (Germann, Stiftsbibliothek, S. 222); Stempel der Kantonsbibliothek auf Bl. 1v</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="a">Halbledereinband (16. Jh.); urspr. Mittelschliesse; Gelbschnitt; Pergament-Hs. (gotische Minuskel) als Makulatur</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Nicht rubriziert; Notizen von Petrus Numagen und Konrad Pellikan</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: ehemals eine Inkunabel (um 1930 als Dublette ausgeschieden), vier Inkunabeln und ein Druck des 16. Jh</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Pellicanus, Conrad</subfield>
+                <subfield code="d">1478-1556</subfield>
+                <subfield code="0">(DE-588)118739867</subfield>
+                <subfield code="e">Annotierende Person</subfield>
+                <subfield code="4">ann</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Peter</subfield>
+                <subfield code="c">von Neumagen</subfield>
+                <subfield code="d">1450-1515</subfield>
+                <subfield code="0">(DE-588)103155384</subfield>
+                <subfield code="e">Annotierende Person</subfield>
+                <subfield code="4">ann</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Verden, Martin &lt;&lt;von&gt;&gt;</subfield>
+                <subfield code="d">-1516</subfield>
+                <subfield code="0">(DE-588)13736170X</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Quentell, Heinrich</subfield>
+                <subfield code="d">14XX-1501</subfield>
+                <subfield code="0">(DE-588)102359229</subfield>
+                <subfield code="4">pbl</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Großmünster</subfield>
+                <subfield code="b">Stift</subfield>
+                <subfield code="b">Bibliothek</subfield>
+                <subfield code="0">(DE-588)4372432-2</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Kantonsbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)2046336-4</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Köln</subfield>
+                <subfield code="0">(DE-588)4031483-2</subfield>
+                <subfield code="4">pup</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">Ink K 342,7</subfield>
+                <subfield code="9">(41SLSP_UZB)990047733730205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200408e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZDEOD</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar über die Signatur: Ink K 342,2</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">Ink K 342,7</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990047733730205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990047733730205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047733730205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">Z01FE202104rfmatt</subfield>
+                <subfield code="9">local</subfield>
+                <subfield code="9">(41SLSP_UZB)990047733730205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>1</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02142nam a22004577c 4500</leader>
+            <controlfield tag="001">991027780299705501</controlfield>
+            <controlfield tag="005">20240321232707.0</controlfield>
+            <controlfield tag="007">cr |||||||||||</controlfield>
+            <controlfield tag="008">030813s1487    sz            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="024" ind1="7" ind2=" ">
+                <subfield code="a">10.3931/e-rara-61547</subfield>
+                <subfield code="2">doi</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)158606655-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">158606655</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004566531EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991027780299705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990045665310205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990045665310205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Corpus iuris civilis</subfield>
+                <subfield code="b">Codex Iustinianus</subfield>
+                <subfield code="c">mit der Glossa ordinaria des Accursius Florentinus</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Basel</subfield>
+                <subfield code="b">Michael Wenssler für Andreas Helmut</subfield>
+                <subfield code="c">7. Juli 1487</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[356] Bl.</subfield>
+                <subfield code="c">41 cm (2°)</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">c</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">cr</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 9608; GW 7734</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Gedruckte rote Rubrikation mit gedr. roten und hs. blauen Lombarden; Lesernotizen des 15./16. Jh</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Hs. Notiz auf Bl. 2r: &quot;Monasterij Rhenoviensis&quot; (Kloster Rheinau); Stempel der Kantonsbibliothek Zürich auf Bl. 2r; ausradierte hs.Notiz im Spiegel</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Dunkler Ledereinband der Zeit mit Einzelstempeln: Drachen EBDB s002147 = Kyriss 143.05, Lilienkreuz EBDB s002148 = Kyriss 143.02 u.a. (süddeutsche Werkstatt); Buchrücken mit Sprengpapier überzogen (Rheinau, 18. Jh)</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Accursius, Franciscus</subfield>
+                <subfield code="c">Senior</subfield>
+                <subfield code="d">1185-1263</subfield>
+                <subfield code="0">(DE-588)100956599</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Wenssler, Michael</subfield>
+                <subfield code="d">14XX-1512</subfield>
+                <subfield code="0">(DE-588)134121260</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Drachen</subfield>
+                <subfield code="g">Buchbinderei, Süddeutschland</subfield>
+                <subfield code="0">(DE-588)1086689232</subfield>
+                <subfield code="e">Buchbinder</subfield>
+                <subfield code="4">bnd</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Kloster Rheinau</subfield>
+                <subfield code="0">(DE-588)4374885-5</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="730" ind1="0" ind2=" ">
+                <subfield code="a">Codex Iustinianus</subfield>
+                <subfield code="0">(DE-588)4127108-7</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">Ra 2</subfield>
+                <subfield code="9">(41SLSP_UZB)990045665310205508</subfield>
+            </datafield>
+            <datafield tag="856" ind1="4" ind2=" ">
+                <subfield code="u">http://dx.doi.org/10.3931/e-rara-61547</subfield>
+                <subfield code="z">Online via e-rara.ch</subfield>
+                <subfield code="x">Z01</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200308e</subfield>
+                <subfield code="c">IDSZ2seid</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ1Z01erara</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">Ra 2</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990045665310205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990045665310205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990045665310205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>2</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01917nam a22004457c 4500</leader>
+            <controlfield tag="001">991013660599705501</controlfield>
+            <controlfield tag="005">20240321231504.0</controlfield>
+            <controlfield tag="007">cr |||||||||||</controlfield>
+            <controlfield tag="008">040608s1494    gw            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="024" ind1="7" ind2=" ">
+                <subfield code="a">10.3931/e-rara-80198</subfield>
+                <subfield code="2">doi</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)159634733-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">159634733</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004731799EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991013660599705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990047317990205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047317990205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Accursius, Franciscus</subfield>
+                <subfield code="c">Senior</subfield>
+                <subfield code="d">1185-1263</subfield>
+                <subfield code="0">(DE-588)100956599</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Casus longi super Digesto novo</subfield>
+                <subfield code="c">Franciscus Accursius</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Freiburg]</subfield>
+                <subfield code="b">[Kilian Fischer]</subfield>
+                <subfield code="c">[um 1494]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[102] Bl.</subfield>
+                <subfield code="c">34 cm (2°)</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">c</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">cr</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Impressum gemäss Goff</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">Hain 68; Copinger 14; GW 186 [Basel: Joh. Amerbach, um 1489/97]; Goff A-34</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Rote Lombarden, rot-blaue Initiale auf Bl. 2r; Griffregister</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Aus dem Besitz des Klosters Rheinau (Schorno Nr. 160); Stempel der Kantonsbibliothek Zürich auf Bl. 1v der ersten Inkunabel im Sammelband</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.); Titel auf Rücken in Goldprägung</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: drei Inkunabeln; nachgebunden: eine Inkunabel</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Fischer, Kilian</subfield>
+                <subfield code="d">1451-1510</subfield>
+                <subfield code="0">(DE-588)133121003</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Kantonsbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)2046336-4</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Kloster Rheinau</subfield>
+                <subfield code="0">(DE-588)4374885-5</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Freiburg im Breisgau</subfield>
+                <subfield code="0">(DE-588)4018272-1</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">Rb 3,4</subfield>
+                <subfield code="9">(41SLSP_UZB)990047317990205508</subfield>
+            </datafield>
+            <datafield tag="856" ind1="4" ind2=" ">
+                <subfield code="u">https://doi.org/10.3931/e-rara-80198</subfield>
+                <subfield code="z">Online via e-rara.ch</subfield>
+                <subfield code="x">Z01</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200406e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ1Z01erara</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar über die Signatur: Rb 3</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">Rb 3,4</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990047317990205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990047317990205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047317990205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>3</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01663nam a22003377c 4500</leader>
+            <controlfield tag="001">991076946879705501</controlfield>
+            <controlfield tag="005">20240319213400.0</controlfield>
+            <controlfield tag="008">041215s1484    it            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)160872731-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">160872731</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004864950EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991076946879705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990048649500205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990048649500205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Ibn-ʿEzra, Avraham Ben-Meʾir</subfield>
+                <subfield code="d">1092-1167</subfield>
+                <subfield code="0">(DE-588)118646613</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">De nativitatibus</subfield>
+                <subfield code="c">Abrāhām Ben-'Ezrā. Magistralis compositio astrolabii / Henricus Bate</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Venedig</subfield>
+                <subfield code="b">Erhard Ratdolt</subfield>
+                <subfield code="c">24 Dezember 1484</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[30] Bl.</subfield>
+                <subfield code="b">Ill.</subfield>
+                <subfield code="c">20 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 21; GW 113.</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Variante zu GW auf Bl. 28r, Z.16: &quot;... vera loca planetarū coequare...&quot;; vereinzelte Lesernotizen (15./16. Jh., beschnitten); untere Ränder der Bl. 18, 20 u. 23 weggeschnitten (kein Textverlust)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Aus dem Besitz der Stadtbibliothek Zürich (vgl. Cat. Tig. Bd. 1, S. 4)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Ursprünglich mit zwei weiteren Inkunabeln (GW 837 und HC 10042) zusammengebunden, um 1925/30 als Dubletten verkauft</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Papierumschlag (20 Jh.); Sprengschnitt (ca. 17. Jh.)</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Henricus</subfield>
+                <subfield code="c">Bate</subfield>
+                <subfield code="d">1246-1310</subfield>
+                <subfield code="0">(DE-588)118938010</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Ratdolt, Erhard</subfield>
+                <subfield code="d">1447-1527</subfield>
+                <subfield code="0">(DE-588)11878790X</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Ratdolt</subfield>
+                <subfield code="g">Offizin, Venedig</subfield>
+                <subfield code="0">(DE-588)1090689055</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="740" ind1="0" ind2="2">
+                <subfield code="a">Magistralis compositio astrolabii</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Venedig</subfield>
+                <subfield code="0">(DE-588)4062501-1</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">4.276</subfield>
+                <subfield code="9">(41SLSP_UZB)990048649500205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200412e</subfield>
+                <subfield code="c">IDSZ2seid</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">4.276</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990048649500205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990048649500205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990048649500205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>4</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02112nam a2200421 c 4500</leader>
+            <controlfield tag="001">991113835889705501</controlfield>
+            <controlfield tag="005">20240314214726.0</controlfield>
+            <controlfield tag="008">990903s1494    it            00| | lat d</controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)152308512-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">152308512</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003762694EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991113835889705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990037626940205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037626940205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">rda</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Aegidius</subfield>
+                <subfield code="c">Corboliensis</subfield>
+                <subfield code="d">1140-1224</subfield>
+                <subfield code="0">(DE-588)100956548</subfield>
+                <subfield code="e">Verfasser</subfield>
+                <subfield code="4">aut</subfield>
+                <subfield code="4">aut</subfield>
+            </datafield>
+            <datafield tag="240" ind1="1" ind2="0">
+                <subfield code="a">De urinis et de pulsibus</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Carmina de vrinarum iudicijs edita</subfield>
+                <subfield code="c">edita ab excellentissimo domino magistro Egidio cum commento eiusdem felicter incipiunt</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Venedig</subfield>
+                <subfield code="b">Bernardinus de Vitalibus für Hieronymus de Durantibus</subfield>
+                <subfield code="c">16. Februar 1494</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">78 ungezählte Blätter</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Mit einem Kommentar von Gentilis de Fulgineo ; hrsg. von Venantius Mutius</subfield>
+            </datafield>
+            <datafield tag="510" ind1="3" ind2=" ">
+                <subfield code="a">HC 101; GW 270</subfield>
+            </datafield>
+            <datafield tag="561" ind1=" " ind2=" ">
+                <subfield code="a">Lesernotizen beschnitten (auf Bl. 34v und 35v von Konrad Gessner). Hs. Notiz auf Bl. 1r: &quot;Ampliss. Turicens. consul Heideggerus civibus dono dedit. MDCCLXIX&quot; (Stadtbibliothek Zürich).</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.).</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Bl. 78 fehlt; Reihenfolge: Bl. 12,10,11,9,13; nicht rubriziert</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Zusammengebunden mit 8 Inkunabeln und 2 Drucken des 16. Jh</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Gentilis</subfield>
+                <subfield code="c">de Fulgineo</subfield>
+                <subfield code="d">-1348</subfield>
+                <subfield code="0">(DE-588)100141781</subfield>
+                <subfield code="e">Kommentarverfasser</subfield>
+                <subfield code="4">wac</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Avenantius</subfield>
+                <subfield code="c">de Camerino</subfield>
+                <subfield code="0">(DE-588)119611031</subfield>
+                <subfield code="e">Herausgeber</subfield>
+                <subfield code="4">edt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Gessner, Conrad</subfield>
+                <subfield code="d">1516-1565</subfield>
+                <subfield code="0">(DE-588)118694413</subfield>
+                <subfield code="e">Annotierende Person</subfield>
+                <subfield code="4">ann</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Heidegger, Johann Conrad</subfield>
+                <subfield code="d">1710-1778</subfield>
+                <subfield code="0">(DE-588)102272905</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Vitali, Bernardino</subfield>
+                <subfield code="0">(DE-588)103623987X</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147</subfield>
+                <subfield code="9">(41SLSP_UZB)990037626940205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200312e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3gessner</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">2.147</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990037626940205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990037626940205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037626940205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>5</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01548nam a22003737c 4500</leader>
+            <controlfield tag="001">991111752749705501</controlfield>
+            <controlfield tag="005">20240314213446.0</controlfield>
+            <controlfield tag="008">031223s1500    gw            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)15913451X-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">15913451X</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004640240EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991111752749705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990046402400205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046402400205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Albertus</subfield>
+                <subfield code="c">Magnus, Heiliger</subfield>
+                <subfield code="d">1193-1280</subfield>
+                <subfield code="0">(DE-588)118637649</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Liber aggregationis</subfield>
+                <subfield code="b">; De mirabilibus mundi ; Parvum regimen sanitatis</subfield>
+                <subfield code="c">Albertus Magnus</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Köln]</subfield>
+                <subfield code="b">[Kornelius von Zierikzee]</subfield>
+                <subfield code="c">[nach 1500?]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[24] Bl.</subfield>
+                <subfield code="b">Ill. (HS)</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Liber aggregationis Albertus Magnus nur zugeschrieben.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Impressum gemäss GW.</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 528; GW 655</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Nicht rubriziert; bibliographische Notiz auf Bl. 1r (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Stempel der Stadtbibliothek Zürich</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: zwei Inkunabeln und ein Druck des 16. Jh.; nachgebunden: sechs Inkunabeln und ein Druck des 16. Jh</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Cornelis</subfield>
+                <subfield code="c">de Zierikzee</subfield>
+                <subfield code="0">(DE-588)137834020</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="740" ind1="0" ind2="2">
+                <subfield code="a">De mirabilibus mundi</subfield>
+            </datafield>
+            <datafield tag="740" ind1="0" ind2="2">
+                <subfield code="a">Parvum regimen sanitatis</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Köln</subfield>
+                <subfield code="0">(DE-588)4031483-2</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147,4</subfield>
+                <subfield code="9">(41SLSP_UZB)990046402400205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200312e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZDEOD</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar mit Signatur 2.147</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">2.147,4</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990046402400205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990046402400205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046402400205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>6</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01645nam a22003737c 4500</leader>
+            <controlfield tag="001">991116422999705501</controlfield>
+            <controlfield tag="005">20240314221253.0</controlfield>
+            <controlfield tag="008">031223s1490    sz            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)159231019-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">159231019</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004640153EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991116422999705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990046401530205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046401530205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="h">lat</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Reinerus</subfield>
+                <subfield code="c">Alemannus</subfield>
+                <subfield code="d">13. Jh.</subfield>
+                <subfield code="0">(DE-588)119325810</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Fagifacetus sive de moribus et facetiis mensae (lateinisch und deutsch)</subfield>
+                <subfield code="c">Rainerus Alemannus ; hrsg. und übersetzt von Sebastian Brant</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Basel]</subfield>
+                <subfield code="b">[Michael Furter]</subfield>
+                <subfield code="c">[nach 1. April 1490]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[20] Bl.</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Impressum gemäss Goff</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 6900; Goff R-138</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Variante zu Hain auf Bl. 20r, im Kolophon: &quot;in teuthonicum&quot; statt &quot;in theutonicum&quot;; Lesernotizen (15./16. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Stempel der Stadtbibliothek Zürich auf Bl.1v</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: eine Inkunabel und ein Druck des 16. Jh.; nachgebunden: sieben Inkunabeln und ein Druck des 16. Jh</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Brant, Sebastian</subfield>
+                <subfield code="d">1458-1521</subfield>
+                <subfield code="0">(DE-588)118514474</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Furter, Michael</subfield>
+                <subfield code="d">14XX-1517</subfield>
+                <subfield code="0">(DE-588)102766193</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147,3</subfield>
+                <subfield code="9">(41SLSP_UZB)990046401530205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200312e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar mit Signatur 2.147</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">2.147,3</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990046401530205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990046401530205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046401530205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>7</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01367nam a22003377c 4500</leader>
+            <controlfield tag="001">991144596749705501</controlfield>
+            <controlfield tag="005">20240314043915.0</controlfield>
+            <controlfield tag="008">031229s1500    gw            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)15901865X-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">15901865X</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004640646EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991144596749705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990046406460205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406460205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Modus legendi abbreviaturas in utroque iure</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Memmingen</subfield>
+                <subfield code="b">[Albrecht Kunne]</subfield>
+                <subfield code="c">1500</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[66] Bl.</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Drucker gemäss Polain</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 11478; BMC II, 607; Polain 2757</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Nicht rubriziert</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Hans Conrad Heidegger an die Stadtbibliothek Zürich 1768 (vgl. Donationenbuch, S. 296)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: sieben Inkunabeln und zwei Drucke des 16. Jh.; nachgebunden: eine Inkunabel</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Heidegger, Johann Conrad</subfield>
+                <subfield code="d">1710-1778</subfield>
+                <subfield code="0">(DE-588)102272905</subfield>
+                <subfield code="e">früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Kunne, Albert</subfield>
+                <subfield code="0">(DE-588)119107228</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Memmingen</subfield>
+                <subfield code="0">(DE-588)4038586-3</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147,10</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406460205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200312e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZDEOD</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar mit Signatur 2.147</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">2.147,10</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406460205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990046406460205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406460205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>8</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01492nam a22003497c 4500</leader>
+            <controlfield tag="001">991001379719705501</controlfield>
+            <controlfield tag="005">20240322161259.0</controlfield>
+            <controlfield tag="008">031229s1498    fr            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)159106702-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">159106702</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004640665EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991001379719705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990046406650205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406650205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Wimpfeling, Jakob</subfield>
+                <subfield code="d">1450-1528</subfield>
+                <subfield code="0">(DE-588)118769189</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Philippica in laudem et defensionem Philippi comitis Rheni Palatini Bavariae ducis</subfield>
+                <subfield code="c">Jakob Wimpfeling</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Strassburg]</subfield>
+                <subfield code="b">Martin Schott</subfield>
+                <subfield code="c">19. November 1498</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[14] Bl.</subfield>
+                <subfield code="c">21 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Druckort gemäss Goff</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">HC 16186; BMC I, 96; Goff W-47</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Nicht rubriziert; hs. Notiz von Konrad Gessner mit Druckjahr und Buchumfang auf Bl. 1r</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Stempel der Stadtbibliothek Zürich auf Bl. 1v</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: acht Inkunabeln und zwei Drucke des 16. Jh</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Gessner, Conrad</subfield>
+                <subfield code="d">1516-1565</subfield>
+                <subfield code="0">(DE-588)118694413</subfield>
+                <subfield code="e">Annotierende Person</subfield>
+                <subfield code="4">ann</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schott, Johann</subfield>
+                <subfield code="d">1477-1548</subfield>
+                <subfield code="0">(DE-588)124577008</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Straßburg</subfield>
+                <subfield code="0">(DE-588)4057878-1</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147,11</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406650205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200312e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3gessner</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar mit Signatur 2.147</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">2.147,11</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406650205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990046406650205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990046406650205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>9</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02391nam a2200457 c 4500</leader>
+            <controlfield tag="001">991104391249705501</controlfield>
+            <controlfield tag="005">20260925120017.0</controlfield>
+            <controlfield tag="008">040618s1512    au            00| | lat  </controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)152229647-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">152229647</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003776352EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991104391249705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990037763520205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037763520205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">rda</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Mela, Pomponius</subfield>
+                <subfield code="d">ca. 1. Jh.</subfield>
+                <subfield code="0">(DE-588)118783025</subfield>
+                <subfield code="4">aut</subfield>
+            </datafield>
+            <datafield tag="240" ind1="1" ind2="0">
+                <subfield code="a">De chorographia</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Pomponii Mflae Geographiæ, libri tres</subfield>
+                <subfield code="b">; Hermolai Barbari in eunde[m], integræ castigatio[n]es ; Index In Pomponio contentoru[m] copiosissimus</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2=" ">
+                <subfield code="a">Pomponii Melae Geographiae, libri tres</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Vienn Pannoniæ</subfield>
+                <subfield code="b">per Hieronymu[m] Vietorem Philouallem &amp; Ioannem Singreniu[m] ... de Oeting</subfield>
+                <subfield code="c">Anno M.D.XII.</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[12], 38 Blätter</subfield>
+                <subfield code="c">4º</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Schreibfehler im Titel</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Titeleinfassung, Druckermarke, Bogensignaturen: A⁶, a⁶, b-e⁸, f⁶</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Erscheinungsvermerk gemäss Kolophon</subfield>
+            </datafield>
+            <datafield tag="510" ind1="4" ind2=" ">
+                <subfield code="a">VD16</subfield>
+                <subfield code="c">M 2308</subfield>
+            </datafield>
+            <datafield tag="561" ind1=" " ind2=" ">
+                <subfield code="a">Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (&quot;Adriani philoxeni stam[m]en.&quot;) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth.</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="a">Stempelverzierter Schweinshalbledereinband der Zeit, Metallschliessen (defekt)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Zusammengebunden mit weiteren Drucken des 16. Jh.</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Barbarus, Hermolaus</subfield>
+                <subfield code="c">Iunior</subfield>
+                <subfield code="d">1454-1493</subfield>
+                <subfield code="4">wst</subfield>
+                <subfield code="0">(DE-588)118657119</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Camers, Johannes</subfield>
+                <subfield code="d">1447-1546</subfield>
+                <subfield code="0">(DE-588)124859852</subfield>
+                <subfield code="4">edt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Vietor, Hieronymus</subfield>
+                <subfield code="d">1480-1546</subfield>
+                <subfield code="0">(DE-588)128486554</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Singriener, Johann</subfield>
+                <subfield code="d">1480-1545</subfield>
+                <subfield code="0">(DE-588)128486473</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2="2">
+                <subfield code="a">Mela, Pomponius</subfield>
+                <subfield code="d">ca. 1. Jh.</subfield>
+                <subfield code="t">De chorographia</subfield>
+                <subfield code="0">(DE-588)4221083-5</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2="2">
+                <subfield code="a">Barbarus, Hermolaus</subfield>
+                <subfield code="c">Iunior</subfield>
+                <subfield code="t">Castigationes in Pomponium Melam</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Wirth, Adrian</subfield>
+                <subfield code="d">1503-1563</subfield>
+                <subfield code="0">(DE-588)108931700X</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Orelli, Kaspar &lt;&lt;von&gt;&gt;</subfield>
+                <subfield code="d">1756-1809</subfield>
+                <subfield code="0">(DE-588)117605921</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Stadtbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)17078-1</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Wien</subfield>
+                <subfield code="4">pup</subfield>
+                <subfield code="0">(DE-588)4066009-6</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">2.147: b</subfield>
+                <subfield code="9">(41SLSP_UZB)990037763520205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="c">matt</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZDEOD</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">2.147: b</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990037763520205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990037763520205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037763520205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">Z01FE202609rematt</subfield>
+                <subfield code="9">local</subfield>
+                <subfield code="9">(41SLSP_UZB)990037763520205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>10</recordPosition>
+                  </record>
+          </records><nextRecordPosition>10</nextRecordPosition>
+          <echoedSearchRetrieveRequest>
+            <version>1.2</version>
+            <query>sc.possessingInstitution=Z06 AND (sc.callnumber exact &quot;4.276&quot; OR sc.callnumber exact &quot;Rb 3,4&quot; OR sc.callnumber exact &quot;Ink K 342,7&quot; OR sc.callnumber exact &quot;2.147&quot; OR sc.callnumber exact &quot;Ra 2&quot;)</query>
+            <xQuery xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <recordSchema>MARC21-XML</recordSchema>
+          </echoedSearchRetrieveRequest>
+        </searchRetrieveResponse>

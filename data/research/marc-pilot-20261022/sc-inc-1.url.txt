@@ -1,0 +1,1 @@
+https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&recordSchema=marc21-xml&query=sc.callnumber+exact+%22Ink+K+329%2C12%22&maximumRecords=5

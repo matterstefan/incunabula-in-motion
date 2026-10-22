@@ -1,0 +1,133 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.2</version><numberOfRecords>1</numberOfRecords><records>
+          <record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01351nam a22003257c 4500</leader>
+            <controlfield tag="001">991117636409705501</controlfield>
+            <controlfield tag="005">20240314221906.0</controlfield>
+            <controlfield tag="008">040921s1475    it            00| | lat  </controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Unikatsaufnahme</subfield>
+                <subfield code="5">NEBIS/Z01/02.10.2020</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)16014972X-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">16014972X</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004794194EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991117636409705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990047941940205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047941940205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">De creatione Adae et formatione Evae</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Rom]</subfield>
+                <subfield code="b">[Bartholomaeus Guldinbeck]</subfield>
+                <subfield code="c">[um 1475]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[8] Bl.</subfield>
+                <subfield code="c">20 cm (4°)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Impressum gemäss GW</subfield>
+            </datafield>
+            <datafield tag="510" ind1="0" ind2=" ">
+                <subfield code="a">Hain 79; GW 206</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Nicht rubriziert; hs. Foliierung (15. Jh.); hs. Titel auf Vorsatzblatt; Spuren von Wasserschaden</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Stempel der Kantonsbibliothek Zürich auf Bl. 3r der ersten Inkunabel im Sammelband</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Pappeinband (19. Jh.)</subfield>
+            </datafield>
+            <datafield tag="590" ind1=" " ind2=" ">
+                <subfield code="a">Vorgebunden: elf Inkunabeln; nachgebunden: drei Inkunabeln</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Bartholomäus</subfield>
+                <subfield code="c">Guldinbeck</subfield>
+                <subfield code="0">(DE-588)14382824X</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="0" ind2=" ">
+                <subfield code="a">Bartholomäus</subfield>
+                <subfield code="c">Guldinbeck</subfield>
+                <subfield code="0">(DE-588)14382824X</subfield>
+                <subfield code="e">Drucker</subfield>
+                <subfield code="4">prt</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Kantonsbibliothek Zürich</subfield>
+                <subfield code="0">(DE-588)2046336-4</subfield>
+                <subfield code="e">Früherer Eigentümer</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="751" ind1=" " ind2=" ">
+                <subfield code="a">Rom</subfield>
+                <subfield code="0">(DE-588)4050471-2</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RARA</subfield>
+                <subfield code="j">Ink K 329,12</subfield>
+                <subfield code="9">(41SLSP_UZB)990047941940205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200409e</subfield>
+                <subfield code="c">IDSZ2tamm</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ3ink</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSIxunikat</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RARA</subfield>
+                <subfield code="z">Bestellbar über die Signatur: Ink K 329</subfield>
+                <subfield code="p">71</subfield>
+                <subfield code="j">Ink K 329,12</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990047941940205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990047941940205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990047941940205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>1</recordPosition>
+                  </record>
+          </records>
+          <echoedSearchRetrieveRequest>
+            <version>1.2</version>
+            <query>sc.callnumber exact &quot;Ink K 329,12&quot;</query>
+            <xQuery xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <recordSchema>MARC21-XML</recordSchema>
+          </echoedSearchRetrieveRequest>
+        </searchRetrieveResponse>
