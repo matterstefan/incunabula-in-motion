@@ -1,0 +1,7714 @@
+[
+  {
+    "record_id": "991034700449705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 755,3",
+    "title": [
+      "Quo pacto ingenui adolescentes formandi sint"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Tiguri"
+          ],
+          [
+            "b",
+            "[apud Christophorum Froschouer]"
+          ],
+          [
+            "c",
+            "anno 1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070215s1525    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991035101299705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 33",
+    "title": [
+      "Acta oder Geschicht, wie es uff dem Gesprech d' 26. 27. unnd 28. Tagen Wynmonadts in der christenlichen Statt Zürich vor eim ersamen gsessnen grossen und kleinen Radt, ouch in By sin mer dann 500 Priesteren und vil anderer biderber Lüten ergangen ist"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der christenlichen Statt Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070130s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991035173499705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 10",
+    "title": [
+      "<<Ein>> Sermon von dem Gebet und Procession in der Crützwochen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1520]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070117s1520    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991035207209705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 26",
+    "title": [
+      "Apologeticus archeteles adpellatus quo respondetur paraenesi a Re. Do. Constantiensi (quorundam procaci factione ad id persuaso) ad Senatum praepositurae Tigurinae quem capitulum vocant missae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "930528s1522    sz     |b     00| ||lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991035229199705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 1: 386",
+    "title": [
+      "Operae horarum subcisivarum"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Francofurti"
+          ],
+          [
+            "b",
+            "Typis Ioannis Saurij, impensis letri Kopffij"
+          ],
+          [
+            "c",
+            "1506"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "860320s1506    gw      a|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991036525049705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFZ 1025",
+    "title": [
+      "In Carum Lucretium poetam commentarii ab Ioanne Baptista Pio editi"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Bononiae"
+          ],
+          [
+            "c",
+            "1511"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "081002s1511    it      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991077275959705501",
+    "institution_code": "Z02",
+    "shelfmark": "EDR II 1512 Papstbanner II, 1 -> PAS II 25/6",
+    "title": [
+      "[Erinnerungsblatt an die Geschenke Papst Julius II. an die Eidgenossen]"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Hans Rüegger]"
+          ],
+          [
+            "c",
+            "[1513]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "090206r18821513sz nnn |          i|zxx  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "533",
+          "subfields": [
+            [
+              "a",
+              "Faksimile (leichte Abweichungen)"
+            ],
+            [
+              "b",
+              "Zürich"
+            ],
+            [
+              "c",
+              "Stadtbibliothek Zürich"
+            ],
+            [
+              "d",
+              "1882"
+            ],
+            [
+              "e",
+              "Lithografie"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991078165559705501",
+    "institution_code": "Z06",
+    "shelfmark": "TX 155: 9",
+    "title": [
+      "Illustrium imagines"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Portland, OR"
+          ],
+          [
+            "b",
+            "Collegium graphicum"
+          ],
+          [
+            "c",
+            "1972"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "201011r19721517xxu           00| | eng|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Roma, 1517"
+            ]
+          ]
+        },
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Nachdruck der Ausgabe:"
+            ],
+            [
+              "c",
+              "Roma, 1518"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991078676369705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 901",
+    "title": [
+      "Annotationes Philippi Melanchthonis in epistolam Pauli ad Romanos una[m] et ad Corinthios ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Apud Iohannem Hervagium"
+          ],
+          [
+            "c",
+            "anno 1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050921s1523    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991078982519705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 539: 1",
+    "title": [
+      "<<Ein>> fast nutzlich Uslegung des ersten Psalmen ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basel]"
+          ],
+          [
+            "b",
+            "[Adam Petri]"
+          ],
+          [
+            "c",
+            "[1520]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1520    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991079841709705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 919",
+    "title": [
+      "Philippi Melanchthonis de rhetorica libri tres"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Apud Ioannem Frobenium"
+          ],
+          [
+            "c",
+            "mense Maio anno 1519"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050926s1519    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991081826809705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 31",
+    "title": [
+      "Paraphrases zuo Teutsch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der loblichen Statt Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "jm Jar nach Christi Geburt 1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1523    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991081967609705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 3",
+    "title": [
+      "Paraphrases zuo tütsch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "im Jar nach der Geburt Christi do man zalt 1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991081967909705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 38",
+    "title": [
+      "Usslegen und Gründ der Schlussreden oder Articklen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 3,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 3,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070118s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991082062159705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 24",
+    "title": [
+      "Suplicatio quorundam apud Helvetios evangelittarum ad R. D. Hugonem, episcopum Contantiensem ne se induci patiatur ut quicquam in praeiudicium Evangelij promulget ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070124s1522    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991071282069705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 350: 1",
+    "title": [
+      "Sermo de sacramento eucharistiae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "Sigismundus Grim & Marcus Vuyrsung"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040302s1521    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991071565569705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 636: 218-223",
+    "title": [
+      "Bibel (deutsch)"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschauer"
+          ],
+          [
+            "c",
+            "1524-1529"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050302m15241529sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991073475609705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 358: 1-3",
+    "title": [
+      "In epistolam Ioannis Apostoli catholicam primam ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Andreas Cratander"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1524    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991074376959705501",
+    "institution_code": "Z06",
+    "shelfmark": "AWB 3123",
+    "title": [
+      "Ludus Diane in modum comedie coram Maximiliano Rhomanorum Rege kalendis Martiis et Ludis saturnalibus in arce Linsiana danubii actus ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Nürnberg"
+          ],
+          [
+            "b",
+            "Rottner und Keller"
+          ],
+          [
+            "c",
+            "1994"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": true,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "951116r19941501gw            00| | lat|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Nürnberg : Hieronymus Höltzel, 1501"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991074774639705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 275: 1",
+    "title": [
+      "Eiu chr[i]stenlich Widerfechtung"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Johann Hager"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040209s1524    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991075822749705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 128: 1-7",
+    "title": [
+      "Novum Testamentum graece"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Vuolfius Cephalaeus"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "041221s1524    fr      b     00| | grc  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991076567109705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 235: 1",
+    "title": [
+      "Euangelium Johannis des gotlichen Cantzlers und geliebten Jungers unsers herren Jesu Christi, durch den wirdigen und hochgelarten hern Nicolaum Krumpach, der heyligen schrifft Licentiaten un[d] Pfarhern zu Quernfurt, yns deutsch gebracht ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Leipzig"
+          ],
+          [
+            "b",
+            "Wolffgang Stoeckel"
+          ],
+          [
+            "c",
+            "1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050107s1522    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991027758049705501",
+    "institution_code": "Z06",
+    "shelfmark": "AX 1317",
+    "title": [
+      "<<Die>> Unterweisung der Messung mit dem Zirkel und Richtscheit"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Dietikon/Zürich"
+          ],
+          [
+            "b",
+            "Stocker/Schmid"
+          ],
+          [
+            "c",
+            "1966"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "000909r19661525sz            00| | ger  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "t",
+              "Underweysung der messung/mit dem zirckel uñ richt scheyt/in Linien ebnen unnd gantzen corporen"
+            ],
+            [
+              "c",
+              "Nürnberg, 1525"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991028400779705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 542: 1-4",
+    "title": [
+      "Pharaphrases zuo tütsch, die epistlen sancti Pauli ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991029269599705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 513: 1",
+    "title": [
+      "Huldrichen Zwinglens Antwort wider Hieronymum Emser ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Erscheinungsort nicht ermittelbar]"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040625s1525    xx      b     00| | und d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991029303589705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 540: 1",
+    "title": [
+      "<<Ein>> Klag des Frydens ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991031322659705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 4",
+    "title": [
+      "<<Ein>> Kalender mitt sinem Nüwen und Stunden us des hochgelerten Doctor Iohannis Kungspergers Practic unnd sunst vil subtiler Sachen mit vil Figuren als man am nechsten Blatt lütrer Meldung findt"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der keiserlichen Statt Zürich"
+          ],
+          [
+            "b",
+            "durch Hansen am Wasen [Hans Rüegger]"
+          ],
+          [
+            "c",
+            "am Sampstag nach Sant Lux Tag des Iars do man zalt Tusent fünffhundert und acht Iar [1508]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1508    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991032978939705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 918",
+    "title": [
+      "Oratio Philippi Melanchthonis de officio sacerdotali Vuittenbergae habita ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[J. Prüss]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050926s1521    fr      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991084293369705501",
+    "institution_code": "Z06",
+    "shelfmark": "AWF 179",
+    "title": [
+      "<<Die>> Abenteuer des Ritters Theuerdank"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Köln"
+          ],
+          [
+            "b",
+            "Taschen"
+          ],
+          [
+            "c",
+            "2003"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "201012r20031517gw            00| | ger|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Nürnberg : Johann Schönsperger, 1517"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991085834129705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.292",
+    "title": [
+      "Oratio ad regem Maximilianum de laudibus atque amplitudine Germaniae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Phorce"
+          ],
+          [
+            "b",
+            "Anshelmus"
+          ],
+          [
+            "c",
+            "1504"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "921120s1504    gw      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991089165019705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 351: 1",
+    "title": [
+      "De laudando in Maria deo"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basielae]"
+          ],
+          [
+            "b",
+            "[Andreas Cratander]"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040730s1519    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991089468429705501",
+    "institution_code": "Z06",
+    "shelfmark": "28.453,26",
+    "title": [
+      "Lamentationes Germanicae nationis"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Apud inclytam Asiae civitatem Lactophagam [i.e. Schlettstadt]"
+          ],
+          [
+            "b",
+            "[Lazarus Schürer]"
+          ],
+          [
+            "c",
+            "1526 [i.e. vor 13. Januar 1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "101014r15261521fr            00| | lat  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991037435799705501",
+    "institution_code": "Z06",
+    "shelfmark": "III N 146,14",
+    "title": [
+      "Verwarnung der Diener des Worts und der Brüder zu Strassburg an die Brüder von Landen und Stetten gemeiner Eidgnossschafft"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Wolfgang Koepfel]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "960109s1524    fr      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991037435799705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.233",
+    "title": [
+      "Verwarnung der Diener des Worts und der Brüder zu Strassburg an die Brüder von Landen und Stetten gemeiner Eidgnossschafft"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Wolfgang Koepfel]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "960109s1524    fr      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991044692989705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 365: 1-2",
+    "title": [
+      "De genuina verborum domini, hoc est corpus meum, ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Johann Knobloch]"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040303s1525    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991044822359705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 349: 1",
+    "title": [
+      "De gaudio resurrectionis sermo ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augustae Vindelicorum]"
+          ],
+          [
+            "b",
+            "[Sigismundus Grimm & Marcus Vuyrsung]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040302s1521    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991045534229705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 514: 1",
+    "title": [
+      "Epistel oder Sandtbrieff Huldrych Zwinglis ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Gedruckt Zürich"
+          ],
+          [
+            "b",
+            "durch Johannsen Hager"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "000106s1525    sz      b     0|| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991045991449705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 100: 1-56",
+    "title": [
+      "Vetus testamentum multiplici lingua num primo ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Alcalàde Henares]"
+          ],
+          [
+            "b",
+            "Industria Arnaldi Guillelmi de Brocario"
+          ],
+          [
+            "c",
+            "1514-1517"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040811m15141517sp      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991050632009705501",
+    "institution_code": "Z06",
+    "shelfmark": "KK 401,4",
+    "title": [
+      "In Laudem Reverendissimi Alberthi Archepiscopi Moguntini Vlrichi de Hutten Equitis Panegyricus"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Tubingae"
+          ],
+          [
+            "b",
+            "Anshelmus"
+          ],
+          [
+            "c",
+            "1515"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "910403s1515    gw      b|||| 010 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991050962909705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 346: 1",
+    "title": [
+      "Urteyl und Maynung, auch andere Reden ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Worms]"
+          ],
+          [
+            "b",
+            "[Hans von Erfurt]"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040301s1521    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991051416959705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 28",
+    "title": [
+      "<<Ein>> Expostulation oder Klag Jhesu zuo dem Menschen, der uss eygnem Muotwill verdampt würt"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "jm Jar 1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991051663799705501",
+    "institution_code": "Z06",
+    "shelfmark": "III G 46,13",
+    "title": [
+      "Helij Eobani Hessi a profectione ad Des. Erasmum Roterodamum Hodoeporicon, carmine heroico"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Erphurdie"
+          ],
+          [
+            "b",
+            "per Mattheum Maler"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "910808s1519    gw      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991051695759705501",
+    "institution_code": "Z06",
+    "shelfmark": "1.201,6",
+    "title": [
+      "<<Eyn>> sermon von der bereytung zum sterben, Doctoris Martini Lutheri, Augustiner"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Nürnberg]"
+          ],
+          [
+            "b",
+            "[Jobst Gutknecht]"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "940225s1519    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991091982459705501",
+    "institution_code": "Z01",
+    "shelfmark": "DQ 116",
+    "title": [
+      "Wittemberger Heiligthumsbuch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "München"
+          ],
+          [
+            "b",
+            "Hirth"
+          ],
+          [
+            "c",
+            "1884"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "050411r18841509gw            00| | ger  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "t",
+              "Dye zaigung des hochlobwirdigen hailigthums der Stifftkirchen aller hailigen zu wittenburg"
+            ],
+            [
+              "c",
+              "Gedruckt in der Churfurstlichen Stat Wittenberge : [s.n.], anno Tausent funffhundert und neun"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991096075079705501",
+    "institution_code": "Z06",
+    "shelfmark": "III N 152,16",
+    "title": [
+      "<<Ain>> schön und seüberlich Tractat von der edlen rainen und unbefleckten junckfrauschafft Marie"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Augsburg"
+          ],
+          [
+            "b",
+            "Hannssen Otmar ... durch verlegung des Erbern Jörgen Diemars"
+          ],
+          [
+            "c",
+            "1511"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920506s1511    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991096109219705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.347: a",
+    "title": [
+      "Entschuldigung Katharina Schützinn, für M. Matthes Zellen, jren Eegemahel, der ein Pfarrher und dyener ist im wort Gottes zů Strassburg"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Wolfgang Köpffel]"
+          ],
+          [
+            "c",
+            "[1524]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "940901s1524    fr      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991097182939705501",
+    "institution_code": "Z06",
+    "shelfmark": "40.21 | F",
+    "title": [
+      "Q. Horatii Flacci opera cum quatuor commentariis"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Parisiis"
+          ],
+          [
+            "c",
+            "1543"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "780922r15431519fr       |||| 001 0 lat|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991097864419705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.290",
+    "title": [
+      "Astronomiae judiciariae principia"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Lugduni"
+          ],
+          [
+            "b",
+            "G. Huyon, Impensis B. Trot"
+          ],
+          [
+            "c",
+            "[1520]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "921119s1520    fr      a|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991099575739705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 348: 1-2",
+    "title": [
+      "Das die Beicht ainem Christen Menschen nitt burdlich ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "Andreas Cratander"
+          ],
+          [
+            "c",
+            "1519"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040730s1519    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991123111289705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 39",
+    "title": [
+      "Usslegen und Gründ der Schlussreden oder Articklen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070118s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991128802689705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 364: 1-2",
+    "title": [
+      "Iacobi Latomi ... de confessione secreta ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Andreas Cratander"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040730s1525    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991014313379705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 13",
+    "title": [
+      "<<Ein>> Sermon von der wirdigen Empfahung des heyligen waren Lychnams Christi"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070119s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991014411829705501",
+    "institution_code": "Z06",
+    "shelfmark": "5.162: m",
+    "title": [
+      "Ermahnung zu den Questionieren, abzustellen überflüssige kosten"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[S.I.]"
+          ],
+          [
+            "c",
+            "1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "940420s1522    xx      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991015306929705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 25",
+    "title": [
+      "<<Ein>> früntlich Bitt und Ermanung etlicher Priesteren der Eidgnoschafft, das man das heylig Evangelium Predigen nit abschlahe, noch Unwillen darab empfach, ob die Predgenden Ergernus zuo vermiden sich eelich vermächlind"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 1,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070123s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991015919249705501",
+    "institution_code": "Z06",
+    "shelfmark": "IV U 11,3",
+    "title": [
+      "Celeberrimi sacrarum literarum Doctoris Joannis Geiler Keisersbergij: Argentintensiu[m] Concionatoris bene meriti"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Matthias Schürerius"
+          ],
+          [
+            "c",
+            "1510"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920713s1510    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991015919249705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.154: b",
+    "title": [
+      "Celeberrimi sacrarum literarum Doctoris Joannis Geiler Keisersbergij: Argentintensiu[m] Concionatoris bene meriti"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Matthias Schürerius"
+          ],
+          [
+            "c",
+            "1510"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920713s1510    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991017576019705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 857",
+    "title": [
+      "<<Das>> Alt Testament dütsch, der ursprünglichen ebreischen Waarheyt nach uff das aller truwlichest verdütschet"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "im Hornung des Jahrs 1525-1529"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903m15251529sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991023292579705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 182: 1-28",
+    "title": [
+      "Bibel teutsch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Augspurg"
+          ],
+          [
+            "b",
+            "Silvan Otmar"
+          ],
+          [
+            "c",
+            "1518"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "041214s1518    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991024396379705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 352: 1",
+    "title": [
+      "Ain sermon ... von dem Verss im Magnificat: ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Sigmund Grimm & Marx Wirsung]"
+          ],
+          [
+            "c",
+            "[1520]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040302s1520    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991010086569705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 353: 1",
+    "title": [
+      "Quod expediat epistolae & euangelij lectionem ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Ulrich Morhart]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040302s1522    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991010758169705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 521",
+    "title": [
+      "Panta ta kat'exochēn kaloumena Biblia theias dēladē graphēs palaiaste kai neas"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Venetiis"
+          ],
+          [
+            "b",
+            "in aedib. Aldi et Andreae Soceri"
+          ],
+          [
+            "c",
+            "1518"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": true,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [
+              "hd ||||||||||"
+            ],
+            "008": "930624s1518    it      b     00| | grc|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991010758169705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFZ 1008",
+    "title": [
+      "Panta ta kat'exochēn kaloumena Biblia theias dēladē graphēs palaiaste kai neas"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Venetiis"
+          ],
+          [
+            "b",
+            "in aedib. Aldi et Andreae Soceri"
+          ],
+          [
+            "c",
+            "1518"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": true,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [
+              "hd ||||||||||"
+            ],
+            "008": "930624s1518    it      b     00| | grc|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991013232299705501",
+    "institution_code": "Z06",
+    "shelfmark": "Ink K 338,9",
+    "title": [
+      "Thome Murner Argentini sac-e Theo-e baccalarii Cracoviensis Ad rem publicam Argentinam Germania nova"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Matthias Hupfupff]"
+          ],
+          [
+            "c",
+            "[1502]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920731s1502    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991013813299705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 178",
+    "title": [
+      "[Epigrammaton elegiarumque liber primus et secundus]"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Mediolani"
+          ],
+          [
+            "b",
+            "Alexander"
+          ],
+          [
+            "c",
+            "1502"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "110614s1502    it      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991114769309705501",
+    "institution_code": "Z01",
+    "shelfmark": "39.310,2",
+    "title": [
+      "Badenfahrt"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Strassburg"
+          ],
+          [
+            "b",
+            "J. H. Ed. Heitz"
+          ],
+          [
+            "c",
+            "1887"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "940929r18871514fr            00| | ger|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Strassburg, 1514"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991116966749705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 510: 1",
+    "title": [
+      "Herr Ulrich Zwingli Leerbiechlein, wie man die ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040624s1524    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991116988769705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 11",
+    "title": [
+      "<<Ein>> Klag über den Luterischen Brandt zuo Mentz"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070118s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991117288319705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 537: 1-3",
+    "title": [
+      "Enchiridion oder Hanbuochlin eins waren christlichen und strytbarlichen Lebens ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "[Valentin Curio]"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991117350639705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 360: 1-4",
+    "title": [
+      "De libero arbitrio ... elenchus"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Thomas Wolffius"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040730s1524    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991118322749705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 219: 1-5",
+    "title": [
+      "<<Das>> Alt Testament dütsch, der ursprünglichen Ebreischen waarheyt nach uff das aller trüwlichest verdütschet"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschauer"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "041215s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991119160319705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 516: 1",
+    "title": [
+      "Vonn dem Nachtmal Christi wider Gedechtnus ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschouer"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040628s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991120382849705501",
+    "institution_code": "Z05",
+    "shelfmark": "Mus 2802: 11",
+    "title": [
+      "Musica getutscht und ausgezoge"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Berlin"
+          ],
+          [
+            "b",
+            "Trautwein"
+          ],
+          [
+            "c",
+            "1882"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "980728r18821511gw ||||| |||| 00| ||ger d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Basel : [s.n.], 1511"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991121271099705501",
+    "institution_code": "Z06",
+    "shelfmark": "5,162: a,6",
+    "title": [
+      "De disputatione Lipsicensi, quantum ad Boemos obiter deflexa est, epistola Hieronymi Emser ad Aegocerotem Emserianum Martini Lutheri additio"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Otmar]"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "940324s1519    gw      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991121383009705501",
+    "institution_code": "Z01",
+    "shelfmark": "AB 990",
+    "title": [
+      "Enchiridion oder eyn Handbuchlein, eynem yetzlichen Christen fast nutzlich bey sich zuhaben zur stetter Ubung unnd Trachtung geystlicher Gesenge und Psalmen, rechtschaffen unnd kunstlich vertheutscht"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Erfurt"
+          ],
+          [
+            "b",
+            "Gerhardt und Schreiber"
+          ],
+          [
+            "c",
+            "1848"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "980924r18481524gw ||||| |||| 00| ||ger d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "1524"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991121979839705501",
+    "institution_code": "Z06",
+    "shelfmark": "TX 306: 3",
+    "title": [
+      "Coss"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Stuttgart [etc.]"
+          ],
+          [
+            "b",
+            "Teubner"
+          ],
+          [
+            "c",
+            "1992"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "940119r19921524gw     |      00| ||ger|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991122060649705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 5",
+    "title": [
+      "<<Ein>> kurtz Gedicht so nüwlich ein thurgowischer Pur Docter Martin Lutrer unnd siner Leer zuo Lob und synen Widerwerttigenn zuo Spott gemacht hat"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070119s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991100531269705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 945 HEW 19: 1",
+    "title": [
+      "Oratio Ioannis Langii Lembergii encomium theologicae disputationis, doctorum, Ioannis Eckii, Andreae Carolstadii, ac Martini Lutherii complectens ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Lipsiae"
+          ],
+          [
+            "b",
+            "apud Melchiorem Lotherum"
+          ],
+          [
+            "c",
+            "anno a natali Christiano 1519"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "080523s1519    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991101673679705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 833",
+    "title": [
+      "Auctores historiae ecclesiasticae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basilea]"
+          ],
+          [
+            "b",
+            "Ioan. Frob."
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1523    sz      b     0|| | lat d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991102515679705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 27",
+    "title": [
+      "<<Ein>> Predig von der ewigreinen Magt Maria der Muoter Jesu Christi unsers Erlösers Zürich gethon vonn Huldrychen Zwingli imm M.D.xxij. Jar"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der loblichen Statt Zürich"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "jm Jar nach Christus Gburt 1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070123s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991103830089705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 399: 1",
+    "title": [
+      "Eyn Wegsprech gen Regenspurg"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Hagenau]"
+          ],
+          [
+            "b",
+            "[Amandus Farckall]"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040329s1525    gw      b     00| | ger  ",
+            "338b": [
+              "he"
+            ]
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991103932759705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 14",
+    "title": [
+      "<<Ein>> Predig von der Betrachtung des heyligen Lyden Christi"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschower"
+          ],
+          [
+            "c",
+            "[1520?]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 1,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1520    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991105321489705501",
+    "institution_code": "Z06",
+    "shelfmark": "TX 155: 4",
+    "title": [
+      "Underweysung der Messung mit dem Zirckel und Richtscheyt"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Portland"
+          ],
+          [
+            "b",
+            "Collegium Graphicum"
+          ],
+          [
+            "c",
+            "1972"
+          ]
+        ]
+      },
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "c",
+            "©1972"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "201012r19721525xxu           00| | ger  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "t",
+              "Nachdruck der Ausgabe"
+            ],
+            [
+              "c",
+              "Nürnberg, 1525"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991106272279705501",
+    "institution_code": "Z06",
+    "shelfmark": "AA 1822",
+    "title": [
+      "<<Ain>> Bericht, Wie Doctor Martini Luther von ersten hinder söllichen schwären handel kumen sey, und was in darzuo geursacht und bewegt hat"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Melchior Ramminger]"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "910923s1521    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991107224009705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 9",
+    "title": [
+      "<<Ein>> nutzliche fruchtbare Underwysung was da sy der Gloub und ein war christenlich Leben"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christoffel Froschouer"
+          ],
+          [
+            "c",
+            "jm Jar nach Christi Geburt 1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1521    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991109100269705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.33,27",
+    "title": [
+      "<<Ain>> Gesprechbüchlin, von ainem Weber und ainem Kramer über das Büchlin Doctoris Mathie Kretz von der haimlichen Beycht"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Erscheinungsort nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920904s1524    xx      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991111182249705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1447,13",
+    "title": [
+      "<<Die>> Artickel so Mayster Arsacius Seehoffer von München durch die Hohenschuol zuo Jngoldstat beredt am Abent unser Frawē Geburt nechst verschinen widerruoffet und verworffen hat"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Philipp Ulhart]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "951229s1523    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991111257669705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.31,4",
+    "title": [
+      "Offenbarung des Endtchrists"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Philipp Ulhart]"
+          ],
+          [
+            "c",
+            "[1524]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "911213s1524    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991112327139705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1432,3",
+    "title": [
+      "MDXXIIII. Ayn Sermon, ob dye Orennbeicht oder der Glaub allain oder was den Menschen zuo wirdiger Empfahung des hailigenn Sacraments geschickt mach"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Melchior Ramminger]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "930111s1524    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991001556669705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 126",
+    "title": [
+      "Laurentii Corvini Noviforensis Dialogus carmine et soluta oratione conflatus: de Mentis saluberrima psuasione"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Lipsiae"
+          ],
+          [
+            "b",
+            "Schuman"
+          ],
+          [
+            "c",
+            "1516"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [
+              "he ||||||||||"
+            ],
+            "008": "030305s1516    gw      b     00| | lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991002421569705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 356: 1",
+    "title": [
+      "Ain Lettaney zü Gott dem Vatter, inn allen ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Altomünster"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1523    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991002737629705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 517: 1",
+    "title": [
+      "Von dem Nachtmal Christi wider Gedechtnus ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschouer"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040628s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991002759539705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 567: 1-5",
+    "title": [
+      "Hebraicum Psalterium"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1516"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040614s1516    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991004262009705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 218: 1-6",
+    "title": [
+      "<<Das>> gantz Nüw Testament recht grüntlich vertüscht"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschower"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "041215s1524    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991004460969705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 37",
+    "title": [
+      "<<Ein>> christenlich Ansehen und Ordnung von den eersamen Burgermeister und Radt und dem grossen Radt der Statt Zürich, ouch Propst und Capitel zum grossen Münster daselbst, von der Priesterschafft und Pfruonden wegen ermessen und angenommen zuo Lob Gottes und der Seelen Heyl"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [
+              "he ||||||||||"
+            ],
+            "008": "070131s1523    sz      bl    00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991005393749705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 32",
+    "title": [
+      "<<Das>> Gyren Rupffen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "d. Christo. Froschower"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070126s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991007261759705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 221: 1-3",
+    "title": [
+      "<<Das>> dritt teyl des Alten Testaments"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschauer"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050106s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991007509649705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 12",
+    "title": [
+      "Warumb des Babsts und siner Jungern Bücher von Doctor Martino Lüther verbrendt sind"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070119s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991008395819705501",
+    "institution_code": "Z06",
+    "shelfmark": "AWF 304 | G",
+    "title": [
+      "<<Ein>> Pariser Stundenbuch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Budapest]"
+          ],
+          [
+            "b",
+            "Corvina"
+          ],
+          [
+            "c",
+            "1988"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "920613r19881510hu     |      00| ||lat|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Faksimile von"
+            ],
+            [
+              "c",
+              "1510"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991129358279705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 538: 1",
+    "title": [
+      "<<Ein>> expostulation oder Klag Jhesu zuo dem Menschen, ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991130312579705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 8",
+    "title": [
+      "<<Ein>> nutzliche Underwisung eines christenlichen Fürsten wol zuo regieren"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der loblichen Stat Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "jm Jar als man zalt nach der Geburt Christi unsers lyeben Herren. 1521 Jar."
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1521    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991131931399705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 89: 1",
+    "title": [
+      "Ain gesprech etlicher predicanten zu Basel ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basel]"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040810s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991132733349705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 519: 1",
+    "title": [
+      "Naachhut von dem Nachtmal oder Dancksagung ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Johans Hager"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040625s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991133058029705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 512: 1",
+    "title": [
+      "<<Ejn>> Gegenwurff und Widerweer Hulderych Zuinglins wider Hieronymum Emser ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschouer"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040624s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991133104609705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 359: 1-9",
+    "title": [
+      "Novi testamenti omina. In sacrarum literarum ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Bebelius"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1524    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991133642609705501",
+    "institution_code": "Z06",
+    "shelfmark": "AX 384",
+    "title": [
+      "Kleine Holzschnitt-Passion"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Berlin"
+          ],
+          [
+            "b",
+            "Amsler & Ruthardt"
+          ],
+          [
+            "c",
+            "[um 1920]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "041005r19201511gw            000 0 ger d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "t",
+              "Passio Christi"
+            ],
+            [
+              "c",
+              "Impressum Nurnberge per Albertū Durer Pictorē 1511"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991134545439705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 832",
+    "title": [
+      "Almi confessoris et anachorete Beati"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basilea]"
+          ],
+          [
+            "b",
+            "[ex officina providi viri Adae Petri de Langedorff]"
+          ],
+          [
+            "c",
+            "[impressa anno Domini 1511]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "060628s1511    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991134841279705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 902",
+    "title": [
+      "Annotationes Philippi Melanchthonis in epistolas Pauli ad Rhomanos et Corinthios ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Norimbergae"
+          ],
+          [
+            "b",
+            "Per Iohannem Stuchs"
+          ],
+          [
+            "c",
+            "10 kal. Novembris anno [15]22 [etc]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050921s1522    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991136489959705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 362: 1-7",
+    "title": [
+      "In Jesaiam Prophetam ... commentariorum libri VI"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Andreas Cratander"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040303s1525    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991136574099705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 106",
+    "title": [
+      "Philippi Beroaldi Carmen lugubre"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Paris]"
+          ],
+          [
+            "b",
+            "Ex aedibus Ascensianis"
+          ],
+          [
+            "c",
+            "1508"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920313s1508    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991136799149705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.154: a,4",
+    "title": [
+      "Aesopi Fabulatoris Clarissimi, tres et triginta fabulae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Paris"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920506s1521    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991137069429705501",
+    "institution_code": "Z01",
+    "shelfmark": "DQ 117",
+    "title": [
+      "Hans Burgkmair's Leben und Leiden Christi"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "München"
+          ],
+          [
+            "b",
+            "Hirth"
+          ],
+          [
+            "c",
+            "1887"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "050914r18871520gw       |||| 000 0 ger|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Augsburg, 1520"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991137129449705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 822",
+    "title": [
+      "<<Der>> ewige Wiszheit Betbüchlin"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "Jacoben von Pfortzheim"
+          ],
+          [
+            "c",
+            "1518"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1518    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991137816419705501",
+    "institution_code": "Z06",
+    "shelfmark": "TX 145: 4",
+    "title": [
+      "Gyron le courtoys"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "London"
+          ],
+          [
+            "b",
+            "Scolar Pr."
+          ],
+          [
+            "c",
+            "1977"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "900725r19771501xxk      |||| 000 0 eng|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Reprint of the edition published"
+            ],
+            [
+              "c",
+              "Paris, A. Verard, 1501"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991138121439705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFZ 1013,9",
+    "title": [
+      "Dialogus"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer]"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "920713s1525    sz      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991138260489705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.569,4",
+    "title": [
+      "Disz seint die Artickell, szo Magyster Arsacius Sehofer von München durch die hohenn Schul, tzu Jngelstadt beredt am Abent unsser Frawen Geburt nechsten verschinen wyderruffen und verworffen hadt. M. D. xxiij. Breslaw"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Breslaw"
+          ],
+          [
+            "b",
+            "Durch Caspar Lybisch"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "951229s1523    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991138791069705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 29",
+    "title": [
+      "<<Ein>> göttlich Vermanung an die ersamen, wysen, eerenvesten, eltisten Eydgnossen zuo Schwytz, das sy sich vor frömden Herren hütind und entladind"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 2,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 2,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070123s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991139186469705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 684",
+    "title": [
+      "Ermanuge zum fride auff die zwelff artickel der Bawrschafft yn Schwaben"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Regensburg]"
+          ],
+          [
+            "b",
+            "[Kohl]"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990608s1525    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991139871389705501",
+    "institution_code": "Z06",
+    "shelfmark": "AW 1016,2",
+    "title": [
+      "Romischer Kayserlicher Maiestat ordnungen fürsehungen vn erclerungen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Erscheinungsort nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "950209s1522    xx      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991139985689705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1441,12",
+    "title": [
+      "Copia ainer Missiue, so doctor Martinus Luther nach seinem abschid zü Worms zü rugk an die Churfürsten, Fürsten, unnd Stände des hayligen Römischen Reichs da selbst versamelt geschriben hat"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Konstanz]"
+          ],
+          [
+            "b",
+            "[Johann Schäffler]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "930409s1521    gw      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991140085409705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.338,2",
+    "title": [
+      "Hemistichia poetarum sentenciosiora pro pueris"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "c",
+            "1505"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "030505s1505    fr      a||||u000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991140676869705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1447,7",
+    "title": [
+      "Vom hochwürdigen Sacrament des Altars: underricht was man auss hayliger geschrifft wissen mag durch Doctor Urbanu Regium zu Augspurg gepredigt Corporis Christi biss auff den achtenden"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Philipp Ulhart]"
+          ],
+          [
+            "c",
+            "1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "030505s1523    gw      a||||u000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991142147109705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 357: 1",
+    "title": [
+      "<<Das>> Testament Jesu Christi, das man bisher genent hat ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Erscheinungsort nicht ermittelbar]"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1523    xx      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991157575599705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 23",
+    "title": [
+      "Von Erkiesen und Fryheit der Spysen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070124s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991157667309705501",
+    "institution_code": "Z06",
+    "shelfmark": "AWF 352",
+    "title": [
+      "<<Les>> libertes et franchises de Geneve"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Genève]"
+          ],
+          [
+            "b",
+            "[Braillard]"
+          ],
+          [
+            "c",
+            "[1968]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "201011r19681507sz            00| | fre d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Nachdruck der Ausgabe von"
+            ],
+            [
+              "c",
+              "Genève, 1507"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991157667309705501",
+    "institution_code": "Z06",
+    "shelfmark": "AX 6629",
+    "title": [
+      "<<Les>> libertes et franchises de Geneve"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Genève]"
+          ],
+          [
+            "b",
+            "[Braillard]"
+          ],
+          [
+            "c",
+            "[1968]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "201011r19681507sz            00| | fre d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Nachdruck der Ausgabe von"
+            ],
+            [
+              "c",
+              "Genève, 1507"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991159266969705501",
+    "institution_code": "Z06",
+    "shelfmark": "IV U 11",
+    "title": [
+      "Nauicula Penitentie"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Schurer"
+          ],
+          [
+            "c",
+            "1512"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "921030s1512    fr      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991160327169705501",
+    "institution_code": "Z01",
+    "shelfmark": "TK 409: l",
+    "title": [
+      "Gersons Lärdom huru man skall dö (Ars moriendi)"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Stockholm"
+          ],
+          [
+            "b",
+            "Norstedt"
+          ],
+          [
+            "c",
+            "1881"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "020307r18811514sw            00| | swe  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Upsala, 1514"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991161021599705501",
+    "institution_code": "Z06",
+    "shelfmark": "Ry 306,3",
+    "title": [
+      "Tractatus de pestilentia"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Tübingen"
+          ],
+          [
+            "b",
+            "Friedrich Meynberger"
+          ],
+          [
+            "c",
+            "1501"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "910815s1501    gw      b|||| 000 0 lat|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991152112769705501",
+    "institution_code": "Z01",
+    "shelfmark": "ZM 1541: k,2",
+    "title": [
+      "Till Eulenspiegel"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Halle a.S."
+          ],
+          [
+            "b",
+            "Niemeyer"
+          ],
+          [
+            "c",
+            "1884"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "020126r18841515gw            00| | ger  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "p",
+              "Abdruck der Ausgabe"
+            ],
+            [
+              "c",
+              "vom Jahre 1515"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991153602219705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 30",
+    "title": [
+      "Teutsche Paraphrases"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christo. Froschower"
+          ],
+          [
+            "c",
+            "jm Jar nach Christi Geburt 1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1523    sz      b     0|| | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991153609959705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 7",
+    "title": [
+      "<<Das>> Lob der Pfarrer"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070117s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991153863489705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 36",
+    "title": [
+      "Dis nachbestimpten Artikel und Meinungen bekenn ich Huldrich Zuingly mich jn der loblichen Statt Zürich gprediget haben uss Grund der Geschrifft, die Theopneustos (das ist vonn Gott jngesprochen) heisst, und embüt mich mitt dero genante Artickel zebeschirmen und erobren"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070201s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991153906539705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 35",
+    "title": [
+      "<<Ein>> kurtze und gemeine Form für die Schwachgleubigen, Kinder zuo touffen"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "031218s1523    sz      b     000 | ger d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991156787769705501",
+    "institution_code": "Z01",
+    "shelfmark": "AB 990,2",
+    "title": [
+      "Teutsch kirchenampt mit lobgsengen und götlichen psalmen wie es die gemein zu Strassburg singt und halt mit mer gantz Christlichen gebetten"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Erfurt"
+          ],
+          [
+            "b",
+            "Gerhardt & Schreiber"
+          ],
+          [
+            "c",
+            "1848"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "911031r18481525gw       |||| 000 0 ger|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Strassburg, 1525"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991066020669705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 2",
+    "title": [
+      "Paraphrases zuo tütsch"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "jm Jar nach Christi Geburt do man zalt: 1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1522    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991066283829705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 22",
+    "title": [
+      "Suggestio deliberandi super propositione Hadriani pontificis Romani Nerobergae facta ad principes Germaniae à quodam ingenue tum in commune Reip. Christianae, tum privatim Germaniae favente, scripta. ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Zürich]"
+          ],
+          [
+            "b",
+            "[Christoph Froschauer d. Ä.]"
+          ],
+          [
+            "c",
+            "1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 1,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "070124s1522    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991066936919705501",
+    "institution_code": "Z03",
+    "shelfmark": "Ms S 17a,80b (Dr 14)",
+    "title": [
+      "Lamentationes Germanicae nationis"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Apud inclytam Asiae civitatem Lactophagam [i.e. Schlettstadt]"
+          ],
+          [
+            "b",
+            "[Lazarus Schürer]"
+          ],
+          [
+            "c",
+            "1526 [i.e. vor 13. Januar 1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 1,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "101014r15261521fr            00| | lat  "
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991054912899705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 354: 1",
+    "title": [
+      "De non habendo pauperum delectu"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "[Cratander]"
+          ],
+          [
+            "c",
+            "1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040301s1523    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991055070829705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 361: 1",
+    "title": [
+      "Sermon am Sonntag nach den Achteden der ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Sigmund Grimm]"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040302s1523    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991055152019705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 855",
+    "title": [
+      "Marsilii Ficini Florentini de religione christiana & fidei pietate opusculum"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Knobloch d.Ä.]"
+          ],
+          [
+            "c",
+            "[1507]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "990903s1507    fr      b     0|| | lat d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991060051669705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 521: 1",
+    "title": [
+      "Von dem Brot und Weyn des Herren. Christlicher Beriecht [sic]"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Verlag nicht ermittelbar]"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040730s1525    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991060985469705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 220: 1-5",
+    "title": [
+      "<<Das>> ander teyl des Alten Testaments"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Zürich"
+          ],
+          [
+            "b",
+            "Christoph Froschauer"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050106s1525    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991061007289705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 234: 1",
+    "title": [
+      "<<Das>> heilig Euangelium Matthei aus kriechsersprach, un[d ] bisweiln aus des hochgelerte[n] hern Erasmi vo[n] Roterdam translacion un[d] durch den wirdige[n] doctore[n] Joha[n]ne[n] Langiu[m] vo[n] Erffurt Augustiner orde[n]s yns deutsch gebracht ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Erfurt"
+          ],
+          [
+            "b",
+            "[Wolfgang Stürmer]"
+          ],
+          [
+            "c",
+            "1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050107s1521    gw      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991061114399705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 217: 1-8",
+    "title": [
+      "<<Das>> newe Testament yetz klaerlich auss dem rechten grundt teüscht"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "Thomas Wolff"
+          ],
+          [
+            "c",
+            "1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "041215s1523    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991061196089705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 536: HB 127",
+    "title": [
+      "Novum testamentum omne, tertio iam ac diligentibus ab Erasmo Roterodamo recognitum, non solum ad Graecam veritatem, verumetiam ad multorum utriusque linguae codicum ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basel"
+          ],
+          [
+            "b",
+            "Johann Froben"
+          ],
+          [
+            "c",
+            "1522"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "030109s1522    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991144858229705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFA 523",
+    "title": [
+      "Acta oder Geschicht, wie es uff dem Gesprech d' 26. 27. unnd 28. Tagen Wynmonadts in der christenlichen Statt Zürich vor eim ersamen gsessnen grossen und kleinen Radt, ouch in By sin mer dann 500 Priesteren und vil anderer biderber Lüten ergangen ist"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt in der christenlichen Statt Zürich"
+          ],
+          [
+            "b",
+            "Durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "[1523]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "091106s1523    sz      b|||| 000 0 ger|d",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991145605129705501",
+    "institution_code": "Z06",
+    "shelfmark": "AWF 292 | G",
+    "title": [
+      "Missale Aquileyensis Ecclesie cu[m] o[mn]ibus requisitis: atq[ue] figuris nup[er] q[uam] eme[n]datissime p[er]lustratu[m]"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Bruxelles"
+          ],
+          [
+            "b",
+            "CULTURE ET CIVILISATION"
+          ],
+          [
+            "c",
+            "1963"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": true,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "000912r19631519be            00| | lat|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Venetiis : Libraria Gregorii de Gregoriis, 1519"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991145605129705501",
+    "institution_code": "Z06",
+    "shelfmark": "AX 2084",
+    "title": [
+      "Missale Aquileyensis Ecclesie cu[m] o[mn]ibus requisitis: atq[ue] figuris nup[er] q[uam] eme[n]datissime p[er]lustratu[m]"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Bruxelles"
+          ],
+          [
+            "b",
+            "CULTURE ET CIVILISATION"
+          ],
+          [
+            "c",
+            "1963"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "later_reproduction_date"
+    ],
+    "core_provenance_fields_in_record": 1,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": true,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "008_reproduction_after_1525",
+          "evidence": "000912r19631519be            00| | lat|d"
+        }
+      ],
+      "review_notes": [],
+      "source_notes": [
+        {
+          "tag": "534",
+          "subfields": [
+            [
+              "c",
+              "Venetiis : Libraria Gregorii de Gregoriis, 1519"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "record_id": "991146425199705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 363: 1-3",
+    "title": [
+      "In epistolam B. Pauli apost. ad Romanos, adnotationes"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Andreas Cratander"
+          ],
+          [
+            "c",
+            "1525"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040303s1525    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991147164799705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 620: 1-2",
+    "title": [
+      "Proverbia Salominis"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Ioannes Frobenius"
+          ],
+          [
+            "c",
+            "August 1520"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040614s1520    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991147357679705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 489: 1",
+    "title": [
+      "Descriptio de situ Helvetiae et vicinis gentibus ..."
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basileae]"
+          ],
+          [
+            "b",
+            "[Ioannes Frobenius]"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040705s1519    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991150104029705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 910",
+    "title": [
+      "Institutiones rhetoricae"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "Per Adamum Petri"
+          ],
+          [
+            "c",
+            "anno 1523"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "050921s1523    sz      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991150269739705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFC 234: 347: 1-2",
+    "title": [
+      "Quod sit onerosa Christianis confessio, paradoxon"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augustae Vindelicorum]"
+          ],
+          [
+            "b",
+            "[Sigismundus Grimm medicus & Marcus Vuyrsung]"
+          ],
+          [
+            "c",
+            "[1521]"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040729s1521    gw      b     00| | lat  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  },
+  {
+    "record_id": "991151330289705501",
+    "institution_code": "Z01",
+    "shelfmark": "MFT 16: 6",
+    "title": [
+      "<<Ein>> Klag des Frydens, der in allen Nationen und Landen verworffen, vertriben und erlegt"
+    ],
+    "publication": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruckt zuo Zürich"
+          ],
+          [
+            "b",
+            "durch Christophorum Froschouer"
+          ],
+          [
+            "c",
+            "in dem Jar als man zalt nach der Geburt Christi 1521"
+          ]
+        ]
+      }
+    ],
+    "review_flags": [
+      "microform_encoding"
+    ],
+    "core_provenance_fields_in_record": 0,
+    "explicit_provenance_fields": 0,
+    "assumed_provenance_fields": 0,
+    "record_has_unresolved_provenance": false,
+    "reproduction_screen": {
+      "status": "excluded_reproduction",
+      "reasons": [
+        {
+          "rule": "microform_encoding",
+          "evidence": {
+            "007": [],
+            "008": "040608s1521    sz      b     00| | ger  ",
+            "338b": []
+          }
+        }
+      ],
+      "review_notes": [],
+      "source_notes": []
+    }
+  }
+]

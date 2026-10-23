@@ -1,0 +1,14 @@
+{
+  "input_references": 5303,
+  "excluded_references": 154,
+  "excluded_records": 149,
+  "retained_references": 5149,
+  "retained_records": 4396,
+  "review_references": 45,
+  "retained_references_with_electronic_encoding": 419,
+  "excluded_by_rule": {
+    "microform_encoding": 129,
+    "008_reproduction_after_1525": 25
+  },
+  "note": "Retained references are working candidates, not a verified census. Missing ZB references remain in the baseline records.json; no date/hierarchy exclusions in this step."
+}
