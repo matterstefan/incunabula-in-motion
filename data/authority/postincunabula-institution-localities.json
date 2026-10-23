@@ -1,0 +1,50 @@
+[
+  {
+    "gnd_id": "4374885-5",
+    "institution": "Kloster Rheinau",
+    "locality": "Rheinau",
+    "source": "Handbuch der historischen Buchbestände in der Schweiz, vol. 3, Zentralbibliothek Zürich, §1.16–1.20, pp. 368–369",
+    "basis": "handbook",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  },
+  {
+    "gnd_id": "17078-1",
+    "institution": "Stadtbibliothek Zürich",
+    "locality": "Zürich",
+    "source": "Handbuch der historischen Buchbestände in der Schweiz, vol. 3, Zentralbibliothek Zürich, §1.21–1.22, p. 369",
+    "basis": "handbook",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  },
+  {
+    "gnd_id": "4707527-2",
+    "institution": "Jesuitenkolleg Luzern",
+    "locality": "Luzern",
+    "source": "Explicit locality in the catalogue corporate-owner name Jesuitenkolleg Luzern; authority identifier used for identity matching, not externally fetched",
+    "basis": "catalogue_name",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  },
+  {
+    "gnd_id": "4372432-2",
+    "institution": "Großmünster",
+    "locality": "Zürich",
+    "source": "Handbuch der historischen Buchbestände in der Schweiz, vol. 3, Zentralbibliothek Zürich, §1.2, p. 365",
+    "basis": "handbook",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  },
+  {
+    "gnd_id": "2046336-4",
+    "institution": "Kantonsbibliothek Zürich",
+    "locality": "Zürich",
+    "source": "Handbuch der historischen Buchbestände in der Schweiz, vol. 3, Zentralbibliothek Zürich, §1.87–1.88, p. 380",
+    "basis": "handbook",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  },
+  {
+    "gnd_id": "38444-6",
+    "institution": "Naturforschende Gesellschaft in Zürich",
+    "locality": "Zürich",
+    "source": "Handbuch der historischen Buchbestände in der Schweiz, vol. 3, Zentralbibliothek Zürich, §1.1, p. 365",
+    "basis": "handbook",
+    "scope": "Institutional locality; not direct evidence of physical residence of every copy; no dates inferred"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "rules": 6,
+  "records_with_institution_locality": 335,
+  "records_multiple_shelfmarks": 32,
+  "records_single_shelfmark": 303,
+  "institution_counts": {
+    "Großmünster": 21,
+    "Kloster Rheinau": 253,
+    "Kantonsbibliothek Zürich": 11,
+    "Stadtbibliothek Zürich": 34,
+    "Jesuitenkolleg Luzern": 23,
+    "Naturforschende Gesellschaft in Zürich": 11
+  },
+  "place_counts": {
+    "Zürich": 71,
+    "Rheinau": 253,
+    "Luzern": 23
+  },
+  "records_with_multiple_distinct_institution_localities": 12,
+  "dated_stations_generated": 0
+}
