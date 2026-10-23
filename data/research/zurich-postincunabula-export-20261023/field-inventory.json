@@ -1,0 +1,453 @@
+{
+  "working_references": 5149,
+  "working_records": 4396,
+  "fields": {
+    "010": {
+      "occurrences": 11,
+      "records": 11,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "019": {
+      "occurrences": 1936,
+      "records": 1889,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "020": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "024": {
+      "occurrences": 842,
+      "records": 803,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "035": {
+      "occurrences": 22627,
+      "records": 4396,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "040": {
+      "occurrences": 4397,
+      "records": 4396,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "041": {
+      "occurrences": 323,
+      "records": 323,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "050": {
+      "occurrences": 36,
+      "records": 36,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "060": {
+      "occurrences": 10,
+      "records": 7,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "082": {
+      "occurrences": 134,
+      "records": 128,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "084": {
+      "occurrences": 19,
+      "records": 18,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "100": {
+      "occurrences": 3758,
+      "records": 3758,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "110": {
+      "occurrences": 12,
+      "records": 12,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "130": {
+      "occurrences": 5,
+      "records": 5,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "240": {
+      "occurrences": 564,
+      "records": 564,
+      "records_with_lexical_cues": 1,
+      "core_indicator_records": 0
+    },
+    "245": {
+      "occurrences": 4396,
+      "records": 4396,
+      "records_with_lexical_cues": 7,
+      "core_indicator_records": 0
+    },
+    "246": {
+      "occurrences": 2047,
+      "records": 1677,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "250": {
+      "occurrences": 74,
+      "records": 74,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "264": {
+      "occurrences": 4406,
+      "records": 4396,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "300": {
+      "occurrences": 4150,
+      "records": 4149,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "310": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "336": {
+      "occurrences": 1547,
+      "records": 1547,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "337": {
+      "occurrences": 1822,
+      "records": 1547,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "338": {
+      "occurrences": 1822,
+      "records": 1547,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "340": {
+      "occurrences": 23,
+      "records": 22,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "351": {
+      "occurrences": 242,
+      "records": 242,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "362": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "490": {
+      "occurrences": 250,
+      "records": 250,
+      "records_with_lexical_cues": 1,
+      "core_indicator_records": 0
+    },
+    "500": {
+      "occurrences": 7038,
+      "records": 3097,
+      "records_with_lexical_cues": 20,
+      "core_indicator_records": 0
+    },
+    "502": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "504": {
+      "occurrences": 18,
+      "records": 16,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "505": {
+      "occurrences": 436,
+      "records": 214,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "506": {
+      "occurrences": 243,
+      "records": 243,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "509": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "510": {
+      "occurrences": 3515,
+      "records": 2975,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "520": {
+      "occurrences": 27,
+      "records": 26,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "540": {
+      "occurrences": 2,
+      "records": 2,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "561": {
+      "occurrences": 543,
+      "records": 526,
+      "records_with_lexical_cues": 413,
+      "core_indicator_records": 526
+    },
+    "563": {
+      "occurrences": 450,
+      "records": 449,
+      "records_with_lexical_cues": 107,
+      "core_indicator_records": 0
+    },
+    "581": {
+      "occurrences": 16,
+      "records": 16,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "590": {
+      "occurrences": 2248,
+      "records": 1688,
+      "records_with_lexical_cues": 384,
+      "core_indicator_records": 0
+    },
+    "596": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 1,
+      "core_indicator_records": 0
+    },
+    "600": {
+      "occurrences": 261,
+      "records": 209,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "610": {
+      "occurrences": 39,
+      "records": 38,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "611": {
+      "occurrences": 14,
+      "records": 13,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "630": {
+      "occurrences": 56,
+      "records": 54,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "648": {
+      "occurrences": 39,
+      "records": 34,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "650": {
+      "occurrences": 991,
+      "records": 610,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "651": {
+      "occurrences": 114,
+      "records": 103,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "655": {
+      "occurrences": 573,
+      "records": 490,
+      "records_with_lexical_cues": 1,
+      "core_indicator_records": 0
+    },
+    "690": {
+      "occurrences": 633,
+      "records": 440,
+      "records_with_lexical_cues": 2,
+      "core_indicator_records": 0
+    },
+    "700": {
+      "occurrences": 7009,
+      "records": 3062,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 907
+    },
+    "710": {
+      "occurrences": 1843,
+      "records": 1657,
+      "records_with_lexical_cues": 2,
+      "core_indicator_records": 365
+    },
+    "730": {
+      "occurrences": 197,
+      "records": 168,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "740": {
+      "occurrences": 313,
+      "records": 144,
+      "records_with_lexical_cues": 3,
+      "core_indicator_records": 0
+    },
+    "751": {
+      "occurrences": 3878,
+      "records": 2739,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "752": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "780": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "830": {
+      "occurrences": 245,
+      "records": 245,
+      "records_with_lexical_cues": 1,
+      "core_indicator_records": 0
+    },
+    "852": {
+      "occurrences": 5151,
+      "records": 4396,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "856": {
+      "occurrences": 1445,
+      "records": 1376,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "866": {
+      "occurrences": 5,
+      "records": 5,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "880": {
+      "occurrences": 111,
+      "records": 55,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "900": {
+      "occurrences": 13048,
+      "records": 4155,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "901": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "910": {
+      "occurrences": 2,
+      "records": 2,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "911": {
+      "occurrences": 131,
+      "records": 102,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "949": {
+      "occurrences": 5199,
+      "records": 4153,
+      "records_with_lexical_cues": 43,
+      "core_indicator_records": 0
+    },
+    "965": {
+      "occurrences": 26,
+      "records": 26,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "986": {
+      "occurrences": 4156,
+      "records": 4154,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "990": {
+      "occurrences": 1243,
+      "records": 1069,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "993": {
+      "occurrences": 22,
+      "records": 22,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "999": {
+      "occurrences": 1,
+      "records": 1,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    },
+    "AVD": {
+      "occurrences": 37,
+      "records": 35,
+      "records_with_lexical_cues": 0,
+      "core_indicator_records": 0
+    }
+  },
+  "records_with_core_indicators": 1212,
+  "records_with_any_lexical_cue": 866,
+  "lexical_only_records": 85
+}
