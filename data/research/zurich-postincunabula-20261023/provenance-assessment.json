@@ -1,0 +1,2126 @@
+{
+  "counts": {
+    "records": 3930,
+    "shelfmark_occurrences": 4666,
+    "with_590": 1458,
+    "with_former_owners": 924,
+    "with_explicit_provenance_or_owner": 991,
+    "owner_without_561_361": 496,
+    "with_owner_authority": 896,
+    "multiple_shelfmarks": 545,
+    "with_561": 495,
+    "with_563": 442,
+    "with_561_and_owner": 428
+  },
+  "excluded": [
+    {
+      "id": "ZBC6ec2ab88e03945c1a32625dd44038f79",
+      "title": "Privatbibliotheken \"Alte Drucke und Rara\"",
+      "publication_date": "ca. 1500 - 1900",
+      "reason": "Collection-level description, not an individual edition"
+    },
+    {
+      "id": "991074376959705501",
+      "title": "Ludus Diane in modum comedie coram Maximiliano Rhomanorum Rege kalendis Martiis et Ludis saturnalibus in arce Linsiana danubii actus ...",
+      "publication_date": "1994",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991137816419705501",
+      "title": "Gyron le courtoys",
+      "publication_date": "1977",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991157667309705501",
+      "title": "<<Les>> libertes et franchises de Geneve",
+      "publication_date": "[1968]",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991008395819705501",
+      "title": "<<Ein>> Pariser Stundenbuch",
+      "publication_date": "1988",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991133642609705501",
+      "title": "Kleine Holzschnitt-Passion",
+      "publication_date": "[um 1920]",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991084293369705501",
+      "title": "<<Die>> Abenteuer des Ritters Theuerdank",
+      "publication_date": "2003",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991078165559705501",
+      "title": "Illustrium imagines",
+      "publication_date": "1972",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991145605129705501",
+      "title": "Missale Aquileyensis Ecclesie cu[m] o[mn]ibus requisitis: atq[ue] figuris nup[er] q[uam] eme[n]datissime p[er]lustratu[m]",
+      "publication_date": "1963",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991097182939705501",
+      "title": "Q. Horatii Flacci opera cum quatuor commentariis",
+      "publication_date": "1543",
+      "reason": "Publication statement 1543; outside 1501–1525"
+    },
+    {
+      "id": "991084754599705501",
+      "title": "<<Das>> Erfurter Enchiridion",
+      "publication_date": "1929",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991121979839705501",
+      "title": "Coss",
+      "publication_date": "1992",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991027758049705501",
+      "title": "<<Die>> Unterweisung der Messung mit dem Zirkel und Richtscheit",
+      "publication_date": "1966",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991130042889705501",
+      "title": "<<Das>> älteste Zwickauer Gesangbuch von 1525",
+      "publication_date": "1935",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991026486139705501",
+      "title": "<<Das>> älteste Zwickauer Gesangbuch von 1525",
+      "publication_date": "1960",
+      "reason": "Later reproduction; historical original date caused search hit"
+    },
+    {
+      "id": "991105321489705501",
+      "title": "Underweysung der Messung mit dem Zirckel und Richtscheyt",
+      "publication_date": "1972 ©1972",
+      "reason": "Later reproduction; historical original date caused search hit"
+    }
+  ],
+  "retained_date_review": [
+    {
+      "id": "991129504929705501",
+      "title": "Regula beatissimi patris Benedicti",
+      "publication_date": "[um 1500/01]",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991118907549705501",
+      "title": "Biblia",
+      "publication_date": "[1498?]-1502",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991146173949705501",
+      "title": "Sermo historialis passionis dominicae",
+      "publication_date": "[kurz nach 1500]",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991084253089705501",
+      "title": "Repertorium iuris utriusque",
+      "publication_date": "1500-1501",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991148837349705501",
+      "title": "Biblia",
+      "publication_date": "[1498?]-1502",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991146361459705501",
+      "title": "Opera",
+      "publication_date": "1500-1501",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991102876179705501",
+      "title": "Psalterium cum apparatu vulgari firmiter appresso",
+      "publication_date": "in dem Jahr als man zalt 1500 und 3 [=1503]",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991154148019705501",
+      "title": "Orthographia",
+      "publication_date": "[nach 1500]",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991154720479705501",
+      "title": "Biblia cum summariorum apparatu pleno quadruplicique repetorio insignita ...",
+      "publication_date": "Anno Domini 1015 [i.e. 1515]",
+      "status": "retained_boundary_or_corrected_date"
+    },
+    {
+      "id": "991089468429705501",
+      "title": "Lamentationes Germanicae nationis",
+      "publication_date": "1526 [i.e. vor 13. Januar 1521]",
+      "status": "retained_boundary_or_corrected_date"
+    }
+  ],
+  "former_owner_count_per_record": {
+    "0": 3006,
+    "1": 668,
+    "2": 162,
+    "3": 62,
+    "4": 16,
+    "5": 15,
+    "6": 1
+  },
+  "owners_by_frequency": [
+    {
+      "name": "Kloster Rheinau",
+      "authority_ids": [
+        "(DE-588)4374885-5"
+      ],
+      "record_count": 253
+    },
+    {
+      "name": "Zwingli, Ulrich",
+      "authority_ids": [
+        "(DE-588)118637533"
+      ],
+      "record_count": 151
+    },
+    {
+      "name": "Simler, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)100408605"
+      ],
+      "record_count": 124
+    },
+    {
+      "name": "Gessner, Conrad",
+      "authority_ids": [
+        "(DE-588)118694413"
+      ],
+      "record_count": 52
+    },
+    {
+      "name": "Stadtbibliothek Zürich",
+      "authority_ids": [
+        "(DE-588)17078-1"
+      ],
+      "record_count": 34
+    },
+    {
+      "name": "Meyer von Knonau, Gerold",
+      "authority_ids": [
+        "(DE-588)10157813X"
+      ],
+      "record_count": 28
+    },
+    {
+      "name": "Gwalther, Rudolf",
+      "authority_ids": [
+        "(DE-588)11854392X"
+      ],
+      "record_count": 25
+    },
+    {
+      "name": "Jesuitenkolleg Luzern",
+      "authority_ids": [
+        "(DE-588)4707527-2"
+      ],
+      "record_count": 23
+    },
+    {
+      "name": "Steiner, Wernher",
+      "authority_ids": [
+        "(DE-588)138518920"
+      ],
+      "record_count": 22
+    },
+    {
+      "name": "Großmünster",
+      "authority_ids": [
+        "(DE-588)4372432-2"
+      ],
+      "record_count": 21
+    },
+    {
+      "name": "Bullinger, Heinrich",
+      "authority_ids": [
+        "(DE-588)118517384"
+      ],
+      "record_count": 19
+    },
+    {
+      "name": "Effinger, Roman",
+      "authority_ids": [
+        "(DE-588)1089633270"
+      ],
+      "record_count": 14
+    },
+    {
+      "name": "Wonlich, Rudolf",
+      "authority_ids": [
+        "(DE-588)1089281161"
+      ],
+      "record_count": 13
+    },
+    {
+      "name": "Jenny, Markus",
+      "authority_ids": [
+        "(DE-588)1035480697"
+      ],
+      "record_count": 13
+    },
+    {
+      "name": "Wirth, Adrian",
+      "authority_ids": [
+        "(DE-588)108931700X"
+      ],
+      "record_count": 12
+    },
+    {
+      "name": "Brunner, Johann Caspar",
+      "authority_ids": [],
+      "record_count": 12
+    },
+    {
+      "name": "Zimmermann, Hansjürg",
+      "authority_ids": [
+        "(DE-588)1089423535"
+      ],
+      "record_count": 12
+    },
+    {
+      "name": "Zimmermann, Hans Rudolf",
+      "authority_ids": [
+        "(DE-588)108956581X"
+      ],
+      "record_count": 12
+    },
+    {
+      "name": "Zimmermann, Theophil",
+      "authority_ids": [
+        "(DE-588)127850481"
+      ],
+      "record_count": 12
+    },
+    {
+      "name": "Pellicanus, Conrad",
+      "authority_ids": [
+        "(DE-588)118739867"
+      ],
+      "record_count": 11
+    },
+    {
+      "name": "Kantonsbibliothek Zürich",
+      "authority_ids": [
+        "(DE-588)2046336-4"
+      ],
+      "record_count": 11
+    },
+    {
+      "name": "Hutten, Ulrich <<von>>",
+      "authority_ids": [
+        "(DE-588)118555049"
+      ],
+      "record_count": 11
+    },
+    {
+      "name": "Naturforschende Gesellschaft in Zürich",
+      "authority_ids": [
+        "(DE-588)38444-6"
+      ],
+      "record_count": 11
+    },
+    {
+      "name": "Orelli, Johann Kaspar <<von>>",
+      "authority_ids": [
+        "(DE-588)118787179"
+      ],
+      "record_count": 10
+    },
+    {
+      "name": "Orelli, Kaspar <<von>>",
+      "authority_ids": [
+        "(DE-588)117605921"
+      ],
+      "record_count": 10
+    },
+    {
+      "name": "Stumpf, Johann Rudolf",
+      "authority_ids": [
+        "(DE-588)119842947"
+      ],
+      "record_count": 9
+    },
+    {
+      "name": "Fabricius, Erasmus",
+      "authority_ids": [
+        "(DE-588)1089344155"
+      ],
+      "record_count": 7
+    },
+    {
+      "name": "Stift Fluntern",
+      "authority_ids": [
+        "(DE-588)7583844-8"
+      ],
+      "record_count": 6
+    },
+    {
+      "name": "Frisius, Johannes",
+      "authority_ids": [
+        "(DE-588)120538520"
+      ],
+      "record_count": 6
+    },
+    {
+      "name": "Blecker, Johann Georg",
+      "authority_ids": [],
+      "record_count": 6
+    },
+    {
+      "name": "Fry, Johann Beat",
+      "authority_ids": [],
+      "record_count": 6
+    },
+    {
+      "name": "Rubeus, Adam",
+      "authority_ids": [],
+      "record_count": 6
+    },
+    {
+      "name": "Hagenbuch, Johann Caspar",
+      "authority_ids": [
+        "(DE-588)137096739"
+      ],
+      "record_count": 5
+    },
+    {
+      "name": "Gandenheimer, Johannes",
+      "authority_ids": [
+        "(DE-588)1089316232"
+      ],
+      "record_count": 4
+    },
+    {
+      "name": "Peter",
+      "authority_ids": [
+        "(DE-588)103155384"
+      ],
+      "record_count": 4
+    },
+    {
+      "name": "Alumnatsbibliothek",
+      "authority_ids": [
+        "(DE-588)1087536901"
+      ],
+      "record_count": 4
+    },
+    {
+      "name": "Merian, Matthias",
+      "authority_ids": [],
+      "record_count": 4
+    },
+    {
+      "name": "Harzer, Georg Sebastian",
+      "authority_ids": [
+        "(DE-588)11969994X"
+      ],
+      "record_count": 4
+    },
+    {
+      "name": "Lutz, Heinrich",
+      "authority_ids": [],
+      "record_count": 4
+    },
+    {
+      "name": "Eberhard",
+      "authority_ids": [
+        "(DE-588)1095670689"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Göldlin von Tieffenau",
+      "authority_ids": [
+        "(DE-588)1089330472"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Pfarrei Sachseln",
+      "authority_ids": [
+        "(DE-588)1087565774"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Bölsterli, Rudolf",
+      "authority_ids": [
+        "(DE-588)1089396171"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Bouquin, Abraham",
+      "authority_ids": [],
+      "record_count": 3
+    },
+    {
+      "name": "Kinback, David",
+      "authority_ids": [],
+      "record_count": 3
+    },
+    {
+      "name": "Ulrich, Jakob",
+      "authority_ids": [
+        "(DE-588)136160298"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Göldli, Herkules",
+      "authority_ids": [
+        "(DE-588)1089463731"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Haab, Ursus",
+      "authority_ids": [
+        "(DE-588)1089500610"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Vögelin, Friedrich Salomon",
+      "authority_ids": [
+        "(DE-588)118967142"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Cervinus, Franciscus",
+      "authority_ids": [],
+      "record_count": 3
+    },
+    {
+      "name": "Zwingliverein",
+      "authority_ids": [
+        "(DE-588)1088261086"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Weidmann, Heinrich",
+      "authority_ids": [
+        "(DE-588)1089381212"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Weidmann, Felix",
+      "authority_ids": [
+        "(DE-588)118057383"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Rütiner, Johannes",
+      "authority_ids": [
+        "(DE-588)119372673"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Keller, Hans Wilhelm",
+      "authority_ids": [
+        "(DE-588)1089419333"
+      ],
+      "record_count": 3
+    },
+    {
+      "name": "Kloster Wettingen",
+      "authority_ids": [
+        "(DE-588)809503-6"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Tobler, Felix",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Fortmann, Nikolaus",
+      "authority_ids": [
+        "(DE-588)1089672551"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Adelphus, Johannes",
+      "authority_ids": [
+        "(DE-588)118500643"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Brügger, Johannes",
+      "authority_ids": [
+        "(DE-588)1089313292"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Keller, Marcus",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Schuoher, Matthaeus",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Müller, Johannes",
+      "authority_ids": [
+        "(DE-588)12471773X"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Frey, Johann Beat",
+      "authority_ids": [
+        "(DE-588)1089660375"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Heidenheim, Moritz",
+      "authority_ids": [
+        "(DE-588)116604999"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Atrocianus, Johannes",
+      "authority_ids": [
+        "(DE-588)1089317719"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Enk, Mauriz",
+      "authority_ids": [
+        "(DE-588)130804320"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Maag, Johannes",
+      "authority_ids": [
+        "(DE-588)1084137577"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Manz, Johannes",
+      "authority_ids": [
+        "(DE-588)1089168861"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Heidegger, Johann Conrad",
+      "authority_ids": [
+        "(DE-588)102272905"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Cervinus, Franciscus",
+      "authority_ids": [
+        "(DE-588)1089501536"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Weiss, Hans Jakob",
+      "authority_ids": [
+        "(DE-588)1089419716"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Hartmann, Urban",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Hottinger, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)11701348X"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Eglinger, Samuel",
+      "authority_ids": [
+        "(DE-588)104382406"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Murer, Johannes",
+      "authority_ids": [
+        "(DE-588)1089347146"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Manz, Johannes",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Widler, Marcus",
+      "authority_ids": [
+        "(DE-588)108932491X"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Werndli, Hans Jakob",
+      "authority_ids": [
+        "(DE-588)108942454X"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Abbazia di Santa Giustina",
+      "authority_ids": [
+        "(DE-588)1024410-4"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Ulrich, Johann Heinrich",
+      "authority_ids": [
+        "(DE-588)115549382"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Engeler, Hans Jakob",
+      "authority_ids": [
+        "(DE-588)1089283903"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Vollenweider, Jakob",
+      "authority_ids": [
+        "(DE-588)122706722"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Strub, Johannes",
+      "authority_ids": [],
+      "record_count": 2
+    },
+    {
+      "name": "Zwingli, Ulrich",
+      "authority_ids": [
+        "(DE-588)118637533e"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Hess, Salomon",
+      "authority_ids": [
+        "(DE-588)116768851"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Corti, Walter Robert",
+      "authority_ids": [
+        "(DE-588)118522299"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Zwingli, Ulrich",
+      "authority_ids": [
+        "(DE-588)119879522"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Stocker, Johann Martin",
+      "authority_ids": [
+        "(DE-588)1089404107"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Manz, Melchior",
+      "authority_ids": [
+        "(DE-588)1089417306"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Brunner, Fridolin",
+      "authority_ids": [
+        "(DE-588)108009265X"
+      ],
+      "record_count": 2
+    },
+    {
+      "name": "Figel, Johann Wilhelm",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Jesuitenkolleg",
+      "authority_ids": [
+        "(DE-588)5086939-5"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Frei, Johann Beat",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Gisling, Bernhard",
+      "authority_ids": [
+        "(DE-588)1089335539"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Tuntel, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Voelckle, Christian",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Leemann, Rudolf",
+      "authority_ids": [
+        "(DE-588)1089336683"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Engelin, Johann Georg",
+      "authority_ids": [
+        "(DE-588)1089664915"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Pfister, Johann",
+      "authority_ids": [
+        "(DE-588)1089664907"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Rinberg, David",
+      "authority_ids": [
+        "(DE-588)1089664923"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Pfarrkirche St. Paul",
+      "authority_ids": [
+        "(DE-588)1086294041"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Nairz, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Telus, Valentin",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Entlin, Melchior",
+      "authority_ids": [
+        "(DE-588)1089364725"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Murer, Fridolin",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Zürich",
+      "authority_ids": [
+        "(DE-588)1297373235"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Simon",
+      "authority_ids": [
+        "(DE-588)1070284009"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Roll, Hans",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Ammann, Johann Kaspar",
+      "authority_ids": [
+        "(DE-588)1089281137"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bibliothek der Lateinschule am Fraumünster",
+      "authority_ids": [
+        "(DE-588)1086904478"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wiel, Melchior",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "übereck, Hans Georg",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Han, Jakob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Bobhart, Jakob",
+      "authority_ids": [
+        "(DE-588)104312033"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bacharach, Jacob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Meister, Ulrich",
+      "authority_ids": [
+        "(DE-588)136806678"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wirtzgart, Emmerich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Göldlin von Tieffenau",
+      "authority_ids": [
+        "(DE-588)1089334885"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stucki, Hans Heinrich",
+      "authority_ids": [
+        "(DE-588)1089553889"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kapuziner Engen",
+      "authority_ids": [
+        "(DE-588)1087583640"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Fridenberger, Johann Jacob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Renner, Johann Felix",
+      "authority_ids": [
+        "(DE-588)1089321414"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ulrich, Kaspar",
+      "authority_ids": [
+        "(DE-588)1089410611"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stokar von Neuforn",
+      "authority_ids": [
+        "(DE-588)108933625X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Hospinianus, Rodolphus",
+      "authority_ids": [
+        "(DE-588)121891453"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Hoffmann, Rudolf",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Pfyffer, Johann Ulrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Knobloch",
+      "authority_ids": [
+        "(DE-588)1090671210"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Johann Conrad",
+      "authority_ids": [
+        "(DE-588)1089308213"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Werlin, Wolf Adam",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Werlin, Hans",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Meister, Konrad",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Jesuitenkolleg",
+      "authority_ids": [
+        "(DE-588)5086961-9"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bachofen, Bartholomäus",
+      "authority_ids": [
+        "(DE-588)1089417241"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bachofen, Johann Ulrich",
+      "authority_ids": [
+        "(DE-588)128544198"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schönau, Hans <<von>>",
+      "authority_ids": [
+        "(DE-588)1012303543"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Edlibach, Ludwig",
+      "authority_ids": [
+        "(DE-588)135745667"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Fürstenberger, Philipp",
+      "authority_ids": [
+        "(DE-588)137563094"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kloster Dornach",
+      "authority_ids": [
+        "(DE-588)1086452046"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Dettinger, Andreas",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Rücker, Johann",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Greifenberg, Wolfgang Sigismund",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Hurri, Johannes",
+      "authority_ids": [
+        "(DE-588)1089469128"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kloster Thorberg",
+      "authority_ids": [
+        "(DE-588)7725716-9"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bielschmid, Johannes",
+      "authority_ids": [
+        "(DE-588)119621363"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Haas, Nikolaus",
+      "authority_ids": [
+        "(DE-588)1089471017"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Dorer, Caspar Joseph",
+      "authority_ids": [
+        "(DE-588)1059450992"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Sutor, Johannes de Zurzach",
+      "authority_ids": [
+        "(DE-588)1089485743"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schulthess, Johannes",
+      "authority_ids": [
+        "(DE-588)100401961"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Meili, Friedrich",
+      "authority_ids": [
+        "(DE-588)11878286X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Binder, Georg",
+      "authority_ids": [
+        "(DE-588)13718641X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Pellikan, Konrad",
+      "authority_ids": [
+        "(DE-588)1089455607"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Johannes Simon",
+      "authority_ids": [
+        "(DE-588)1089312326"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Pfyffer, Jost",
+      "authority_ids": [
+        "(DE-588)1051786045"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Zigrosser, Carl",
+      "authority_ids": [
+        "(DE-588)124482759"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Hans Wilhelm",
+      "authority_ids": [
+        "(DE-588)1089377185"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Breitinger, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)118659952"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stiftsbibliothek St. Gallen",
+      "authority_ids": [
+        "(DE-588)2089619-0"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bürgerbibliothek Zürich",
+      "authority_ids": [
+        "(DE-588)4466502-7"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Gessner, Johannes",
+      "authority_ids": [
+        "(DE-588)119331136"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wyss, Heinrich",
+      "authority_ids": [
+        "(DE-588)108934189X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wyss, Felix",
+      "authority_ids": [
+        "(DE-588)115583025"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Keller, Caspar",
+      "authority_ids": [
+        "(DE-588)1089315066"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Linck, Iodocus",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Göldlin von Tiefenau, Beat Rudolph",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Köchler, Johann",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Hummelberger, Michael",
+      "authority_ids": [
+        "(DE-588)124728073"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Haab, Johann Jakob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Nicolaus",
+      "authority_ids": [
+        "(DE-588)108953907X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Letter, Johann Balthasar",
+      "authority_ids": [
+        "(DE-588)108934712X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schmidt, Peter",
+      "authority_ids": [
+        "(DE-588)103838592X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "göldlin",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Keßler, Josua",
+      "authority_ids": [
+        "(DE-588)11972670X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wirth, Johannes",
+      "authority_ids": [
+        "(DE-588)1089467338"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Vadianus, Joachim",
+      "authority_ids": [
+        "(DE-588)118625780"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Egli, Tobias",
+      "authority_ids": [
+        "(DE-588)1089466366"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Locher, Johann Heinrich",
+      "authority_ids": [
+        "(DE-588)1089342667"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Episcopius, Nicolaus",
+      "authority_ids": [
+        "(DE-588)128686634"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ulrich, Johann Jacob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Escher, Hans Konrad",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Gütiger, Jodocus",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Egli, Oswald",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Kretz, Bläsi",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Pollignot, Claudius",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Baumann, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)131424602"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Hirzgarter, Hans Jakob",
+      "authority_ids": [
+        "(DE-588)108949551X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Grob, Hans Felix",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Johann Konrad",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Schörzlinus, Zacharias",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Milher, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Brunner, Emil",
+      "authority_ids": [
+        "(DE-588)118516175"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Huldricus, H.",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Oberhensli, Peter",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Megander, Kaspar",
+      "authority_ids": [
+        "(DE-588)12037210X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Fries, Johann Jacob",
+      "authority_ids": [
+        "(DE-588)120538504"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Erasmus, Desiderius",
+      "authority_ids": [
+        "(DE-588)118530666"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kloster Weingarten",
+      "authority_ids": [
+        "(DE-588)2112767-0"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Grebel, Conrad",
+      "authority_ids": [
+        "(DE-588)119135930"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Breitinger, Johann Jakob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Gymnasium Mediceum ad Caballinum Montem",
+      "authority_ids": [
+        "(DE-588)1088185304"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Nepos, Jacobus",
+      "authority_ids": [
+        "(DE-588)1089672284"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Rüderlin, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Vögeli, Jörg",
+      "authority_ids": [
+        "(DE-588)119441209"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Vögeli, Ernst",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Widmann, Johann",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Füssli, Johann Konrad",
+      "authority_ids": [
+        "(DE-588)104052481"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Usteri, Leonhard",
+      "authority_ids": [
+        "(DE-588)117322962"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Heucherius, Samuel",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Spiegel, Jakob",
+      "authority_ids": [
+        "(DE-588)128380500"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Weidmann, G.[?]",
+      "authority_ids": [
+        "(DE-588)1089446527"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Geiger, Franz",
+      "authority_ids": [
+        "(DE-588)13365530X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kantonsbibliothek Luzern",
+      "authority_ids": [
+        "(DE-588)3058552-1"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bertschi, Marx",
+      "authority_ids": [
+        "(DE-588)1089451148"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Straub, Johannes",
+      "authority_ids": [
+        "(DE-588)1089889208"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Zimmermann, Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Rordorf, H.I.",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Kempter-Scheurer, Max",
+      "authority_ids": [
+        "(DE-588)127735100"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kloster Sankt Ulrich und Afra Augsburg",
+      "authority_ids": [
+        "(DE-588)5520765-0"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Holtzwart, Matthäus",
+      "authority_ids": [
+        "(DE-588)118774808"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Knupp, Stephan",
+      "authority_ids": [
+        "(DE-588)108950232X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Herrliberger, Felix",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Johann",
+      "authority_ids": [
+        "(DE-588)122064283"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Grüter, Wolfgang",
+      "authority_ids": [
+        "(DE-588)1089417780"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Dubois de Montperreux, Frédéric",
+      "authority_ids": [
+        "(DE-588)123218098"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Petitpierre, Johann Samuel",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Orelli, Johann Caspar",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Earls of Macclesfield Library",
+      "authority_ids": [
+        "(DE-588)1084345781"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kapuzinerkloster",
+      "authority_ids": [
+        "(DE-588)2152537-7"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Nyscheler, Leonhard",
+      "authority_ids": [
+        "(DE-588)1089793073"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ambühl, Rudolf",
+      "authority_ids": [
+        "(DE-588)119605562"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ambühl, Johannes",
+      "authority_ids": [
+        "(DE-588)119605554"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bühler, Hans Ludwig",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Sterzing, Christoph",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Rathius, Wolfgang",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Wellenberg, Michael <<von>>",
+      "authority_ids": [
+        "(DE-588)1089664621"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Marij",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Caspar",
+      "authority_ids": [
+        "(DE-588)100131603"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Meiss, Agnes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Meiss, Ulrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Sphyractes, Johannes",
+      "authority_ids": [
+        "(DE-588)1031166068"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Socin, Nicolaus",
+      "authority_ids": [
+        "(DE-588)104414422X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bernhard",
+      "authority_ids": [
+        "(DE-588)1109921152"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Giger, Gothard",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Johannes",
+      "authority_ids": [
+        "(DE-588)118757555"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Johann Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Kessler, Christian David",
+      "authority_ids": [
+        "(DE-588)115872388"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Gwalther, Michael",
+      "authority_ids": [
+        "(DE-588)1089515294"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schwyzer, Hans",
+      "authority_ids": [
+        "(DE-588)1089418000"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wirz, Oswald",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Beise, Jakob Georg Friedrich",
+      "authority_ids": [
+        "(DE-588)116113375"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schmid, Konrad",
+      "authority_ids": [
+        "(DE-588)10026641X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Baltenschwyler, Rudolf",
+      "authority_ids": [
+        "(DE-588)1089417969"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Bierset, Pascal <<von>>",
+      "authority_ids": [
+        "(DE-588)139264132"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Balthasar, ..",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Spross, Hans Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Zimmermann, Georg R.",
+      "authority_ids": [
+        "(DE-588)101757107"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Zimmermann, Johann Rudolf",
+      "authority_ids": [
+        "(DE-588)1089337663"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ulrich, Hans",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Huth, Henry",
+      "authority_ids": [
+        "(DE-588)129024961"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Escher, Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Hottinger, Jakob",
+      "authority_ids": [
+        "(DE-588)1089418396"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kuhn, Jakob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Fritschi, Kaspar",
+      "authority_ids": [
+        "(DE-588)1089418825"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Egli, Emil",
+      "authority_ids": [
+        "(DE-588)118688111"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Escher, Marx",
+      "authority_ids": [
+        "(DE-588)1089660731"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Stocker, ..",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Bodmer, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)118512315"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wanner, Valentin",
+      "authority_ids": [
+        "(DE-588)118629115"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Hirz, Johannes",
+      "authority_ids": [
+        "(DE-588)1390362442"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Steinhuser, Johann",
+      "authority_ids": [
+        "(DE-588)1089418930"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schweizer, Alexander",
+      "authority_ids": [
+        "(DE-588)118612158"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Werdmüller, Felix",
+      "authority_ids": [
+        "(DE-588)1089418582"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Otto, Josua Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Stumpf, Johannes",
+      "authority_ids": [
+        "(DE-588)1089446004"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Keller, Jakob",
+      "authority_ids": [
+        "(DE-588)108941949X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Murer, Johannes",
+      "authority_ids": [
+        "(DE-588)1089277563"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Steiner, Jakob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Gibel, Friedrich",
+      "authority_ids": [
+        "(DE-588)1089419341"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wonlich, Rudolf",
+      "authority_ids": [
+        "F(DE-588)1089281161"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Egli, Johann Jakob",
+      "authority_ids": [
+        "(DE-588)116371757"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kilchsperger, Johann Hartmann",
+      "authority_ids": [
+        "(DE-588)1089418914"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Breitinger, Hans Konrad",
+      "authority_ids": [
+        "(DE-588)1089418906"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Schweitzer, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Mursius, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Keller, Jakob",
+      "authority_ids": [
+        "(DE-588)1089419724"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Rahn, Johannes",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Brennwald, Heinrich",
+      "authority_ids": [
+        "(DE-588)118659987"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ströwlin, Michael",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Aurifaber, Johann Rudolph",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Israelitische Cultusgemeinde Zürich",
+      "authority_ids": [
+        "(DE-588)809245-X"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wiedmer, Friedrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Haldenstein, Johann Jacob",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Büeler, Marx",
+      "authority_ids": [
+        "(DE-588)1089534140"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Baltenschwyler, Hans Ludwig",
+      "authority_ids": [
+        "(DE-588)1089419775"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Kaspar",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Wolf, Heinrich",
+      "authority_ids": [
+        "(DE-588)119504227"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Heer, Johannes",
+      "authority_ids": [
+        "(DE-588)134243676"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Ulrich, Johann Heinrich",
+      "authority_ids": [],
+      "record_count": 1
+    },
+    {
+      "name": "Wipf, Hans Othmar",
+      "authority_ids": [
+        "(DE-588)1089424523"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kirchhofer, Melchior",
+      "authority_ids": [
+        "(DE-588)118842528"
+      ],
+      "record_count": 1
+    },
+    {
+      "name": "Kloster Ochsenhausen",
+      "authority_ids": [
+        "(DE-588)2133171-6"
+      ],
+      "record_count": 1
+    }
+  ],
+  "scope": "Z06; record-level; dates based on catalogue, no item-level provenance allocation yet"
+}
