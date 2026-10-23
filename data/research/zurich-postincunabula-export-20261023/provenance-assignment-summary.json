@@ -1,0 +1,19 @@
+{
+  "references": 5149,
+  "records": 4396,
+  "source_fields_or_candidates": 2524,
+  "field_assignments": {
+    "plausible": 2238,
+    "open": 190,
+    "explicit": 96
+  },
+  "reference_coverage_mutually_exclusive": {
+    "no_assigned_candidate": 3798,
+    "plausible": 1122,
+    "explicit": 59,
+    "open_only": 170
+  },
+  "references_with_linked_place_tokens": 356,
+  "references_with_linked_year_tokens": 226,
+  "warning": "Explicit refers only to catalogue copy linkage, not certainty of ownership, physical identity or map readiness. Lexical notes remain candidates. Places use a small declared vocabulary; dates may be citations or other events. Reviewed biographical inferences remain separate in review-decisions.json."
+}
