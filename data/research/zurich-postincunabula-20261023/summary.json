@@ -1,0 +1,150 @@
+{
+  "query": "sc.possessingInstitution = Z06 AND dc.date >= 1501 AND dc.date <= 1525",
+  "distinct_records_retrieved": 3946,
+  "selection_method": "Union of 25 complete single-year responses; original range query reported 3969",
+  "pages": [
+    {
+      "year": 1501,
+      "count": 67,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1501&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1502,
+      "count": 74,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1502&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1503,
+      "count": 68,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1503&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1504,
+      "count": 67,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1504&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1505,
+      "count": 81,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1505&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1506,
+      "count": 70,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1506&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1507,
+      "count": 84,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1507&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1508,
+      "count": 82,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1508&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1509,
+      "count": 76,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1509&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1510,
+      "count": 86,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1510&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1511,
+      "count": 86,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1511&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1512,
+      "count": 110,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1512&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1513,
+      "count": 112,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1513&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1514,
+      "count": 126,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1514&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1515,
+      "count": 128,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1515&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1516,
+      "count": 124,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1516&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1517,
+      "count": 112,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1517&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1518,
+      "count": 167,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1518&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1519,
+      "count": 211,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1519&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1520,
+      "count": 284,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1520&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1521,
+      "count": 371,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1521&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1522,
+      "count": 362,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1522&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1523,
+      "count": 437,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1523&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1524,
+      "count": 388,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1524&recordSchema=marc21-xml&maximumRecords=500"
+    },
+    {
+      "year": 1525,
+      "count": 301,
+      "url": "https://sru.swisscollections.ch/swisscollections?version=1.2&operation=searchRetrieve&query=sc.possessingInstitution+%3D+Z06+AND+dc.date+%3D+1525&recordSchema=marc21-xml&maximumRecords=500"
+    }
+  ],
+  "counts": {
+    "bibliographic_records": 3946,
+    "distinct_shelfmarks_per_record_sum": 4684,
+    "records_with_590": 1460,
+    "records_with_former_owner": 929,
+    "records_with_former_owner_authority": 901,
+    "records_with_explicit_provenance_field_or_owner": 997,
+    "records_with_multiple_Z06_shelfmarks": 547,
+    "records_date1_outside_or_uncertain": 26,
+    "records_with_561": 496,
+    "records_with_563": 442
+  },
+  "limitations": [
+    "Counts concern records and shelfmark candidates, not verified physical copies.",
+    "563 and 590 are retained as candidates, not automatically counted as provenance.",
+    "Private 361/541/561 excluded from derived audit; raw source retained.",
+    "Date index selection requires review against literal publication statements."
+  ]
+}

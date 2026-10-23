@@ -1,0 +1,36 @@
+name: Collect Zurich post-incunabula
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore completed year queries
+        uses: actions/cache/restore@v4
+        with:
+          path: data/research/zurich-postincunabula-20261023
+          key: swisscollections-postinc-20261023-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            swisscollections-postinc-20261023-
+      - name: Fetch and analyse
+        run: python -u scripts/collect_postincunabula.py
+      - name: Save completed queries
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/research/zurich-postincunabula-20261023
+          key: swisscollections-postinc-20261023-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Downloadable results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zurich-postincunabula-results
+          path: data/research/zurich-postincunabula-20261023
+          retention-days: 30

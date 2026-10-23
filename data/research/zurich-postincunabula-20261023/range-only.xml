@@ -1,0 +1,3443 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.2</version><numberOfRecords>23</numberOfRecords><records>
+          <record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>00972nam a2200301 c 4500</leader>
+            <controlfield tag="001">991104752219705501</controlfield>
+            <controlfield tag="005">20240920204909.0</controlfield>
+            <controlfield tag="008">030123r19921499sp            00| | spa  </controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">8487988059</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)157571033-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">157571033</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004467902EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991104752219705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990044679020205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044679020205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Vinyoles, Narcís</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Omelia sobre lo psalm Miserere mei Deus</subfield>
+                <subfield code="c">Narcís Vinyoles</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Ed. facsímil</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Valencia</subfield>
+                <subfield code="b">Vincent García Editores</subfield>
+                <subfield code="c">1992</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Colección Incunables y libros antiguos</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Valencia : Nicolau Spindeler, 1499</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="7">
+                <subfield code="a">Psalmen 51</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Druckwerk</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Faksimile</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Homilie</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Spanisch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Ausgabe</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Kommentar</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWF 235 | G</subfield>
+                <subfield code="9">(41SLSP_UZB)990044679020205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzmon200301e</subfield>
+                <subfield code="c">IDSZ2meyc</subfield>
+                <subfield code="d">IDSZ2zbzswk200301b</subfield>
+                <subfield code="e">IDSZ2haag</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Expl. 1263/3000</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 235 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990044679020205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990044679020205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044679020205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M056</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990044679020205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>1</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01510nam a2200469uc 4500</leader>
+            <controlfield tag="001">991067896619705501</controlfield>
+            <controlfield tag="005">20201222224422.0</controlfield>
+            <controlfield tag="008">201011r19901486gw     |      00| ||ger|d</controlfield>
+            <datafield tag="015" ind1=" " ind2=" ">
+                <subfield code="a">90,A43,1225</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3361001552</subfield>
+                <subfield code="q">Pp.</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3806204853</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)228938511-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">228938511</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)001119662EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSBB)004831999DSV01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991067896619705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990011196620205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990011196620205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">ZBZ</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">ETHICS-ISBD</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="4">
+                <subfield code="a">093</subfield>
+            </datafield>
+            <datafield tag="084" ind1=" " ind2=" ">
+                <subfield code="a">AN 23800</subfield>
+                <subfield code="2">rvk</subfield>
+            </datafield>
+            <datafield tag="084" ind1=" " ind2=" ">
+                <subfield code="a">NR 5890</subfield>
+                <subfield code="2">rvk</subfield>
+            </datafield>
+            <datafield tag="084" ind1=" " ind2=" ">
+                <subfield code="a">NS 6400</subfield>
+                <subfield code="2">rvk</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Lirer, Thomas</subfield>
+                <subfield code="0">(DE-588)118874489</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Schwäbische Chronik</subfield>
+                <subfield code="c">Thomas Lirer</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Neudr.]</subfield>
+                <subfield code="b">mit einem Kommentar von Peter Amelung</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Stuttgart</subfield>
+                <subfield code="b">Theiss</subfield>
+                <subfield code="c">1990</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">136, 43 S.</subfield>
+                <subfield code="b">zahlr. Ill.</subfield>
+                <subfield code="c">29 cm</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Neudr. der Ausg. Ulm, 1486</subfield>
+            </datafield>
+            <datafield tag="504" ind1=" " ind2=" ">
+                <subfield code="a">Literaturverzeichnis</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Neudr. der Ausg.</subfield>
+                <subfield code="c">Ulm, 1486</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="7">
+                <subfield code="a">Universitätsbibliothek Leipzig; Inkunabel Hist. Helv. 52</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="7">
+                <subfield code="a">Württembergische Landesbibliothek; Inkunabel 101117 HB</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 104-1462</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 104-1485</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Chronik</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Mittelhochdeutsch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Schwaben</subfield>
+                <subfield code="0">(DE-588)4053668-3</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Ausgabe</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Quelle</subfield>
+                <subfield code="2">gnd-content</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Amelung, Peter</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 1990</subfield>
+                <subfield code="9">(41SLSP_UZB)990011196620205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1990</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990011196620205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990011196620205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990011196620205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M528</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990011196620205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>2</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01494nam a2200337 c 4500</leader>
+            <controlfield tag="001">991022187099705501</controlfield>
+            <controlfield tag="005">20251121184243.0</controlfield>
+            <controlfield tag="008">040407r19221493gw            00| | ger  </controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)182627047-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">182627047</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)007304215EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991022187099705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990073042150205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SGBN SGARK</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="h">fre</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">La Tour-Landry, Geoffroy &lt;&lt;de&gt;&gt;</subfield>
+                <subfield code="c">Ritter, Frankreich</subfield>
+                <subfield code="d">1330-1405</subfield>
+                <subfield code="0">(DE-588)1089184921</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Der&gt;&gt; Ritter vom Turn von den Exempeln der Gotsforcht und Erberkeit</subfield>
+                <subfield code="c">[von Geoffroy de La Tour-Landry] ; [mit einem Nachwort von Kurt Pfister]</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Nachdruck</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">München</subfield>
+                <subfield code="b">Roland-Verlag</subfield>
+                <subfield code="c">1922</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">48 S.</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Ausgabe der Holzschnitte</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Originaltitel: Le livre du Chevalier de La Tour pour l'enseignement de ses filles</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Basel : Michael Furtner, 1493</subfield>
+            </datafield>
+            <datafield tag="600" ind1="0" ind2="7">
+                <subfield code="a">Marquart</subfield>
+                <subfield code="c">von Stein</subfield>
+                <subfield code="d">1425-1495</subfield>
+                <subfield code="t">&lt;&lt;Der&gt;&gt; Ritter vom Turn</subfield>
+                <subfield code="0">(DE-588)4207719-9</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1493</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1450-1500</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Holzschnitt</subfield>
+                <subfield code="2">gnd</subfield>
+                <subfield code="0">(DE-588)4025736-8</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Illustration</subfield>
+                <subfield code="2">gnd</subfield>
+                <subfield code="0">(DE-588)4123412-1</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Basel</subfield>
+                <subfield code="0">(DE-588)4004617-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Pfister, Kurt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schwarz, Dietrich W. H.</subfield>
+                <subfield code="d">1913-2000</subfield>
+                <subfield code="0">(DE-588)124312349</subfield>
+                <subfield code="e">früherer Eigentümer</subfield>
+                <subfield code="5">Exemplar ZB Zürich</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 2103</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWB 2071 | G</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzmon201206p</subfield>
+                <subfield code="c">IDSZ2wuet</subfield>
+                <subfield code="d">IDSZ2zbzswk201409b</subfield>
+                <subfield code="e">IDSZ2schl</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">Stoppsignal FRED</subfield>
+                <subfield code="x">UBE/B555/202511</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Aus dem Besitz von Dietrich W. Schwarz.</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWB 2071 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 2103</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990073042150205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">ZB760</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990073042150205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>3</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02737nam a2200601uc 4500</leader>
+            <controlfield tag="001">991025377939705501</controlfield>
+            <controlfield tag="005">20260701171227.0</controlfield>
+            <controlfield tag="008">931130r19911468sp            00| | lat|d</controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Ser.-Sig.: TX 318 : 1 / Jäger</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">8486290325</subfield>
+                <subfield code="q">Faksim.</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">8486290333</subfield>
+                <subfield code="q">Kommentar</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3928518003</subfield>
+                <subfield code="q">BildDokumentation</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)134707184-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">134707184</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)001027918EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991025377939705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990010279180205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">ZBZ</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">ETHICS-ISBD</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="0" ind2=" ">
+                <subfield code="a">lat</subfield>
+                <subfield code="a">spa</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="4">
+                <subfield code="a">264.027F</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Libro de horas de Isabel la Católica</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Ed. facsím.</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Madrid</subfield>
+                <subfield code="b">Testimonio Compañia Editorial</subfield>
+                <subfield code="c">1991</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile, Kommentar</subfield>
+                <subfield code="b">zahlr. Ill.</subfield>
+                <subfield code="e">Bild-Dokumentation + Einführung zur Bild-Dokumentation</subfield>
+            </datafield>
+            <datafield tag="490" ind1="1" ind2=" ">
+                <subfield code="a">Scriptorium</subfield>
+                <subfield code="v">1</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Impressum der Bild-Dokumentation: Münster : Verlag Bibliotheca Rara, 1991.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Text des Faksim. lat., der des Kommentars span.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Ill. traditionell Willem Vrelant zugeschrieben</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Die Bild-Dokumentation zum Faksim. ersch. u.d.T.: Stundenbuch der Isabel la Católica</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Faksim. der Hs. der Biblioteca del Palacio Real in Madrid, um 1468 entstanden</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">In mit blauem Velours ausgeschlagener Kassette</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="t">Libro de horas de Isabel la Católica : estudio critico</subfield>
+                <subfield code="r">de Ana Dominguez Rodriguez</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Bild-Dokumentation zum Faksimile</subfield>
+                <subfield code="t">Stundenbuch der Isabel la Católica : Brügge um 1468</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Einführung zur Bild-Dokumentation des Faksimiles</subfield>
+                <subfield code="t">Meister Willem Vrelant und sein Stundenbuch der Isabel la Católica</subfield>
+                <subfield code="r">Geleitwort von Johannes Rathofer</subfield>
+            </datafield>
+            <datafield tag="600" ind1="0" ind2="7">
+                <subfield code="a">Isabella</subfield>
+                <subfield code="b">I.</subfield>
+                <subfield code="c">Kastilien, Königin</subfield>
+                <subfield code="d">1451-1504</subfield>
+                <subfield code="0">(DE-588)11863982X</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="7">
+                <subfield code="a">Biblioteca del Palacio Real Madrid</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="610" ind1="1" ind2="0">
+                <subfield code="a">Spain</subfield>
+                <subfield code="b">Real Biblioteca</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="0">
+                <subfield code="a">Catholic Church</subfield>
+                <subfield code="v">Prayers and devotions</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="0">
+                <subfield code="a">Isabella of Castile Hours (Madrid, Spain)</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Bilderhandschrift</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Handschrift</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Latein</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Stundenbuch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Brevier</subfield>
+                <subfield code="0">(DE-588)4146599-4</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Königsschloss</subfield>
+                <subfield code="0">(DE-588)4437941-9</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Books of hours</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Books of hours</subfield>
+                <subfield code="v">Texts</subfield>
+                <subfield code="v">Early works to 1800</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Manuscripts, Latin (Medieval and modern)</subfield>
+                <subfield code="z">Spain</subfield>
+                <subfield code="z">Madrid</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Manuscripts, Latin (Medieval and modern)</subfield>
+                <subfield code="z">Spain</subfield>
+                <subfield code="z">Madrid</subfield>
+                <subfield code="v">Facsimiles</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Ausgabe</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Domínguez Rodríguez, Ana</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Vrelant, Willem</subfield>
+                <subfield code="d">1410-1481</subfield>
+                <subfield code="0">(DE-588)119365391</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Farquhar, J.</subfield>
+            </datafield>
+            <datafield tag="830" ind1=" " ind2="0">
+                <subfield code="a">Scriptorium</subfield>
+                <subfield code="v">1</subfield>
+                <subfield code="w">(NEBIS)001001147EBI01</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWF 102</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="866" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile (237. von 980 Expl.), Beiheft</subfield>
+                <subfield code="8">22263555640005508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad201410l</subfield>
+                <subfield code="c">IDSZ2weid</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="h">AWF 102: 1 Beih | G</subfield>
+                <subfield code="q">Beiheft zum Faksimile</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 102</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="h">AWF 102: 2 | G</subfield>
+                <subfield code="q">Bild-Dokumentation</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 102</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="h">AWF 102: 2 Beih | G</subfield>
+                <subfield code="q">Beiheft zur Bild-Dokumentation</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 102</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Expl. 237/980</subfield>
+                <subfield code="h">AWF 102: 1 | G</subfield>
+                <subfield code="q">Faksimile</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 102</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990010279180205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M060</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990010279180205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>4</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>00852nam a22002532c 4500</leader>
+            <controlfield tag="001">991083477649705501</controlfield>
+            <controlfield tag="005">20210812114631.0</controlfield>
+            <controlfield tag="008">960603r19721491xxu           00| | ger d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)15240810X-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">15240810X</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003800174EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991083477649705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990038001740205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990038001740205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A202</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="h">eng</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Fridolin, Stephan</subfield>
+                <subfield code="d">1430-1498</subfield>
+                <subfield code="0">(DE-588)100164978</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Schatzbehalter</subfield>
+                <subfield code="c">Fridolin ; woodcuts [by] Michael Wolgemut</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Reprint]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Portland OR</subfield>
+                <subfield code="b">Collegium Graphicum</subfield>
+                <subfield code="c">[1972]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="4">
+                <subfield code="c">©1972</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="490" ind1="1" ind2=" ">
+                <subfield code="a">The printed sources of western art</subfield>
+                <subfield code="v">28</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Nürnberg, 1491</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Wolgemut, Michael</subfield>
+            </datafield>
+            <datafield tag="830" ind1=" " ind2=" ">
+                <subfield code="a">&lt;&lt;The&gt;&gt; printed sources of western art</subfield>
+                <subfield code="v">28</subfield>
+                <subfield code="w">(NEBIS)000403208EBI01</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">TX 155: 28</subfield>
+                <subfield code="9">(41SLSP_UZB)990038001740205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">TX 155: 28</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990038001740205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990038001740205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990038001740205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>5</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01003nam a22002772c 4500</leader>
+            <controlfield tag="001">991075117059705501</controlfield>
+            <controlfield tag="005">20210812113527.0</controlfield>
+            <controlfield tag="008">040227r19231491it            00| | ger  </controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)152112804-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">152112804</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003727704EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991075117059705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990037277040205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037277040205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Johannes</subfield>
+                <subfield code="c">de Ketham</subfield>
+                <subfield code="d">1415-1470</subfield>
+                <subfield code="0">(DE-588)100949096</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Der&gt;&gt; Fasciculus medicinae des Johannes de Ketham Alemannus</subfield>
+                <subfield code="c">mit einer historischen Einführung hg. von Karl Sudhoff</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Facsimile</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Mailand</subfield>
+                <subfield code="b">Lier</subfield>
+                <subfield code="c">1923</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Monumenta medica / Sigerist.</subfield>
+                <subfield code="v">Bd. 1</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Medizin (15. Jh.)</subfield>
+                <subfield code="5">ube-B583</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Schwangerschaft (15. Jh.)</subfield>
+                <subfield code="5">ube-B583</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">1491</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Medizingeschichte: Mittelalter: Texte</subfield>
+                <subfield code="2">uzb-UU</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Sudhoff, Karl</subfield>
+                <subfield code="d">1820-1865</subfield>
+                <subfield code="0">(DE-588)124621007</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM05</subfield>
+                <subfield code="j">CZ 79</subfield>
+                <subfield code="9">(41SLSP_UZB)990037277040205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRReiheP</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="f">IDSU2medea</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM05</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">CZ 79</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990037277040205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990037277040205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990037277040205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>6</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01290nam a2200337uc 4500</leader>
+            <controlfield tag="001">991098222439705501</controlfield>
+            <controlfield tag="005">20240927201752.0</controlfield>
+            <controlfield tag="008">930211r19901471po     |      00| ||por|d</controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">9725940458</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)136783368-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">136783368</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)001221590EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991098222439705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990012215900205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990012215900205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">ZBZ</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">ETHICS-ISBD</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="0">
+                <subfield code="a">378.469/35</subfield>
+                <subfield code="2">20</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">378.46935</subfield>
+                <subfield code="2">21</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Livro verde da Universidade de Coimbra</subfield>
+                <subfield code="b">cartulário do século XV</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Fac.-sím.]</subfield>
+                <subfield code="b">introd. de Manuel Augusto Rodrigues ; transcrição dos índices por Maria Teresa Nobre Veloso</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">[Coimbra]</subfield>
+                <subfield code="b">Arquivo da Universidade de Coimbra</subfield>
+                <subfield code="c">1990</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">33, [230] S.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Faksim.-Nachdr. der Hs. von 1471</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="7">
+                <subfield code="a">Coimbra; Universität</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="0">
+                <subfield code="a">Universidade de Coimbra</subfield>
+                <subfield code="x">History</subfield>
+                <subfield code="v">Sources</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1400-1500</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Verfassung</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Cartularies</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Manuscripts, Portuguese</subfield>
+                <subfield code="z">Portugal</subfield>
+                <subfield code="z">Coimbra</subfield>
+                <subfield code="v">Facsimiles</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Universidade de Coimbra</subfield>
+                <subfield code="x">History</subfield>
+                <subfield code="x">Sources</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Portugal</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Quelle</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Verfassung : Portugal : Coimbra; Universität : Geschichte 1400-1500 : Quelle</subfield>
+                <subfield code="2">uzb-VH</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWF 201 | G</subfield>
+                <subfield code="9">(41SLSP_UZB)990012215900205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 201 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990012215900205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990012215900205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990012215900205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M400</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990012215900205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>7</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01585nam a22004212c 4500</leader>
+            <controlfield tag="001">991096368199705501</controlfield>
+            <controlfield tag="005">20201228131601.0</controlfield>
+            <controlfield tag="008">861218r19761493sz            00| | mul d</controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3855771324</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)151152632-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">151152632</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003451429EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991096368199705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990034514290205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034514290205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="0" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="a">lat</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="0">
+                <subfield code="a">970/.01/50924</subfield>
+                <subfield code="a">B</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="4">
+                <subfield code="a">973.15</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Colombo, Cristoforo</subfield>
+                <subfield code="d">1451-1506</subfield>
+                <subfield code="0">(DE-588)118564994</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Der&gt;&gt; Kolumbusbrief</subfield>
+                <subfield code="b">fanal einer neuen Zeit</subfield>
+                <subfield code="c">Christophoro Colombo ; [kommentar und deutsche Uebersetzung von] Leo Schelbert</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Faks.</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Dietikon-Zürich</subfield>
+                <subfield code="b">Verlag Bibliophile Drucke von Josef Stocker</subfield>
+                <subfield code="c">1976</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">56 S.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Lat. Originaltext</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Originaltitel: Epistola de insulis nuper inventis</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile des UB-Exemplars AN V 57</subfield>
+                <subfield code="5">ubs-A115</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Basel 1493</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="0">
+                <subfield code="a">Columbus, Christopher</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="0">
+                <subfield code="a">Columbus, Christopher</subfield>
+                <subfield code="v">Correspondence</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1492-1493</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Entdeckung</subfield>
+                <subfield code="0">(DE-588)4014841-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Incunabula</subfield>
+                <subfield code="v">Facsimiles</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Amerika</subfield>
+                <subfield code="0">(DE-588)4001670-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="0">
+                <subfield code="a">America</subfield>
+                <subfield code="x">Discovery and exploration</subfield>
+                <subfield code="x">Spanish</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="0">
+                <subfield code="a">America</subfield>
+                <subfield code="x">Discovery and exploration</subfield>
+                <subfield code="x">Spanish</subfield>
+                <subfield code="v">Early works to 1800</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Quelle</subfield>
+                <subfield code="2">gnd-content</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Amerika / Reisen / 1900-erschienen</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Westindien / Reisen</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schelbert, Leo</subfield>
+                <subfield code="d">1929-2022</subfield>
+                <subfield code="0">(DE-588)132985888</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 6731</subfield>
+                <subfield code="9">(41SLSP_UZB)990034514290205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="z">104. von 490 Expl.</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 6731</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990034514290205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990034514290205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034514290205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>8</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>00915nam a22002532c 4500</leader>
+            <controlfield tag="001">991145750529705501</controlfield>
+            <controlfield tag="005">20201228141158.0</controlfield>
+            <controlfield tag="008">040227r19251493it            00| | eng  </controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)150959176-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">150959176</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003424124EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991145750529705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990034241240205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034241240205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="0" ind2=" ">
+                <subfield code="a">Johannes</subfield>
+                <subfield code="c">de Ketham</subfield>
+                <subfield code="d">1415-1470</subfield>
+                <subfield code="0">(DE-588)100949096</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;The&gt;&gt; Fasciculo di medicina</subfield>
+                <subfield code="b">Venice 1493</subfield>
+                <subfield code="c">Johannes de Ketham ; with an introduction etc. by Charles Singer</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Florence</subfield>
+                <subfield code="b">Lier</subfield>
+                <subfield code="c">1925</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">2 Parts</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Monumenta medica</subfield>
+                <subfield code="v">Vol. 2</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Medizin (Renaissance) / Texte</subfield>
+                <subfield code="5">ube-B583</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Anatomie / Mundinus</subfield>
+                <subfield code="5">ube-B583</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Abbildung / Medizin</subfield>
+                <subfield code="5">ube-B583</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM05</subfield>
+                <subfield code="j">CZ 79</subfield>
+                <subfield code="9">(41SLSP_UZB)990034241240205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRMehrbändig</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRReihe</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSU2remark</subfield>
+                <subfield code="f">IDSU2medea</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM05</subfield>
+                <subfield code="h">CZ 79: b</subfield>
+                <subfield code="q">P. 2</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">CZ 79</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990034241240205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM05</subfield>
+                <subfield code="h">CZ 79: a</subfield>
+                <subfield code="q">P. 1</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">CZ 79</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990034241240205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990034241240205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034241240205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>9</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01893nem a22004098ca4500</leader>
+            <controlfield tag="001">991170862854405501</controlfield>
+            <controlfield tag="005">20240227111804.0</controlfield>
+            <controlfield tag="007">ad#caf||</controlfield>
+            <controlfield tag="008">220223r20221318au ||||      |00| ||lat d</controlfield>
+            <datafield tag="034" ind1="0" ind2=" ">
+                <subfield code="a">a</subfield>
+                <subfield code="d">W0114300</subfield>
+                <subfield code="e">E0421100</subfield>
+                <subfield code="f">N0560100</subfield>
+                <subfield code="g">N0295800</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991170862854405501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)99117179655305508</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">CH-ZuSLS UZB ZB</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">rda</subfield>
+            </datafield>
+            <datafield tag="082" ind1="7" ind2="4">
+                <subfield code="a">912</subfield>
+                <subfield code="2">23sdnb</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Vesconte, Pietro</subfield>
+                <subfield code="4">ctg</subfield>
+                <subfield code="0">(DE-588)118626701</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Cartae nauticae</subfield>
+                <subfield code="b">[Portulan]</subfield>
+                <subfield code="c">Petrus Vesconte de ianua fecit istas tabulas anno domini MCCCXIII</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2="3">
+                <subfield code="a">Tabulae Nauticae Petri Visconti de Janua 1318</subfield>
+                <subfield code="b">Schubertitel</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2="3">
+                <subfield code="a">Seekarten</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Dieses Exemplar trägt die Nummer 74</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Faksmileausgabe</subfield>
+            </datafield>
+            <datafield tag="255" ind1=" " ind2=" ">
+                <subfield code="a">Massstab nicht angegeben</subfield>
+                <subfield code="c">W 11°43'-E 42°11'/N 56°01'-N 29°58'</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Graz</subfield>
+                <subfield code="b">Akademische Druck- und Verlagsanstalt</subfield>
+                <subfield code="c">2022</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Atlas (9 Karten, 1 Kalenderdarstellung)</subfield>
+                <subfield code="b">farbig</subfield>
+                <subfield code="c">je 19 x 20 cm, in Schuber 21 x 13 cm</subfield>
+                <subfield code="e">1 Kommentarband</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">cri</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Codices selecti</subfield>
+                <subfield code="v">volume 125</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Kommentarband: Ingrid Baumgärtner (erscheint Ende 2023)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Farbdruck auf Holztafeln aufgezogen ; Phototypie auf mittig gefaltete Holztäfelchen aufgezogen</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Schuber in Leder mit Goldprägung</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Faksimile von:</subfield>
+                <subfield code="c">Cartae nauticae, Manuskript, 1318, Codex Vindobonensis Palatinus 594,</subfield>
+                <subfield code="n">Wien, Österreichische Nationalbibliothek, Signatur: Cod. 594</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Portolan</subfield>
+                <subfield code="2">gnd</subfield>
+                <subfield code="0">(DE-588)4175396-3</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Karte</subfield>
+                <subfield code="2">gnd-content</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Faksimile</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Baumgärtner, Ingrid</subfield>
+                <subfield code="d">1957-</subfield>
+                <subfield code="4">wst</subfield>
+                <subfield code="0">(DE-588)1241052387</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Österreichische Nationalbibliothek</subfield>
+                <subfield code="4">own</subfield>
+                <subfield code="0">(DE-588)2020893-5</subfield>
+            </datafield>
+            <datafield tag="830" ind1=" " ind2="0">
+                <subfield code="a">Codices selecti phototypice impressi</subfield>
+                <subfield code="v">125</subfield>
+                <subfield code="w">(NEBIS)000987298EBI01</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAL</subfield>
+                <subfield code="j">AWF XY</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z04</subfield>
+                <subfield code="c">KM05</subfield>
+                <subfield code="j">Atl 9072 B</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">OK_GND</subfield>
+                <subfield code="x">UZB/Z01/202305/gasy</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">Stoppsignal FRED</subfield>
+                <subfield code="x">UZB/Z01/202305</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAL</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF XY</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">KM05</subfield>
+                <subfield code="z">Dieses Exemplar trägt die Nummer 74</subfield>
+                <subfield code="p">68</subfield>
+                <subfield code="j">Atl 9072 B</subfield>
+                <subfield code="b">Z04</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)99117179655305508</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">Z01FE202308egasy</subfield>
+                <subfield code="9">local</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="d">Z01SE202308bgasy</subfield>
+                <subfield code="9">local</subfield>
+                <subfield code="9">(41SLSP_UZB)99117179655305508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>10</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01846nam a22004212c 4500</leader>
+            <controlfield tag="001">991114017579705501</controlfield>
+            <controlfield tag="005">20260320140724.0</controlfield>
+            <controlfield tag="008">201011r19611483gw            00| | ger d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)225019345-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">225019345</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSBB)002609415DSV01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003473989EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(RERO)R277084860-41slsp</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSLU)000515763ILU01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991114017579705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990034739890205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034739890205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A110</subfield>
+                <subfield code="e">kids</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">bb</subfield>
+                <subfield code="2">SzZuIDS BS/BE</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">ht</subfield>
+                <subfield code="2">rero</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">bt</subfield>
+                <subfield code="2">rero</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">0</subfield>
+                <subfield code="2">IDS LU</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">020</subfield>
+                <subfield code="2">15</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="6">880-01</subfield>
+                <subfield code="a">Breydenbach, Bernhard von</subfield>
+                <subfield code="d">14..-1497</subfield>
+                <subfield code="0">(IDREF)067041418</subfield>
+                <subfield code="4">cre</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; Reise ins heilige Land</subfield>
+                <subfield code="b">ein Reisebericht aus dem Jahre 1483</subfield>
+                <subfield code="c">Bernhard von Breydenbach ; Übertragung und Nachwort von Elisabeth Geck</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2=" ">
+                <subfield code="a">Peregrinatio in terram sanctam (deutsch)</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Wiesbaden</subfield>
+                <subfield code="b">Guido Pressler</subfield>
+                <subfield code="c">1961</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">51 S.</subfield>
+                <subfield code="b">Ill.</subfield>
+                <subfield code="c">31 cm</subfield>
+                <subfield code="e">2 Faltbl.</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile der deutschen Ausgabe des Erhard Reuwich (mit den Typen Peter Schöffers) vom 21. Juni 1486 (GW 5077)</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">6 Textseiten in Faksimile aus der deutschen Ausgabe vom 21. Juni 1486, erschienen in Mainz bei Erhard Reuwich, gedruckt von Peter Schöffer. GW 5075</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Nachdruck der Ausgabe von</subfield>
+                <subfield code="c">[S.l.] : [s.n.], 1486</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Pilgrims and pilgrimages</subfield>
+                <subfield code="z">Palestine</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Mainz</subfield>
+                <subfield code="x">Inkunabel</subfield>
+                <subfield code="2">idsbb</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Palästina</subfield>
+                <subfield code="x">Reisen</subfield>
+                <subfield code="y">Geschichte 15. Jh</subfield>
+                <subfield code="2">idsbb</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Palästina / Reisen / Einzelne Zeiträume / Mittelalter / 15. Jahrhundert</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Geck, Elisabeth</subfield>
+                <subfield code="d">1922-</subfield>
+                <subfield code="0">(DE-588)104971401</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 1285</subfield>
+                <subfield code="9">(41SLSP_UZB)990034739890205508</subfield>
+            </datafield>
+            <datafield tag="880" ind1="1" ind2=" ">
+                <subfield code="a">Breydenbach, Bernhard &lt;&lt;von&gt;&gt;</subfield>
+                <subfield code="d">1440-1497</subfield>
+                <subfield code="0">(DE-588)118660047</subfield>
+                <subfield code="6">100-01</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad200607e</subfield>
+                <subfield code="c">IDSZ2seid</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1285</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990034739890205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990034739890205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034739890205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>11</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02347nam a2200541uc 4500</leader>
+            <controlfield tag="001">991008362449705501</controlfield>
+            <controlfield tag="005">20240920182542.0</controlfield>
+            <controlfield tag="008">201011r19971488sz            01| | ger|d</controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3907514513</subfield>
+                <subfield code="q">geb.</subfield>
+                <subfield code="c">Fr. 39.-</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)228461766-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">228461766</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSBB)004288615DSV01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)001680156EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(Sz)vtls001146889</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991008362449705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990016801560205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">Sz</subfield>
+                <subfield code="e">kids</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="a">lat</subfield>
+                <subfield code="a">gmh</subfield>
+                <subfield code="h">gmh</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Sachsler Kirchenbuch, 1488</subfield>
+                <subfield code="c">Transkription der Pergamenthandschrift erfolgte nach Robert Durrers Bearb. ; neusprachl. Übers.: Werner T. Huber ; Einl.: Angelo Garovi</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Faks.-Nachdr.</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Zug</subfield>
+                <subfield code="b">Edition Pacis</subfield>
+                <subfield code="c">1997</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">Faksimileband, Begleitband</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Deutscher Text mit Mittelhochdeutscher Transkription und lat. Auszügen</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Hrsg. zum 50-Jahr-Jubiläum der Heiligsprechung von Bruder Klaus am 15. Mai 1947</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Begleitband enthält: Transkription aus dem Mittelhochdeutschen nach Robert Durrer, neusprachl. Übersetzung von Werner T. Huber</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Faksimileband enthält zusätzlich: &quot;Catalogus Saxlensis ecclesiae benefactorum sive fundatorum&quot; (Handschrift)</subfield>
+            </datafield>
+            <datafield tag="504" ind1=" " ind2=" ">
+                <subfield code="a">Literaturverz.</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="t">Faks.-Nachdr. der Handschrift:</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Sachseln : Kirchgemeinde, 1488</subfield>
+            </datafield>
+            <datafield tag="600" ind1="0" ind2="7">
+                <subfield code="a">Nikolaus (von Flüe)</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="600" ind1="0" ind2="7">
+                <subfield code="a">Nikolaus</subfield>
+                <subfield code="c">von Flüe, Heiliger</subfield>
+                <subfield code="d">1417-1487</subfield>
+                <subfield code="0">(DE-588)118588087</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="610" ind1="2" ind2="7">
+                <subfield code="a">Sachseln; Pfarrei; Archiv</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1488</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Deutsch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Faksimile</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Handschrift</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Kirchenbuch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Handschrift</subfield>
+                <subfield code="0">(DE-588)4023287-6</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Pfarrarchiv</subfield>
+                <subfield code="0">(DE-588)4173995-4</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Christian saints</subfield>
+                <subfield code="z">Switzerland</subfield>
+                <subfield code="x">Early works to 1800</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Manuscripts, German</subfield>
+                <subfield code="z">Switzerland</subfield>
+                <subfield code="z">Sachseln</subfield>
+                <subfield code="x">Facsimiles</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Festschrift</subfield>
+                <subfield code="2">gnd-content</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Ausgabe</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Garovi, Angelo</subfield>
+                <subfield code="d">1944-</subfield>
+                <subfield code="0">(DE-588)1072702274</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Durrer, Robert</subfield>
+                <subfield code="d">1867-1934</subfield>
+                <subfield code="0">(DE-588)116256788</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Huber, Werner T.</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z01</subfield>
+                <subfield code="c">05</subfield>
+                <subfield code="j">AX 7337</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 7337</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield tag="866" ind1=" " ind2=" ">
+                <subfield code="a">Faksimileband, Begleitband</subfield>
+                <subfield code="8">22432716260005508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbz mon 1999 12</subfield>
+                <subfield code="b">IDSZ2e</subfield>
+                <subfield code="c">IDSZ2emme</subfield>
+                <subfield code="d">IDSZ2zbzswk200001b</subfield>
+                <subfield code="e">IDSZ2haag</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">AX 7337: 2</subfield>
+                <subfield code="q">Begleitband</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 7337</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">AX 7337: 1</subfield>
+                <subfield code="q">Faksimileband</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 7337</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990016801560205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M058</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990016801560205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>12</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01258nam a22003012c 4500</leader>
+            <controlfield tag="001">991074548939705501</controlfield>
+            <controlfield tag="005">20201228131934.0</controlfield>
+            <controlfield tag="008">711103r19671497gw a     |||| 000 0 ger|d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)151079129-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">151079129</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003427647EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(OCoLC)219959713</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991074548939705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990034276470205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034276470205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">AU@</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="060" ind1=" " ind2=" ">
+                <subfield code="a">WZ 290</subfield>
+                <subfield code="b">B911d 1497Fc</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Brunschwig, Hieronymus</subfield>
+                <subfield code="d">1450-1512</subfield>
+                <subfield code="0">(DE-588)119238217</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Dis ist das Buch der Cirurgia</subfield>
+                <subfield code="c">Hantwirckung der wundartzny von Hyeronimo Brunschwig</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Faks.]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Gertenbach</subfield>
+                <subfield code="b">Zierau</subfield>
+                <subfield code="c">[1967]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+                <subfield code="b">lll.</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Dokumenta Drucke</subfield>
+                <subfield code="v">Nr. 1</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Facsimile reproduction of the edition issued by Grüninger</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">&quot;Brunschwig und sein 'Buch der Cirurgia', Einführung zur Faksimileausgabe, von Christian Probst&quot; (4 p.) in pocket</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Strassburg, 1497</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Surgery</subfield>
+                <subfield code="v">Early works to 1800</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Wounds and injuries</subfield>
+                <subfield code="v">Early works to 1800</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Chirurgie / Abhandlungen, Vorträge / 1900- ersch.</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile / Ausgaben (von Drucken) / Einzelne Autoren und Texte / 1950- ersch.</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">TX 224: 1</subfield>
+                <subfield code="9">(41SLSP_UZB)990034276470205508</subfield>
+            </datafield>
+            <datafield tag="911" ind1=" " ind2=" ">
+                <subfield code="a">100</subfield>
+                <subfield code="a">Brunschwig, Hieronymus</subfield>
+                <subfield code="d">ca. 1450-ca. 1512</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">TX 224: 1</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990034276470205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990034276470205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990034276470205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>13</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01459nam a22004092c 4500</leader>
+            <controlfield tag="001">991040953729705501</controlfield>
+            <controlfield tag="005">20201228125347.0</controlfield>
+            <controlfield tag="008">890131r19821499gw a     b||| 000 0 ger|d</controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3804842321</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">9783804842328</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)151411425-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">151411425</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003543295EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(OCoLC)19088679</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991040953729705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990035432950205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990035432950205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">HLS</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; Cronica van der hilliger Stat van Coellen</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2="3">
+                <subfield code="a">Chronik von der heiligen Stadt Köln</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Reprint</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Hamburg</subfield>
+                <subfield code="b">F. Wittig</subfield>
+                <subfield code="c">[1982]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="4">
+                <subfield code="c">©1982</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">2 Bd.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">In Schuber</subfield>
+            </datafield>
+            <datafield tag="504" ind1=" " ind2=" ">
+                <subfield code="a">Includes bibliographical references</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Kommentarband von Severin Corsten u.d.T.</subfield>
+                <subfield code="t">&lt;&lt;Die&gt;&gt; Kölnische Chronik von 1499</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Köln : J. Koelhoff, 1499</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="0">
+                <subfield code="a">Cronica van der hilliger Stat von Coellen</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Middeleeuwen</subfield>
+                <subfield code="2">gtt</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Inkunabel</subfield>
+                <subfield code="0">(DE-588)4027041-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Church history</subfield>
+                <subfield code="y">Middle Ages, 600-1500</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Incunabula</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="0">
+                <subfield code="a">Cologne (Germany)</subfield>
+                <subfield code="x">History</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="0">
+                <subfield code="a">Cologne (Germany)</subfield>
+                <subfield code="x">History</subfield>
+                <subfield code="v">Sources</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Chronik / Ausgaben / 1900- ersch.</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Inkunabel / Einzelne Gebiete und Orte : Druckorte / Deutschland / Nordrhein-Westfalen</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Köln / Publizistik</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Corsten, Severin</subfield>
+                <subfield code="d">1920-2008</subfield>
+                <subfield code="0">(DE-588)118799711</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 1678</subfield>
+                <subfield code="9">(41SLSP_UZB)990035432950205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="c">IDSZRkalh</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">AX 1678</subfield>
+                <subfield code="q">Hauptband</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1678</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990035432950205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">AX 1678 Kommbd</subfield>
+                <subfield code="q">Kommentarband</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1678</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990035432950205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990035432950205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990035432950205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>14</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02032nam a2200505 c 4500</leader>
+            <controlfield tag="001">991134824439705501</controlfield>
+            <controlfield tag="005">20260504195018.0</controlfield>
+            <controlfield tag="008">201011r19701498gw            00| | ger|d</controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Einheitstitel</subfield>
+                <subfield code="5">NEBIS/Medea 31.03.2010</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3791303325</subfield>
+                <subfield code="q">in Umschlag</subfield>
+            </datafield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">3791303333</subfield>
+                <subfield code="q">in Geschenkmappe</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)221727558-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">221727558</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004803588EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSLU)000188132ILU01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(ABN)000495488ABN01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991134824439705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990048035880205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990048035880205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE B400</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="4">
+                <subfield code="a">769.924</subfield>
+            </datafield>
+            <datafield tag="082" ind1="0" ind2="4">
+                <subfield code="a">228</subfield>
+                <subfield code="b">D869A</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Dürer, Albrecht</subfield>
+                <subfield code="d">1471-1528</subfield>
+                <subfield code="0">(DE-588)11852786X</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; Apokalypse</subfield>
+                <subfield code="c">Albrecht Dürer ; hrsg. von Ludwig Grote</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2="3">
+                <subfield code="a">Albrecht Dürer, die Apokalypse</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile der deutschen Urausgabe von 1498 &quot;Die heimlich Johannis&quot;</subfield>
+                <subfield code="b">hrsg. von Ludwig Grote</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">München</subfield>
+                <subfield code="b">Prestel-Verlag</subfield>
+                <subfield code="c">1970</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">12 S.</subfield>
+                <subfield code="b">Taf.</subfield>
+                <subfield code="c">49 cm</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="t">Die heimlich Offenbarung Johannis</subfield>
+                <subfield code="c">Nürnberg: Dürer, 1498</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">1498</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="7">
+                <subfield code="a">Dürer, Albrecht</subfield>
+                <subfield code="d">1471-1528</subfield>
+                <subfield code="0">(DE-588)11852786X</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="7">
+                <subfield code="a">Dürer, Albrecht</subfield>
+                <subfield code="d">1471-1528</subfield>
+                <subfield code="t">Apokalypse</subfield>
+                <subfield code="0">(DE-588)4194713-7</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="0">
+                <subfield code="a">Dürer, Albrecht</subfield>
+                <subfield code="d">1471-1528</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="0">
+                <subfield code="a">Dürer, Albrecht</subfield>
+                <subfield code="d">1471-1528</subfield>
+                <subfield code="t">Apocalypse</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="0">
+                <subfield code="a">Bible</subfield>
+                <subfield code="v">Illustrations</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="0">
+                <subfield code="a">Bible</subfield>
+                <subfield code="x">Illustrations</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Apocalypse in art</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Dürer, Albrecht / Werke / 1970- ersch.</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Johannes-Apokalypse / Kunst</subfield>
+                <subfield code="2">uzb-Z9</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Dürer, Albrecht, B: Werk: &quot;Apokalypse&quot;</subfield>
+                <subfield code="2">rzs-L1</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Faksimiles. Drucke: Dürer, Albrecht: &quot;Apokalypse&quot;</subfield>
+                <subfield code="2">rzs-L1</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Graphik, B: Dürer, Albrecht, &quot;Apokalypse&quot;</subfield>
+                <subfield code="2">rzs-L1</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Grote, Ludwig</subfield>
+            </datafield>
+            <datafield tag="730" ind1="0" ind2=" ">
+                <subfield code="a">Bibel</subfield>
+                <subfield code="p">Offenbarung des Johannes</subfield>
+                <subfield code="0">(DE-588)4073055-4</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">PAS 2323</subfield>
+                <subfield code="9">(41SLSP_UZB)990048035880205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="c">IDSZRmueb</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">PAS 2323</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990048035880205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990048035880205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990048035880205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>15</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01401nam a2200349 c 4500</leader>
+            <controlfield tag="001">991078312969705501</controlfield>
+            <controlfield tag="005">20201231133140.0</controlfield>
+            <controlfield tag="008">201011r19241480gw            00| | ger d</controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Datenimport aus BIBDIA ZB Solothurn</subfield>
+                <subfield code="5">IDSBB/09.01.2019/A150/bmt</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)231488947-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">231488947</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)007308933EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSBB)006911107DSV01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991078312969705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990073089330205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990073089330205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SGBN SGKBV</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; Augsburger Passion von 1480</subfield>
+                <subfield code="c">[hrsg. von Kurt Pfister]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Potsdam</subfield>
+                <subfield code="b">Kiepenheuer</subfield>
+                <subfield code="c">[1924]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">[55] S.</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="490" ind1="1" ind2=" ">
+                <subfield code="a">Das alte Bilderbuch</subfield>
+                <subfield code="v">Druck 2</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">NE : [Biblia (207). N.T. Evangelium secundum Johannem (dt.)</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Nachdruck der Ausgabe von</subfield>
+                <subfield code="c">Augsburg : Sorg, 1480</subfield>
+            </datafield>
+            <datafield tag="600" ind1="1" ind2="7">
+                <subfield code="a">Sorg, Anton</subfield>
+                <subfield code="d">1430-1493</subfield>
+                <subfield code="0">(DE-588)12146556X</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1480</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1450-1500</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Passion Jesu</subfield>
+                <subfield code="0">(DE-588)1059654830</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Augsburg</subfield>
+                <subfield code="0">(DE-588)4003614-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Pfister, Kurt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schwarz, Dietrich W. H.</subfield>
+                <subfield code="d">1913-2000</subfield>
+                <subfield code="0">(DE-588)124312349</subfield>
+                <subfield code="e">früherer Eigentümer</subfield>
+                <subfield code="5">Exemplar ZB Zürich</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="830" ind1=" " ind2=" ">
+                <subfield code="a">&lt;&lt;Das&gt;&gt; alte Bilderbuch</subfield>
+                <subfield code="v">2</subfield>
+                <subfield code="w">(NEBIS)007308924EBI01</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWB 3118</subfield>
+                <subfield code="9">(41SLSP_UZB)990073089330205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzmon201206p</subfield>
+                <subfield code="c">IDSZ2wuet</subfield>
+                <subfield code="d">IDSZ2zbzswk201409b</subfield>
+                <subfield code="e">IDSZ2schl</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Aus dem Besitz von Dietrich W. Schwarz. Expl. 271/350.</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWB 3118</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990073089330205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990073089330205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990073089330205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">ZB700</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990073089330205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>16</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01821nam a2200445 c 4500</leader>
+            <controlfield tag="001">991082545229705501</controlfield>
+            <controlfield tag="005">20260320082928.0</controlfield>
+            <controlfield tag="008">201011r19701490it ||||| |||| 00| ||ita d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)224235338-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">224235338</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(RERO)R003839707-41slsp</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003362617EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(OCoLC)717015618</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991082545229705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990033626170205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">RERO geulit</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="0" ind2=" ">
+                <subfield code="a">lat</subfield>
+                <subfield code="a">ita</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">it</subfield>
+                <subfield code="2">rero</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">858.2</subfield>
+                <subfield code="2">21</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="6">880-01</subfield>
+                <subfield code="a">Politien, Ange</subfield>
+                <subfield code="d">1454-1494</subfield>
+                <subfield code="0">(IDREF)028793692</subfield>
+                <subfield code="4">cre</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">Opera omnia</subfield>
+                <subfield code="c">Angelus Politianus ; a cura di Ida Maïer</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Ristampa anastatica]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Torino</subfield>
+                <subfield code="b">Bottega d'Erasmo</subfield>
+                <subfield code="c">1970-1971</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">3 vol.</subfield>
+                <subfield code="c">34 cm</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="490" ind1="1" ind2=" ">
+                <subfield code="a">Monumenta politica philosophica humanistica rariora. Series 1</subfield>
+                <subfield code="v">Num. 16-18</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Vol. 1</subfield>
+                <subfield code="t">Scripta in editione basilensi anno1553 collecta</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Vol. 2</subfield>
+                <subfield code="t">Opera ab Isidoro del Lungo edita Florentiae anno 1867</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Vol. 3</subfield>
+                <subfield code="t">Opera miscellanea et epistulae</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Reprod. de l'éd. de:</subfield>
+                <subfield code="c">Basileae : apud Nicolaum Episcopium iuniorem, 1553</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Reprod. de l'éd. de:</subfield>
+                <subfield code="c">Firenze : G. Barbèra, 1867</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Reprod. de l'éd. de:</subfield>
+                <subfield code="c">Firenze : F. Bonaccorsi, 1490</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Maïer, Ida</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Maïer, Ida</subfield>
+                <subfield code="0">(IDREF)033507805</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Del Lungo, Isidoro</subfield>
+                <subfield code="d">1841-1927</subfield>
+                <subfield code="0">(IDREF)033506817</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2="2">
+                <subfield code="a">Poliziano, Angelo</subfield>
+                <subfield code="d">1454-1494</subfield>
+                <subfield code="t">Prose volgari inedite e prose latine e greche edite e inedite</subfield>
+            </datafield>
+            <datafield tag="830" ind1=" " ind2=" ">
+                <subfield code="a">Monumenta Politica et Philosophica Rariora</subfield>
+                <subfield code="p">Series 1</subfield>
+                <subfield code="v">16-18</subfield>
+                <subfield code="w">(NEBIS)010223757EBI01</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">TX 81: 16-18</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+            <datafield tag="880" ind1="1" ind2=" ">
+                <subfield code="a">Poliziano, Angelo</subfield>
+                <subfield code="d">1454-1494</subfield>
+                <subfield code="0">(DE-588)118595512</subfield>
+                <subfield code="6">100-01</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRalter</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">TX 81: 17</subfield>
+                <subfield code="q">Vol. 2</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">TX 81: 16-18</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">TX 81: 18</subfield>
+                <subfield code="q">Vol. 3</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">TX 81: 16-18</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">TX 81: 16</subfield>
+                <subfield code="q">Vol. 1</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">TX 81: 16-18</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990033626170205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990033626170205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>17</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>00934nam a22002532c 4500</leader>
+            <controlfield tag="001">991147683109705501</controlfield>
+            <controlfield tag="005">20201228192315.0</controlfield>
+            <controlfield tag="008">091207r19201475gw       |||| 000 u ger|d</controlfield>
+            <datafield tag="019" ind1=" " ind2=" ">
+                <subfield code="a">Feld 245</subfield>
+                <subfield code="5">NEBIS/Medea 05.09.2011</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)167031287-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">167031287</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)005625228EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(OCoLC)475077876</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991147683109705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990056252280205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990056252280205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">DKDLA</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Tuberinus, Johannes Mathias</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; Geschicht und Legend von dem seyligen kind und marterer genannt Symon von den Juden zu Trient gemarteret und getottet ...</subfield>
+                <subfield code="c">[von] J. M. Tiberinus ; [herausgegeben von] Albert Schramm</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">[Faksimile]</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Leipzig</subfield>
+                <subfield code="c">1920</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">10 Bl.</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">[Uebersetzung aus dem Lateinischen]</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Augsburg : Günther Zainer, 1475</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schramm, Albert</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 1333</subfield>
+                <subfield code="9">(41SLSP_UZB)990056252280205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRAufnahme</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1333</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990056252280205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990056252280205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990056252280205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>18</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>02511nam a2200493 c 4500</leader>
+            <controlfield tag="001">991034887839705501</controlfield>
+            <controlfield tag="005">20260319153525.0</controlfield>
+            <controlfield tag="008">201012r20151485sz ||||| |||| 00| ||ger d</controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">9783905924299</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)238766411-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">238766411</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(RERO)R008184547-41slsp</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)010450310EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991034887839705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990104503100205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990104503100205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">RERO gevbge</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">eng</subfield>
+                <subfield code="a">fre</subfield>
+                <subfield code="a">ger</subfield>
+                <subfield code="h">frm</subfield>
+            </datafield>
+            <datafield tag="044" ind1=" " ind2=" ">
+                <subfield code="a">sz</subfield>
+                <subfield code="c">ch-lu</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">hm</subfield>
+                <subfield code="2">rero</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">090</subfield>
+                <subfield code="2">15</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">&lt;&lt;Die&gt;&gt; flämische Bilderchronik Philipps des Schönen</subfield>
+                <subfield code="b">= [The Flemish Chronicle of Philip the Fair] = [La Chronique flamande de Philippe le Beau] : les chroniques abrégées des anciens rois et ducs de Bourgogne : London, The British Library, Yates Thompson 32</subfield>
+                <subfield code="c">Kommentar zur Faksimile-Edition: Joanna Frońska ... [et al.]</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2=" ">
+                <subfield code="a">Chronique flamande de Philippe le Beau</subfield>
+            </datafield>
+            <datafield tag="246" ind1="1" ind2=" ">
+                <subfield code="a">Flemish Chronicle of Philip the Fair</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Luzern</subfield>
+                <subfield code="b">Quaternio Verlag</subfield>
+                <subfield code="c">2015</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">2 vol.</subfield>
+                <subfield code="b">ill.</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Le texte original du fac-similé est traduit et commenté en allemand, en anglais et en français</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Tirage unique, limité à 680 exemplaires numérotés en chiffres arabes. 60 exemplaires hors commerce sont numérotés en chiffres romains</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Kommentar zur Faksimile-Edition: Joanna Frońska, Graeme Small, Hanno Wijsman</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Kommentar in deutsch, englisch und französisch</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Das Faksimile ist die Nachbildung des Exemplars unter der Signatur &quot;Yates Thompson MS 32&quot;, welches in der British Library in London aufbewahrt wird</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2=" ">
+                <subfield code="a">Vol. 1: Commentaires</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2=" ">
+                <subfield code="a">Vol. 2: Fac-similé</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="p">Reprod. en fac.-sim. de l'éd. de:</subfield>
+                <subfield code="c">[Bruges?, ca. 1485-1490]</subfield>
+            </datafield>
+            <datafield tag="630" ind1="0" ind2="7">
+                <subfield code="a">Flämische Bilderchronik Philipps des Schönen</subfield>
+                <subfield code="0">(DE-588)1096536056</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Rois et souverains</subfield>
+                <subfield code="0">(IDREF)027441830</subfield>
+                <subfield code="2">idref</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Moyen âge</subfield>
+                <subfield code="0">(IDREF)027329917</subfield>
+                <subfield code="2">idref</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Bourgogne (France)</subfield>
+                <subfield code="0">(IDREF)027259978</subfield>
+                <subfield code="2">idref</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Fac-similés de manuscrits</subfield>
+                <subfield code="0">(IDREF)029494036</subfield>
+                <subfield code="2">idref</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Small, Graeme</subfield>
+                <subfield code="d">1963-</subfield>
+                <subfield code="0">(DE-588)173179800</subfield>
+                <subfield code="e">Herausgeber</subfield>
+                <subfield code="4">edt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Wijsman, Hanno</subfield>
+                <subfield code="d">1970-</subfield>
+                <subfield code="0">(DE-588)139094105</subfield>
+                <subfield code="e">Herausgeber</subfield>
+                <subfield code="4">edt</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="6">880-02</subfield>
+                <subfield code="a">Frońska, Joanna</subfield>
+                <subfield code="e">Herausgeber</subfield>
+                <subfield code="4">edt</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWF 297 | G</subfield>
+                <subfield code="9">(41SLSP_UZB)990104503100205508</subfield>
+            </datafield>
+            <datafield tag="880" ind1="1" ind2=" ">
+                <subfield code="6">700-02</subfield>
+                <subfield code="a">Frońska, Joanna</subfield>
+                <subfield code="0">(IDREF)170106144</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzaad201704e</subfield>
+                <subfield code="c">IDSZ2lysk</subfield>
+                <subfield code="d">IDSZ2zbzswk201705b</subfield>
+                <subfield code="e">IDSZ2schl</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="h">AWF 297: 2 | G</subfield>
+                <subfield code="q">Kommentar</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 297 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990104503100205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Exemplar Nr. 38/680.</subfield>
+                <subfield code="h">AWF 297: 1 | G</subfield>
+                <subfield code="q">Faksimile</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 297 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990104503100205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990104503100205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990104503100205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>19</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>00884nam a2200265 c 4500</leader>
+            <controlfield tag="001">991032344429705501</controlfield>
+            <controlfield tag="005">20241004184002.0</controlfield>
+            <controlfield tag="008">030123r19971497sp            00| | spa  </controlfield>
+            <datafield tag="020" ind1=" " ind2=" ">
+                <subfield code="a">8487988474</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)157469735-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">157469735</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004467876EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991032344429705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990044678760205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044678760205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS NEBIS ZBZ</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">&lt;&lt;La&gt;&gt; historia de las amors e vida del cavaller Paris e de Viana</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Ed. facsimilar</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Valencia</subfield>
+                <subfield code="b">Vincent García Editores</subfield>
+                <subfield code="c">1997</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="490" ind1="0" ind2=" ">
+                <subfield code="a">Colección de incunables y libros antiguos</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Barcelona : Diego de Gumiel, 1497</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Druckwerk</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Faksimile</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Ritterroman</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Spanisch</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Ausgabe</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWF 331</subfield>
+                <subfield code="9">(41SLSP_UZB)990044678760205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzmon200301e</subfield>
+                <subfield code="c">IDSZ2meyc</subfield>
+                <subfield code="d">IDSZ2zbzswk200301b</subfield>
+                <subfield code="e">IDSZ2haag</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Expl. 371/3000</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWF 331</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990044678760205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990044678760205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044678760205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">M397</subfield>
+                <subfield code="2">Z01</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990044678760205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>20</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01036nam a2200253 c 4500</leader>
+            <controlfield tag="001">991009788099705501</controlfield>
+            <controlfield tag="005">20240308223518.0</controlfield>
+            <controlfield tag="008">861003r19721461gw ||||| |||| 00| ||ger d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)150916663-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">150916663</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003386691EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(ABN)000492621ABN01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991009788099705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990033866910205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Boner, Ulrich</subfield>
+                <subfield code="d">1280-1350</subfield>
+                <subfield code="0">(DE-588)118661418</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Der&gt;&gt; Edelstein</subfield>
+                <subfield code="c">Ulrich Boner ; Einleitung von Doris Fouquet</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Stuttgart</subfield>
+                <subfield code="b">Müller und Schindler</subfield>
+                <subfield code="c">1972</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">2 Bde. (Faksimile, Textband: 71 S.)</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Faksimile der ersten Druckausgabe Bamberg 1461, 16. I Eth. 2º der Herzog-August-Bibliothek, Wolfenbüttel</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Bd. 1</subfield>
+                <subfield code="t">Faksimile der ersten Druckausgabe, 16.1 Eth. 2° der Herzog August Bibliothek Wolfenbüttel</subfield>
+            </datafield>
+            <datafield tag="505" ind1="0" ind2="0">
+                <subfield code="g">Bd. 2</subfield>
+                <subfield code="t">Einleitung</subfield>
+                <subfield code="r">Von Doris Fouquet</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Fables</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Fouquet, Doris</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z01</subfield>
+                <subfield code="c">OET</subfield>
+                <subfield code="j">AX 1509: Expl. 2</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">OETAD</subfield>
+                <subfield code="j">AX 1509</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="c">IDSZRkalh</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="z">233 von 950 Ex.</subfield>
+                <subfield code="h">AX 1509: 1</subfield>
+                <subfield code="q">Faksimile</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1509</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OET</subfield>
+                <subfield code="z">454 von 950 Ex.</subfield>
+                <subfield code="h">AX 1509: 1 Expl. 2</subfield>
+                <subfield code="q">Faksimile</subfield>
+                <subfield code="p">11</subfield>
+                <subfield code="j">AX 1509: Expl. 2</subfield>
+                <subfield code="b">Z01</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OET</subfield>
+                <subfield code="z">454 von 950 Ex.</subfield>
+                <subfield code="h">AX 1509: 2 Expl. 2</subfield>
+                <subfield code="q">Textband</subfield>
+                <subfield code="p">11</subfield>
+                <subfield code="j">AX 1509: Expl. 2</subfield>
+                <subfield code="b">Z01</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OETAD</subfield>
+                <subfield code="h">AX 1509: 2</subfield>
+                <subfield code="q">Textband</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AX 1509</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990033866910205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990033866910205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>21</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01140nam a2200277 c 4500</leader>
+            <controlfield tag="001">991043579779705501</controlfield>
+            <controlfield tag="005">20201228112800.0</controlfield>
+            <controlfield tag="008">000909r19201497sz            00| | fre  </controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)153505524-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">153505524</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)003952488EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991043579779705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990039524880205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990039524880205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">FH-HGK</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">VSB</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="0" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="a">fre</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Belot, Jean</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="0">
+                <subfield code="a">&lt;&lt;Le&gt;&gt; grand calendrier des bergiers</subfield>
+                <subfield code="c">von Jean Belot ; hrsg. von Gustav Grunau ; mit einführendem Text von Hans Blösch und Adolf Fluri</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Faksimiledruck</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Bern</subfield>
+                <subfield code="b">G. Grunau</subfield>
+                <subfield code="c">1920</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">96 S.</subfield>
+                <subfield code="b">Ill.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Französischer Originaltext mit deutschen Kommentaren</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="t">Compost et kalendrier des bergiers</subfield>
+                <subfield code="c">Genf : Jean Belot, 1497</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Kalender</subfield>
+                <subfield code="0">(DE-588)4029290-3</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Bloesch, Hans</subfield>
+                <subfield code="d">1878-1945</subfield>
+                <subfield code="0">(DE-588)116203943</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Fluri, Adolf</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Grunau, Gustav</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Schwarz, Dietrich W. H.</subfield>
+                <subfield code="d">1913-2000</subfield>
+                <subfield code="0">(DE-588)124312349</subfield>
+                <subfield code="e">früherer Eigentümer</subfield>
+                <subfield code="5">Exemplar ZB Zürich</subfield>
+                <subfield code="4">fmo</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">AWB 2070 | G</subfield>
+                <subfield code="9">(41SLSP_UZB)990039524880205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2zbzmon201310l</subfield>
+                <subfield code="c">IDSZ2wuet</subfield>
+                <subfield code="d">IDSZ2zbzswk201507b</subfield>
+                <subfield code="e">IDSZ2erbe</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">Aus dem Besitz von Dietrich W. Schwarz.</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">AWB 2070 | G</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990039524880205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990039524880205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990039524880205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>22</recordPosition>
+                  </record><record>
+                    <recordSchema>MARC21-XML</recordSchema>
+                    <recordPacking>xml</recordPacking>
+                    <recordData xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+            <leader>01117nam a22002652c 4500</leader>
+            <controlfield tag="001">991153856679705501</controlfield>
+            <controlfield tag="005">20201228140536.0</controlfield>
+            <controlfield tag="008">861215r19661498sz ||||| |||| 00| ||ger d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)15729577X-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">15729577X</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)004420153EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991153856679705501</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="035">
+                <subfield code="a">(41SLSP_UZB)990044201530205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">SzZuIDS BS/BE A100</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="041" ind1="1" ind2=" ">
+                <subfield code="a">ger</subfield>
+                <subfield code="h">lat</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Catho in Latin und zu Teütsch</subfield>
+            </datafield>
+            <datafield tag="250" ind1=" " ind2=" ">
+                <subfield code="a">Nachdruck des Originalbändchens aus dem jahre 1498 im Kapuzinerkloster Wesemlin Luzern</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Luzern</subfield>
+                <subfield code="b">Schweizerische Bibliophile Gesellschaft</subfield>
+                <subfield code="c">1966</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">1 Band</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Dionysius Cato oder Marcus Porcius Cato zugeschrieben</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Gabe für die Teilnehmer an der Jahrestagung der Schweizerischen Bibliophilen Gesellschaft ... 1966 in Luzern</subfield>
+            </datafield>
+            <datafield tag="534" ind1=" " ind2=" ">
+                <subfield code="c">Gedruckt zu Ulm : von Hannsen Zainer, 1498</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Cato, Dionysius</subfield>
+                <subfield code="d">ca. 3./4. Jh.</subfield>
+                <subfield code="0">(DE-588)11910699X</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Cato, Marcus Porcius</subfield>
+                <subfield code="c">Censorius</subfield>
+                <subfield code="d">v234-v149</subfield>
+                <subfield code="0">(DE-588)118519697</subfield>
+            </datafield>
+            <datafield tag="730" ind1="0" ind2=" ">
+                <subfield code="a">Disticha Catonis</subfield>
+                <subfield code="0">(DE-588)4150239-5</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z06</subfield>
+                <subfield code="c">RAM</subfield>
+                <subfield code="j">PAS 2833</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">Z01</subfield>
+                <subfield code="c">OET</subfield>
+                <subfield code="j">SBG G 20</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="c">IDSZRjaeg</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZRMedeaZBZ</subfield>
+                <subfield code="b">IDSZRSWK</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">OET</subfield>
+                <subfield code="z">136. von 150 Exemplaren</subfield>
+                <subfield code="p">11</subfield>
+                <subfield code="j">SBG G 20</subfield>
+                <subfield code="b">Z01</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="c">RAM</subfield>
+                <subfield code="z">21. von 150 Exemplaren</subfield>
+                <subfield code="p">12</subfield>
+                <subfield code="j">PAS 2833</subfield>
+                <subfield code="b">Z06</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield ind2=" " ind1=" " tag="986">
+                <subfield code="a">(41SLSP_UZB)990044201530205508</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+            <datafield tag="990" ind1=" " ind2=" ">
+                <subfield code="a">Z01_SBG</subfield>
+                <subfield code="9">LOCAL</subfield>
+                <subfield code="9">(41SLSP_UZB)990044201530205508</subfield>
+            </datafield>
+        </record>
+    </recordData>
+                    <recordPosition>23</recordPosition>
+                  </record>
+          </records>
+          <echoedSearchRetrieveRequest>
+            <version>1.2</version>
+            <query>(sc.possessingInstitution = Z06 AND dc.date &gt;= 1501 AND dc.date &lt;= 1525) NOT (dc.date = 1501 OR dc.date = 1502 OR dc.date = 1503 OR dc.date = 1504 OR dc.date = 1505 OR dc.date = 1506 OR dc.date = 1507 OR dc.date = 1508 OR dc.date = 1509 OR dc.date = 1510 OR dc.date = 1511 OR dc.date = 1512 OR dc.date = 1513 OR dc.date = 1514 OR dc.date = 1515 OR dc.date = 1516 OR dc.date = 1517 OR dc.date = 1518 OR dc.date = 1519 OR dc.date = 1520 OR dc.date = 1521 OR dc.date = 1522 OR dc.date = 1523 OR dc.date = 1524 OR dc.date = 1525)</query>
+            <xQuery xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <recordSchema>MARC21-XML</recordSchema>
+          </echoedSearchRetrieveRequest>
+        </searchRetrieveResponse>
