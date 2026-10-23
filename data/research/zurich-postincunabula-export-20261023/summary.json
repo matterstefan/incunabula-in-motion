@@ -1,0 +1,31 @@
+{
+  "export_records": 4557,
+  "catalogue_copy_references": 5303,
+  "distinct_institution_shelfmark_pairs": 5283,
+  "reference_counts_by_institution": {
+    "Z06": 4679,
+    "Z03": 475,
+    "Z01": 116,
+    "Z02": 30,
+    "Z04": 1,
+    "Z05": 2
+  },
+  "records_with_core_provenance": 1226,
+  "records_without_ZB_852_j": 12,
+  "records_with_multiple_ZB_references": 558,
+  "records_flagged_reproduction": 161,
+  "references_flagged_reproduction": 159,
+  "references_without_core_provenance_in_record": 3953,
+  "field_scope_counts": {
+    "single_reference_assumption": 1898,
+    "unresolved_scope": 175,
+    "explicit_shelfmark_scope": 50,
+    "complex_or_multiple_scope": 4
+  },
+  "limitations": [
+    "A reference is record ID + institution + shelfmark, not a verified physical item. Shared shelfmarks across titles are not merged: they may identify bound-with prints.",
+    "All records retained; reproduction flags require review and are not deletions. Dates and hierarchy require further assessment.",
+    "Z01–Z06 included; UMWI not counted as ZB. Missing 852$j retained separately.",
+    "Core provenance indicator is not an exhaustive search of free-text notes. Single-reference attribution is an assumption; explicit scope matching is conservative."
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "record_id": "991005210859705501",
+    "reason": "ZB_852_without_j",
+    "subfields": [
+      [
+        "b",
+        "Z01"
+      ],
+      [
+        "c",
+        "UNASSIGNED"
+      ],
+      [
+        "z",
+        "Signatur: LAD 05 TBO AAA 703: 1"
+      ],
+      [
+        "9",
+        "(41SLSP_UZB)990113657140205508"
+      ]
+    ]
+  },
+  {
+    "record_id": "991134937819705501",
+    "reason": "ZB_852_without_j",
+    "subfields": [
+      [
+        "b",
+        "Z01"
+      ],
+      [
+        "c",
+        "UNASSIGNED"
+      ],
+      [
+        "9",
+        "(41SLSP_UZB)990066472670205508"
+      ]
+    ]
+  },
+  {
+    "record_id": "991171879624405501",
+    "reason": "ZB_852_without_j",
+    "subfields": [
+      [
+        "b",
+        "Z01"
+      ],
+      [
+        "c",
+        "Z01_HOL"
+      ],
+      [
+        "9",
+        "(41SLSP_UZB)99117743996705508"
+      ]
+    ]
+  }
+]

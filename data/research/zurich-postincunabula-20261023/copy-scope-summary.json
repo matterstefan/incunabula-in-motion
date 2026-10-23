@@ -1,0 +1,21 @@
+{
+  "records_checked": 3930,
+  "records_with_audited_fields": 991,
+  "field_counts": {
+    "plausible_single_ZB_shelfmark": 1629,
+    "unresolved_multiple_ZB_shelfmarks": 115,
+    "explicit_shelfmark_in_scope": 50,
+    "bound_volume_or_related_print_scope": 18,
+    "unresolved_institution_or_scope": 20,
+    "complex_scope_expression": 4
+  },
+  "record_counts_overlapping": {
+    "plausible_single_ZB_shelfmark": 888,
+    "unresolved_multiple_ZB_shelfmarks": 69,
+    "explicit_shelfmark_in_scope": 25,
+    "bound_volume_or_related_print_scope": 18,
+    "unresolved_institution_or_scope": 9,
+    "complex_scope_expression": 2
+  },
+  "records_all_audited_fields_explicit": 23
+}
