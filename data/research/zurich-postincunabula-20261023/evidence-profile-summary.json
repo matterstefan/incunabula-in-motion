@@ -1,0 +1,59 @@
+{
+  "record_count": 3930,
+  "unique_owner_keys": 303,
+  "owner_grouping": "First authority identifier where present, otherwise tag and normalised name; not a complete identity reconciliation.",
+  "top_owner_union_coverage": {
+    "5": 596,
+    "10": 689,
+    "20": 741,
+    "50": 805
+  },
+  "candidate_counts": {
+    "provenance_cue_outside_561_361": 301,
+    "provenance_note_candidate": 789,
+    "explicit_place_string": 306,
+    "date_string": 254,
+    "place_and_date_same_note": 89,
+    "additional_records_from_other_note_cues": 18
+  },
+  "place_dictionary": [
+    "Zürich",
+    "Zuerich",
+    "Rheinau",
+    "Wettingen",
+    "Luzern",
+    "Basel",
+    "Bern",
+    "Wien",
+    "Paris",
+    "Venedig",
+    "Strassburg",
+    "Straßburg",
+    "Augsburg",
+    "Nürnberg",
+    "Nuremberg",
+    "Genf",
+    "Geneve",
+    "Genève",
+    "Winterthur",
+    "Schaffhausen",
+    "St. Gallen",
+    "St.Gallen",
+    "Konstanz",
+    "Rom",
+    "Mailand",
+    "Lyon",
+    "Lugduni",
+    "Turicensi",
+    "Turicensis",
+    "Tiguri",
+    "Rhenoviensis"
+  ],
+  "limitations": [
+    "Place dictionary is limited; missing matches do not imply missing places.",
+    "Years may be reference-publication dates or biographical dates, not ownership dates.",
+    "Co-occurrence does not connect a date to a place or owner.",
+    "Repeated text does not establish identical copy histories.",
+    "No event chronology, coordinates or new map stations generated."
+  ]
+}
