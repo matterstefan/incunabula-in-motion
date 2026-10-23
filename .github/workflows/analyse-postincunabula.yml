@@ -1,0 +1,27 @@
+name: Analyse saved post-incunabula evidence
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Analyse saved records without catalogue requests
+        run: |
+          python scripts/analyse_postincunabula.py
+          python scripts/profile_postincunabula_evidence.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: postincunabula-evidence-profile
+          path: |
+            docs/postincunabula-evidence-profile.md
+            data/research/zurich-postincunabula-20261023/evidence-profile-summary.json
+            data/research/zurich-postincunabula-20261023/owner-groups.json
+            data/research/zurich-postincunabula-20261023/repeated-provenance-notes.json
+            data/research/zurich-postincunabula-20261023/provenance-text-candidates.json
