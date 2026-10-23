@@ -1,0 +1,13 @@
+{
+  "retained_references": 5149,
+  "references_with_949_context": 4902,
+  "references_with_multiple_949_fields": 167,
+  "references_with_part_labels": 252,
+  "references_with_949_notes": 2852,
+  "unmatched_949_occurrences": 3,
+  "limitations": [
+    "949 occurrences are not counted as physical copies.",
+    "Matching is exact; unmatched fields can include excluded references, other institutions or differing shelfmark notation.",
+    "Notes are associated only with their own matched reference; no propagation to other MARC fields or owner entries."
+  ]
+}

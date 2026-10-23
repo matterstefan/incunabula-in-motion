@@ -1,0 +1,100 @@
+[
+  {
+    "record_id": "991090020959705501",
+    "occurrence": 4,
+    "subfields": [
+      [
+        "c",
+        "404U3"
+      ],
+      [
+        "p",
+        "12"
+      ],
+      [
+        "j",
+        "MUE AD 249 : 4"
+      ],
+      [
+        "b",
+        "B404"
+      ],
+      [
+        "9",
+        "(41SLSP_UBE)99117800762505511"
+      ]
+    ],
+    "additional_shelfmarks_h": [],
+    "part_labels_q": [],
+    "notes_z": [],
+    "association": "exact_same_record_institution_b_and_shelfmark_j"
+  },
+  {
+    "record_id": "991093383479705501",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "c",
+        "RAM"
+      ],
+      [
+        "z",
+        "Bestellbar über Signatur II DD 381"
+      ],
+      [
+        "h",
+        "II DD 381,27"
+      ],
+      [
+        "p",
+        "71"
+      ],
+      [
+        "b",
+        "Z06"
+      ],
+      [
+        "9",
+        "(41SLSP_UZB)990061452830205508"
+      ]
+    ],
+    "additional_shelfmarks_h": [
+      "II DD 381,27"
+    ],
+    "part_labels_q": [],
+    "notes_z": [
+      "Bestellbar über Signatur II DD 381"
+    ],
+    "association": "exact_same_record_institution_b_and_shelfmark_j"
+  },
+  {
+    "record_id": "991123514419705501",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "c",
+        "ZBTRK"
+      ],
+      [
+        "p",
+        "12"
+      ],
+      [
+        "j",
+        "C1.141.a (1) (K1)"
+      ],
+      [
+        "b",
+        "LUZHB"
+      ],
+      [
+        "9",
+        "(41SLSP_RZS)997289910105505"
+      ]
+    ],
+    "additional_shelfmarks_h": [],
+    "part_labels_q": [],
+    "notes_z": [],
+    "association": "exact_same_record_institution_b_and_shelfmark_j"
+  }
+]

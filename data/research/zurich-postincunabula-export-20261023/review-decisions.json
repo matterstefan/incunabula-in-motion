@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-23",
+  "scope": "Reviewed examples only; no global owner-to-place rules or automatic itinerary import",
+  "cases": [
+    {
+      "record_id": "991019857919705501",
+      "decision": "Orelli in Zurich immediately before the 1839 donation is accepted as a biographical inference. No start year of ownership assigned.",
+      "place": "Zürich",
+      "certainty": "inferred",
+      "source": "https://hls-dhs-dss.ch/de/articles/009051/2022-04-04/"
+    },
+    {
+      "record_id": "991001165399705501",
+      "decision": "Capar Hagenbuchii probably identifies Johann Caspar Hagenbuch. Zurich in 1753 is inferred from probable identity and biography. Preserve source spelling.",
+      "place": "Zürich",
+      "year": 1753,
+      "certainty": "probable_identity_and_inferred_place",
+      "source": "https://hls-dhs-dss.ch/de/articles/043440/2007-11-20/"
+    },
+    {
+      "record_id": "991010863959705501",
+      "decision": "Preserve uncertain Zwingli ownership; no certain Zurich station derived."
+    },
+    {
+      "record_id": "991000419389705501",
+      "decision": "Preserve explicit Gosnay location, other owner and unidentified exlibris without inventing dates or order."
+    },
+    {
+      "record_id": "991001105039705501",
+      "decision": "Keep two catalogue reference groups and four 949 occurrences. IV S 61 and IV S 62 carry labels 1-2 and 3-4. Physical arrangement and Rm relationship need confirmation. Pellikan provenance remains at record level; no assignment to either group. Unikatsaufnahme is preserved, not interpreted as a count."
+    },
+    {
+      "record_id": "991002418219705501",
+      "decision": "Associate the Rheinau note in 949$z with RRr 125 via same-field b/j. Do not propagate to Res 915. No date supplied."
+    },
+    {
+      "record_id": "991022084669705501",
+      "decision": "Preserve both ownership inscriptions and uncertain Meiss reading. Zwingli shelfmark indicates a museum/collection context according to the Handbuch, not personal ownership by Zwingli; no acquisition date assigned.",
+      "source": "Handbuch der historischen Buchbestände in der Schweiz, Band 3, ZB article, shelfmark table and section 2.62"
+    },
+    {
+      "record_id": "991000877379705501",
+      "decision": "Binding decoration alone is not an identified owner or place."
+    }
+  ]
+}
