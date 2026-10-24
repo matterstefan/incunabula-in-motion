@@ -1,0 +1,65 @@
+[
+  {
+    "reason": "Related bound-with references report a donation in 1836 and a donor-register entry in 1838. Retained for event interpretation, not silently collapsed to one year.",
+    "evidence": {
+      "record_id": "991041866759705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Gelangte 1836 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, anlässlich des Todes von Sohn Arnold - mit entspr. hs. Schenkungsvermerk auf dem vord. Vorsatzblatt. Ebda. weitere hs. Notizen von ihm und die Provenienzangabe \"ex libris Jacobi Hottingeri 1820\". Ebda. hs. Vermerk \"Sam. Eglingeri MDCLXX\""
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "4.15"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1836",
+        "1820"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    }
+  },
+  {
+    "reason": "Related bound-with references report a donation in 1836 and a donor-register entry in 1838. Retained for event interpretation, not silently collapsed to one year.",
+    "evidence": {
+      "record_id": "991136341899705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Gelangte als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, anlässlich des Todes von Sohn Arnold - mit entspr. hs. Schenkungsvermerk (1836) auf dem vord. Vorsatzblatt des beigebundenen Drucks, jd. im Donatorenbuch 1838 eingetragen. Ebda. weitere hs. Notizen von ihm und die Provenienzangabe \"ex libris Jacobi Hottingeri 1820\". Ebda. hs. Vermerk \"Sam. Eglingeri MDCLXX\". Enthält v.a. am Anfang vereinzelte Randglossen und Textunterstreichungen."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "4.15,2"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1836",
+        "1838",
+        "1820"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    }
+  }
+]

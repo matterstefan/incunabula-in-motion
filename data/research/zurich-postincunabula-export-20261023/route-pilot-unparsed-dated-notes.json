@@ -1,0 +1,4897 @@
+[
+  {
+    "record_id": "991000285329705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, auf dem Titelblatt Verbalexlibris des Klosters, sowie Schenkungsvermerk mit Legende: \"Ex Dono Caspari Josephi Dorer, Prætris in Senatu Maiori Badæ in Argovia, 1722.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rs 800 | F"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1722"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991000412029705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf Vorsatz- und Titelbatt Besitzvermerke von Georg Vögeli (1545), Ernst Vögeli (1546), Felix Tobler (1547) und Johann Widmann (1580)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal St 549"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1545",
+      "1546",
+      "1547",
+      "1580"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991001165399705501",
+    "tag": "500",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzvermerk: Capar Hagenbuchii, datiert 1753"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.221"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1753"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991003371769705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftliche Besitzeinträge auf den vorderen Vorsatzblättern: Casp. Hagenbuchii 1757."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.17"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1757"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991003371769705501",
+    "tag": "561",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Handschriftliche Besitzeinträge auf dem vorderen Vorsatzblatt von Band 6: Ex libris Iacobi Hirzgarteri; Joh: Jac: Engelenis [...] Felixen Grobin[n]is (1659)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.17"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1659"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991005206679705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschrftlicher Besitzvermerk auf dem Titelblatt: \"Bibliothecae Carolinae, 1751\"; handschriftliche Marginalien"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III M 87"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1751"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991005707659705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerk Bullingers: \"Sum Hein Bullingeri 1529.\" Mit Randglossen von seiner Hand auf dem Vorderschnitt. Buchpreis: 16 Schilling"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.393"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1529"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991006827389705501",
+    "tag": "590",
+    "occurrence": 3,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Weitere Vorbesitzer (jeweils mit Verbalexlibris auf dem Spiegelblatt vorn; vgl. CMD-CH3, Nr. 738): Adam Rubeus, Johann Georg Blecker (dat. 1609) und Johann Beat Fry (dat. 1610)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ry 318,4"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1609",
+      "1610"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991010001279705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Kaufvermerk \"Fr. Ant. Castellus  emptor 1540\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 705"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1540"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991010005219705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Besitzvermerk \"Jacobj Cellarij Vitodurani Helvetij, 1544\". Mit Annotationen."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.501,6"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1544"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991010096469705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gwalthers: \"Sum Rodolphi Gualtheri: # 1544\" und Preisnotiz j lb\". Mit Annotationen von seiner Hand."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.61"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1544"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991011464429705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Widmung Zwinglis an Werner Steiner vom 17. Mai 1522 und späterer Besitzvermerk: \"Joannis Suizeri F.\". Mit handschriftl. Annotationen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Res 979"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1522"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991011711579705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Schenkungsvermerk auf dem Titelblatt: \"Sum Marci Bueleri ex dono patris ecclesiae clothensis ministri anno 1606\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "3.178"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1606"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991012238169705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Besitzeintrag auf Innenseite des Vorderdeckels: \"Possessor Jos. Henricus Otto 1644\"; drei weitere Besitzeinträge an gleicher Stelle unleserlich"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "U 148"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1644"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991013258919705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Vermerk mit Legende: \"Johannis Jacobi Heim. t. Huldrichi Tigurin Heluetij, Anno 1617.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "3.44"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1617"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991013327089705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,5"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991013596549705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gwalthers: \"Sum Rodolphi Gualtheri Tig. 1550.\" und Preisnotiz \"1 Pfund\". Marginalien Gwalthers. Schweinsledereinband der Zeit"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "W 395"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1550"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991014396319705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Verbalexlibris auf der Titelseite, dat. 1769"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rm 140 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1769"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991015868269705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem vorderen Spiegel Verbalexlibris von Rudolphus Collinus, i.e. Rudolf Ambühl, mit Datum 1528 auf dem hinteren Spiegel; auf dem Titelblatt undatiertes Verbalexlibris von Ioa. Collini, i.e. Johann Ambühl"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WF 935"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1528"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991015868269705501",
+    "tag": "561",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Vorsatzblatt Verbalexlibris mit Legende: \"Leonhardi Nyscheleri Tigurini, 1734\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WF 935"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1734"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991017438139705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Titelbl. und Bl. I fehlen, Bl. 2 nur fragmentarisch; Besitzvermerk von Hans Heinrich Stucki im Spiegel (1614); Exlibris ebd. herausgerissen; aus der Sammlung von J.J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 98 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1614"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991017663469705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Brauner Ledereinband der Zeit. Im vorderen Innendeckel hs. Besitzvermerk von Werner Steiner, \"Wernherus Lapidarus de Tugio, ann domini 1519\", und Bemerkungen zur Schlacht bei Marignano von 1515 von seiner Hand. Schenkungsvermerk in der Hand von Johannes Fries auf dem Titelblatt: \"Bibliothecae publicae Tigurinae\". Hs. Notiz von Conrad Pellikan im hinteren Vorsatz"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V Z 300"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519",
+      "1515"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991018159989705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Besitzvermerk von Melskior? Maximus, datiert 1519. Weiterer Besitzvermerk von Martin Brydanus, datiert 1671. Handschriftliche Annotationen."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.357"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519",
+      "1671"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991019250419705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerke von Johann Heinrich, Caspar und Johann Caspar Wolph auf dem Spiegelbl. (je o.J.) sowie von Salomon Hess (1788) auf dem Titelbl. und von Heinrich Bürgi(?) (1754) im hinteren Vorsatz"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.379"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1788",
+      "1754"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991019634549705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris auf dem Titelblatt. Weiterer handschr. Besitzvermerk ebenda von \"David Kinbagkh a Wingarten Anno 1586\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 116"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1586"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991019960209705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Schweinsledereinband der Zeit. Auf dem vorderen Vorsatzblatt des Sammelbandes Monogramm \"KH, 8\" und handschriftl. Besitzvermerk von Heinrich Escher (1746)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.447"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1746"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991022158619705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf Vorsatzblatt und Titelblatt diverse hs. Besitzvermerke (u.a. Johann Oporinus, 1531; Jacob Mersperger, 1588; Johann Georg Lützelmann, 1624)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.82"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1531",
+      "1588",
+      "1624"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991022771529705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991024005829705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibri \"nunc Jo. Jacobi Werndlini 1630\" und \"sum Johannis Heinrici Locheri ... Thobiae Eglino, anno domini salutis 1885\" auf der Titelseite, durchgestrichenes Verbalexlibris \"sum Thobias Eglini ...\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.281,4"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1630",
+      "1885"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991024194909705501",
+    "tag": "500",
+    "occurrence": 6,
+    "subfields": [
+      [
+        "a",
+        "Einband der Zeit, zsgeb. mit Werke. Auswahl / Ulrich von Hutten. Mainz 1520; Vorbesitzer: Huldrych Zwingli?"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "II DD 370: ,1"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1520"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991024235259705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Hs. Notizen im Spiegel \"Est Joh[ann]is Adelfi physici Scaffusensis manu propria anno 1517\"; hs. Notiz auf dem Titelblatt \"Nicolaus Fortmannus Lucernensis\"; Auf der Rückseite des Titelblattes Stempel der Kantonsbiblitohek Zürich"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rs 356"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1517"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau",
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991025362909705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Schwer lesbarer handschriftlicher Besitzeintrag auf dem Titelblatt recto, beginnt mit \"Jacob Fu...\" [?], datiert mit 1576"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.418"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1576"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991026188789705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Monogramm: \"IS 1556\". Auf Bl. A4v getilgter Besitzvermerk \"Junker Konrad von ... [?]\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "2.188"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1556"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991027262909705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerk von Adrian Wirth: \"Joannis Hospinianj sum, nunc ex obitu eius Hadrianus fratrem me possidet, 1524.\" Auf dem Titelblatt verso hs. Notiz (vermutlich von Johannes Wirth)  zu einer Vorlesung Joachim Vadians (Wien, 1517): \"Legebat eundem poeta et orator laureatus medicinaeque doctor Joachim Vadianus Helveticus de Sancto Gallo, Vienne discipulis suis quem et 14 die decembris incipebat anno incarnationis 1517.\" Zahlreiche studentische Annotationen (vermutlich ebenfalls von Johannes Wirth)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.277"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1524",
+      "1517",
+      "1517"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991027750089705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt verso Exlibris der Fam. Hottinger mit handschriftl. Vermerk \"Jacob Hottinger, 1636\". Im vorderen Spiegel handschriftl. (16. Jh.): \"Von meinem Vatter sällig han ich das Buoch. Daz hatt er käufft umm 11/2 Gulden, A-o [15]40\". Auf dem vorderen Vorsatzblatt und im hinteren Spiegel mit Bleistift Besitzvermerke: \"Jacobus Khuon ... Buechenberg ... 1621\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli 305"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1636",
+      "1621"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991027832329705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Besitz von Markus Jenny (frühere Signatur: 1941.1)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Jenny B 3105"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1941"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991028785509705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Heller Ledereinband mit Rollenstempel verziert; Supralibros: \"N.D. 1545\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III C 120"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1545"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991028785509705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Besitzvermerk im vorderen Spiegel: Ex bibliotheca ... Aug. Ernesti Schwarz, 1782"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III C 120"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1782"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991029704319705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Handschr. Besitzvermerk auf dem Titelblatt des vorgebundenen Faszikels von \"David Kinbagkh a Wingarten Anno 1586\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 116,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1586"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991031576669705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Besitzvermerk auf dem vorderen Spiegel: Johannis Kelleri 1680"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.217"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1680"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991032044119705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Vereinzelte Lesernotizen; Exlibris von Gerold II. (Abt des Klosters Rheinau von 1696-1735) im vorderen Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRg 72"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1696",
+      "1735"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991032452369705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftliche Besitzvermerke Bullingers und Gwalthers: \"Sum Heinrÿchi bullingeri, ex dono Volcatij Ioneri Mecoenatis dignissimi 15(2?)6.” \"Sum Rod[olphi] Gualtheri ex dono Heinrychi Bullingeri patris colendiss[imi]. 1542.” Gehäuft handschriftliche Annotationen Bullingers zum Matthäus- und Johannesevangeliums. Preisnotiz: \"Utraque pars viij lib.”"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Bibl 123"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1542"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991033206349705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Notizen im hinteren Spiegel; Annotationen im Text"
+      ],
+      [
+        "5",
+        "(Exemplar ZB Zürich; NR 870,6)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "explicit",
+    "reason": "complete_shelfmark_in_same_field_scope",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,6"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991033256479705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris auf dem Titelblatt. Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 115"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1637"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991034534369705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Annotationen im Textteil; auf der Rückseite des letzten Blattes weitere Notizen; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991034722529705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Nachlass von Emil Egli (1909): Kaufvermerk von seiner Hand, datiert 1898, auf vorderem Vorsatzblatt"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli 278"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1909",
+      "1898"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991034807859705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel: \"Anno domini 1519 Die iunii nona Vernherus Lapidanus Zuginus presbyter et S.Sedis apostolice prothonotarius comparavit sibi hunc librum pro 50 margetis\". Auf dem Titelblatt weiterer handschriftlicher Besitzvermerk: \"Sum Jacobi Huldrychi: 1567\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.301,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519",
+      "1567"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991035055309705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Bullingers: \"Sum H. Bullingeri 1540\". Früherer Vorbesitzer: Fridolin Murer."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "2.85: c"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1540"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991035082159705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel \"Abraham Bouquin est possesseur de ce present Liure\". Ebenda eingeklebter Geschenkvermerk von R. Bölsterli (1914)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III K 75 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1914"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991036442219705501",
+    "tag": "500",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzvermerk auf dem Titelblatt: \"I. R. Gyger, D. B. D. A[nn]o 1629+"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.51"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1629"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991036931919705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Mit Verbalexlibris: \"Sum Monasterij Rhenoviensis. 1805.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rm 244 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1805"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991037378799705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Von Gessner in der Stiftsbibliothek am Grossmünster eingesehen und stellenweise annotiert. Vorbesitzer: Ulrich von Hutten (1488-1523)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V W 16,3 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1488",
+      "1523"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991038608719705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Einband der Zeit; aus dem Besitz Gessners, mit Annotationen von seiner Hand, auf der Titelseite handschriftlicher Vermerk von Fries:\" Sum frisii Ioannis ex Dono Con. Gesneri. 1538\", weitere Vorbesitzer: Johannes Fries (1505-1565), H. Huldricus; Buchpreis: 12 Batzen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WJ 148"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1538",
+      "1505",
+      "1565"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991040925499705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Exlibris von Johannes Schweitzer (1575) im vorderen Spiegel. Schenkungsvermerk desselben an Johannes Mursius (?) auf dem vorderen Vorsatzblatt \"Ioannes Schwitzherus, Ioanni Mursio hunc librum in p[er]petuam sui memoria Tiguro [...] D.D. [Ch]ris. redemptoris 1577. dies 15 Martij.\""
+      ],
+      [
+        "5",
+        "Exemplar ZB Zürich; 17.452"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "explicit",
+    "reason": "complete_shelfmark_in_same_field_scope",
+    "targets": [
+      [
+        "Z06",
+        "17.452"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1575",
+      "1577"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991041403819705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Verbalexlibris auf der Titelseite. Weitere Vorbesitzer: Johann Pfister (dat. 1573 und 1585), Pfarrkirche St. Paul (Konstanz), Johann Georg Engelin (dat. [15]87) und David Rinberg [Lesung unsicher] (dat. 1589), jeweils mit Verbalexlibris auf der Titelseite, sowie letzterer zusätzlich auf dem hinteren fliegenden Vorsatzblatt"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ro 47"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1573",
+      "1585",
+      "1589"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991041505439705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Vorsatzblatt Verbalexlibris der Bibliotheca Neoparthenia (Alumnatsbibliothek Zürich), 1770"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III H 9 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1770"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991041866759705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Gelangte 1836 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, anlässlich des Todes von Sohn Arnold - mit entspr. hs. Schenkungsvermerk auf dem vord. Vorsatzblatt. Ebda. weitere hs. Notizen von ihm und die Provenienzangabe \"ex libris Jacobi Hottingeri 1820\". Ebda. hs. Vermerk \"Sam. Eglingeri MDCLXX\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.15"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1836",
+      "1820"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991041964639705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris der Pfarrei Sachseln (1687 sub Francisco Jung) auf dem Titelblatt; später vielleicht im Jesuitenkolleg Luzern (vgl. alte Signatur auf dem Titelblatt); aus der Sammlung von J.J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 262 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1687"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991041988539705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerke von Nicolaus Episcopius, dat. 1522, und von Johann Jacob Ulrich, undatiert"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal St 177 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1522"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991046232519705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Vorsatzblatt des ersten und dritten Bandes hs. Besitzvermerk von Johann Conrad Füessli, datiert 1735. Auf dem Titelblatt des ersten Bandes hs. Besitzvermerk von Leonard Usteri, datiert 1772."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.200"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1735",
+      "1772"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991048255199705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Teil einer 1899 von Gerold Meyer von Knonau dem in der Stadtbibliothek eingerichteten \"Zwingli-Museum\" vermachten Sammlung zum Reformationsjubiläum 1819"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli MvK A 71,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1899",
+      "1819"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991048775139705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Verschiedene Besitzereinträge; hs. Notiz auf Bl. a1r: \"Sum Ioannis Atrociani anno mdxvii (sic) Basilee\", \"sum Frisii Io[ann]is Tigurini 1537\"; hs. Notiz auf dem Vorsatzblatt: \"Io. Casp. Orelli 1834\" und Orellis Ex Libris im Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.213"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1537",
+      "1834"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991049351629705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris \"M[o]n[aster]ij Rhenoviensis Sub Abbate Eberhardo a. 1624\" auf dem Titelblatt. Auf dem hinteren Vorsatzblatt weiterer Besitzvermerk:\"Ioannes Strub est verus possesor huius libri\"."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rq 585"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1624"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991049800419705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991051196989705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris und Stempel der Benediktinerabtei Ochsenhausen auf dem Titelblatt; Besitzeintrag von Melchior Kirchhofer (Geschenk des Klosters Einsiedeln 1833) auf dem Vorsatz, ebd. weitere hs. Notizen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.1595"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1833"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991051878039705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,4"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991052345239705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz Huldrych Zwinglis. Auf Bl. [alpha]₁recto: \"Hulderico Zinlio M. Sanderus decanus Wratislaviensis dono dedit Anno domini 1520, zahlreiche griech. Randglossen Zwinglis [Köhler 155]"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V A 6 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1520"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991053491519705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Verbalexlibris mit Legende: \"Bibliothecae Carolinae 1759.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III D 8"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1759"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991055408579705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris auf dem Titelblatt. Ebenda handschriftlicher Besitzvermerk: \"Nicolaus Rueglin pfarer zuo Buel. gott gnad im Anno 1562\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRg 160"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1562"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991058508139705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Schweinsledereinband der Zeit. Im vorderen Spiegel Besitzvermerk von Caspar Keller (1672)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ochsner 1054"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1672"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991058864369705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Mit Widmung von Johannes Fries an Petrus Falkenstein, datiert 1543. Späterer Vorbesitzer: Johann Caspar Hagenbuch"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "20.171"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1543"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991059406059705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Jakob Han (1505) im vorderen Spiegel; aus der Sammlung von J. J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 226 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1505"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991061292699705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Notiz auf Bl. 1r: \"Sum Mon[aste]rij Rheinaw.\"; Halbledereinband mit Rollstempeln (16; Jh.); Buchrücken mit Sprengpapier überzogen (Rheinau, 17. Jh.). Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)"
+      ],
+      [
+        "5",
+        "Exemplar ZBZ; RRC 115,2"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "explicit",
+    "reason": "complete_shelfmark_in_same_field_scope",
+    "targets": [
+      [
+        "Z06",
+        "RRc 115,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1637"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991063409219705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Einband der Zeit; auf dem Titelblatt handschriftlicher Besitzvermerk Gwalthers: \" Sum Rod. Gualtheri Tigur. 1545\"; historischer Buchpreis: 14 Schilling. Auf Bl. R₄verso handschriftliches Gedicht Gwalthers"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "W 315"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1545"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991063568729705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk: Joh. Bernhard Bodmer 1660"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "3.50"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1660"
+    ],
+    "place_tokens_not_stations": [
+      "Bern"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991063924559705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Handschriftliches Inhaltsverzeichnis auf dem vorderen Vorsatzblatt. Im hinteren Spiegel Besitzvermerk \"Joannis Rodolphi Stumphij Tigurini anno Domini: 1588\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.295,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1588"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991065718289705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,8"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991067602879705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Notizen im Spiegel: \"Est Joh[ann]is Adelfi physici Scaffusensis manu propria anno 1517\"; hs. Notiz auf Bl. 1r: \"Hans Roll\" (in Wappen der Druckermarke); hs. Notiz auf Bl. 1r des vorgebundenen Druckes: \"Nicolaus Fortmannus Lucernensis\"; Stempel der Kantonsbiblitohek Zürich auf Bl. 1v des vorgebundenen Druckes. Weiterer Vorbesitzer: Kloster Rheinau"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rs 356,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1517"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau",
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991068428779705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Johann Rudolf Stumpf (1561) im hinteren Spiegel; hs. Notizen von Stumpf auf dem Vorsatz"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.192"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1561"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991068465489705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gessners: \" Sum Conradi Gesneri.\" Früherer Vorbesitzer: Konrad Grebel (1498-1526), mit handschr. Besitzeintrag auf dem vorderen Vorsatzblatt: \"Hanc adscripsit Conr. Grebelinus Tigurinus\" (früherer Name getilgt). Ebenda Angaben zur Provenienzgeschichte: \"Impressus Viennae DDD.XVIII; Dono datus a I. VVVV Tigurini .XVIII; Illigatus Luterus XVIIII; Scriptum ant. hoc D.D.D xx.\", nachfolgend ein Gedicht an J. Vadian."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 295"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1498",
+      "1526"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991068691459705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf der Titelseite Besitzvermerk Bullingers: \"Sum H. Bullingeri 1515\". Ab 1585 im Besitz von Johannes Stumpf; Buchpreis: 2 Pfund, 5 Schilling"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "14.162"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1515",
+      "1585"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991071014239705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Vorbesitzeintrag auf dem Titelblatt \"Monasterij Rhenoviensis Sub Abbate Eberhardo A° 1624\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III L 282"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1624"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991071634919705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Schweinsledereinband der Zeit mit handschriftl. Besitzvermerk \"... Stocker\" auf dem vorderen Deckel; im vorderen Spiegel handschriftl. Besitzvermerk: \"Marx Escher, 1702\" und Exlibris der Alumnatsbibliothek; mit Annotationen."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III N 105"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1702"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991072505169705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt und im vorderen Spiegel handschriftlicher Besitzvermerk von Heinrich Zimmermann aus Wil (1549). Im vorderen Spiegel ausserdem Kaufvermerk (\"cost 5 Bz)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 800"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1549"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991073716409705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt des 1. Bds. handschrift. Notiz Heinrich Bullingers, dat. 1557. Die Bände wurden demnach von Peter Schmid an die Stiftsbibliothek des Grossmünsters verkauft."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III A 1 | F"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1557"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991074116599705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,7"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991075107359705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Schweinsledereinband der Zeit. Auf dem Titelblatt handschriftlicher Besitzvermerk Gessners: \"Sum Conradi Gesneri. 1544.\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "IV T 8 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1544"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991075311049705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Besitzvermerke: \"Jacobus Cellarius sibi hunc librum comparavit Malansij ... 1589\" und \"Joh. Rahn\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.437,17"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1589"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991077037099705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Annotiertes Exemplar; handschriftlicher Besitzvermerk von Matthias Merian 1755 im vorderen Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.418: a,10"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1755"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991077325369705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Besitzernotiz von 1649 im vorderen Spiegel ausradiert (Heinrich Irminger?); Supralibros der Stadtbibliothek Zürich; Halbledereinband der Zeit"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "3.135"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1649"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991078745839705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris der reformierten Stiftsbibliothek am Grossmünster Zürich auf dem Titelblatt (1752)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III N 145"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1752"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991079743099705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris des Klosters Rheinau auf dem Titelblatt. Mit der 1520 ebenfalls in Florenz gedruckten Benediktinerregel zusammengebunden, die auf der Titelseite Harzers Besitzvermerk und das durchgestrichene Verbalexlibris des Klosters St. Justina in Padua enthält. Pergamenteinband der Zeit, Buchrücken später mit Buntpapier überklebt"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rc 142: b,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1520"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991079807889705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Rudolf Gwalther und Johann Caspar Brunner (1653) (handschriftliche Einträge auf dem Titelblatt)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.85"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1653"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991081600619705501",
+    "tag": "561",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Teil einer 1899 von Gerold Meyer von Knonau dem in der Stadtbibliothek eingerichteten \"Zwingli-Museum\" vermachten Sammlung zum Reformationsjubiläum 1819"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli MvK A 71,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1899",
+      "1819"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991081691409705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Weitere Vorbesitzer (jeweils mit Verbalexlibris auf dem Spiegelblatt vorn; vgl. CMD-CH3, Nr. 738): Adam Rubeus, Johann Georg Blecker (dat. 1609) und Johann Beat Fry (dat. 1610)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ry 318,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1609",
+      "1610"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991081957619705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991081979229705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,7"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991082077949705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gwalthers: \"1538 Sum Rodolphi Gualtheri Tigurini.\" Mit Annotationen von seiner Hand. Ledereinband der Zeit"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.332"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1538"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991083599489705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Besitz Huldrych Zwinglis. Wenige Annotationen, möglicherweise einige von Zwinglis Hand. Besitzeinträge auf Titelseite: Kloster Rheinau, Zacharias Schörzlinus (1597). Randglossen Zwinglis? [Köhler 344]."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V M 1: a | F"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1597"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991083845069705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Annotiertes Exemplar; handschriftlicher Besitzvermerk von Matthias Merian 1755 im vorderen Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.418: a,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1755"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991084042479705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag von Andreas Wehrli [?] von Arbon auf dem Titelblatt (1523)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.427,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1523"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991084061789705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gessners: \"Sum Conradi Gesneri Tigurini.\" Späterer Vorbesitzer: Johannes Schulthess (1763-1836)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.410"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1763",
+      "1836"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991084378579705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel \"Abraham Bouquin est possesseur de ce present Liure\". Ebenda eingeklebter Geschenkvermerk von R. Bölsterli (1914)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III K 75,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1914"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991085763399705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,5"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991086518679705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Geschenk der Mönche des Klosters St. Justina in Padua an Harzer, wie seiner handschriftlichen Notiz auf dem Titelblatt zu entnehmen ist: \"Ex dono & liberalitate RRdorum [reverendorum] PP. [patrum] ac monachorum monasterii S. Iustinae a Padua, possidet Georgius Sebastianus Hartzer a Salenstein Rhenoviensis conventualis a° 1604.\" Verbalexlibris des Klosters Rheinau auf dem Titelblatt und Bl. A2r. Auf dem Titelblatt durchgestrichenes Verbalexlibris des Klosters St. Justina in Padua. Handschriftliche Notizen auf den Bl. 68v und Aa7r. Pergamenteinband der Zeit, Buchrücken später mit Buntpapier überklebt. Zusammengebunden mit einem weiteren Druck des 16. Jahrhunderts"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rc 142: b"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1604"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991087445199705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris des Jesuitenkollegs Luzern (1673) auf dem Titelblatt; aus der Sammlung von J.J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 266 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1673"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991087646209705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Es fehlen Bl. IX und XIX von Teil 1, das Titelbl. zur Passio (Teil 2), Bl. XII von Teil 3 und Bl. VII, XI, XXXII und XXXVI von Teil 4; Verbalexlibris des Jesuitenkollegs Luzern (1672) auf dem Titelbl.; aus der Sammlung von J. J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 85 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1672"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991088377179705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,9"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991089422739705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftliche Besitznotiz auf dem Titelblatt : \"Ioannes Maagius V. D. M.-Bibliothekar, Civices d. d. Kal. Jul. A. 1634\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.284"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1634"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991089940959705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Johann Rudolf Stumpf (1561) im hinteren Spiegel; hs. Notizen von Stumpf auf dem Vorsatz und Titelbl"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.191"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1561"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991096504579705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Kapitelzählung; hs. Widmung von Gerhard zum Camph an Konrad Pellikan d.Ä. auf dem Vorsatz (mit Wappenmalerei); ebd. hs. Besitzvermerk von Konrad Pellikan d.J. (1585)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III B 21"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1585"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991099276279705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,10"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991100000719705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Mit Notizen im vorderen Spiegel. Handschriftliche Annotationen und Marginalien in roter und schwarzer Tinte im Text. Handschriftlich angefertigtes Carmen, datiert auf April 1523, auf dem hinteren Vorsatzblatt, es folgen Notizen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 72"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1523"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991102522349705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem letzten Blatt hs. Besitzvermerk von Jacob May?, datiert 1671."
+      ],
+      [
+        "5",
+        "Exemplar ZBZ; 18.1410,5"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "explicit",
+    "reason": "complete_shelfmark_in_same_field_scope",
+    "targets": [
+      [
+        "Z06",
+        "18.1410,5"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1671"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991102855009705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Besitzvermerk von Johann Jakob Steinbrüchel, dat. 1760"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.515"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1760"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991103292429705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hans Wilhelm Wolf an die Stadtbibliothek Zürich 1629 (vgl. Donationenbuch, S. 625)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.92"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1629"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991105093599705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Notizen auf Blatt 48r; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,8"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991105567549705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Annotiertes Exemplar; handschriftlicher Besitzvermerk von Matthias Merian 1755 im vorderen Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.418: a,9"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1755"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991105977579705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerke von Franciscus Cervinus und Jakob Vollenweider (1590/91) auf den Titelblättern"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.292: b,3-4"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1590"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991106011629705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Erasmus Fabricius (1522) auf dem Titelblatt; Sammlung von J.J. Simler"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z03",
+        "Ms S 6,24 (Dr 3)"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1522"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991106588579705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Handschr. Besitzvermerk auf dem Titelblatt des vorgebundenen ersten Faszikels von \"David Kinbagkh a Wingarten Anno 1586\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 116,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1586"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991106914309705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt hs. Besitzvermerk: \"Friderici Gibelij, 1608\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III N 145,11"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1608"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991108484359705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzvermerk auf der Titelseite: \"Hadrianus Hospinianus (Adrian Wirth, Vater) etam heimensis me posidet 1523\"; handschriftliche Widmung: \"Pro Rudolpho Hospiniano (Rudolf Wirth, Sohn) 1561\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.279,4"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1523",
+      "1561"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991108521799705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Im vorderen Vorsatz hs. Besitzvermerke von Hans Othmar Wipf (1555), Hans Jakob Werndli (1630) und Melchior Manz (1751)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III D 346"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1555",
+      "1630",
+      "1751"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991109376649705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Mit handschriftlichem Verbalexlibris des Klosters Rheinau (1611) auf dem Titelblatt; mit zahlreichen Annotationen (Vorlesungsmitschrift?)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 70"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1611"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991111270649705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt zwei handschriftliche Besitzvermerke Heinrich Bullingers: \"Henricus bremgartte\" und \"Sum Heinrÿchi Bullingeri 1522\". Blätter 1-17 vom jungen Bullinger stark annotiert. Der Band gelangte auf unbekannten Wegen in den Besitz des Zürcher Pfarrers Johann Georg Schulthess."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z03",
+        "Ms Z XI 603"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1522"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991111963269705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftl. Besitzvermerk von Oswald Wirz, dat. 1558. Im hinteren Spiegel handschriftl. Besitzvermerk von Johann Rudolf Stumpf, dat. 1575"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "W 316"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1558",
+      "1575"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991112003759705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Titelblatt handschriftlicher Besitzvermerk Bullingers: \"Sum Heinrijchi Bullingeri 1523\". Auf dem Vorsatzblatt recto handschriftlicher Besitzvermerk Bullingers: \"Heinrÿchi Bullingeri Hergoei\". Buchpreis: 18 [?]."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ochsner 623"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1523"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991113193179705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991114616289705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Weitere Vorbesitzer (jeweils mit Verbalexlibris auf dem Spiegelblatt vorn; vgl. CMD-CH3, Nr. 738): Adam Rubeus, Johann Georg Blecker (dat. 1609) und Johann Beat Fry (dat. 1610)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ry 318,6"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1609",
+      "1610"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991116108649705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,6"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991116946849705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerke (vgl. CMD-CH3, Nr. 738) von: Kloster Rheinau (auf Titelseite), sowie Adam Rubeus, Johann Georg Blecker, dat. 1609, und Johann Beat Fry, dat. 1610 (jeweils auf dem Spiegelblatt vorn)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ry 318,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1609",
+      "1610"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991117385919705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerk Rudolf Gwalthers (1545) und Preisvermerk: 1/2 Pfund 2 1/2 Schilling\"."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "1.121"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1545"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991117582469705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Verbalexlibri von Johannes Frisius (1543) und dessen Sohn Jacob (1565) sowie von Heinrich Ulrich (1612) und dessen Sohn Heinrich jun. (1645)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WJ 152-153"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1543",
+      "1565",
+      "1612",
+      "1645"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991118176389705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Handschriftliches Inhaltsverzeichnis auf dem vorderen Vorsatzblatt. Im hinteren Spiegel Besitzvermerk \"Joannis Rodolphi Stumphij Tigurini anno Domini: 1588\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.295"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1588"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991118531829705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Div. hs. Besitzvermerke im vorderen und/oder hinteren Vorsatz: Jacob Ryter (1586), Martin Ryser (1597), Johann von Arx, Hector Zolikofer. Vermerk \"1614\" auf dem Spiegelbl. Div. hs. Annotationen. Schweinsledereinband"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "VIII bis 49"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1586",
+      "1597",
+      "1614"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991119138329705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris auf Bl. a ii. Weiterer Vorbesitzer: Andreas Dettinger, mit Verbalexlibris auf dem Titelblatt, datiert auf 1618"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 73"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1618"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991120920829705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Ursprünglich in der Sammlung von J.J. Simler (Ms S 14,72=Dr 12), 1899 versetzt"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli 54: a.1"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1899"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991121281869705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel: \"Anno domini 1519 Die iunii nona Vernherus Lapidanus Zuginus presbyter et S.Sedis apostolice prothonotarius comparavit sibi hunc librum pro 50 margetis\". Auf dem Titelblatt weiterer handschriftlicher Besitzvermerk: \"Sum Jacobi Huldrychi: 1567\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.301,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519",
+      "1567"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991121878269705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Besitzvermerk auf Titelblatt des 1. Bandes: \"Friedrich Wiedmer Phil. stud. Basel 20 - Decemb. 1817; weiterer Besitzvermerk auf Titelblatt: \"Joh. Jac. Huld. Hen. F. ex lib. b. J. Jac. Engel. virioph.\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Heid 4289"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1817"
+    ],
+    "place_tokens_not_stations": [
+      "Basel"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991122265319705501",
+    "tag": "500",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Umfasst Stücke mit den Signaturen: Zwingli N 104 & 105 (Nachbildung des Originalexemplars des von Luther im Jahr 1517 veranstalteten Druckes seiner Thesen (Zw. N 104) und deutsche Übersetzung der Thesen Luthers (Zwingli N 105), der Stadtbibliothek geschenkt für das Zwinglizimmer am 13.Oktober 1899 von G.H. Ott-Daeniker)Zwingli N 121: a, b & c (Lutherhaus in Wittenberg, verschiedene Beiträge aus Zeitschriften, bzw. Broschur), Zwingli N 312: a (Faksimileblatt aus Zwinglis Hausbibel); Zwingli N 387: a (Faksimileblatt zur Abschrift der paulinischen Briefe 1517); Zwingli N 384 (Faksimileblatt eines Zwingli-Briefes (vgl. StAZ E II 341 Fol. 3261 a ff.)); Zwingli N 384: a (Faksimilierte Titelseite \"Johannis Ecken Missiue vnd embieten... 1524); Zwingli N 633: b (Zur Erinnerung an die feier der Grundsteinlegung des Melanchthon-Hauses in Bretten); Zwingli N 635: a (Faksimiliertes Titelblatt der Complanatio Isaiae Prophetae ... 1529); Zwingl N 656: a [2x vorhanden, einmal mt zusätzlicher Signatur Zw M 37] (Faksimile eines Kalenders von Zwingli, handschriflticher Vermerk (19. Jht.) rechts unten \"Partie superierue d'un Almanach Suisse-impr. par Andr. Geszner junior ca. 1540\"); Zwingli Mp 1000,1 (Kamin aus Nidau im bernischen historischen Museum)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z02",
+        "Zwingli N 104-656: a"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1517",
+      "1899",
+      "1517",
+      "1524",
+      "1529",
+      "1540",
+      "1000"
+    ],
+    "place_tokens_not_stations": [
+      "bern"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991122311379705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Erasmus Fabricius (1524) auf dem Titelblatt"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "28.454,14"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1524"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991122738829705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Sammelband mit handschriftl. Besitzvermerk auf dem vorderen Vorsatzblatt: \"Salomon Hess, Pfarrer, 1820\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.437"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1820"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991122859509705501",
+    "tag": "590",
+    "occurrence": 3,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerke (vgl. CMD-CH3, Nr. 738) von: Kloster Rheinau (auf Titelseite), sowie Adam Rubeus, Johann Georg Blecker, dat. 1609, und Johann Beat Fry, dat. 1610 (jeweils auf dem Spiegelblatt vorn)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ry 318,5"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1609",
+      "1610"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991123141459705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschrf. Besitzvermerk auf der Versoseite des letzten Bl.: \"Ex libris Johannis Samuelis Petitpierre, 1757\"; eingeklebter Legatsvermerk auf der Innenseite des Rückdeckels: \"Legat des Herrn Friedrich Du Bois von Montperreux\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.303"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1757"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991123485879705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Letzwilliges Geschenk von Prof. Dr. Friedrich Meili, 1914"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Meili 805"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1914"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991125101709705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Vorbesitzer: Ulrich von Hutten (1488-1523)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V W 16,2 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1488",
+      "1523"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991128973729705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerk mit Legende: \"Sum Georgij (durchgestrichen: Egglji) Lucernati, Helvetij, Frankfurdiæ Anno salutis 1529.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Md A 318"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1529"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991128973729705501",
+    "tag": "561",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Auf dem letzten Blatt Besitzvermerk mit Legende: \"Sum Danielis Egglij Arowiensis, Iam vero Basilee, Anno 1549, di 163 Septemb. ... \""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Md A 318"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1549"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991129172319705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftl. Besitzvermerk: \"Ich bin Hans Martin Stockers\". Sammelband aus dem Vorbesitz von Felix Werdmüller (1600)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "5.176"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1600"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991129252079705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau; Besitzvermerk von Abt Berhard I., 1646"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRd 20,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1646"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991129410879705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Besitzvermerk von Johann Ulrich Pfyffer auf dem Vorsatz (1556); ob aus dem Jesuitenkolleg Luzern (vgl. Sign. auf dem Vorsatz)?;aus der Sammlung von J. J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 97 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1556"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991130442779705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Gessners: \"C. Gesneri cui Antonius Schneebergerus mittebat e Cracovia. 1559. Octobri\". Mit vielen Annotationen von seiner Hand."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ochsner 1147,5"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1559"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991130806249705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Im vorderen Vorsatz hs. Besitzvermerke von Hans Othmar Wipf (1555), Hans Jakob Werndli (1630) und Melchior Manz (1751)"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 1151"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1555",
+      "1630",
+      "1751"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991131068949705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Eingeklebter Schenkungsvermerk: Geschenk Herrn Prof. Alex Schweizer sel. an die Stadtbibliothek (1888)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WZ 1419"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1888"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991131937749705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Im Vorsatz Besitzvermerk \"Dono dedit Melchiori Wiel Ioes Georgius Übereckius, Anno domini 1560 ...\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.71"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1560"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991133977159705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Mit handschriftlichem Besitzvermerk auf dem hinteren Vorsatzblatt: \"Ioannes Strub est verus possesor huius libri.\" Weiterer Vorbesitzer: Kloster Rheinau unter Abt Eberhard (1624) mit hs. Eintrag auf dem Titelblatt des ersten Faszikels des Konvoluts"
+      ],
+      [
+        "5",
+        "Exemplar ZB Zürich; Rq 585,3"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "explicit",
+    "reason": "complete_shelfmark_in_same_field_scope",
+    "targets": [
+      [
+        "Z06",
+        "Rq 585,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1624"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991134569399705501",
+    "tag": "500",
+    "occurrence": 5,
+    "subfields": [
+      [
+        "a",
+        "Einband der Zeit, zsgeb. mit Werke. Auswahl / Ulrich von Hutten. Mainz 1519; Vorbesitzer: Huldrych Zwingli? [Köhler 166]"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "II DD 370: ,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991136341899705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Gelangte als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, anlässlich des Todes von Sohn Arnold - mit entspr. hs. Schenkungsvermerk (1836) auf dem vord. Vorsatzblatt des beigebundenen Drucks, jd. im Donatorenbuch 1838 eingetragen. Ebda. weitere hs. Notizen von ihm und die Provenienzangabe \"ex libris Jacobi Hottingeri 1820\". Ebda. hs. Vermerk \"Sam. Eglingeri MDCLXX\". Enthält v.a. am Anfang vereinzelte Randglossen und Textunterstreichungen."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.15,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1836",
+      "1838",
+      "1820"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991136813549705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Annotationen im Text; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870,9"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991136901999705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Mehrere handschr. Besitzvermerke von Wolf Adam Werlin (1565) auf dem Titelblatt und Hans Werlin im vorderen Spiegel. In den vorderen Holzdeckel eingeritztes Supralibros \"W\". Auf dem hinteren Vorsatzblatt befindet sich die Notiz \"Dis Bůch ist Wolfs Adambs Werlins wer es findt der gibs antwort\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Rq 33"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1565"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991137162469705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Annotiertes Exemplar; handschriftlicher Besitzvermerk von Matthias Merian 1755 im vorderen Spiegel"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.418: a,8"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1755"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991139119599705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Teil einer 1899 von Gerold Meyer von Knonau dem in der Stadtbibliothek eingerichteten \"Zwingli-Museum\" vermachten Sammlung zum Reformationsjubiläum 1819"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Zwingli MvK A 71,6"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1899",
+      "1819"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991139772289705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz des Klosters Rheinau. Mit Notizen im vorderen Spiegel. Handschriftliche Annotationen und Marginalien in roter und schwarzer Tinte im Text. Handschriftlich angefertigtes Carmen, datiert auf April 1523, auf dem hinteren Vorsatzblatt, es folgen Notizen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "RRc 72,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1523"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991140626159705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftliche Besitzvermerk von Johannes Sphyractes, datiert 1637, \"Socini\" und \"Casp. Hagenbuchii 1750.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "22.13 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1637",
+      "1750"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991140709409705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf der Rückseite des Titelblattes Exlibris der Naturforschenden Gesellschaft in Zürich; Verbalexlibris im vorderen Spiegel \"Emptus est hic liber a me Ioanne Humparth [?, oder: Heimbarth] 8 batzij anno 1536\"; alte Signatur \"P 60\" des Jesuitenkolleg Luzern auf dem Buchrücken; im vorderen Spiegel bibliographische Notizen sowie Anmerkungen von einer weiteren Hand; Annotationen im Textteil; auf der Rückseite des letzten Blattes weitere Notizen; Notizen im hinteren Spiegel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "NR 870"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1536"
+    ],
+    "place_tokens_not_stations": [
+      "Luzern",
+      "Zürich"
+    ],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991140859419705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Besitz Konrad Aus dem Besitz Gessners. Mit vielen Annotationen von seiner Hand. Späterer Vorbesitzer: Johann Kaspar Hagenbuch (1700-1763).Gessners. Mit vielen Annotationen von seiner Hand. Späterer Vorbesitzer: Johann Kaspar Hagenbuch (1700-1763)."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.349"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1700",
+      "1763",
+      "1700",
+      "1763"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991142208809705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel \"Abraham Bouquin est possesseur de ce present Liure\". Ebenda eingeklebter Geschenkvermerk von R. Bölsterli (1914)"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III K 75,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1914"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991142980919705501",
+    "tag": "500",
+    "occurrence": 3,
+    "subfields": [
+      [
+        "a",
+        "Oben handschriftliche Notiz vermutlich vom Vorbesitzer Hans Caspar Ott-Escher (1740-1799) \"Sehr selten. Empfang im Merz 88. Ex dono M.W.Panzer, Nürnbergensis, Pastoris apud St. Sebaldum\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z02",
+        "PAS II 25/7 G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1740",
+      "1799"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991143780079705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Besitz von Rudolph Gwalther. Auf dem Titelblatt handschriftlicher Besitzvermerk Gwalthers: \"Sum Rodolphi Gualteri Tig: 1547.\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "W 321"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1547"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991144428969705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk von Leonhard Holzhalb, datiert 1698 und Johann Jakob Bürkli."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.437,12"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1698"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991145255029705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Mit hs. Besitzvermerken im vorderen und hinteren Spiegel von Johann Steinhuser (1552), Johannes Cervinus [?] (1535) u.a. (unleserlich); mit Annotationen"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "5.110"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1552",
+      "1535"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991145784499705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Im vorderen Spiegel Exlibris der Alumnatsbibliothek. Auf dem vorderen Vorsatzblatt Schenkungsvermerk: \"Bibliothecae Parthenicae adiunxit Casparus Ammianus Philos. Stud., 1748\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "III L 601"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1748"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991146173949705501",
+    "tag": "590",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Hs. Notiz auf Bl. 1r des ersten Druckes: \"Bibliotheca aedium pastoralium est ex Bibl. D. Francisci Caurii Cremonensis ab anno 1651; Supralibros der Stadtbibliothek Zürich"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "18.208: d,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1651"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991146598189705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von G. R. Zimmermann, der das Buch von seinem Vater (Hans Rudolf) und Grossvater (Johann Rudolf) erbte (1867). Weitergegeben an seinen Sohn Fr. Th. Zimmermann (1900). Beide Vermerke auf dem vorderen Vorsatzblatt. Späterer Vorbesitzer: Hansjürg Zimmermann"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AWZ 3061"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1867",
+      "1900"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991146948329705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Im vorderen Spiegel hs. Besitzvermerk \"Exlibris Jo. Jacobj Haldenstein, 1600\". Im vorderen Spiegel und auf dem Titelblatt Besitzvermerk \"Jacobi Wyssij Tig. a-o. 1666\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "3.115"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1600",
+      "1666"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991147485239705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzeintrag im vorderen Spiegel: \"Anno domini 1519 Die iunii nona Vernherus Lapidanus Zuginus presbyter et S.Sedis apostolice prothonotarius comparavit sibi hunc librum pro 50 margetis\". Auf dem Titelblatt weiterer handschriftlicher Besitzvermerk: \"Sum Jacobi Huldrychi: 1567\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "4.301"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1519",
+      "1567"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991147752079705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Handschriftlicher Besitzvermerk auf dem Titelblatt: \"Gehört in daß gottshuß Wettingen 1639\" ebenda unten: \"Bibliothecæ Wettinganæ\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "IV PO 10 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1639"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991148837349705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Wurmspuren in allen Teilen; alle Teile mit Besitzeintrag des Klosters Rheinau auf dem Titelblatt, einige ältere Besitzvermerke überklebt; hs. Notiz auf Bl. 1r von Teil 5: \"Ad usum Johannis Thunthelij, prespyteri, emptus ab heredibus d. Cristiani Foelcklis 1550\""
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ru 1-6 | F"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1550"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991149838919705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Aus dem Vorbesitz von Hansjürg Zimmermann, mit Initialen auf dem vorderen Vorsatzblatt. Hanschr. Besitzvermerke von Rudolph Wonlich, Rudolf Zimmermann (1768), Theophil Zimmermann (1900) und Johann Caspar Brunner (1613?) auf dem Titelblatt des ersten Faszikels des Sammelbandes"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "AW 348,11"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1768",
+      "1900",
+      "1613"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  },
+  {
+    "record_id": "991150077729705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Notiz im Spiegel: \"Wernherus Lapidanus Zugiensis, 1513\" mit handgezeichnetem Monogramm; Stiftsbibliothek am Grossmünster, unter den \"libri donati a M. Ioh. Fries\" (Nr. 673 vgl. Germann, Stiftsbibliothek, S. 305); alte Signatur der Kantonsbibliothek Zürich im Spiegel. \"IV. S. 83\"."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ink K 320,3"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1513"
+    ],
+    "place_tokens_not_stations": [
+      "Zürich"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991150204739705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt handschriftlicher Besitzvermerk Heinrich Bullingers: \"Sum H. Bullingeri. 1533\". Er notierte zudem die Autoren und Kurztitel der darin eingebundenen Werke auf dem Vorderschnitt. Buchpreis: 18 Schilling"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "WJ 71"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1533"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991152324999705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzeintrag des Klosters Rheinau auf Bl. 1r des ersten Faszikels getilgt. Auf dem Titelblatt handschr. Beistzvermerk \"Ab ano 1837. Sum Mon[aste]rij Rheinaw.\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Ra 32,2"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1837"
+    ],
+    "place_tokens_not_stations": [
+      "Rheinau"
+    ],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991152476069705501",
+    "tag": "590",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Hs. Besitzvermerk von Jakob Vollenweider (1590) auf dem Titelblatt; älterer Besitzermerk ebd. unlesbar (beschnitten); Sammlung von J.J. Simler"
+      ]
+    ],
+    "evidence_kind": "lexical_note_candidate",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z03",
+        "Ms S 7,80a (Dr 12)"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1590"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991154846769705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Exlibris des Benediktinerstifts St. Ulrich und Afra (Augsburg) im vorderen Spiegel, sowie Verbalexlibris desselben Klosters auf dem Titelblatt. Supralibros \"MGK 1570\" auf dem vorderen Buchdeckel"
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "Gal Tz 1483"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1570"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991159688869705501",
+    "tag": "561",
+    "occurrence": 1,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt unten ausradierter handschriftlicher Besitzvermerk von Johannes Wirz, der den Band gemäss einem weiteren Eintrag seinem Freund Johannes Rhellicanus (um 1498-1542) schenkte. Bullinger kaufte ihn später den Erben von Rhellicanus ab. Letzterer notierte von Hand: \"Ioan[nis] Rhellicani, ex dono Ioan[nis] Vuirtzij Lucernani, amici sui\". Von der Hand Bullingers: \"Emi a Rhell[icani] heredibus H. Bullingerus\". Der Band befand sich seit 1749 im Besitz von Johan Konrad Stumpf."
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "V W 29 | G"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1498",
+      "1542",
+      "1749"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": false
+  },
+  {
+    "record_id": "991160336099705501",
+    "tag": "561",
+    "occurrence": 2,
+    "subfields": [
+      [
+        "a",
+        "Auf dem Titelblatt Besitzvermerk mit Legende: \"Collegij Societatis Jesu Friburgi Brisgoiae, 1628 (?)\""
+      ]
+    ],
+    "evidence_kind": "catalogue_provenance_field_or_owner_role",
+    "assignment": "plausible",
+    "reason": "only_one_catalogue_reference_in_record",
+    "targets": [
+      [
+        "Z06",
+        "II App 98"
+      ]
+    ],
+    "year_tokens_not_events": [
+      "1628"
+    ],
+    "place_tokens_not_stations": [],
+    "uncertainty_word_present": true
+  }
+]

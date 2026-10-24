@@ -1,0 +1,142 @@
+{
+  "places": {
+    "Basel": {
+      "name": "Basel",
+      "latitude": 47.55839,
+      "longitude": 7.57327,
+      "authority": "GeoNames",
+      "authority_id": "2661604",
+      "source_url": "https://www.geonames.org/2661604",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Cologne": {
+      "name": "Cologne",
+      "latitude": 50.93333,
+      "longitude": 6.95,
+      "authority": "GeoNames",
+      "authority_id": "2886242",
+      "source_url": "https://www.geonames.org/2886242",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Strasbourg": {
+      "name": "Strasbourg",
+      "latitude": 48.58392,
+      "longitude": 7.74553,
+      "authority": "GeoNames",
+      "authority_id": "2973783",
+      "source_url": "https://www.geonames.org/2973783",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Venice": {
+      "name": "Venice",
+      "latitude": 45.43713,
+      "longitude": 12.33265,
+      "authority": "GeoNames",
+      "authority_id": "3164603",
+      "source_url": "https://www.geonames.org/3164603",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Paris": {
+      "name": "Paris",
+      "latitude": 48.85341,
+      "longitude": 2.3488,
+      "authority": "GeoNames",
+      "authority_id": "2988507",
+      "source_url": "https://www.geonames.org/2988507",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Bologna": {
+      "name": "Bologna",
+      "latitude": 44.46667,
+      "longitude": 11.43333,
+      "authority": "GeoNames",
+      "authority_id": "3181927",
+      "source_url": "https://www.geonames.org/3181927",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Milan": {
+      "name": "Milan",
+      "latitude": 45.46427,
+      "longitude": 9.18951,
+      "authority": "GeoNames",
+      "authority_id": "3173435",
+      "source_url": "https://www.geonames.org/3173435",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Zurich": {
+      "name": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "authority": "GeoNames",
+      "authority_id": "2657896",
+      "source_url": "https://www.geonames.org/2657896",
+      "coordinate_basis": "Reused existing project place authority"
+    },
+    "Augsburg": {
+      "name": "Augsburg",
+      "latitude": 48.37154,
+      "longitude": 10.89851,
+      "authority": "GeoNames",
+      "authority_id": "2954172",
+      "source_url": "https://www.geonames.org/2954172",
+      "coordinate_basis": "Reused MEI place: 02129764-p001-loc01"
+    },
+    "Vienna": {
+      "name": "Vienna",
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "authority": "GeoNames",
+      "authority_id": "2761369",
+      "source_url": "https://www.geonames.org/2761369",
+      "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+    },
+    "Wittenberg": {
+      "name": "Wittenberg",
+      "latitude": 51.8661,
+      "longitude": 12.64973,
+      "authority": "GeoNames",
+      "authority_id": "7303020",
+      "source_url": "https://www.geonames.org/7303020",
+      "coordinate_basis": "Reused MEI place: 02129637-p001-loc01"
+    },
+    "Oppenheim": {
+      "name": "Oppenheim",
+      "latitude": 49.8581,
+      "longitude": 8.3678,
+      "authority": "Getty TGN",
+      "authority_id": "7012639",
+      "source_url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7012639",
+      "coordinate_basis": "Getty TGN inhabited-place point, checked 2026-10-24"
+    }
+  },
+  "publication_label_map": {
+    "Argentorati": "Strasbourg",
+    "Excusum Argentorati": "Strasbourg",
+    "[Strassburg]": "Strasbourg",
+    "Impressum Viennæ Austriæ": "Vienna",
+    "Impressum Viennae Austriae": "Vienna",
+    "Viennae": "Vienna",
+    "Viennæ Pannoniæ": "Vienna",
+    "Vienn Pannoniæ": "Vienna",
+    "[Wien]": "Vienna",
+    "Coloniae": "Cologne",
+    "[Köln]": "Cologne",
+    "Apvd Sanctam Coloniam": "Cologne",
+    "[Augsburg]": "Augsburg",
+    "Bononiæ": "Bologna",
+    "Basileae": "Basel",
+    "[Basel]": "Basel",
+    "Ex inclyta Basilea": "Basel",
+    "Basilee": "Basel",
+    "Venetiis": "Venice",
+    "Impressus Venetiis": "Venice",
+    "Parisijs": "Paris",
+    "[Parrhisijs]": "Paris",
+    "Venundantur parrhisijs": "Paris",
+    "Getruockt zu Oppenheym": "Oppenheim",
+    "Oppenheym": "Oppenheim",
+    "[Wittembergae]": "Wittenberg",
+    "[Mediolani]": "Milan"
+  },
+  "note": "Exact label mapping for this pilot only. Original labels and brackets remain in source data. No generic stripping of uncertain alternatives."
+}
