@@ -1,0 +1,18 @@
+{
+  "supplement_candidates": 281,
+  "references_in_supplement": 281,
+  "previously_covered_references": 320,
+  "additional_references": 89,
+  "combined_distinct_references": 409,
+  "candidates_by_rule": {
+    "handbook_Gal_Tz": 97,
+    "explicit_Rheinau_opening": 174,
+    "NGZH_named_ownership_mark": 10
+  },
+  "limits": [
+    "All added candidates undated. No chronology or automatic map update.",
+    "Supplement may repeat evidence already supporting a place; do not add candidate counts as movements.",
+    "Only Gal Tz shelfmarks and two narrowly defined positive note patterns used. General person names and Ms S signatures are not assigned places.",
+    "Underlying reproduction-review cases remain included."
+  ]
+}
