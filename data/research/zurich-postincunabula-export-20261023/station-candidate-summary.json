@@ -1,0 +1,20 @@
+{
+  "working_references": 5149,
+  "station_candidates": 340,
+  "references_with_place_candidates": 320,
+  "candidates_without_dates": 337,
+  "places": {
+    "Rheinau": 234,
+    "Gosnay": 1,
+    "Zürich": 82,
+    "Luzern": 23
+  },
+  "linked_fields_without_applied_place_rule": 1994,
+  "limitations": [
+    "Candidates are not ordered routes or proof of continuous residence.",
+    "Counts can include duplicate owner mentions across dated and undated evidence; do not count as distinct ownership events.",
+    "Only six existing institutional rules and four reviewed records are applied; no general person-to-place rules.",
+    "Source copy-assignment confidence is preserved separately from place confidence.",
+    "Uncertain reproduction references remain included; dates are never inferred from lifespans."
+  ]
+}
