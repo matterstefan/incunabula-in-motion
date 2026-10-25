@@ -97,83 +97,74 @@ def profile(records, start, end):
     return dict(counts), rows
 
 def harvest(out, query, fetch):
-    records = {}; pages = []; position = 1; expected = None
-    while expected is None or position <= expected:
+    """Traverse result pages, retain unique IDs and report rather than reject gaps."""
+    records = {}; pages = []; duplicates = []; conflicts = []
+    totals = []; position = 1; received = 0; error = None; traversed = False
+    expected = None
+    while expected is None or position <= min(expected, 50000):
         path = out / 'pages' / f'{position:07d}.xml'
         url = ENDPOINT + '?' + urlencode(dict(version='1.2', operation='searchRetrieve', query=query,
                     recordSchema='marc21-xml', maximumRecords=100, startRecord=position))
         cached = path.exists()
-        raw = path.read_bytes() if cached else fetch(url)
-        # Preserve the received response before validating it, including failures.
-        # Diagnostic files are deliberately separate from validated page checkpoints.
-        write(out / 'diagnostics' / f'{position:07d}.xml', raw)
-        total, batch = parse_page(raw)
-        response_tree = ET.fromstring(raw)
-        incoming_ids = [rid(record) for record in batch]
-        duplicate_ids = sorted(set(incoming_ids) & records.keys())
-        repeated_within_page = [key for key, count in Counter(incoming_ids).items() if count > 1]
-        save(out / 'diagnostics' / f'{position:07d}.json', {
-            'requested_start_record': position, 'request_url': url, 'loaded_from_cache': cached,
-            'reported_total': total, 'returned_count': len(batch),
-            'next_record_position': response_tree.findtext('s:nextRecordPosition', namespaces=NS),
-            'returned_record_positions': [x.text for x in response_tree.findall('s:records/s:record/s:recordPosition', NS)],
-            'echoed_request': {x.tag.split('}')[-1]: x.text for x in response_tree.findall('s:echoedSearchRetrieveRequest/*', NS)},
-            'ids': incoming_ids, 'duplicate_ids_from_previous_pages': duplicate_ids,
-            'duplicate_ids_within_page': repeated_within_page,
-            'previous_pages': pages,
-        })
-        if total > 50000:
-            raise ValueError('More than 50,000 results: run a shorter date interval.')
-        if expected is not None and expected != total:
-            raise ValueError('SRU hit count changed; start a new snapshot label to avoid mixing results.')
-        expected = total
-        if not batch and position <= total:
-            raise ValueError(f'Empty page at {position}/{total}')
-        for record in batch:
-            key = rid(record)
-            if key in records:
-                raise ValueError('Duplicate MARC 001 across pages: ' + key + '; response saved in diagnostics/. Do not treat this harvest as complete.')
-            records[key] = record
-        if len(records) > total:
-            raise ValueError('Returned more records than reported')
+        try:
+            raw = path.read_bytes() if cached else fetch(url)
+            write(out / 'diagnostics-v4' / f'{position:07d}.xml', raw)
+            total, batch = parse_page(raw)
+            if total < 0:
+                raise ValueError('Negative SRU hit count')
+            ids = [rid(r) for r in batch]
+            if not batch and position <= total:
+                raise ValueError(f'Empty page at {position}/{total}')
+        except Exception as exc:
+            error = {'start_record': position, 'url': url, 'message': str(exc)}
+            break
+        if expected is None:
+            expected = total
+        totals.append(total)
         if not cached:
             write(path, raw)
-        pages.append({'start_record': position, 'count': len(batch), 'reported_total': total,
-                      'url': url, 'sha256': hashlib.sha256(raw).hexdigest()})
-        save(out / 'progress.json', {'complete': False, 'records_read': len(records), 'reported_total': total, 'pages': pages})
-        print(f'{len(records)}/{total} records', flush=True)
-        position += len(batch)
+        repeated = 0
+        for key, record in zip(ids, batch):
+            if key in records:
+                repeated += 1
+                duplicates.append({'record_id': key, 'page_start': position})
+                # Ignore indentation differences, retain actual content variants.
+                def signature(r):
+                    return [(e.tag, sorted(e.attrib.items()), (e.text or '').strip()) for e in r.iter()]
+                if signature(records[key]) != signature(record):
+                    conflicts.append({'record_id': key, 'page_start': position,
+                        'policy': 'first version retained; later version preserved in raw page'})
+                continue
+            records[key] = record
+        received += len(batch)
+        pages.append({'start_record': position, 'count': len(batch), 'duplicate_occurrences': repeated,
+                      'reported_total': total, 'url': url, 'loaded_from_cache': cached,
+                      'sha256': hashlib.sha256(raw).hexdigest()})
+        print(f'{received} rows read; {len(records)} unique; initial total {expected}', flush=True)
+        save(out / 'progress.json', {'complete': False, 'records_read': len(records),
+                                   'rows_read': received, 'reported_total': expected, 'pages': pages})
         if total == 0:
+            traversed = True
             break
-    if len(records) != expected:
-        raise ValueError('Final count mismatch')
-    return list(records.values()), pages
-
-def harvest_single(out, query, fetch):
-    """Avoid unstable ordering between pages; accept only a complete response."""
-    out.mkdir(parents=True, exist_ok=True)
-    url = ENDPOINT + '?' + urlencode(dict(version='1.2', operation='searchRetrieve', query=query,
-        recordSchema='marc21-xml', maximumRecords=50000, startRecord=1))
-    path = out / 'complete-response.xml'
-    raw = path.read_bytes() if path.exists() else fetch(url)
-    # Retain a capped/error response for diagnosis, but never reuse it as complete.
-    write(out / 'received-response.xml', raw)
-    total, records = parse_page(raw)
-    ids = [rid(r) for r in records]
-    duplicates = [key for key, n in Counter(ids).items() if n > 1]
-    details = {'url': url, 'reported_total': total, 'returned_records': len(records),
-               'unique_ids': len(set(ids)), 'duplicate_ids': duplicates,
-               'sha256': hashlib.sha256(raw).hexdigest()}
-    save(out / 'response-check.json', details)
-    if total > 50000:
-        raise ValueError('More than 50,000 hits; choose a smaller date interval.')
-    if len(records) != total or duplicates:
-        raise ValueError(f'Whole-response completeness check failed: {len(records)} returned, '
-                         f'{len(set(ids))} unique, {total} reported. Response retained; no complete result produced.')
-    write(path, raw)
-    (out / 'received-response.xml').unlink(missing_ok=True)
-    print(f'Complete single response: {total} distinct records', flush=True)
-    return records, [details]
+        # Advance by returned rows, NOT new IDs, even on an entirely repeated page.
+        position += len(batch)
+    else:
+        traversed = expected is not None and position > expected
+    stable = bool(totals) and len(set(totals)) == 1
+    complete = (traversed and stable and len(records) == expected and not conflicts and error is None)
+    status = {'complete': complete, 'status': 'count_verified' if complete else 'partial_or_unverified',
+        'page_traversal_finished': traversed, 'reported_total_initial': expected,
+        'reported_totals_observed': sorted(set(totals)), 'reported_total_stable': stable,
+        'rows_returned': received, 'distinct_records': len(records),
+        'duplicate_occurrences': len(duplicates), 'conflicting_repeat_occurrences': len(conflicts),
+        'shortfall_against_reported_total': max(0, expected - len(records)) if stable else None,
+        'retrieval_ceiling_reached': expected is not None and expected > 50000 and position > 50000,
+        'request_error': error,
+        'meaning': 'Count verification is not proof of an atomic catalogue snapshot.'}
+    save(out / 'duplicates.json', duplicates)
+    save(out / 'conflicting-records.json', conflicts)
+    save(out / 'retrieval-status.json', status)
+    return list(records.values()), pages, status
 
 def main():
     p = argparse.ArgumentParser(description=__doc__)
@@ -187,8 +178,13 @@ def main():
     out = a.output or ROOT / f'data/research/zurich-tranches/{a.start}-{a.end}-{a.snapshot}'
     out.mkdir(parents=True, exist_ok=True)
     query = query_for(a.start, a.end)
-    config = {'query': query, 'endpoint': ENDPOINT, 'schema': 'marc21-xml', 'page_size': 50000, 'version': 2}
-    manifest = out / 'request-v2.json'
+    config = {'query': query, 'endpoint': ENDPOINT, 'schema': 'marc21-xml', 'page_size': 100, 'version': 4}
+    manifest = out / 'request-v4.json'
+    legacy = out / 'request.json'
+    if legacy.exists():
+        old = json.loads(legacy.read_text())
+        if old.get('query') != query or old.get('endpoint') != ENDPOINT or old.get('page_size') != 100:
+            raise ValueError('Legacy page cache does not match this query; use a new snapshot label')
     if manifest.exists() and json.loads(manifest.read_text()) != config:
         raise ValueError('Checkpoint configuration mismatch')
     save(manifest, config)
@@ -201,17 +197,16 @@ def main():
             try:
                 with urlopen(Request(url, headers={'User-Agent': 'Incunabula-in-Motion research harvest', 'Accept': 'application/xml'}), timeout=300) as response:
                     raw = response.read()
-                parse_page(raw)
                 return raw
             except Exception:
                 if attempt == 3:
                     raise
                 time.sleep(5 * (attempt + 1))
     try:
-        records, pages = harvest_single(out / 'single-response-v2', query, fetch)
+        records, pages, status = harvest(out, query, fetch)
         counts, rows = profile(records, a.start, a.end)
         save(out / 'record-profile.json', rows)
-        save(out / 'summary.json', {'complete': True, 'compiled_at': datetime.now(timezone.utc).isoformat(),
+        save(out / 'summary.json', {**status, 'compiled_at': datetime.now(timezone.utc).isoformat(),
             'query': query, 'counts': counts, 'pages': pages, 'limitations': [
                 'Index-selected records, not a verified census of original printed copies.',
                 'References are MARC 001 + institution + shelfmark, not verified physical volumes.',
@@ -221,8 +216,12 @@ def main():
                 'Cached SRU pages are not an atomic catalogue snapshot; changes with stable totals may be undetected.',
                 'Public endpoint raw pages retained; private-indicator 361/541/561 excluded from derived profile.'
             ]})
-        save(out / 'progress.json', {'complete': True, 'records_read': len(records), 'pages': pages})
-        print(json.dumps(counts, indent=2))
+        save(out / 'progress.json', {**status, 'records_read': len(records), 'pages': pages})
+        print(json.dumps({'retrieval': status, 'counts': counts}, indent=2))
+        if not status['complete']:
+            print('::warning::Harvest saved as partial or unverified. See retrieval-status.json; green job status does not mean complete coverage.')
+        if status['request_error']:
+            raise RuntimeError('Request failed; partial profile saved: ' + status['request_error']['message'])
     except Exception as exc:
         save(out / 'failure.json', {'error': str(exc), 'complete': False})
         raise
