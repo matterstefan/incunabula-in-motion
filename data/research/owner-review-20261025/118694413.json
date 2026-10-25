@@ -1,0 +1,411 @@
+{
+  "gender" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gender#male",
+    "label" : "Männlich"
+  } ],
+  "dateOfDeath" : [ "1565-12-13" ],
+  "placeOfDeath" : [ {
+    "id" : "https://d-nb.info/gnd/4068038-1",
+    "label" : "Zürich"
+  } ],
+  "type" : [ "Person", "AuthorityResource", "DifferentiatedPerson" ],
+  "gndSubjectCategory" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#25.3p",
+    "label" : "Personen zu Zoologie"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#26p",
+    "label" : "Personen zu Anthropologie"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#6.1p",
+    "label" : "Personen zu Kultur und Künsten, Geistes- und Kulturgeschichte"
+  } ],
+  "oldAuthorityNumber" : [ "(DE-588)172096146", "(DE-588a)118694413", "(DE-588)1325001821", "(DE-588a)172096146", "(DE-588a)107843749", "(DE-588c)4093444-5" ],
+  "geographicAreaCode" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH",
+    "label" : "Schweiz"
+  } ],
+  "biographicalOrHistoricalInformation" : [ "Schweizer Arzt, Naturforscher, Altphilologe, Humanist, Polyhistor und Enzyklopädist" ],
+  "pseudonymNameOfThePerson" : [ {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Jacob" ],
+    "surname" : [ "Carronus" ]
+  }, {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Philiater" ],
+    "surname" : [ "Euonymus" ]
+  }, {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Conrado" ],
+    "surname" : [ "Boloveso" ]
+  } ],
+  "academicDegree" : [ "Prof." ],
+  "publication" : [ "Faber, Basilius: Historiae animalium libri.  1571/(1572).  (VD16 ZV 16399)", "Gesner, Conrad: De omni rerum fossilium genere ...", "Gesner, Conrad: Descriptio montis fracti. - s.a.", "Gesner, Conrad: De libris a se editis epistola", "Gesner, Konrad: Vogelbůch Darinn die art natur vnnd eigenschafft aller voeglen sampt jrer waren ...  1581.  (VD16 G 1735)", "Gesner, Conrad: Bibliotheca universalis", "Johannes Stobaeus: \\=GKERAS AMALTHAIAS. IŌANNU TU STOBAIU EKLOGAI APOPHTHEGMATŌN KAI HYPOTHĒKŌN.\\=g ...  1549.  (VD16 J 770)", "Gesner, Konrad: HISTORIA ET INTERPRETATIO PRODIGII, QVO COElum ardere visum est per plurimas Germanie̜ ...  1561.  (VD16 G 1746)", "De chirurgia scriptores optimi quique veteres et recentiores", "Gesner, Konrad: BIBLIOTHECA INSTITVTA ET COLLECTA PRIMVM A CONRADO GESNERO, Deinde in Epitomen redacta & ...  1574.  (VD16 G 1704)", "Gesner, Conrad: Bibliotheca", "Gesner, Konrad: Schlangenbũch Das ist ein grundtliche vnd vollkom̃ne Beschreybung aller Schlangen so im ...  1589.  (VD16 G 1745)", "Gesner, Conrad: De rerum fossilium, lapidum et gemmarum maxime, figuris et similitudinibus", "Gesner, Conrad: Compendium ex Actuarii Zachariae libris de differentiis urinaru", "Gesner, Konrad: LEXICON GRAECOLATINVM POSTREMO NVNC Supra omnes omnium hactenus accessiones, INGENTI ...  1554.  (VD16 G 1757)", "Aristoteles: De iuventute et senectute. De longitudine et brevitate vitae. De divinatione per somnum.  1541.  (VD16 A 3480)", "Gesner, Conrad: De aconito primo Dioscoridis asseveratio", "Vives, Juan Luis: Commentarius de anima.  1563.  (VD16 V 1805)", "Gesner, Konrad: Fischbuch Das ist Außfuerliche beschreibung vnd lebendige Conterfactur aller vnnd ...  1598.  (VD16 G 1743)", "Gesner, Conrad: Epistolae medicinales" ],
+  "describedBy" : {
+    "id" : "https://d-nb.info/gnd/118694413/about",
+    "maintainer" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "dctCreator" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "license" : {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0/",
+      "label" : "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "dateModified" : "2025-04-18T08:37:51.000",
+    "descriptionLevel" : {
+      "id" : "https://d-nb.info/standards/vocab/gnd/description-level#1",
+      "label" : "Katalogisierungslevel 1"
+    }
+  },
+  "gndIdentifier" : "118694413",
+  "id" : "https://d-nb.info/gnd/118694413",
+  "placeOfActivity" : [ {
+    "id" : "https://d-nb.info/gnd/4068038-1",
+    "label" : "Zürich"
+  } ],
+  "preferredName" : "Gessner, Conrad",
+  "wikipedia" : [ {
+    "id" : "https://de.wikipedia.org/wiki/Conrad_Gessner",
+    "label" : "https://de.wikipedia.org/wiki/Conrad_Gessner"
+  } ],
+  "preferredNameEntityForThePerson" : {
+    "forename" : [ "Conrad" ],
+    "surname" : [ "Gessner" ]
+  },
+  "depiction" : [ {
+    "id" : "https://commons.wikimedia.org/wiki/Special:FilePath/Conrad%20Gesner%20by%20Tobias%20Stimmer2.jpg",
+    "url" : "https://commons.wikimedia.org/wiki/File:Conrad%20Gesner%20by%20Tobias%20Stimmer2.jpg?uselang=de",
+    "thumbnail" : "https://commons.wikimedia.org/wiki/Special:FilePath/Conrad%20Gesner%20by%20Tobias%20Stimmer2.jpg?width=270",
+    "publisher" : "Wikimedia Commons",
+    "creatorName" : [ "Tobias Stimmer" ],
+    "creditText" : [ "[1] [2] (merged two versions)" ],
+    "copyrighted" : false,
+    "license" : [ {
+      "id" : "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attributionRequired" : false,
+      "name" : "Public Domain",
+      "abbr" : "PD"
+    } ]
+  } ],
+  "professionOrOccupation" : [ {
+    "id" : "https://d-nb.info/gnd/4504156-8",
+    "label" : "Polyhistor"
+  }, {
+    "id" : "https://d-nb.info/gnd/4199241-6",
+    "label" : "Klassischer Philologe"
+  }, {
+    "id" : "https://d-nb.info/gnd/4041423-1",
+    "label" : "Naturwissenschaftler"
+  }, {
+    "id" : "https://d-nb.info/gnd/4045968-8",
+    "label" : "Physiker"
+  }, {
+    "id" : "https://d-nb.info/gnd/4003157-3",
+    "label" : "Arzt"
+  } ],
+  "placeOfBirth" : [ {
+    "id" : "https://d-nb.info/gnd/4068038-1",
+    "label" : "Zürich"
+  } ],
+  "dateOfBirth" : [ "1516-03-16" ],
+  "variantNameEntityForThePerson" : [ {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Gesnerus" ]
+  }, {
+    "forename" : [ "Conrad" ],
+    "surname" : [ "Gesner" ]
+  }, {
+    "forename" : [ "Philiatrus" ],
+    "surname" : [ "Euonymus" ]
+  }, {
+    "forename" : [ "Jacob" ],
+    "surname" : [ "Carronus" ]
+  }, {
+    "personalName" : [ "Evonymus Philiatrus" ]
+  }, {
+    "forename" : [ "Conradt" ],
+    "surname" : [ "Gessner" ]
+  }, {
+    "forename" : [ "Konrad" ],
+    "surname" : [ "Gesner" ]
+  }, {
+    "forename" : [ "Euonymus" ],
+    "surname" : [ "Philiatrus" ]
+  }, {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Gesner" ]
+  }, {
+    "forename" : [ "Cunradt" ],
+    "surname" : [ "Gässner" ]
+  }, {
+    "personalName" : [ "Euonymus Philiater" ]
+  }, {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Gessner" ]
+  }, {
+    "forename" : [ "Philiater" ],
+    "surname" : [ "Euonymus" ]
+  }, {
+    "forename" : [ "Konrad" ],
+    "surname" : [ "Gäßner" ]
+  }, {
+    "forename" : [ "Konrad" ],
+    "surname" : [ "Geßner" ]
+  }, {
+    "forename" : [ "Philiatrus" ],
+    "surname" : [ "Evonymus" ]
+  }, {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Gesnerius" ]
+  }, {
+    "forename" : [ "Euonymus" ],
+    "surname" : [ "Philiater" ]
+  }, {
+    "forename" : [ "Conrado" ],
+    "surname" : [ "Boloveso" ]
+  }, {
+    "forename" : [ "Konrad" ],
+    "surname" : [ "Bolovesus" ]
+  }, {
+    "forename" : [ "Jakob" ],
+    "surname" : [ "Carronus" ]
+  }, {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Bolovesus" ]
+  }, {
+    "forename" : [ "Konrad" ],
+    "surname" : [ "Gessner" ]
+  }, {
+    "forename" : [ "Thrasybulus" ],
+    "surname" : [ "Gessnerus" ]
+  }, {
+    "nameAddition" : [ "Evonymus" ],
+    "personalName" : [ "Philiatrus" ]
+  }, {
+    "personalName" : [ "Evonymus Philiater" ]
+  }, {
+    "forename" : [ "Conrad" ],
+    "surname" : [ "Bolovesus" ]
+  }, {
+    "forename" : [ "Philiater" ],
+    "surname" : [ "Evonymus" ]
+  }, {
+    "forename" : [ "Jacobus" ],
+    "surname" : [ "Carronus" ]
+  }, {
+    "forename" : [ "Conrad" ],
+    "surname" : [ "Gesnerus" ]
+  }, {
+    "forename" : [ "Conradus" ],
+    "surname" : [ "Bolovesus Fridemontanus" ]
+  }, {
+    "forename" : [ "Philiatros" ],
+    "surname" : [ "Euonymus" ]
+  }, {
+    "forename" : [ "Cunrat" ],
+    "surname" : [ "Gessner" ]
+  }, {
+    "forename" : [ "Thrasybul" ],
+    "surname" : [ "Gesner" ]
+  } ],
+  "@context" : "https://lobid.org/gnd/context.jsonld",
+  "deprecatedUri" : [ "https://d-nb.info/gnd/172096146", "https://d-nb.info/gnd/1325001821" ],
+  "variantName" : [ "Carronus, Jacobus", "Bolovesus, Conrad", "Gesner, Thrasybul", "Euonymus, Philiatros", "Geßner, Konrad", "Philiatrus, Evonymus", "Gessner, Cunrat", "Gesner, Konrad", "Gessnerus, Thrasybulus", "Gessner, Conradus", "Gesner, Conrad", "Carronus, Jakob", "Evonymus, Philiatrus", "Bolovesus Fridemontanus, Conradus", "Bolovesus, Conradus", "Gesnerus, Conradus", "Gäßner, Konrad", "Gessner, Konrad", "Euonymus Philiater", "Philiater, Euonymus", "Evonymus, Philiater", "Gässner, Cunradt", "Philiatrus, Euonymus", "Evonymus Philiatrus", "Bolovesus, Konrad", "Gesnerus, Conrad", "Euonymus, Philiatrus", "Gessner, Conradt", "Carronus, Jacob", "Euonymus, Philiater", "Gesner, Conradus", "Gesnerius, Conradus", "Boloveso, Conrado", "Evonymus Philiater" ],
+  "acquaintanceshipOrFriendship" : [ {
+    "forename" : [ "Benedikt" ],
+    "surname" : [ "Marty" ]
+  }, {
+    "forename" : [ "Jean" ],
+    "surname" : [ "Bauhin" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/11962558X",
+    "label" : "Bolognini, Bartolomeo"
+  }, {
+    "id" : "https://d-nb.info/gnd/11690240X",
+    "label" : "Grynäus, Simon"
+  }, {
+    "forename" : [ "Ambrosius" ],
+    "surname" : [ "Calepinus" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/118732188",
+    "label" : "Maximus, Confessor, Heiliger"
+  }, {
+    "forename" : [ "Gaspard" ],
+    "surname" : [ "Bauhin" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/124960812",
+    "label" : "Willich, Jodocus"
+  }, {
+    "personalName" : [ "Dio Chrysostomos" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/119774518",
+    "label" : "Niger, Hieronymus"
+  } ],
+  "sameAs" : [ {
+    "collection" : {
+      "abbr" : "BNF",
+      "name" : "Bibliothèque nationale de France",
+      "publisher" : "Bibliothèque nationale de France",
+      "icon" : "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q19938912"
+    },
+    "id" : "http://catalogue.bnf.fr/ark:/12148/cb11904766p"
+  }, {
+    "id" : "http://id.loc.gov/rwo/agents/n50016525",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q13219454",
+      "abbr" : "LC",
+      "publisher" : "Library of Congress",
+      "icon" : "http://www.loc.gov/favicon.ico",
+      "name" : "NACO Authority File"
+    }
+  }, {
+    "id" : "http://viaf.org/viaf/49226033",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q54919",
+      "abbr" : "VIAF",
+      "publisher" : "OCLC",
+      "icon" : "http://viaf.org/viaf/images/viaf.ico",
+      "name" : "Virtual International Authority File (VIAF)"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "CH_HLS",
+      "name" : "Historisches Lexikon der Schweiz (HLS)",
+      "publisher" : "Historisches Lexikon der Schweiz (HLS)",
+      "icon" : "https://www.hls-dhs-dss.ch/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q642074"
+    },
+    "id" : "http://www.hls-dhs-dss.ch/textes/d/D14376.php"
+  }, {
+    "id" : "http://www.wikidata.org/entity/Q60116",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q2013",
+      "abbr" : "WIKIDATA",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://www.wikidata.org/static/favicon/wikidata.ico",
+      "name" : "Wikidata"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DNB",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4",
+      "id" : "http://www.wikidata.org/entity/Q36578"
+    },
+    "id" : "https://d-nb.info/gnd/118694413/about"
+  }, {
+    "id" : "https://d-nb.info/gnd/1325001821",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q36578",
+      "abbr" : "DNB",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&v=1",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek"
+    }
+  }, {
+    "id" : "https://d-nb.info/gnd/172096146",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q36578",
+      "abbr" : "DNB",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&v=1",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek"
+    }
+  }, {
+    "id" : "https://dbpedia.org/resource/Conrad_Gessner",
+    "collection" : {
+      "id" : "https://dbpedia.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "dewiki",
+      "name" : "Wikipedia (Deutsch)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://de.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q48183"
+    },
+    "id" : "https://de.wikipedia.org/wiki/Conrad_Gessner"
+  }, {
+    "collection" : {
+      "abbr" : "enwiki",
+      "name" : "Wikipedia (English)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q328"
+    },
+    "id" : "https://en.wikipedia.org/wiki/Conrad_Gessner"
+  }, {
+    "id" : "https://isni.org/isni/0000000121318163",
+    "collection" : {
+      "id" : "https://isni.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DE-611",
+      "name" : "Kalliope Verbundkatalog",
+      "publisher" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "icon" : "https://kalliope-verbund.info/img/favicon.ico",
+      "id" : "https://kalliope-verbund.info"
+    },
+    "id" : "https://kalliope-verbund.info/gnd/118694413"
+  }, {
+    "collection" : {
+      "abbr" : "RAAS",
+      "name" : "Repertorium Alborum Amicorum (RAA) - Stammbücher",
+      "publisher" : "Department Germanistik und Komparatistik der Friedrich-Alexander-Universität Erlangen-Nürnberg in Zusammenarbeit mit der Gesellschaft für Familienforschung in Franken",
+      "icon" : "https://www.gf-franken.de/favicon.ico",
+      "id" : "https://raa.gf-franken.de"
+    },
+    "id" : "https://raa.gf-franken.de/de/suche-nach-stammbuechern.html?permaLink=1555_gesner"
+  }, {
+    "collection" : {
+      "abbr" : "ARCHIV-D",
+      "name" : "Archivportal-D",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.archivportal-d.de/favicon.ico",
+      "id" : "https://www.archivportal-d.de"
+    },
+    "id" : "https://www.archivportal-d.de/person/gnd/118694413"
+  }, {
+    "collection" : {
+      "abbr" : "ADB",
+      "name" : "Allgemeine Deutsche Biographie (ADB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd118694413.html#adbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "NDB",
+      "name" : "Neue Deutsche Biographie (NDB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd118694413.html#ndbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "DDB",
+      "name" : "Deutsche Digitale Bibliothek",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.deutsche-digitale-bibliothek.de/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q621630"
+    },
+    "id" : "https://www.deutsche-digitale-bibliothek.de/person/gnd/118694413"
+  }, {
+    "collection" : {
+      "abbr" : "Portraitindex",
+      "name" : "Digitaler Portraitindex der druckgraphischen Bildnisse der Frühen Neuzeit",
+      "publisher" : "Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg",
+      "icon" : "https://www.portraitindex.de/favicon.ico",
+      "id" : "https://www.portraitindex.de"
+    },
+    "id" : "https://www.portraitindex.de/dokumente/pnd/118694413"
+  } ]
+}

@@ -1,0 +1,217 @@
+{
+  "professionOrOccupation" : [ {
+    "id" : "https://d-nb.info/gnd/4025098-2",
+    "label" : "Historiker"
+  }, {
+    "id" : "https://d-nb.info/gnd/4132592-8",
+    "label" : "Pfarrer"
+  } ],
+  "gender" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gender#male",
+    "label" : "Männlich"
+  } ],
+  "dateOfDeath" : [ "1788" ],
+  "dateOfBirth" : [ "1716" ],
+  "variantNameEntityForThePerson" : [ {
+    "forename" : [ "Hans Jakob" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Johann Jacob" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Joh. Jak." ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Hans Jacob" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Johann Jacob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Hans Jacob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Hans Jakob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Jacob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Jacob" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Johannes Jacoubs" ],
+    "surname" : [ "Simlerus" ]
+  }, {
+    "forename" : [ "Joh. Jakob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Jakob" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Jakob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Johannes Jacobus" ],
+    "surname" : [ "Simlerus" ]
+  }, {
+    "forename" : [ "Johann Jakob" ],
+    "surname" : [ "Simmler" ]
+  }, {
+    "forename" : [ "Joh. Jakobus" ],
+    "surname" : [ "Simlerus" ]
+  }, {
+    "forename" : [ "Jo. Jacobus" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "forename" : [ "Johann J." ],
+    "surname" : [ "Simler" ]
+  } ],
+  "type" : [ "Person", "DifferentiatedPerson", "AuthorityResource" ],
+  "@context" : "https://lobid.org/gnd/context.jsonld",
+  "oldAuthorityNumber" : [ "(DE-588a)117388092", "(DE-588)117388092", "(DE-588)1157540112", "(DE-588a)100408605" ],
+  "geographicAreaCode" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH",
+    "label" : "Schweiz"
+  } ],
+  "deprecatedUri" : [ "https://d-nb.info/gnd/1157540112", "https://d-nb.info/gnd/117388092" ],
+  "biographicalOrHistoricalInformation" : [ "Schweiz. Kirchenhistoriker" ],
+  "publication" : [ "Simler manuscript collection", "Sammlung alter und neuer Urkunden zur Beleuchtung der Kirchengeschichte", "Sammlung alter und neuer Urkunden zur Beleuchtung der Kirchen-Geschichte vornemlich des S*", "Sammlung alter und neuer Urkunden zur Beleuchtung der Kirchen-Geschichte, vornemlich des *", "Rede von der brüderlichen Liebe unter den Gliedern der Kirche in dem X*", "De reformationis ecclesiae Anglicanae annalibus e chartis diplomaticis*" ],
+  "describedBy" : {
+    "id" : "https://d-nb.info/gnd/100408605/about",
+    "maintainer" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-12",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-12"
+    },
+    "dctCreator" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-12",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-12"
+    },
+    "license" : {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0/",
+      "label" : "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "dateModified" : "2025-02-12T00:30:57.000",
+    "descriptionLevel" : {
+      "id" : "https://d-nb.info/standards/vocab/gnd/description-level#1",
+      "label" : "Katalogisierungslevel 1"
+    }
+  },
+  "gndIdentifier" : "100408605",
+  "id" : "https://d-nb.info/gnd/100408605",
+  "preferredName" : "Simler, Johann Jakob",
+  "wikipedia" : [ {
+    "id" : "https://de.wikipedia.org/wiki/Johann_Jakob_Simmler",
+    "label" : "https://de.wikipedia.org/wiki/Johann_Jakob_Simmler"
+  } ],
+  "variantName" : [ "Simler, Jo. Jacobus", "Simmler, Johann Jacob", "Simler, Johann Jacob", "Simler, Jakob", "Simler, Joh. Jak.", "Simlerus, Joh. Jakobus", "Simmler, Hans Jacob", "Simmler, Jakob", "Simmler, Hans Jakob", "Simmler, Johann Jakob", "Simmler, Jacob", "Simler, Jacob", "Simlerus, Johannes Jacobus", "Simler, Hans Jacob", "Simlerus, Johannes Jacoubs", "Simler, Hans Jakob", "Simmler, Joh. Jakob", "Simler, Johann J." ],
+  "preferredNameEntityForThePerson" : {
+    "forename" : [ "Johann Jakob" ],
+    "surname" : [ "Simler" ]
+  },
+  "sameAs" : [ {
+    "id" : "http://id.loc.gov/rwo/agents/n77001678",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q13219454",
+      "abbr" : "LC",
+      "publisher" : "Library of Congress",
+      "icon" : "http://www.loc.gov/favicon.ico",
+      "name" : "NACO Authority File"
+    }
+  }, {
+    "id" : "http://viaf.org/viaf/29876023",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q54919",
+      "abbr" : "VIAF",
+      "publisher" : "OCLC",
+      "icon" : "http://viaf.org/viaf/images/viaf.ico",
+      "name" : "Virtual International Authority File (VIAF)"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "CH_HLS",
+      "name" : "Historisches Lexikon der Schweiz (HLS)",
+      "publisher" : "Historisches Lexikon der Schweiz (HLS)",
+      "icon" : "https://www.hls-dhs-dss.ch/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q642074"
+    },
+    "id" : "http://www.hls-dhs-dss.ch/textes/d/D10846.php"
+  }, {
+    "id" : "http://www.wikidata.org/entity/Q4191968",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q2013",
+      "abbr" : "WIKIDATA",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://www.wikidata.org/static/favicon/wikidata.ico",
+      "name" : "Wikidata"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DNB",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4",
+      "id" : "http://www.wikidata.org/entity/Q36578"
+    },
+    "id" : "https://d-nb.info/gnd/100408605/about"
+  }, {
+    "id" : "https://d-nb.info/gnd/1157540112",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q36578",
+      "abbr" : "DNB",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&v=1",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek"
+    }
+  }, {
+    "id" : "https://d-nb.info/gnd/117388092",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q36578",
+      "abbr" : "DNB",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&v=1",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "dewiki",
+      "name" : "Wikipedia (Deutsch)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://de.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q48183"
+    },
+    "id" : "https://de.wikipedia.org/wiki/Johann_Jakob_Simmler"
+  }, {
+    "id" : "https://isni.org/isni/0000000081093448",
+    "collection" : {
+      "id" : "https://isni.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DE-611",
+      "name" : "Kalliope Verbundkatalog",
+      "publisher" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "icon" : "https://kalliope-verbund.info/img/favicon.ico",
+      "id" : "https://kalliope-verbund.info"
+    },
+    "id" : "https://kalliope-verbund.info/gnd/100408605"
+  }, {
+    "collection" : {
+      "abbr" : "ADB",
+      "name" : "Allgemeine Deutsche Biographie (ADB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd100408605.html#adbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "DDB",
+      "name" : "Deutsche Digitale Bibliothek",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.deutsche-digitale-bibliothek.de/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q621630"
+    },
+    "id" : "https://www.deutsche-digitale-bibliothek.de/person/gnd/100408605"
+  } ]
+}

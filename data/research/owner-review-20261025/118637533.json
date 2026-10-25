@@ -1,0 +1,425 @@
+{
+  "hasSpouse" : [ {
+    "id" : "https://d-nb.info/gnd/1061160521",
+    "label" : "Reinhart, Anna"
+  } ],
+  "gender" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gender#male",
+    "label" : "Männlich"
+  } ],
+  "dateOfDeath" : [ "1531-10-11" ],
+  "placeOfDeath" : [ {
+    "id" : "https://d-nb.info/gnd/4196609-0",
+    "label" : "Kappel am Albis"
+  } ],
+  "familialRelationship" : [ {
+    "id" : "https://d-nb.info/gnd/1061160521",
+    "label" : "Reinhart, Anna"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355083966",
+    "label" : "Zwingli, Hans"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355078598",
+    "label" : "Zwingli, Claus"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355076587",
+    "label" : "Zwingli, Bartholomäus"
+  }, {
+    "id" : "https://d-nb.info/gnd/135508623X",
+    "label" : "Zwingli, Heinrich"
+  }, {
+    "id" : "https://d-nb.info/gnd/119864010",
+    "label" : "Gwalther, Regula"
+  }, {
+    "id" : "https://d-nb.info/gnd/119879522",
+    "label" : "Zwingli, Ulrich"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355082382",
+    "label" : "Zwingli, Wolfgang"
+  } ],
+  "type" : [ "AuthorityResource", "DifferentiatedPerson", "Person" ],
+  "gndSubjectCategory" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#3.6p",
+    "label" : "Personen zu Kirchengeschichte, Systematischer und Praktischer Theologie, Kirche und Konfession"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#16.5p",
+    "label" : "Personen der Geschichte (Politiker und historische Persönlichkeiten)"
+  } ],
+  "oldAuthorityNumber" : [ "(DE-588a)127386483", "(DE-588a)13456622X", "(DE-588c)4068275-4", "(DE-588a)126551499", "(DE-101c)310256224", "(DE-588a)142614033", "(DE-588a)118637533" ],
+  "geographicAreaCode" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH",
+    "label" : "Schweiz"
+  } ],
+  "hasAuntUncle" : [ {
+    "id" : "https://d-nb.info/gnd/1355076587",
+    "label" : "Zwingli, Bartholomäus"
+  } ],
+  "pseudonymNameOfThePerson" : [ {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Charicius" ],
+    "surname" : [ "Cogelius" ]
+  }, {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Christianus" ],
+    "surname" : [ "Theodidactus" ]
+  }, {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Charieus" ],
+    "surname" : [ "Cogelius" ]
+  } ],
+  "publication" : [ "Zwingli, Ulrich <der Ältere>: CHRISTIANAE FIDEI A HVLDRYCHO ZVINGLIO PRAEDICAtae, breuis et clara expositio, ab ipso ... 1536. (VD16 Z 804)", "Zwingli, Ulrich <der Ältere>: Das dise wort Jesu Christi Das ist min lychnam der für üch hinggeben wirt ewigklich den ... 1527. (VD16 Z 811)", "Zwingli, Ulrich: Die andere antwort über etlich ... antworten, die Egg auf der Disputat*", "Zwingli, Ulrich <der Ältere>: EJn gegenwurff vnd widerweer Hulderych Zuinglins wider Hieronymum Emser des Canons in der ... 1525. (VD16 Z 789)", "Zwingli, Ulrich: Ein Antwurt Huldrychen Zwinglis Valentino Compar, ... über die 4 Artik*", "Zwingli, Ulrich: Der Hirt", "Zwingli, Ulrich: The ymage of bothe pastoures", "Zwingli, Ulrich <der Ältere>: Die falsch onwarhaftig, Verfurisch Leer Vlrich zwingli von ZVRCH, DVRCH DOCTOR Iohan ... 1526. (VD16 Z 766)", "Zwingli, Ulrich: Ad Matthaeum Alberum Rutlingensium Ecclesiasten, de Coena Dominica, Huld*. - [ca. 1525]", "Zwingli, Ulrich <der Ältere>: Die Erst kurtze Antwurt über Ecken siben Schlußreden Mit ainer Epistel an die Ersamen \\[et]c. ... 1526. (VD16 Z 869)", "Zwingli, Ulrich: Über Doctor Balthazars Touffbüchlein, waarhaffte, gründte antwurt", "Zwingli, Ulrich: Uber den ungesandten Sandbrieff Joannes Fabers Doctors an Huldrychen Zui*", "Zwingli, Ulrich: Die erst kurze Antwort über Ecken sieben schlußreden", "Zwingli, Ulrich: Ein früntlich bitt und ermanung etlicher priesteren der Eidgenoschafft*", "Zwingli, Ulrich: Ulrich Zwingli", "Zwingli, Ulrich <der Ältere>: Ein Epistel Huldrych Zwinglis kurtz vñ Christenlich an den Ersamen landsradt vnd gantzen ... 1524. (VD16 Z 835)", "Melanchthon, Philipp: Quo pacto ingenui adolescentes formandi sint, praeceptiones pauculae. 1524. (VD16 M 3168)", "Zwingli, Ulrich <der Ältere>: . 1524. (VD16 Z 901)", "Zwingli, Ulrich <der Ältere>: AD CAROLVM ROMANORVM IMPERATOrem Germaniae comitia Augustae celebrantem, Fidei Huldrychi ... 1530. (VD16 Z 767)", "Zwingli, Ulrich <der Ältere>: Eyn klare vnder richtung vom Nachtmal Christi durch Huldrichen Zuinglin Teütsch <als ... 1526. (VD16 Z 865)" ],
+  "describedBy" : {
+    "id" : "https://d-nb.info/gnd/118637533/about",
+    "maintainer" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "dctCreator" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "license" : {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0/",
+      "label" : "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "dateModified" : "2025-07-09T12:07:21.000",
+    "descriptionLevel" : {
+      "id" : "https://d-nb.info/standards/vocab/gnd/description-level#1",
+      "label" : "Katalogisierungslevel 1"
+    }
+  },
+  "gndIdentifier" : "118637533",
+  "id" : "https://d-nb.info/gnd/118637533",
+  "preferredName" : "Zwingli, Ulrich",
+  "wikipedia" : [ {
+    "id" : "https://de.wikipedia.org/wiki/Huldrych_Zwingli",
+    "label" : "https://de.wikipedia.org/wiki/Huldrych_Zwingli"
+  } ],
+  "hasSibling" : [ {
+    "id" : "https://d-nb.info/gnd/1355082382",
+    "label" : "Zwingli, Wolfgang"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355078598",
+    "label" : "Zwingli, Claus"
+  }, {
+    "id" : "https://d-nb.info/gnd/135508623X",
+    "label" : "Zwingli, Heinrich"
+  }, {
+    "id" : "https://d-nb.info/gnd/1355083966",
+    "label" : "Zwingli, Hans"
+  } ],
+  "preferredNameEntityForThePerson" : {
+    "forename" : [ "Ulrich" ],
+    "surname" : [ "Zwingli" ]
+  },
+  "depiction" : [ {
+    "id" : "https://commons.wikimedia.org/wiki/Special:FilePath/Zwingli%20Hans%20Asper.jpeg",
+    "url" : "https://commons.wikimedia.org/wiki/File:Zwingli%20Hans%20Asper.jpeg?uselang=de",
+    "thumbnail" : "https://commons.wikimedia.org/wiki/Special:FilePath/Zwingli%20Hans%20Asper.jpeg?width=270",
+    "publisher" : "Wikimedia Commons",
+    "creatorName" : [ "Hans Asper" ],
+    "creditText" : [ "Rudolf Meier, Fred Winkler: Wollishofen - Damals und heute; Niggli Verlag, Sulgen 1993" ],
+    "copyrighted" : false,
+    "license" : [ {
+      "id" : "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attributionRequired" : false,
+      "name" : "Public Domain",
+      "abbr" : "PD"
+    } ]
+  } ],
+  "professionOrOccupation" : [ {
+    "id" : "https://d-nb.info/gnd/4177347-0",
+    "label" : "Reformator"
+  }, {
+    "id" : "https://d-nb.info/gnd/4059756-8",
+    "label" : "Theologe"
+  }, {
+    "id" : "https://d-nb.info/gnd/4032009-1",
+    "label" : "Komponist"
+  } ],
+  "placeOfBirth" : [ {
+    "id" : "https://d-nb.info/gnd/4119117-1",
+    "label" : "Wildhaus"
+  } ],
+  "dateOfBirth" : [ "1484-01-01" ],
+  "variantNameEntityForThePerson" : [ {
+    "forename" : [ "Huldrich" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Ulrich d.Ä." ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Huldericus" ],
+    "surname" : [ "Zinlius" ]
+  }, {
+    "forename" : [ "Ulrico" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "personalName" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Charieus" ],
+    "surname" : [ "Cogelius" ]
+  }, {
+    "forename" : [ "Huldreich" ],
+    "surname" : [ "Zuinglin" ]
+  }, {
+    "forename" : [ "Charicius" ],
+    "surname" : [ "Cogelius" ]
+  }, {
+    "forename" : [ "Ulrich" ],
+    "nameAddition" : [ "der Ältere" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Huldericus" ],
+    "surname" : [ "Zuinglius" ]
+  }, {
+    "forename" : [ "Huldreich" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Ulricus" ],
+    "surname" : [ "Zwinglius" ]
+  }, {
+    "forename" : [ "Huldrich" ],
+    "surname" : [ "Czwingli" ]
+  }, {
+    "forename" : [ "Huldricus" ],
+    "surname" : [ "Zwinglius" ]
+  }, {
+    "forename" : [ "Huldeulihi" ],
+    "surname" : [ "Cheubing-geulli" ]
+  }, {
+    "forename" : [ "Christianus" ],
+    "surname" : [ "Theodidactus" ]
+  }, {
+    "forename" : [ "Huldrichus" ],
+    "surname" : [ "Zvinglius" ]
+  }, {
+    "forename" : [ "Huldrychus" ],
+    "surname" : [ "Zuinglius" ]
+  }, {
+    "forename" : [ "Ulrico" ],
+    "surname" : [ "Zuinglio" ]
+  }, {
+    "forename" : [ "Huldericus" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "훌드리히" ],
+    "surname" : [ "츠빙글리" ]
+  }, {
+    "forename" : [ "Hvldrich" ],
+    "surname" : [ "Zvingle" ]
+  }, {
+    "personalName" : [ "훌드리히 츠빙글리" ]
+  }, {
+    "forename" : [ "Huldrichus" ],
+    "surname" : [ "Zwinglius" ]
+  }, {
+    "forename" : [ "Huldricus" ],
+    "surname" : [ "Zuinglius" ]
+  }, {
+    "forename" : [ "Huldrych" ],
+    "surname" : [ "Zwingli" ]
+  }, {
+    "forename" : [ "Uldericus" ],
+    "surname" : [ "Zinlius" ]
+  }, {
+    "forename" : [ "Huldŭrihi" ],
+    "surname" : [ "Ch'ŭbinggŭlli" ]
+  }, {
+    "forename" : [ "Huldericus" ],
+    "surname" : [ "Zwinglius" ]
+  }, {
+    "forename" : [ "Huldricus" ],
+    "surname" : [ "Zvinglius" ]
+  }, {
+    "forename" : [ "Ulrich" ],
+    "surname" : [ "Zvingli" ]
+  }, {
+    "forename" : [ "Huldrichus" ],
+    "surname" : [ "Zuinglius" ]
+  } ],
+  "@context" : "https://lobid.org/gnd/context.jsonld",
+  "professionalRelationship" : [ {
+    "id" : "https://d-nb.info/gnd/13718641X",
+    "label" : "Binder, Georg"
+  } ],
+  "hasChild" : [ {
+    "id" : "https://d-nb.info/gnd/119864010",
+    "label" : "Gwalther, Regula"
+  }, {
+    "id" : "https://d-nb.info/gnd/119879522",
+    "label" : "Zwingli, Ulrich"
+  } ],
+  "variantName" : [ "Zwingli, Ulrich, der Ältere", "Cogelius, Charicius", "Zvinglius, Huldricus", "Zinlius, Huldericus", "Zwingli, Huldrich", "Zwingli, Ulrico", "Zuinglio, Ulrico", "Zuinglius, Huldrychus", "Cheubing-geulli, Huldeulihi", "Czwingli, Huldrich", "Zvinglius, Huldrichus", "Zuinglius, Huldrichus", "Zinlius, Uldericus", "Zwingli, Ulrich d.Ä.", "Zvingli, Ulrich", "Ch'ŭbinggŭlli, Huldŭrihi", "Zvingle, Hvldrich", "Theodidactus, Christianus", "Zwingli", "Zwinglius, Huldrichus", "Zwinglius, Huldricus", "Zwingli, Huldreich", "Zwinglius, Ulricus", "Zuinglius, Huldericus", "Zuinglius, Huldricus", "Zwinglius, Huldericus", "Zuinglin, Huldreich", "츠빙글리, 훌드리히", "Cogelius, Charieus", "훌드리히 츠빙글리", "Zwingli, Huldericus", "Zwingli, Huldrych" ],
+  "acquaintanceshipOrFriendship" : [ {
+    "id" : "https://d-nb.info/gnd/118682946",
+    "label" : "Fabri, Johann"
+  }, {
+    "id" : "https://d-nb.info/gnd/11709711X",
+    "label" : "Oekolampad, Johannes"
+  }, {
+    "id" : "https://d-nb.info/gnd/119369958",
+    "label" : "Spangenberg, Cyriacus"
+  }, {
+    "id" : "https://d-nb.info/gnd/118612190",
+    "label" : "Schwenckfeld, Caspar"
+  }, {
+    "id" : "https://d-nb.info/gnd/116960469",
+    "label" : "Holder, Wilhelm"
+  }, {
+    "id" : "https://d-nb.info/gnd/119711893",
+    "label" : "Hofen, Thomas von"
+  }, {
+    "id" : "https://d-nb.info/gnd/1044410744",
+    "label" : "Seger, Martin"
+  }, {
+    "id" : "https://d-nb.info/gnd/116170638",
+    "label" : "Bibliander, Theodor"
+  }, {
+    "id" : "https://d-nb.info/gnd/119689561",
+    "label" : "Gottfried, Jakob"
+  }, {
+    "id" : "https://d-nb.info/gnd/118719823",
+    "label" : "Hätzer, Ludwig"
+  } ],
+  "homepage" : [ {
+    "id" : "http://www.pacelli-edition.de/Biographie/4229",
+    "label" : "http://www.pacelli-edition.de/Biographie/4229"
+  } ],
+  "sameAs" : [ {
+    "collection" : {
+      "abbr" : "BNF",
+      "name" : "Bibliothèque nationale de France",
+      "publisher" : "Bibliothèque nationale de France",
+      "icon" : "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q19938912"
+    },
+    "id" : "http://catalogue.bnf.fr/ark:/12148/cb119297669"
+  }, {
+    "id" : "http://id.loc.gov/rwo/agents/n79121329",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q13219454",
+      "abbr" : "LC",
+      "publisher" : "Library of Congress",
+      "icon" : "http://www.loc.gov/favicon.ico",
+      "name" : "NACO Authority File"
+    }
+  }, {
+    "id" : "http://viaf.org/viaf/71399367",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q54919",
+      "abbr" : "VIAF",
+      "publisher" : "OCLC",
+      "icon" : "http://viaf.org/viaf/images/viaf.ico",
+      "name" : "Virtual International Authority File (VIAF)"
+    }
+  }, {
+    "id" : "http://www.wikidata.org/entity/Q123034",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q2013",
+      "abbr" : "WIKIDATA",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://www.wikidata.org/static/favicon/wikidata.ico",
+      "name" : "Wikidata"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DNB",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4",
+      "id" : "http://www.wikidata.org/entity/Q36578"
+    },
+    "id" : "https://d-nb.info/gnd/118637533/about"
+  }, {
+    "id" : "https://dbpedia.org/resource/Huldrych_Zwingli",
+    "collection" : {
+      "id" : "https://dbpedia.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "dewiki",
+      "name" : "Wikipedia (Deutsch)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://de.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q48183"
+    },
+    "id" : "https://de.wikipedia.org/wiki/Huldrych_Zwingli"
+  }, {
+    "collection" : {
+      "abbr" : "WIKISOURCE",
+      "name" : "Wikisource",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://wikisource.org/static/favicon/wikisource.ico",
+      "id" : "http://www.wikidata.org/entity/Q263"
+    },
+    "id" : "https://de.wikisource.org/wiki/Ulrich_Zwingli"
+  }, {
+    "collection" : {
+      "abbr" : "enwiki",
+      "name" : "Wikipedia (English)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q328"
+    },
+    "id" : "https://en.wikipedia.org/wiki/Huldrych_Zwingli"
+  }, {
+    "id" : "https://isni.org/isni/000000012138657X",
+    "collection" : {
+      "id" : "https://isni.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DE-611",
+      "name" : "Kalliope Verbundkatalog",
+      "publisher" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "icon" : "https://kalliope-verbund.info/img/favicon.ico",
+      "id" : "https://kalliope-verbund.info"
+    },
+    "id" : "https://kalliope-verbund.info/gnd/118637533"
+  }, {
+    "collection" : {
+      "abbr" : "ARCHIV-D",
+      "name" : "Archivportal-D",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.archivportal-d.de/favicon.ico",
+      "id" : "https://www.archivportal-d.de"
+    },
+    "id" : "https://www.archivportal-d.de/person/gnd/118637533"
+  }, {
+    "collection" : {
+      "abbr" : "ADB",
+      "name" : "Allgemeine Deutsche Biographie (ADB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd118637533.html#adbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "DDB",
+      "name" : "Deutsche Digitale Bibliothek",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.deutsche-digitale-bibliothek.de/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q621630"
+    },
+    "id" : "https://www.deutsche-digitale-bibliothek.de/person/gnd/118637533"
+  }, {
+    "collection" : {
+      "abbr" : "PACELLI",
+      "name" : "Kritische Online-Edition der Nuntiaturberichte Eugenio Pacellis (1917-1929)",
+      "publisher" : "Kritische Online-Edition der Nuntiaturberichte Eugenio Pacellis (1917-1929)",
+      "id" : "https://www.pacelli-edition.de"
+    },
+    "id" : "https://www.pacelli-edition.de/gnd/118637533"
+  }, {
+    "collection" : {
+      "abbr" : "Portraitindex",
+      "name" : "Digitaler Portraitindex der druckgraphischen Bildnisse der Frühen Neuzeit",
+      "publisher" : "Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg",
+      "icon" : "https://www.portraitindex.de/favicon.ico",
+      "id" : "https://www.portraitindex.de"
+    },
+    "id" : "https://www.portraitindex.de/dokumente/pnd/118637533"
+  } ]
+}

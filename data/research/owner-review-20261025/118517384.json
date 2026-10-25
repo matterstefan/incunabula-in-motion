@@ -1,0 +1,411 @@
+{
+  "gender" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gender#male",
+    "label" : "Männlich"
+  } ],
+  "dateOfDeath" : [ "1575-09-17" ],
+  "placeOfDeath" : [ {
+    "id" : "https://d-nb.info/gnd/4068038-1",
+    "label" : "Zürich"
+  } ],
+  "familialRelationship" : [ {
+    "id" : "https://d-nb.info/gnd/1057658944",
+    "label" : "Bullinger, Johannes Reinhard"
+  }, {
+    "id" : "https://d-nb.info/gnd/123621534",
+    "label" : "Bullinger, Heinrich"
+  }, {
+    "id" : "https://d-nb.info/gnd/100182747",
+    "label" : "Lavater, Ludwig"
+  }, {
+    "id" : "https://d-nb.info/gnd/1058096222",
+    "label" : "Bullinger, Heinrich"
+  } ],
+  "type" : [ "AuthorityResource", "DifferentiatedPerson", "Person" ],
+  "gndSubjectCategory" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#3.6p",
+    "label" : "Personen zu Kirchengeschichte, Systematischer und Praktischer Theologie, Kirche und Konfession"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#16.1p",
+    "label" : "Personen der Geschichtswissenschaft (Historiker, Archäologen)"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#12.2p",
+    "label" : "Personen zu Literaturgeschichte (Schriftsteller)"
+  } ],
+  "oldAuthorityNumber" : [ "(DE-588)1325001007", "(DE-588a)118517384", "(DE-588a)12624264X", "(DE-588c)4008875-3" ],
+  "geographicAreaCode" : [ {
+    "id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+    "label" : "Deutschland"
+  }, {
+    "id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH",
+    "label" : "Schweiz"
+  } ],
+  "biographicalOrHistoricalInformation" : [ "Verfasser des Theaterstückes \"Ein schoen Spil von der Geschichte der edlen Römerin Lucretiae\", auch bekannt als \"Lucretia und Brutus\"" ],
+  "pseudonymNameOfThePerson" : [ {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Octavius" ],
+    "surname" : [ "Florens" ]
+  }, {
+    "type" : "PseudonymNameOfThePerson",
+    "forename" : [ "Alexander" ],
+    "surname" : [ "Athanasius" ]
+  } ],
+  "publication" : [ "Novi Testam. historia evangelica sigillatim per quattuor evangelistas descripta una cum Actis Apostolorum, omnibusque apostolicis epistolis ... denique cum Apocalypsi ... Johannis apostoli.  1561.  (VD16 B 4298)", "Von dem einigen und ewigen Testament oder Pundt Gottes kurzer Bericht. - s.a.", "RESVRRECTIO. DE GLORIOSA DOmini nostri Iesu Christi, nostrorumque corporum resurrectione, ...  1545.  (VD16 B 9678)", "Die rechten Opffer der Christenheit. Ein Predig vß dem XIII. Cap. S. Pauli zu den Hebreern ...  1564.  (VD16 B 9672)", "Von den Conciliis, wie von den Aposteln ... ein Concilium  ..", "Bullinger, Heinrich: Vom Anti-Christ und seinem Reich, warhaftige und Schrifftliche erwei*", "COMPENDIVM CHRISTIANAE RELIGIONIS, DECEM Libris comprehensum, Heinrycho Bullingero ...  1563.  (VD16 B 9719)", "Bericht der Kranken", "Gegensatz und kurzer Begriff der evangelischen und päpstischen Lehre.  1591.  (VD16 C 2295)", "Acta apostolorum.  1549.  (VD16 B 4957)", "Võ raechter hilff vnd errettueg in noeten. Ein predig vß dem heiligen Euangelio Matthei ...  1564.  (VD16 B 9766)", "LA PERFECTION DES CHRESTIENS. DEMONSTRANCE FAITE AV ROY DE FRANCE, Henry deuxiesme de ...  1552.  (VD16 B 9663)", "APOLOGETICA EXPOSITIO, QVA OSTENDITVR TIGVRINAE ECCLESIAE MINISTROS nullum sequi dogma ...  1556.  (VD16 B 9548)", "Bericht der Krancken", "Een Tegensettinghe ende een cort Begrijp der Evangelischer ende Papistischer Leeringhen.  1556.  (VD16 B 9626)", "Bericht, wie man die Kranken behandeln soll", "Der christlich Eestand", "Bericht, wie die, so von wegen Jesu Christi ... ihres Glaubens .." ],
+  "describedBy" : {
+    "id" : "https://d-nb.info/gnd/118517384/about",
+    "maintainer" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "dctCreator" : {
+      "id" : "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "label" : "https://ld.zdb-services.de/resource/organisations/DE-101"
+    },
+    "license" : {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0/",
+      "label" : "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "dateModified" : "2025-07-08T12:57:31.000",
+    "descriptionLevel" : {
+      "id" : "https://d-nb.info/standards/vocab/gnd/description-level#1",
+      "label" : "Katalogisierungslevel 1"
+    }
+  },
+  "gndIdentifier" : "118517384",
+  "id" : "https://d-nb.info/gnd/118517384",
+  "placeOfActivity" : [ {
+    "id" : "https://d-nb.info/gnd/4068038-1",
+    "label" : "Zürich"
+  } ],
+  "preferredName" : "Bullinger, Heinrich",
+  "wikipedia" : [ {
+    "id" : "https://de.wikipedia.org/wiki/Heinrich_Bullinger",
+    "label" : "https://de.wikipedia.org/wiki/Heinrich_Bullinger"
+  } ],
+  "hasSibling" : [ {
+    "id" : "https://d-nb.info/gnd/1057658944",
+    "label" : "Bullinger, Johannes Reinhard"
+  } ],
+  "preferredNameEntityForThePerson" : {
+    "forename" : [ "Heinrich" ],
+    "surname" : [ "Bullinger" ]
+  },
+  "depiction" : [ {
+    "id" : "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Bullinger.jpg",
+    "url" : "https://commons.wikimedia.org/wiki/File:Heinrich%20Bullinger.jpg?uselang=de",
+    "thumbnail" : "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Bullinger.jpg?width=270",
+    "publisher" : "Wikimedia Commons",
+    "creatorName" : [ "Hans Asper" ],
+    "creditText" : [ "http://opac.nebis.ch/F/PE9R6CBIB2YMNGCQ1TP95EGANHC49I9UBC7DA5UL8R5S75S3IA-00536?func=full-set-set&amp;set_number=053519&amp;set_entry=000003&amp;format=999" ],
+    "copyrighted" : false,
+    "license" : [ {
+      "id" : "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attributionRequired" : false,
+      "name" : "Public Domain",
+      "abbr" : "PD"
+    } ]
+  } ],
+  "professionOrOccupation" : [ {
+    "id" : "https://d-nb.info/gnd/4015882-2",
+    "label" : "Evangelischer Theologe"
+  }, {
+    "id" : "https://d-nb.info/gnd/4177347-0",
+    "label" : "Reformator"
+  }, {
+    "id" : "https://d-nb.info/gnd/4130322-2",
+    "label" : "Prediger"
+  }, {
+    "id" : "https://d-nb.info/gnd/4025098-2",
+    "label" : "Historiker"
+  }, {
+    "id" : "https://d-nb.info/gnd/4053309-8",
+    "label" : "Schriftsteller"
+  }, {
+    "id" : "https://d-nb.info/gnd/4140241-8",
+    "label" : "Dramatiker"
+  } ],
+  "placeOfBirth" : [ {
+    "id" : "https://d-nb.info/gnd/4221673-4",
+    "label" : "Bremgarten (Aargau)"
+  } ],
+  "dateOfBirth" : [ "1504-07-18" ],
+  "variantNameEntityForThePerson" : [ {
+    "forename" : [ "Heinrych" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Henrycus" ],
+    "surname" : [ "Bullingerus" ]
+  }, {
+    "forename" : [ "Henrik" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Heinrychi" ],
+    "surname" : [ "Bullingeri" ]
+  }, {
+    "forename" : [ "Heinrich" ],
+    "nameAddition" : [ "der Ältere" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Henricus" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Heinrich" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Octavius" ],
+    "surname" : [ "Florens" ]
+  }, {
+    "personalName" : [ "불링거 하인리히" ]
+  }, {
+    "forename" : [ "Enrico" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Heinrich" ],
+    "surname" : [ "Buellinger" ]
+  }, {
+    "forename" : [ "Heinricus" ],
+    "surname" : [ "Bulingerus" ]
+  }, {
+    "forename" : [ "Enrico" ],
+    "surname" : [ "Bullingero" ]
+  }, {
+    "personalName" : [ "Ha in li hi Bul ling geo" ]
+  }, {
+    "forename" : [ "Henry" ],
+    "surname" : [ "Bulliger" ]
+  }, {
+    "forename" : [ "Heinrich" ],
+    "surname" : [ "Bullynger" ]
+  }, {
+    "forename" : [ "Henry" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Henricus" ],
+    "surname" : [ "Bullingerus" ]
+  }, {
+    "forename" : [ "Alexander" ],
+    "surname" : [ "Athanasius" ]
+  }, {
+    "personalName" : [ "하인리히 불링거" ]
+  }, {
+    "forename" : [ "Johann Heinrich" ],
+    "surname" : [ "Bullinger" ]
+  }, {
+    "forename" : [ "Henry" ],
+    "surname" : [ "Bullingere" ]
+  }, {
+    "forename" : [ "Ha in li hi" ],
+    "surname" : [ "Bul ling geo" ]
+  }, {
+    "forename" : [ "Henry" ],
+    "surname" : [ "Bulinger" ]
+  }, {
+    "forename" : [ "Heinrychus" ],
+    "surname" : [ "Bullingerus" ]
+  }, {
+    "forename" : [ "Henri" ],
+    "surname" : [ "Bulinger" ]
+  } ],
+  "languageCode" : [ {
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/ger",
+    "label" : "http://id.loc.gov/vocabulary/iso639-2/ger"
+  }, {
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/lat",
+    "label" : "http://id.loc.gov/vocabulary/iso639-2/lat"
+  } ],
+  "@context" : "https://lobid.org/gnd/context.jsonld",
+  "relatedPerson" : [ {
+    "id" : "https://d-nb.info/gnd/1082451959",
+    "label" : "Utenhove, Jan"
+  } ],
+  "deprecatedUri" : [ "https://d-nb.info/gnd/1325001007" ],
+  "hasChild" : [ {
+    "id" : "https://d-nb.info/gnd/123621534",
+    "label" : "Bullinger, Heinrich"
+  } ],
+  "variantName" : [ "Bulliger, Henry", "Bullinger, Henricus", "Athanasius, Alexander", "Bullingeri, Heinrychi", "Bullinger, Heinrich", "Bullinger, Heinrich, der Ältere", "Bullingerus, Heinrychus", "Bullinger, Henrik", "Bullingerus, Henrycus", "Bullynger, Heinrich", "Bullinger, Henry", "Ha in li hi Bul ling geo", "Buellinger, Heinrich", "Bullinger, Johann Heinrich", "Bullinger, Enrico", "불링거 하인리히", "Bul ling geo, Ha in li hi", "Bulingerus, Heinricus", "Florens, Octavius", "Bullingere, Henry", "하인리히 불링거", "Bullingerus, Henricus", "Bulinger, Henri", "Bullingero, Enrico", "Bulinger, Henry", "Bullinger, Heinrych" ],
+  "acquaintanceshipOrFriendship" : [ {
+    "id" : "https://d-nb.info/gnd/118829157",
+    "label" : "Chemnitz, Martin"
+  }, {
+    "forename" : [ "Johannes" ],
+    "surname" : [ "Gast" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/1090348282",
+    "label" : "Cholinus, Petrus"
+  }, {
+    "id" : "https://d-nb.info/gnd/119689561",
+    "label" : "Gottfried, Jakob"
+  }, {
+    "forename" : [ "Josias" ],
+    "surname" : [ "Simler" ]
+  }, {
+    "id" : "https://d-nb.info/gnd/1061160521",
+    "label" : "Reinhart, Anna"
+  }, {
+    "id" : "https://d-nb.info/gnd/119697572",
+    "label" : "Haller, Johannes"
+  }, {
+    "id" : "https://d-nb.info/gnd/124256929",
+    "label" : "Bischoff, Melchior"
+  }, {
+    "id" : "https://d-nb.info/gnd/119773791",
+    "label" : "Nicolaas, Gerardus"
+  }, {
+    "id" : "https://d-nb.info/gnd/118585517",
+    "label" : "Münster, Sebastian"
+  }, {
+    "id" : "https://d-nb.info/gnd/100177050",
+    "label" : "Keller, Diethelm"
+  } ],
+  "hasParent" : [ {
+    "id" : "https://d-nb.info/gnd/1058096222",
+    "label" : "Bullinger, Heinrich"
+  } ],
+  "sameAs" : [ {
+    "collection" : {
+      "abbr" : "BNF",
+      "name" : "Bibliothèque nationale de France",
+      "publisher" : "Bibliothèque nationale de France",
+      "icon" : "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q19938912"
+    },
+    "id" : "http://catalogue.bnf.fr/ark:/12148/cb12029437g"
+  }, {
+    "id" : "http://id.loc.gov/rwo/agents/n80045117",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q13219454",
+      "abbr" : "LC",
+      "publisher" : "Library of Congress",
+      "icon" : "http://www.loc.gov/favicon.ico",
+      "name" : "NACO Authority File"
+    }
+  }, {
+    "id" : "http://viaf.org/viaf/56624475",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q54919",
+      "abbr" : "VIAF",
+      "publisher" : "OCLC",
+      "icon" : "http://viaf.org/viaf/images/viaf.ico",
+      "name" : "Virtual International Authority File (VIAF)"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "CH_HLS",
+      "name" : "Historisches Lexikon der Schweiz (HLS)",
+      "publisher" : "Historisches Lexikon der Schweiz (HLS)",
+      "icon" : "https://www.hls-dhs-dss.ch/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q642074"
+    },
+    "id" : "http://www.hls-dhs-dss.ch/textes/d/D10443.php"
+  }, {
+    "id" : "http://www.wikidata.org/entity/Q123839",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q2013",
+      "abbr" : "WIKIDATA",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://www.wikidata.org/static/favicon/wikidata.ico",
+      "name" : "Wikidata"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DNB",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4",
+      "id" : "http://www.wikidata.org/entity/Q36578"
+    },
+    "id" : "https://d-nb.info/gnd/118517384/about"
+  }, {
+    "id" : "https://d-nb.info/gnd/1325001007",
+    "collection" : {
+      "id" : "http://www.wikidata.org/entity/Q36578",
+      "abbr" : "DNB",
+      "publisher" : "Deutsche Nationalbibliothek",
+      "icon" : "http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&v=1",
+      "name" : "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek"
+    }
+  }, {
+    "id" : "https://dbpedia.org/resource/Heinrich_Bullinger",
+    "collection" : {
+      "id" : "https://dbpedia.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "dewiki",
+      "name" : "Wikipedia (Deutsch)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://de.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q48183"
+    },
+    "id" : "https://de.wikipedia.org/wiki/Heinrich_Bullinger"
+  }, {
+    "collection" : {
+      "abbr" : "enwiki",
+      "name" : "Wikipedia (English)",
+      "publisher" : "Wikimedia Foundation Inc.",
+      "icon" : "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "id" : "http://www.wikidata.org/entity/Q328"
+    },
+    "id" : "https://en.wikipedia.org/wiki/Heinrich_Bullinger"
+  }, {
+    "id" : "https://isni.org/isni/0000000109036374",
+    "collection" : {
+      "id" : "https://isni.org"
+    }
+  }, {
+    "collection" : {
+      "abbr" : "DE-611",
+      "name" : "Kalliope Verbundkatalog",
+      "publisher" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "icon" : "https://kalliope-verbund.info/img/favicon.ico",
+      "id" : "https://kalliope-verbund.info"
+    },
+    "id" : "https://kalliope-verbund.info/gnd/118517384"
+  }, {
+    "collection" : {
+      "abbr" : "ARCHIV-D",
+      "name" : "Archivportal-D",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.archivportal-d.de/favicon.ico",
+      "id" : "https://www.archivportal-d.de"
+    },
+    "id" : "https://www.archivportal-d.de/person/gnd/118517384"
+  }, {
+    "collection" : {
+      "abbr" : "ADB",
+      "name" : "Allgemeine Deutsche Biographie (ADB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd118517384.html#adbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "NDB",
+      "name" : "Neue Deutsche Biographie (NDB)",
+      "publisher" : "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+      "icon" : "https://www.deutsche-biographie.de/favicon.ico",
+      "id" : "https://www.deutsche-biographie.de"
+    },
+    "id" : "https://www.deutsche-biographie.de/pnd118517384.html#ndbcontent"
+  }, {
+    "collection" : {
+      "abbr" : "DDB",
+      "name" : "Deutsche Digitale Bibliothek",
+      "publisher" : "Deutsche Digitale Bibliothek",
+      "icon" : "https://www.deutsche-digitale-bibliothek.de/favicon.ico",
+      "id" : "http://www.wikidata.org/entity/Q621630"
+    },
+    "id" : "https://www.deutsche-digitale-bibliothek.de/person/gnd/118517384"
+  }, {
+    "collection" : {
+      "abbr" : "Portraitindex",
+      "name" : "Digitaler Portraitindex der druckgraphischen Bildnisse der Frühen Neuzeit",
+      "publisher" : "Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg",
+      "icon" : "https://www.portraitindex.de/favicon.ico",
+      "id" : "https://www.portraitindex.de"
+    },
+    "id" : "https://www.portraitindex.de/dokumente/pnd/118517384"
+  } ]
+}
