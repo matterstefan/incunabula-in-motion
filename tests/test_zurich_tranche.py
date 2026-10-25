@@ -21,35 +21,73 @@ class TestTranche(unittest.TestCase):
     def test_resume_paginated_short_pages(self):
         with tempfile.TemporaryDirectory() as folder:
             out = Path(folder)
-            responses = iter([page(3, ['a', 'b']), RuntimeError('interruption')])
+            responses = iter([page(3, ['a', 'b']), TimeoutError('interruption')])
             def fetch(url):
                 value = next(responses)
-                if isinstance(value, Exception): raise value
+                if isinstance(value, Exception):
+                    raise value
                 return value
-            with self.assertRaises(RuntimeError): m.harvest(out, 'test', fetch)
+            records, _, status = m.harvest(out, 'test', fetch)
+            self.assertEqual(len(records), 2)
+            self.assertFalse(status['complete'])
+            self.assertEqual(status['request_error']['start_record'], 3)
             calls = []
             def resume(url):
                 calls.append(url)
                 return page(3, ['c'])
-            records, pages = m.harvest(out, 'test', resume)
+            records, pages, status = m.harvest(out, 'test', resume)
             self.assertEqual(len(records), 3)
+            self.assertTrue(status['complete'])
+            self.assertTrue(pages[0]['loaded_from_cache'])
             self.assertEqual(len(calls), 1)
             self.assertIn('startRecord=3', calls[0])
 
-    def test_reject_duplicate_or_changed_total(self):
-        for second in [page(2, ['a']), page(3, ['b'])]:
-            with tempfile.TemporaryDirectory() as folder:
-                responses = iter([page(2, ['a']), second])
-                with self.assertRaises(ValueError):
-                    m.harvest(Path(folder), 'test', lambda _: next(responses))
+    def run_pages(self, responses):
+        with tempfile.TemporaryDirectory() as folder:
+            responses = iter(responses)
+            return m.harvest(Path(folder), 'test', lambda _: next(responses))
 
-    def test_empty_and_limit(self):
+    def test_duplicates_are_retained_once_and_shortfall_reported(self):
+        records, _, status = self.run_pages([page(4, ['a', 'b']), page(4, ['b', 'c'])])
+        self.assertEqual([m.rid(r) for r in records], ['a', 'b', 'c'])
+        self.assertTrue(status['page_traversal_finished'])
+        self.assertFalse(status['complete'])
+        self.assertEqual(status['rows_returned'], 4)
+        self.assertEqual(status['duplicate_occurrences'], 1)
+        self.assertEqual(status['shortfall_against_reported_total'], 1)
+
+    def test_entire_repeated_page_still_advances(self):
+        records, _, status = self.run_pages([page(4, ['a', 'b']), page(4, ['a', 'b'])])
+        self.assertEqual(len(records), 2)
+        self.assertTrue(status['page_traversal_finished'])
+        self.assertEqual(status['duplicate_occurrences'], 2)
+        self.assertIsNone(status['request_error'])
+
+    def test_changed_total_is_unverified(self):
+        _, _, status = self.run_pages([page(2, ['a']), page(3, ['b'])])
+        self.assertFalse(status['complete'])
+        self.assertFalse(status['reported_total_stable'])
+        self.assertIsNone(status['shortfall_against_reported_total'])
+
+    def test_empty_result_and_invalid_response(self):
+        records, _, status = self.run_pages([page(0, [])])
+        self.assertEqual(records, [])
+        self.assertTrue(status['complete'])
         with tempfile.TemporaryDirectory() as folder:
-            records, _ = m.harvest(Path(folder), 'test', lambda _: page(0, []))
-            self.assertEqual(records, [])
-        with tempfile.TemporaryDirectory() as folder:
-            with self.assertRaises(ValueError):
-                m.harvest(Path(folder), 'test', lambda _: page(50001, ['a']))
+            out = Path(folder)
+            _, _, status = m.harvest(out, 'test', lambda _: b'<error/>')
+            self.assertFalse(status['complete'])
+            self.assertIn('numberOfRecords', status['request_error']['message'])
+            self.assertEqual((out / 'diagnostics-v4/0000001.xml').read_bytes(), b'<error/>')
+            self.assertFalse((out / 'pages/0000001.xml').exists())
+
+    def test_conflicting_repeat_keeps_first_version(self):
+        changed = '<m:datafield tag="245"><m:subfield code="a">Changed</m:subfield></m:datafield>'
+        records, _, status = self.run_pages([page(2, ['a']), page(2, ['a'], changed)])
+        self.assertEqual(len(records), 1)
+        self.assertIsNone(records[0].find("m:datafield[@tag='245']", m.NS))
+        self.assertEqual(status['conflicting_repeat_occurrences'], 1)
+        self.assertFalse(status['complete'])
 
     def test_scope_and_private_fields_not_conflated(self):
         extra = '''<m:datafield tag="852"><m:subfield code="b">Z03</m:subfield><m:subfield code="j">A 1</m:subfield></m:datafield>
