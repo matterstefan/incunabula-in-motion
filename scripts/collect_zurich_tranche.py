@@ -149,6 +149,32 @@ def harvest(out, query, fetch):
         raise ValueError('Final count mismatch')
     return list(records.values()), pages
 
+def harvest_single(out, query, fetch):
+    """Avoid unstable ordering between pages; accept only a complete response."""
+    out.mkdir(parents=True, exist_ok=True)
+    url = ENDPOINT + '?' + urlencode(dict(version='1.2', operation='searchRetrieve', query=query,
+        recordSchema='marc21-xml', maximumRecords=50000, startRecord=1))
+    path = out / 'complete-response.xml'
+    raw = path.read_bytes() if path.exists() else fetch(url)
+    # Retain a capped/error response for diagnosis, but never reuse it as complete.
+    write(out / 'received-response.xml', raw)
+    total, records = parse_page(raw)
+    ids = [rid(r) for r in records]
+    duplicates = [key for key, n in Counter(ids).items() if n > 1]
+    details = {'url': url, 'reported_total': total, 'returned_records': len(records),
+               'unique_ids': len(set(ids)), 'duplicate_ids': duplicates,
+               'sha256': hashlib.sha256(raw).hexdigest()}
+    save(out / 'response-check.json', details)
+    if total > 50000:
+        raise ValueError('More than 50,000 hits; choose a smaller date interval.')
+    if len(records) != total or duplicates:
+        raise ValueError(f'Whole-response completeness check failed: {len(records)} returned, '
+                         f'{len(set(ids))} unique, {total} reported. Response retained; no complete result produced.')
+    write(path, raw)
+    (out / 'received-response.xml').unlink(missing_ok=True)
+    print(f'Complete single response: {total} distinct records', flush=True)
+    return records, [details]
+
 def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--start', type=int, default=1526)
@@ -161,8 +187,8 @@ def main():
     out = a.output or ROOT / f'data/research/zurich-tranches/{a.start}-{a.end}-{a.snapshot}'
     out.mkdir(parents=True, exist_ok=True)
     query = query_for(a.start, a.end)
-    config = {'query': query, 'endpoint': ENDPOINT, 'schema': 'marc21-xml', 'page_size': 100, 'version': 1}
-    manifest = out / 'request.json'
+    config = {'query': query, 'endpoint': ENDPOINT, 'schema': 'marc21-xml', 'page_size': 50000, 'version': 2}
+    manifest = out / 'request-v2.json'
     if manifest.exists() and json.loads(manifest.read_text()) != config:
         raise ValueError('Checkpoint configuration mismatch')
     save(manifest, config)
@@ -173,7 +199,7 @@ def main():
             time.sleep(max(0, 2 - (time.monotonic() - last[0])))
             last[0] = time.monotonic()
             try:
-                with urlopen(Request(url, headers={'User-Agent': 'Incunabula-in-Motion research harvest', 'Accept': 'application/xml'}), timeout=90) as response:
+                with urlopen(Request(url, headers={'User-Agent': 'Incunabula-in-Motion research harvest', 'Accept': 'application/xml'}), timeout=300) as response:
                     raw = response.read()
                 parse_page(raw)
                 return raw
@@ -182,7 +208,7 @@ def main():
                     raise
                 time.sleep(5 * (attempt + 1))
     try:
-        records, pages = harvest(out, query, fetch)
+        records, pages = harvest_single(out / 'single-response-v2', query, fetch)
         counts, rows = profile(records, a.start, a.end)
         save(out / 'record-profile.json', rows)
         save(out / 'summary.json', {'complete': True, 'compiled_at': datetime.now(timezone.utc).isoformat(),
