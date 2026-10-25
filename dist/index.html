@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Experimental visualisation of publicly accessible catalogue and provenance data for incunabula held by the Zentralbibliothek Zürich.">
+    <title>Incunabula in Motion – Copies in motion</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%2375132f'/%3E%3Cpath d='M17 14h23c5 0 9 4 9 9v27H26c-5 0-9-4-9-9V14Z' fill='%23fff'/%3E%3Cpath d='M26 14v36M33 23h10M33 30h10M33 37h8' stroke='%2375132f' stroke-width='3'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+    <link rel="stylesheet" href="assets/styles.css?v=20261024-marc-1">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Experimental data visualisation</p>
+        <h1>Incunabula in Motion</h1>
+      </div>
+      <nav class="map-tools" aria-label="Map display options">          <div class="view-switch" role="group" aria-label="Map view">
+            <button id="view-connections" type="button" aria-pressed="true">Connections</button>
+            <button id="view-locations" type="button" aria-pressed="false">Locations</button>
+          </div>
+          <div id="location-style-controls" class="view-switch location-style-controls" role="group" aria-label="Location display" hidden>
+            <button id="style-circles" type="button" aria-pressed="true">Circles</button>
+            <button id="style-heatmap" type="button" aria-pressed="false">Heatmap</button>
+          </div>
+<div id="bundle-controls" class="bundle-controls" role="group" aria-label="Adjust lines">
+<label for="bundle-strength">Clustering <output id="bundle-value">32</output><input id="bundle-strength" type="range" min="0" max="600" step="4" value="32" aria-label="Clustering radius in CSS pixels"></label>
+<label for="line-scale">Line width <output id="line-value">1.5</output> ×<input id="line-scale" type="range" min="0.5" max="4" step="0.1" value="1.5"></label>
+</div></nav>
+      <button id="about-button" class="quiet-button" type="button" aria-controls="about-panel">About the project</button>
+    </header>
+
+    <main class="workspace">
+      <aside class="controls" aria-label="Map controls">
+        <section class="time-panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Copies in motion</p>
+              <h2>Locations in <output id="year-output" for="year-slider">2026</output></h2>
+            </div>
+            <button id="reset-button" class="text-button" type="button">Reset</button>
+          </div>
+          <input id="year-slider" class="year-slider" type="range" min="1450" max="2026" value="2026" step="1" aria-label="Choose a year">
+          <div class="year-scale" aria-hidden="true"><span style="left: 0.00000000%">1450</span><span style="left: 8.68055556%">1500</span><span style="left: 26.04166667%">1600</span><span style="left: 60.76388889%">1800</span><span style="left: 100.00000000%">2026</span></div>
+        </section>
+
+        <section class="filter-panel" aria-labelledby="filter-title">
+          <h2 id="filter-title" class="visually-hidden">Select and filter copies</h2>
+          <div id="search-controls">
+          <fieldset class="dataset-picker"><legend>Collections</legend><label><input type="checkbox" data-collection="core" checked> Swiss collections in MEI (3,394)</label><label><input type="checkbox" data-collection="marc"> ZB postincunabula · MARC test (31)</label></fieldset>
+          <div class="multi-filter library-select"><details id="library-dropdown">
+            <summary id="library-summary">All 21 libraries</summary>
+            <div class="multi-menu">
+              <p>Current holding libraries. Match any selection (OR); counts reflect the other filters.</p>
+              <button id="library-clear" class="text-button" type="button">Clear selection — show all</button>
+              <div id="library-filter" role="group" aria-label="Current holding libraries"></div>
+            </div>
+          </details></div>
+          <details class="subject-dropdown"><summary>MEI subjects and keywords</summary>
+            <p class="method-note">Choose any term (OR). Combined with the other filters (AND). Source spellings are retained. Selecting a term excludes the MARC test collection.</p>
+            <button id="subject-clear" class="text-button" type="button">Clear subject selection</button>
+            <div id="subject-filter" role="group" aria-label="MEI subjects and keywords"></div>
+          </details>
+          <label class="search-label" for="search-input">Search copies</label>
+          <input id="search-input" class="search-input" type="search" placeholder="Title, library, shelfmark or ID">
+          <div class="filter-grid">
+            <div class="multi-filter"><span>Printing places</span>
+              <details id="place-dropdown">
+                <summary id="place-summary">All printing places</summary>
+                <div class="multi-menu">
+                  <p>Match any selected option (OR). Counts reflect the other filters.</p>
+                  <button id="place-clear" type="button" class="text-button">Clear selection — show all</button>
+                  <div id="place-filter" role="group" aria-label="Printing places"></div>
+                </div>
+              </details>
+            </div>
+            <div class="multi-filter"><span>Languages</span>
+              <details id="language-dropdown">
+                <summary id="language-summary">All languages</summary>
+                <div class="multi-menu">
+                  <p>Match any selected option (OR). Counts reflect the other filters.</p>
+                  <button id="language-clear" type="button" class="text-button">Clear selection — show all</button>
+                  <div id="language-filter" role="group" aria-label="Languages"></div>
+                </div>
+              </details>
+            </div>
+          </div>
+          <div class="selection-actions">
+            <button id="select-visible" class="text-button" type="button">Select matching copies</button>
+            <button id="clear-visible" class="text-button" type="button">Deselect matching copies</button>
+          </div>
+          </div>
+          <div class="saved-selection" aria-label="My selection">
+            <p id="selection-status" aria-live="polite">My selection: 0 copies · Kept while this page is open.</p>
+            <div class="saved-selection-actions">
+              <button id="save-matches" class="text-button" type="button">Add checked matches</button>
+              <button id="show-selection" class="text-button" type="button" aria-pressed="false" disabled>Show selection</button>
+              <button id="clear-selection" class="text-button" type="button" disabled>Clear selection</button>
+            </div>
+          </div>
+        </section>
+
+        <div id="result-summary" class="result-summary" aria-live="polite">Loading data …</div>
+        <div id="print-list" class="print-list" role="region" tabindex="0" aria-label="Scrollable list of copies"></div>
+      </aside>
+
+      <section class="map-shell" aria-label="Map of copy routes">
+        <div id="map" class="map"></div>
+        <div class="map-legend" aria-label="Legend">
+          <button id="clear-focus" class="text-button" type="button" hidden>Clear highlight</button>
+          <div id="connection-legend" class="legend-items">
+          <span><i class="legend-dot documented"></i> within the source date range</span>
+          <span><i class="legend-dot inferred"></i> approximation / last record</span>
+          <span><i class="legend-line" style="border-top-style: solid"></i> dated sequence with no apparent gap</span>
+          <span><i class="legend-line"></i> gap / unclear date / uncertain place</span>
+          <span>Wider line = more copies · Click to view copies</span>
+          </div>
+          <div id="location-legend" class="legend-items" hidden>
+            <span><i class="legend-dot documented"></i> Last identifiable locations for the selected year</span>
+            <span id="circle-legend">Circle area = number of copies · Click to view copies</span>
+            <span id="heatmap-legend" hidden><i class="heat-gradient"></i> Lower → higher concentration · Scale fixed across years and zoom levels for this selection · Click a dot to view copies · Areas excluded</span>
+          </div>
+        </div>
+        <div id="map-message" class="map-message" hidden></div>
+      </section>
+    </main>
+
+    <aside id="bundle-panel" class="bundle-panel" aria-label="Selected connection" hidden>
+      <div class="detail-toolbar"><strong>Explore connection</strong><button id="bundle-close" class="icon-button" type="button" aria-label="Close connection">×</button></div>
+      <div id="bundle-content"></div>
+    </aside>
+    <aside id="detail-panel" class="detail-panel" aria-labelledby="detail-title" aria-hidden="true">
+      <div class="detail-toolbar">
+        <p class="eyebrow">Trace a copy</p>
+        <button id="detail-close" class="icon-button" type="button" aria-label="Close copy details">×</button>
+      </div>
+      <div id="detail-content"></div>
+    </aside>
+
+    <aside id="about-panel" class="about-panel" aria-labelledby="about-title" aria-hidden="true">
+      <div class="detail-toolbar">
+        <p class="eyebrow">Project information</p>
+        <button id="about-close" class="icon-button" type="button" aria-label="Close project information">×</button>
+      </div>
+      <h2 id="about-title">About Incunabula in Motion</h2>
+      <h3>Exploring the histories of individual copies</h3>
+      <p>Incunabula in Motion is an experimental data visualisation by Stefan Matter. This version explores 3,394 copy records from 21 Swiss holding institutions, retrieved from Material Evidence in Incunabula (MEI) on 22 October 2026. It adapts the interface developed for <a href="https://matterstefan.github.io/prayer-books-in-motion/" target="_blank" rel="noopener">Prayer Books in Motion</a>. The library filter allows individual collections to be explored separately or together. These are the records currently identified as Swiss holdings in MEI, not a census of all incunabula held in Switzerland or the complete holdings of each library.</p>
+      <h3>Sources and scope</h3>
+      <p><a href="https://data.cerl.org/mei/" target="_blank" rel="noopener">MEI</a> supplies copy identities, holding information and provenance. Edition references link to <a href="https://data.cerl.org/istc/" target="_blank" rel="noopener">ISTC</a> and the <a href="https://www.gesamtkatalogderwiegendrucke.de/" target="_blank" rel="noopener">GW</a>. Printing statements and language information use the October 2026 GW export supplied by Oliver Duntze. Multiple GW matches remain documented; no arbitrary candidate is selected.</p>
+      <p>This is a data-reuse experiment, not a new catalogue or a complete reconstruction of journeys. One map record represents one MEI copy record. Provenance is not automatically transferred between prints now bound together. Coverage reflects the available records, and missing evidence does not establish absence.</p>
+      <h3>Filters and selection</h3>
+      <p>The subject filter combines the bibliographic subject and keyword fields embedded in MEI. These describe editions, not individual ownership events. Source terms are retained, including differences in spelling and capitalisation. Choices within each filter are combined with OR; libraries, subjects, printing places, languages and text search are combined with AND. Multilingual editions match each language.</p>
+      <p>Use <strong>Add checked matches</strong> to collect copies across several searches, then <strong>Show selection</strong> to explore them together. This selection lasts while the page is open and is lost on reload.</p>
+      <h3>Timeline and routes</h3>
+      <p>The sequence begins with the printing place where identifiable and ends with the present holding institution. The last identifiable location is carried forward between dated records; this does not establish continuous presence. Unknown and conflicting dates remain visible in the full present-day sequence. GW normalised printing years serve as display anchors; approximate, before/after and other qualified dating remains flagged and the original date statement is displayed.</p>
+      <p>Lines are schematic. Dashed lines signal gaps or uncertainty; solid lines indicate adjacent dated records with no apparent gap. Neither proves an actual travel route. Clustering groups nearby places around frequently recorded locations, not historical territories. Wider lines represent more copies.</p>
+      <h3>Locations and uncertainties</h3>
+      <p>Circle area represents the number of copies at the selected year's last identifiable locations. The heatmap uses an approximate 200 km radius and a colour reference fixed for the selection across years and zoom levels. Regions are excluded from local map points. Coordinates represent localities, not library buildings.</p>
+      <p>Source values are retained separately from display decisions. Unidentified Seefeld and conflicting Zürich coordinates are withheld from the map pending clarification. Multiple or alternative printing places are not converted into invented sequential journeys. Consecutive records at the same point are visually consolidated, retaining their underlying evidence.</p>
+      <h3>Credits and data preparation</h3>
+      <h3>ZB postincunabula: MARC test collection</h3><p>The optional collection contains 31 selected catalogue references to ZB Zürich prints of 1501–1525, from a working corpus of 5,149 references exported through swisscollections on 23 October 2026. This is a narrow test, not the total number of copies with provenance. Each route shows the catalogue publication locality, one selected dated institutional event and the current holding. References may describe bound-with prints or multiple volumes.</p><p>Two event dates are circa 1540 and one is probably 1832. The slider uses these years as approximate anchors; the details retain their qualifications. Current holding is an observation, not an acquisition date. MEI subject filters exclude MARC references. Reset restores the MEI-only view; saved selections retain explicitly added copies.</p><p>Thanks to the cataloguers and institutions contributing to MEI, ISTC and GW; to Falk Eisermann and Oliver Duntze for advice and the GW export; and to CERL and Helena Nebel for enabling scripted retrieval. Coordinates are supplemented by <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). The map uses Leaflet and OpenStreetMap contributors' data.</p>
+      <p><a href="https://github.com/matterstefan/incunabula-in-motion" target="_blank" rel="noopener">Source code, preparation scripts and review decisions on GitHub</a>. This page loads prepared data; opening it does not query CERL. Access credentials are not part of the website. Swiss collections update: 22 October 2026; initial Zurich prototype: 21 October 2026.</p>
+    </aside>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script src="assets/app.js?v=20261024-marc-1" defer></script>
+  </body>
+</html>

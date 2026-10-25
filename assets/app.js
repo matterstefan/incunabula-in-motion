@@ -87,6 +87,24 @@ function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
 }
 
+function adaptMarcPilot(routes) {
+ const copies=[],stations=[];
+ for(const r of routes){
+  const id=r.reference_id;
+  if(!id?.startsWith('marc:')||r.stations.length!==3)throw Error('Invalid MARC pilot reference');
+  copies.push({copy_id:id,mei_id:'',mei_url:'',catalogue_id:r.record_id,catalogue_url:r.catalogue_url,collection_groups:'marc',title:r.title.join(' / '),shelfmark:r.shelfmark,holding_institution_id:'ZurichZB',holding_institution_name:'Zürich, Zentralbibliothek',language:(r.source_008||'').slice(35,38).trim(),host_istc_id:'',gw_references:'',mei_terms:'',relationship_types:'marc'});
+  r.stations.forEach((s,i)=>{
+   const historical=s.role==='historical_provenance',current=s.role==='current_holding';
+   const qualification=historical&&s.date_certainty!=='exact'?(s.date_certainty==='circa'?'Circa ':'Probably '):'';
+   const geo=s.coordinate_source||{};
+   const evidence=(s.evidence||[]).map(e=>`MARC ${e.tag}: ${e.subfields.filter(([c])=>c==='a').map(([,v])=>v).join(' ')} [Copy assignment: ${e.assignment||e.copy_assignment||'unspecified'}]`).join('\n');
+   stations.push({copy_id:id,station_id:`${id}-${i}`,source_catalogue:'MARC / swisscollections',source_url:r.catalogue_url,source_record_id:r.record_id,station_type:current?'current_holding':historical?'provenance_place':'print_place',display_type:!current&&!historical?'Publication place (catalogue statement)':'',source_order:String(i),place_order_within_source:'0',location_label:current?'Zürich, Zentralbibliothek':historical?s.owner_or_recipient:s.normalised_place,preferred_placename:s.normalised_place,place_name:s.normalised_place,latitude:String(s.coordinates.latitude),longitude:String(s.coordinates.longitude),place_authority:geo.authority||'',place_authority_id:geo.authority_id||'',spatial_precision:'locality',time_start:current?'':String(s.year),time_end:current?'':String(s.year),observation_date:current?s.observed_at:'',source_date_label:current?`Observed ${s.observed_at} (not an acquisition date)`:historical?`${qualification}${s.year}`:`${s.year} · source: ${(s.date_labels||[]).join(' / ')}`,display_uncertainty:qualification?'Approximate timeline anchor; source qualification retained':'',location_resolution_note:current?'Current holding is an observation, not an acquisition date.':historical?evidence:`Original publication place: ${(s.place_labels||[]).join(' / ')}. Publication wording does not necessarily identify a separate printing location.`});
+  });
+ }
+ if(new Set(copies.map(c=>c.copy_id)).size!==copies.length)throw Error('Duplicate MARC references');
+ return {copies,stations};
+}
+
 function directCopy(copy) { return copy.relationship_types.split(" | ").includes("direct"); }
 // Approved display-only alignments, 2026-10-03. Source coordinates stay intact.
 const displayPointAliases = new Map([
@@ -139,7 +157,7 @@ function compactStationsForDisplay(copyId) {
   const compacted = [];
   for (const station of copyStations(copyId)) {
     const previous = compacted.at(-1);
-    if (["current_holding", "last_known"].includes(station.station_type) &&
+    if (station.source_catalogue !== "MARC / swisscollections" && ["current_holding", "last_known"].includes(station.station_type) &&
         previous?.station_type === "provenance_place" && samePoint(previous, station)) {
       compacted[compacted.length - 1] = { ...station, mergedProvenance: previous };
     } else {
@@ -361,16 +379,17 @@ function printYear(copy) {
 
 function searchable(copy) {
   const station = printStation(copy.copy_id);
-  return [copy.title, copy.holding_institution_name, copy.shelfmark, copy.mei_id, copy.host_istc_id, copy.gw_references, station?.location_label, filterPlaceLabel(station)].join(" ").toLocaleLowerCase("en");
+  return [copy.title, copy.holding_institution_name, copy.shelfmark, copy.catalogue_id, copy.mei_id, copy.host_istc_id, copy.gw_references, station?.location_label, filterPlaceLabel(station)].join(" ").toLocaleLowerCase("en");
 }
 
 function copyCollections(copy) { return (copy.collection_groups || "core").split(" | "); }
 function matchesSubjects(copy) { return !state.subjects.size || (copy.mei_terms || "").split(" | ").some(term => state.subjects.has(term)); }
-function matchesCollection(copy) { return matchesSubjects(copy) && (!state.libraries.size || state.libraries.has(copy.holding_institution_id)); }
+function matchesDataset(copy) { return copyCollections(copy).some(group => state.collections.has(group)); }
+function matchesCollection(copy) { return matchesDataset(copy) && matchesSubjects(copy) && (!state.libraries.size || state.libraries.has(copy.holding_institution_id)); }
 function updateLibraryFilter() {
   const counts = new Map();
   for (const copy of state.copies) {
-    if (!matchesSubjects(copy) || (state.search && !searchable(copy).includes(state.search))) continue;
+    if (!matchesDataset(copy) || !matchesSubjects(copy) || (state.search && !searchable(copy).includes(state.search))) continue;
     if (state.places.size && !state.places.has(filterPlaceLabel(printStation(copy.copy_id)))) continue;
     if (state.languages.size && !copyFilterLanguages(copy).some(code => state.languages.has(code))) continue;
     counts.set(copy.holding_institution_id, (counts.get(copy.holding_institution_id)||0)+1);
@@ -773,7 +792,7 @@ function openDetail(copyId, fromConnection = false) {
     <h2 id="detail-title">${escapeHtml(copy.title || "Untitled")}</h2>
     <p class="detail-lead">${escapeHtml(print?.location_label || "Printing place unknown")}, ${escapeHtml(printYear(copy))} · ${escapeHtml(copy.shelfmark || "no shelfmark")}</p>
     <dl class="detail-facts">
-      <dt>MEI</dt><dd><a href="${escapeHtml(copy.mei_url)}" target="_blank" rel="noopener">${escapeHtml(copy.mei_id)}</a></dd>
+      ${copy.catalogue_id ? `<dt>Source</dt><dd>MARC test collection · <a href="${escapeHtml(copy.catalogue_url)}" target="_blank" rel="noopener">swisscollections ${escapeHtml(copy.catalogue_id)}</a></dd>` : `<dt>MEI</dt><dd><a href="${escapeHtml(copy.mei_url)}" target="_blank" rel="noopener">${escapeHtml(copy.mei_id)}</a></dd>`}
       <dt>ISTC</dt><dd>${copy.host_istc_id ? `<a href="https://data.cerl.org/istc/${escapeHtml(copy.host_istc_id)}" target="_blank" rel="noopener">${escapeHtml(copy.host_istc_id)}</a>` : "No edition reference supplied"}</dd>
       <dt>GW</dt><dd>${escapeHtml(copy.gw_references || "not specified")}</dd>
       <dt>MEI terms</dt><dd>${escapeHtml(copy.mei_terms || "not specified")}</dd>
@@ -782,10 +801,10 @@ function openDetail(copyId, fromConnection = false) {
     </dl>
     ${digitalLinksHtml(copy)}
     <h3>Recorded locations</h3>
-    <p class="method-note">This list shows the full sequence. Gaps, undated records and missing places prevent a continuous account of the copy’s whereabouts.</p>
+    <p class="method-note">${copy.catalogue_id ? "This pilot shows three selected anchors, not a complete provenance sequence. Copy assignment may be plausible rather than explicit; notes may concern bindings or other bound-with prints. Other evidence remains in the catalogue." : "This list shows the full sequence. Gaps, undated records and missing places prevent a continuous account of the copy’s whereabouts."}</p>
     <ol class="station-list">${stations.map(station => {
       const unresolved = spatialNote(station) || station.date_warning || station.display_uncertainty || (station.geolocation_certainty === "probable" ? "Probable place identification" : "") || unresolvedLabels[station.location_resolution_status];
-      return `<li class="station-item"><span class="station-type">${escapeHtml(stationLabels[station.station_type] || station.station_type)}</span>
+      return `<li class="station-item"><span class="station-type">${escapeHtml(station.display_type || stationLabels[station.station_type] || station.station_type)}</span>
         <span class="station-place">${escapeHtml(station.location_label || station.place_name || "Place not specified")}</span>
         <span class="station-time">${escapeHtml(stationTime(station))}</span>
         ${unresolved ? `<span class="uncertain-badge">${escapeHtml(unresolved)}</span>` : ""}
@@ -854,6 +873,7 @@ function changeCollection(group, checked) {
 }
 
 function bindEvents() {
+ document.querySelectorAll('[data-collection]').forEach(input=>input.addEventListener('change',()=>changeCollection(input.dataset.collection,input.checked)));
   els["library-filter"].addEventListener("change", event => {
     const input=event.target;
     if(input.type!=="checkbox")return;
@@ -942,6 +962,7 @@ function bindEvents() {
   els["reset-button"].addEventListener("click", () => {
     state.showSaved = false;
     state.collections = new Set(["core"]);
+    document.querySelectorAll("[data-collection]").forEach(input=>input.checked=input.dataset.collection==="core");
     state.libraries.clear();
     state.subjects.clear(); els["subject-filter"].querySelectorAll("input").forEach(i => i.checked=false);
     focusCopy(null); closePanel(els["detail-panel"]);
@@ -972,9 +993,12 @@ async function loadData() {
     if (!languageResponse.ok) throw new Error("Could not load language data.");
     state.editionLanguages = (await languageResponse.json()).editions;
     if (!copyResponse.ok || !stationResponse.ok) throw new Error("Could not load the data files.");
+    const marcResponse=await fetch("data/map/marc-pilot.json?v=20261024-marc-1");
+    if(!marcResponse.ok)throw Error("Could not load the MARC test collection.");
+    const marc=adaptMarcPilot(await marcResponse.json());
     const [copies, stations] = await Promise.all([copyResponse.text().then(parseCsv), stationResponse.text().then(parseCsv)]);
-    state.copies = copies.filter(directCopy).sort((a, b) => (a.title || "").localeCompare(b.title || "", "en"));
-    for (const station of stations.map(reviewedStation)) {
+    state.copies = [...copies.filter(directCopy),...marc.copies].sort((a, b) => (a.title || "").localeCompare(b.title || "", "en"));
+    for (const station of [...stations,...marc.stations].map(reviewedStation)) {
       if (!state.stationsByCopy.has(station.copy_id)) state.stationsByCopy.set(station.copy_id, []);
       state.stationsByCopy.get(station.copy_id).push(station);
     }

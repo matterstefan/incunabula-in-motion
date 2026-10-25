@@ -7,7 +7,7 @@
     <title>Incunabula in Motion – Copies in motion</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%2375132f'/%3E%3Cpath d='M17 14h23c5 0 9 4 9 9v27H26c-5 0-9-4-9-9V14Z' fill='%23fff'/%3E%3Cpath d='M26 14v36M33 23h10M33 30h10M33 37h8' stroke='%2375132f' stroke-width='3'/%3E%3C/svg%3E">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-    <link rel="stylesheet" href="assets/styles.css?v=20261022-swiss-1">
+    <link rel="stylesheet" href="assets/styles.css?v=20261024-marc-1">
   </head>
   <body>
     <header class="topbar">
@@ -47,7 +47,7 @@
         <section class="filter-panel" aria-labelledby="filter-title">
           <h2 id="filter-title" class="visually-hidden">Select and filter copies</h2>
           <div id="search-controls">
-          <p class="collection-caption"><strong>Swiss collections in MEI</strong><br><small>3,394 copy records · 21 libraries · 22 October 2026</small></p>
+          <fieldset class="dataset-picker"><legend>Collections</legend><label><input type="checkbox" data-collection="core" checked> Swiss collections in MEI (3,394)</label><label><input type="checkbox" data-collection="marc"> ZB postincunabula · MARC test (31)</label></fieldset>
           <div class="multi-filter library-select"><details id="library-dropdown">
             <summary id="library-summary">All 21 libraries</summary>
             <div class="multi-menu">
@@ -57,7 +57,7 @@
             </div>
           </details></div>
           <details class="subject-dropdown"><summary>MEI subjects and keywords</summary>
-            <p class="method-note">Choose any term (OR). Combined with the other filters (AND). Source spellings are retained.</p>
+            <p class="method-note">Choose any term (OR). Combined with the other filters (AND). Source spellings are retained. Selecting a term excludes the MARC test collection.</p>
             <button id="subject-clear" class="text-button" type="button">Clear subject selection</button>
             <div id="subject-filter" role="group" aria-label="MEI subjects and keywords"></div>
           </details>
@@ -158,11 +158,11 @@
       <p>Circle area represents the number of copies at the selected year's last identifiable locations. The heatmap uses an approximate 200 km radius and a colour reference fixed for the selection across years and zoom levels. Regions are excluded from local map points. Coordinates represent localities, not library buildings.</p>
       <p>Source values are retained separately from display decisions. Unidentified Seefeld and conflicting Zürich coordinates are withheld from the map pending clarification. Multiple or alternative printing places are not converted into invented sequential journeys. Consecutive records at the same point are visually consolidated, retaining their underlying evidence.</p>
       <h3>Credits and data preparation</h3>
-      <p>Thanks to the cataloguers and institutions contributing to MEI, ISTC and GW; to Falk Eisermann and Oliver Duntze for advice and the GW export; and to CERL and Helena Nebel for enabling scripted retrieval. Coordinates are supplemented by <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). The map uses Leaflet and OpenStreetMap contributors' data.</p>
+      <h3>ZB postincunabula: MARC test collection</h3><p>The optional collection contains 31 selected catalogue references to ZB Zürich prints of 1501–1525, from a working corpus of 5,149 references exported through swisscollections on 23 October 2026. This is a narrow test, not the total number of copies with provenance. Each route shows the catalogue publication locality, one selected dated institutional event and the current holding. References may describe bound-with prints or multiple volumes.</p><p>Two event dates are circa 1540 and one is probably 1832. The slider uses these years as approximate anchors; the details retain their qualifications. Current holding is an observation, not an acquisition date. MEI subject filters exclude MARC references. Reset restores the MEI-only view; saved selections retain explicitly added copies.</p><p>Thanks to the cataloguers and institutions contributing to MEI, ISTC and GW; to Falk Eisermann and Oliver Duntze for advice and the GW export; and to CERL and Helena Nebel for enabling scripted retrieval. Coordinates are supplemented by <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). The map uses Leaflet and OpenStreetMap contributors' data.</p>
       <p><a href="https://github.com/matterstefan/incunabula-in-motion" target="_blank" rel="noopener">Source code, preparation scripts and review decisions on GitHub</a>. This page loads prepared data; opening it does not query CERL. Access credentials are not part of the website. Swiss collections update: 22 October 2026; initial Zurich prototype: 21 October 2026.</p>
     </aside>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-    <script src="assets/app.js?v=20261022-swiss-1" defer></script>
+    <script src="assets/app.js?v=20261024-marc-1" defer></script>
   </body>
 </html>

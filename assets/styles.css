@@ -306,3 +306,5 @@ select { padding: .45rem 2rem .45rem .55rem; }
 /* Collection selection uses the same compact, opaque menu as the other filters. */
 .library-select { margin-bottom: .6rem; }
 #library-dropdown .multi-menu { width: 340px; max-height: min(370px, 50vh); }
+
+.dataset-picker{border:0;padding:0;margin:0 0 .7rem;font-size:.82rem}.dataset-picker legend{font-weight:650;margin-bottom:.25rem}.dataset-picker label{display:flex;gap:.35rem;align-items:center;padding:.15rem 0}.dataset-picker input{flex-shrink:0}
