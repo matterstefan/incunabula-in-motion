@@ -1,0 +1,112 @@
+{
+  "unit": "record_id + institution_code + shelfmark; not verified physical copies",
+  "working_references": 5149,
+  "references_with_empty_852_shelfmark": 1,
+  "bibliographic_records": 4396,
+  "assignment_categories_exclusive": {
+    "no_detected_candidate": 3798,
+    "plausible": 1122,
+    "explicit": 59,
+    "open_only": 170
+  },
+  "linked_any_candidate": 1181,
+  "linked_core_indicator": 1132,
+  "linked_lexical_only": 49,
+  "linked_year_tokens_not_events": 226,
+  "linked_place_tokens_not_stations": 356,
+  "prior_place_candidates_union": 409,
+  "pilot_references": 31,
+  "additional_event_references": 19,
+  "pilot_and_additional_union": 42,
+  "all_prepared_places_union": 419,
+  "references_with_places_but_no_pilot_or_extra_event": 377,
+  "old_dated_candidates_outside_new_pilot": 1,
+  "strictly_undated_place_references": 376,
+  "old_dated_candidate_keys_outside_new_pilot": [
+    [
+      "991001165399705501",
+      "Z06",
+      "4.221"
+    ]
+  ],
+  "references_with_any_recognised_dated_candidate": 43,
+  "references_with_GND_owner_id": 1048,
+  "linked_references_without_prepared_places": 802,
+  "prepared_place_without_linked_candidate": 40,
+  "linked_references_by_field_tag": {
+    "500": 18,
+    "561": 440,
+    "563": 13,
+    "590": 322,
+    "596": 1,
+    "700": 857,
+    "710": 340,
+    "949": 45
+  },
+  "source_layers_nonexclusive": [
+    {
+      "layer": "Earlier station candidates",
+      "basis": "handbook",
+      "rule": null,
+      "distinct_references": 303
+    },
+    {
+      "layer": "Earlier station candidates",
+      "basis": "catalogue_note",
+      "rule": null,
+      "distinct_references": 2
+    },
+    {
+      "layer": "Earlier station candidates",
+      "basis": "reviewed_probable_identity_and_biography",
+      "rule": null,
+      "distinct_references": 1
+    },
+    {
+      "layer": "Earlier station candidates",
+      "basis": "catalogue_name",
+      "rule": null,
+      "distinct_references": 23
+    },
+    {
+      "layer": "Earlier station candidates",
+      "basis": "reviewed_biographical_inference",
+      "rule": null,
+      "distinct_references": 1
+    },
+    {
+      "layer": "Collection/place supplement",
+      "basis": "documented_collection_or_institution_inference",
+      "rule": "handbook_Gal_Tz",
+      "distinct_references": 97
+    },
+    {
+      "layer": "Collection/place supplement",
+      "basis": "documented_collection_or_institution_inference",
+      "rule": "explicit_Rheinau_opening",
+      "distinct_references": 174
+    },
+    {
+      "layer": "Collection/place supplement",
+      "basis": "documented_collection_or_institution_inference",
+      "rule": "NGZH_named_ownership_mark",
+      "distinct_references": 10
+    }
+  ],
+  "files_sha256": {
+    "working-copy-references.json": "2d51f038eacaef20e3055b43d1878f4e29d0238c839d4116776bcabaae797912",
+    "provenance-assignments.json": "b1c6903012716da1b9cca820a08ea2a499cdf8d600d657e06fb5597d2bc9e85b",
+    "station-candidates.json": "7416e6f4dc03e9cb4f4b2538a45ed676bf758f32d61bdebbeb7f9aa7fea18e5e",
+    "collection-place-supplement.json": "6965799054ba71b0f5104b74e1bc9fb69fa90fa800c984cf60cd8f68871bbead",
+    "additional-dated-events.json": "4e63a92f5b6b622a3586d2bfa78f2bdec728f0f4416388922f827091c4b5a72c"
+  },
+  "pilot_sha256": "7fe83352045555d462cd571d7108ff19d8599435a2b8674210b979af9c0d9b97",
+  "limitations": [
+    "Census of current extraction results, not a full manual assessment of catalogue quality.",
+    "No detected candidate does not mean no provenance in the catalogue or artefact.",
+    "Exact copy linkage is independent of correctness of provenance or date.",
+    "Layer and field counts overlap; dates in lexical tokens may be citations or unrelated events.",
+    "Most named institution-to-place mappings and collection mappings are enrichment, even when the institution name itself is explicit.",
+    "45 reproduction-review references remain in the working baseline; this is not a final holdings census."
+  ]
+}
