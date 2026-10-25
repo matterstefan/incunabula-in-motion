@@ -1,0 +1,69 @@
+name: Collect Zurich date tranche
+on:
+  workflow_dispatch:
+    inputs:
+      start_year:
+        description: First year
+        required: true
+        default: '1526'
+        type: string
+      end_year:
+        description: Last year
+        required: true
+        default: '1550'
+        type: string
+      snapshot:
+        description: Snapshot label (reuse to resume; change for a fresh harvest)
+        required: true
+        default: '20261025'
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: swisscollections-zurich-harvest
+  cancel-in-progress: false
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      START_YEAR: ${{ inputs.start_year }}
+      END_YEAR: ${{ inputs.end_year }}
+      SNAPSHOT: ${{ inputs.snapshot }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate inputs and set checkpoint path
+        id: config
+        run: |
+          python - <<'PY'
+          import os, re
+          start, end, label = os.environ['START_YEAR'], os.environ['END_YEAR'], os.environ['SNAPSHOT']
+          assert re.fullmatch(r'\d{4}', start) and re.fullmatch(r'\d{4}', end)
+          assert 1450 <= int(start) <= int(end) <= 1900
+          assert re.fullmatch(r'[A-Za-z0-9_-]{1,40}', label)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'path=data/research/zurich-tranches/{start}-{end}-{label}\n')
+              f.write(f'key=zurich-sru-v1-{start}-{end}-{label}-\n')
+          PY
+      - uses: actions/cache/restore@v4
+        with:
+          path: ${{ steps.config.outputs.path }}
+          key: ${{ steps.config.outputs.key }}${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: ${{ steps.config.outputs.key }}
+      - name: Collect and profile (up to five hours; preserve results afterwards)
+        run: timeout --signal=INT --kill-after=60s 300m python -u scripts/collect_zurich_tranche.py --start "$START_YEAR" --end "$END_YEAR" --snapshot "$SNAPSHOT"
+      - uses: actions/cache/save@v4
+        if: always() && steps.config.outcome == 'success'
+        with:
+          path: ${{ steps.config.outputs.path }}
+          key: ${{ steps.config.outputs.key }}${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.config.outcome == 'success'
+        with:
+          name: zurich-tranche-${{ inputs.start_year }}-${{ inputs.end_year }}-${{ inputs.snapshot }}
+          path: ${{ steps.config.outputs.path }}
+          retention-days: 30
+          if-no-files-found: warn
