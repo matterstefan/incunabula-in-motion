@@ -104,7 +104,24 @@ def harvest(out, query, fetch):
                     recordSchema='marc21-xml', maximumRecords=100, startRecord=position))
         cached = path.exists()
         raw = path.read_bytes() if cached else fetch(url)
+        # Preserve the received response before validating it, including failures.
+        # Diagnostic files are deliberately separate from validated page checkpoints.
+        write(out / 'diagnostics' / f'{position:07d}.xml', raw)
         total, batch = parse_page(raw)
+        response_tree = ET.fromstring(raw)
+        incoming_ids = [rid(record) for record in batch]
+        duplicate_ids = sorted(set(incoming_ids) & records.keys())
+        repeated_within_page = [key for key, count in Counter(incoming_ids).items() if count > 1]
+        save(out / 'diagnostics' / f'{position:07d}.json', {
+            'requested_start_record': position, 'request_url': url, 'loaded_from_cache': cached,
+            'reported_total': total, 'returned_count': len(batch),
+            'next_record_position': response_tree.findtext('s:nextRecordPosition', namespaces=NS),
+            'returned_record_positions': [x.text for x in response_tree.findall('s:records/s:record/s:recordPosition', NS)],
+            'echoed_request': {x.tag.split('}')[-1]: x.text for x in response_tree.findall('s:echoedSearchRetrieveRequest/*', NS)},
+            'ids': incoming_ids, 'duplicate_ids_from_previous_pages': duplicate_ids,
+            'duplicate_ids_within_page': repeated_within_page,
+            'previous_pages': pages,
+        })
         if total > 50000:
             raise ValueError('More than 50,000 results: run a shorter date interval.')
         if expected is not None and expected != total:
@@ -115,7 +132,7 @@ def harvest(out, query, fetch):
         for record in batch:
             key = rid(record)
             if key in records:
-                raise ValueError('Duplicate MARC 001 across pages: ' + key + '; restart with new snapshot label.')
+                raise ValueError('Duplicate MARC 001 across pages: ' + key + '; response saved in diagnostics/. Do not treat this harvest as complete.')
             records[key] = record
         if len(records) > total:
             raise ValueError('Returned more records than reported')
