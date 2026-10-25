@@ -1,0 +1,1442 @@
+[
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991002964399705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,10",
+    "title": [
+      "Comedia Poliscene"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singrenium [u. Leonardus Alantse]"
+          ],
+          [
+            "c",
+            "Anno Domini.M.D.XVI."
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:e09c8757e60006be71fb",
+    "catalogue_url": "https://swisscollections.ch/Record/991002964399705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991002964399705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,10"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "frey_gift_rheinau",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "donation_to_institution",
+    "year": 1637,
+    "matched_text": "Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)",
+    "record_id": "991033256479705501",
+    "institution_code": "Z06",
+    "shelfmark": "RRc 115",
+    "title": [
+      "Varia Philippi Beroaldi opuscula in hoc Codice contenta"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileę"
+          ],
+          [
+            "b",
+            "Excussa sunt ... in officina Industrij Gregorij Bartholomei ... Sumptibus ... Wolffgangi Lachner"
+          ],
+          [
+            "c",
+            "Anno salutis christianę M.DIX. Ad Idus Martias"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:07d119914afe1d4e2a8d",
+    "catalogue_url": "https://swisscollections.ch/Record/991033256479705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991033256479705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris auf dem Titelblatt. Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)"
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "RRc 115"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1637"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991033520429705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,7",
+    "title": [
+      "Ioachimi Vadiani Helvetii, Aegloga, cui titulus. Favstvs"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennae Austriae"
+          ],
+          [
+            "b",
+            "per Ioannem Singreniu[m]. Expe[n]sis uero Ioa[n]nis Meczker"
+          ],
+          [
+            "c",
+            "Anno d[omin]i. M.D.XVII."
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:f5d729057fe87ce8160d",
+    "catalogue_url": "https://swisscollections.ch/Record/991033520429705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991033520429705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,7"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991036804229705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,4",
+    "title": [
+      "Ioannis Ioviani Pontani, Poeta Divini, Ad L. Franciscvm Filivm, Meteororvm Liber ..."
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singrenium"
+          ],
+          [
+            "c",
+            "Anno Domini M.D.XVII"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:ea1c7159c2b216e7239a",
+    "catalogue_url": "https://swisscollections.ch/Record/991036804229705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991036804229705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Sum adriani xenodochus stam[m]ensis.\") sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,4"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "rheinau_latin_inscription",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "ownership_inscription",
+    "year": 1805,
+    "matched_text": "Sum Monasterij Rhenoviensis. 1805",
+    "record_id": "991036931919705501",
+    "institution_code": "Z06",
+    "shelfmark": "Rm 244 | G",
+    "title": [
+      "Mariale eximii viri Bernardini de Busti Ordinis seraphici Francisci de singulis festiuitatib[us] beate v[ir]ginis p[er] modu[m] sermonu[m] tractans"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Hagenau"
+          ],
+          [
+            "b",
+            "Heinrich Gran"
+          ],
+          [
+            "c",
+            "1513"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:c4796cdfbe506de5df4c",
+    "catalogue_url": "https://swisscollections.ch/Record/991036931919705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991036931919705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Aus dem Vorbesitz des Klosters Rheinau. Mit Verbalexlibris: \"Sum Monasterij Rhenoviensis. 1805.\""
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "Rm 244 | G"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1805"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "alumnat_exlibris",
+    "place": "Zurich",
+    "owner": "Alumnatsbibliothek Zürich",
+    "event_kind": "ownership_inscription",
+    "year": 1770,
+    "matched_text": "Verbalexlibris der Bibliotheca Neoparthenia (Alumnatsbibliothek Zürich), 1770",
+    "record_id": "991041505439705501",
+    "institution_code": "Z06",
+    "shelfmark": "III H 9 | G",
+    "title": [
+      "Josephi Judei Historici praeclara opera"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Parrhisijs]"
+          ],
+          [
+            "b",
+            "[per Iohannem Barbier impressorem ... ]"
+          ],
+          [
+            "c",
+            "[Anno Domini Millesimo quingentismo decimo tertio]"
+          ]
+        ]
+      },
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Vale Impressum Parrhisij]"
+          ],
+          [
+            "b",
+            "[opera Ioannis Barbier & impensis Francisci Regnault & Ioannis Petit librarijs Impressa ...]"
+          ],
+          [
+            "c",
+            "[Anno Domini Millesimo quingentesimo decimo. quarto: penultima Martij]"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:ee100184abd90930d4f0",
+    "catalogue_url": "https://swisscollections.ch/Record/991041505439705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991041505439705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Auf dem Vorsatzblatt Verbalexlibris der Bibliotheca Neoparthenia (Alumnatsbibliothek Zürich), 1770"
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "III H 9 | G"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1770"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "source_url": "https://www.geonames.org/2657896",
+      "authority_id": "2657896",
+      "basis": "Existing project place authority current_holding-zurichzb"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "rheinau_eberhard_inscription",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "ownership_inscription",
+    "year": 1624,
+    "matched_text": "M[o]n[aster]ij Rhenoviensis Sub Abbate Eberhardo a. 1624",
+    "record_id": "991049351629705501",
+    "institution_code": "Z06",
+    "shelfmark": "Rq 585",
+    "title": [
+      "D. Erasmi Roterodami, De duplici Copia, Verborum ac Rerum Commentarii duo, plerisq[ue] in locis aucti"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentinæ"
+          ],
+          [
+            "b",
+            "apud Ioan. Knoblouchiu[m]"
+          ],
+          [
+            "c",
+            "M. D. XXI"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:17eb1c65f054f47c4f11",
+    "catalogue_url": "https://swisscollections.ch/Record/991049351629705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991049351629705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Aus dem Vorbesitz des Klosters Rheinau, mit Verbalexlibris \"M[o]n[aster]ij Rhenoviensis Sub Abbate Eberhardo a. 1624\" auf dem Titelblatt. Auf dem hinteren Vorsatzblatt weiterer Besitzvermerk:\"Ioannes Strub est verus possesor huius libri\"."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "Rq 585"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1624"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991049583699705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,2",
+    "title": [
+      "<<Habes lector: hoc libello.>> Rvdolphi Agricolae Ivnioris Rheti, Ad Ioachimum Vadianum Heleutiu[m] Poeta[m] Laureatu[m], Epistolam, qua de locor[um] non nullorum obscuritate quæstio sit & percontatio"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Viennae"
+          ],
+          [
+            "b",
+            "Haec ... Singrenius iam primum emissa Ioannes Scripta Typis pressit, ..."
+          ],
+          [
+            "c",
+            "Anno.M.D.XV."
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:553d96916296e784d64b",
+    "catalogue_url": "https://swisscollections.ch/Record/991049583699705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991049583699705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Adriani Hosp.\"), Schenkungsvermerk Joachim Vadians an Wirth (\"Donavit me ipso libro Joachimus uadianus ... 1517\"), sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,2"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780",
+        "1517"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991056886619705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,8",
+    "title": [
+      "A. Flacci Persii Satyrarvm Opvs"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Viennæ Pannoniæ"
+          ],
+          [
+            "b",
+            "[Hieronymus Vietor u. Johann Singriener]"
+          ],
+          [
+            "c",
+            "M.D.XI."
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:84d27ef89d6aecb6a971",
+    "catalogue_url": "https://swisscollections.ch/Record/991056886619705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991056886619705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Schenkungsvermerk (Herkules Göldli an Andrian Wirth) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,8"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "frey_gift_rheinau",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "donation_to_institution",
+    "year": 1637,
+    "matched_text": "Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)",
+    "record_id": "991061292699705501",
+    "institution_code": "Z06",
+    "shelfmark": "RRc 115,2",
+    "title": [
+      "Adolescentia Jacobi Wimphelingij"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Martin Flach für Johann Knobloch]"
+          ],
+          [
+            "c",
+            "[1511]"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:bb34761bc45b2afa25a0",
+    "catalogue_url": "https://swisscollections.ch/Record/991061292699705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "explicit",
+    "evidence": {
+      "record_id": "991061292699705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Hs. Notiz auf Bl. 1r: \"Sum Mon[aste]rij Rheinaw.\"; Halbledereinband mit Rollstempeln (16; Jh.); Buchrücken mit Sprengpapier überzogen (Rheinau, 17. Jh.). Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau (1637)"
+        ],
+        [
+          "5",
+          "Exemplar ZBZ; RRC 115,2"
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "explicit",
+      "reason": "complete_shelfmark_in_same_field_scope",
+      "targets": [
+        [
+          "Z06",
+          "RRc 115,2"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1637"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "grossmuenster_exlibris",
+    "place": "Zurich",
+    "owner": "Stiftsbibliothek am Grossmünster Zürich",
+    "event_kind": "ownership_inscription",
+    "year": 1752,
+    "matched_text": "Verbalexlibris der reformierten Stiftsbibliothek am Grossmünster Zürich auf dem Titelblatt (1752)",
+    "record_id": "991078745839705501",
+    "institution_code": "Z06",
+    "shelfmark": "III N 145",
+    "title": [
+      "Von der Priester Ee"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basel]"
+          ],
+          [
+            "b",
+            "[Andreas Cratander]"
+          ],
+          [
+            "c",
+            "1524"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:1760ea0b6ace2ebae977",
+    "catalogue_url": "https://swisscollections.ch/Record/991078745839705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991078745839705501",
+      "tag": "590",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Verbalexlibris der reformierten Stiftsbibliothek am Grossmünster Zürich auf dem Titelblatt (1752)"
+        ]
+      ],
+      "evidence_kind": "lexical_note_candidate",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "III N 145"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1752"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "source_url": "https://www.geonames.org/2657896",
+      "authority_id": "2657896",
+      "basis": "Existing project place authority current_holding-zurichzb"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991087357919705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,5",
+    "title": [
+      "Casparis Vrsini Velii/ Silesii Epistolarum & Epigrammatum liber"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singreniu[m]. Expensis uero honesti uiri Meczker"
+          ],
+          [
+            "c",
+            "[1517]"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:25e3c854f31574fe9c12",
+    "catalogue_url": "https://swisscollections.ch/Record/991087357919705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991087357919705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris \"A. V. X.\" (Andran Wirth?) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,5"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": true
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "lucerne_jesuit_exlibris",
+    "place": "Lucerne",
+    "owner": "Jesuitenkolleg Luzern",
+    "event_kind": "ownership_inscription",
+    "year": 1673,
+    "matched_text": "Verbalexlibris des Jesuitenkollegs Luzern (1673)",
+    "record_id": "991087445199705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal Tz 266 | G",
+    "title": [
+      "Navicula, sive, Speculum fatuorum prestantissimi sacrarum literarum doctoris Joannis Geyler Keysersbergii ..."
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "[Johann Prüss]"
+          ],
+          [
+            "c",
+            "1511"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:551ea0fc554c0762c770",
+    "catalogue_url": "https://swisscollections.ch/Record/991087445199705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991087445199705501",
+      "tag": "590",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Verbalexlibris des Jesuitenkollegs Luzern (1673) auf dem Titelblatt; aus der Sammlung von J.J. Simler"
+        ]
+      ],
+      "evidence_kind": "lexical_note_candidate",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "Gal Tz 266 | G"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1673"
+      ],
+      "place_tokens_not_stations": [
+        "Luzern"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.05048,
+      "longitude": 8.30635,
+      "source_url": "https://www.geonames.org/2659811",
+      "authority_id": "2659811",
+      "basis": "Reused existing MEI place 02129767-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "lucerne_jesuit_exlibris",
+    "place": "Lucerne",
+    "owner": "Jesuitenkolleg Luzern",
+    "event_kind": "ownership_inscription",
+    "year": 1672,
+    "matched_text": "Verbalexlibris des Jesuitenkollegs Luzern (1672)",
+    "record_id": "991087646209705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal Tz 85 | G",
+    "title": [
+      "Doctor Keiserssbergs Postill"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "[Johann Schott]"
+          ],
+          [
+            "c",
+            "[1522]"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:9aedace7b9ecf7a0ab4d",
+    "catalogue_url": "https://swisscollections.ch/Record/991087646209705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991087646209705501",
+      "tag": "590",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Es fehlen Bl. IX und XIX von Teil 1, das Titelbl. zur Passio (Teil 2), Bl. XII von Teil 3 und Bl. VII, XI, XXXII und XXXVI von Teil 4; Verbalexlibris des Jesuitenkollegs Luzern (1672) auf dem Titelbl.; aus der Sammlung von J. J. Simler"
+        ]
+      ],
+      "evidence_kind": "lexical_note_candidate",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "Gal Tz 85 | G"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1672"
+      ],
+      "place_tokens_not_stations": [
+        "Luzern"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.05048,
+      "longitude": 8.30635,
+      "source_url": "https://www.geonames.org/2659811",
+      "authority_id": "2659811",
+      "basis": "Reused existing MEI place 02129767-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991104391249705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b",
+    "title": [
+      "Pomponii Mflae Geographiæ, libri tres"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Vienn Pannoniæ"
+          ],
+          [
+            "b",
+            "per Hieronymu[m] Vietorem Philouallem & Ioannem Singreniu[m] ... de Oeting"
+          ],
+          [
+            "c",
+            "Anno M.D.XII."
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:1a37f95490fe7fb58320",
+    "catalogue_url": "https://swisscollections.ch/Record/991104391249705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991104391249705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Adriani philoxeni stam[m]en.\") sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "rheinau_dated_exlibris",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "ownership_inscription",
+    "year": 1611,
+    "matched_text": "Verbalexlibris des Klosters Rheinau (1611)",
+    "record_id": "991109376649705501",
+    "institution_code": "Z06",
+    "shelfmark": "RRc 70",
+    "title": [
+      "Valerii Maximi Dictorum & factorum memorabilium libri novem"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "ex aedibus Schurerianis"
+          ],
+          [
+            "c",
+            "1516"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:dd63108f122725fcca35",
+    "catalogue_url": "https://swisscollections.ch/Record/991109376649705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991109376649705501",
+      "tag": "590",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Mit handschriftlichem Verbalexlibris des Klosters Rheinau (1611) auf dem Titelblatt; mit zahlreichen Annotationen (Vorlesungsmitschrift?)"
+        ]
+      ],
+      "evidence_kind": "lexical_note_candidate",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "RRc 70"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1611"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": true
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "wirth_purchase_vienna",
+    "place": "Vienna",
+    "owner": "Adrian Wirth",
+    "event_kind": "purchase_record",
+    "year": 1517,
+    "matched_text": "Kaufvermerk von Adrian Wirth, dat. Wien 1517",
+    "record_id": "991125795149705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,9",
+    "title": [
+      "Ioachimi Vadiani Helvetii Mythicvm Syntagma, Cvi Titvlvs Gallvs Pvgnans ..."
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Wien]"
+          ],
+          [
+            "b",
+            "Hieronymus Vietor, & Ioannes Singrenius, impresserunt Viennæ Austriæ"
+          ],
+          [
+            "c",
+            "ad tertiu[m] Eidvs Ianuarii. Anno. M.D.XIIII"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:a688068555defba8e5a4",
+    "catalogue_url": "https://swisscollections.ch/Record/991125795149705501",
+    "already_in_first_pilot": true,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991125795149705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Schenkungsvermerk (Herkules Göldli an Andrian Wirth) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "2.147: b,9"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1517",
+        "1780"
+      ],
+      "place_tokens_not_stations": [
+        "Zürich"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "rheinau_eberhard_boundwith",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "ownership_inscription_on_bound_with_print",
+    "year": 1624,
+    "matched_text": "Kloster Rheinau unter Abt Eberhard (1624) mit hs. Eintrag auf dem Titelblatt des ersten Faszikels",
+    "record_id": "991133977159705501",
+    "institution_code": "Z06",
+    "shelfmark": "Rq 585,3",
+    "title": [
+      "Francisci Philelphi oratoris disertissimi, Epistolæ Familiares, iam denuo ex emendatiss. exemplari recognitæ"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Hagenoæ"
+          ],
+          [
+            "b",
+            "apud Thomam Anshelmum"
+          ],
+          [
+            "c",
+            "Mense Ianuario Anno incarnationis M. D. XIX"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:7dd64c184dad08296773",
+    "catalogue_url": "https://swisscollections.ch/Record/991133977159705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "explicit",
+    "evidence": {
+      "record_id": "991133977159705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Mit handschriftlichem Besitzvermerk auf dem hinteren Vorsatzblatt: \"Ioannes Strub est verus possesor huius libri.\" Weiterer Vorbesitzer: Kloster Rheinau unter Abt Eberhard (1624) mit hs. Eintrag auf dem Titelblatt des ersten Faszikels des Konvoluts"
+        ],
+        [
+          "5",
+          "Exemplar ZB Zürich; Rq 585,3"
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "explicit",
+      "reason": "complete_shelfmark_in_same_field_scope",
+      "targets": [
+        [
+          "Z06",
+          "Rq 585,3"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1624"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  },
+  {
+    "rule_id": "rheinau_ab_ano",
+    "place": "Rheinau",
+    "owner": "Kloster Rheinau",
+    "event_kind": "ownership_inscription",
+    "year": 1837,
+    "matched_text": "Ab ano 1837. Sum Mon[aste]rij Rheinaw",
+    "record_id": "991152324999705501",
+    "institution_code": "Z06",
+    "shelfmark": "Ra 32,2",
+    "title": [
+      "Divini Gregorij Nyssæ Episcopi qui fuit frater Basilij Magni Libri Octo"
+    ],
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "ex officina libraria Matthiæ Schurerij Selestensis, Artium Doctoris"
+          ],
+          [
+            "c",
+            "Mense Maio. An. M.D.XII"
+          ]
+        ]
+      }
+    ],
+    "reference_id": "marc:fcdef34eb8d16c750f88",
+    "catalogue_url": "https://swisscollections.ch/Record/991152324999705501",
+    "already_in_first_pilot": false,
+    "date_certainty": "year_stated_in_catalogue_note",
+    "copy_assignment": "plausible",
+    "evidence": {
+      "record_id": "991152324999705501",
+      "tag": "561",
+      "occurrence": 1,
+      "subfields": [
+        [
+          "a",
+          "Hs. Besitzeintrag des Klosters Rheinau auf Bl. 1r des ersten Faszikels getilgt. Auf dem Titelblatt handschr. Beistzvermerk \"Ab ano 1837. Sum Mon[aste]rij Rheinaw.\""
+        ]
+      ],
+      "evidence_kind": "catalogue_provenance_field_or_owner_role",
+      "assignment": "plausible",
+      "reason": "only_one_catalogue_reference_in_record",
+      "targets": [
+        [
+          "Z06",
+          "Ra 32,2"
+        ]
+      ],
+      "year_tokens_not_events": [
+        "1837"
+      ],
+      "place_tokens_not_stations": [
+        "Rheinau"
+      ],
+      "uncertainty_word_present": false
+    },
+    "coordinates": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "status": "prepared_not_published",
+    "review_note": "Original scope retained. A shared binding or inscription on another print does not establish when each constituent joined the volume. This is not a new complete itinerary."
+  }
+]

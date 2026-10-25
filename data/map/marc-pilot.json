@@ -1,0 +1,5092 @@
+[
+  {
+    "record_id": "991001157179705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.168",
+    "title": [
+      "Ottonis Phrisingensis Episcopi, viri clarissimi, Rerum ab origine mundi ad ipsius vsq[ue] tempora gestarum, Libri Octo. Eivsdem De gestis Friderici primi Aenobarbi Cæs. Aug. Libri Duo. Radevici Phrisingen[sis] eccl[es]i[ae] Canonici Libri duo, prioribus additi, de eiusde[m] Friderici Imp. gestis ..."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991001157179705501",
+    "reference_id": "marc:2254d753872541dc76af",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Argentorati"
+          ],
+          [
+            "b",
+            "Ex Aedibvs Matthiæ Schvrerii"
+          ],
+          [
+            "c",
+            "An. M. D. XV."
+          ]
+        ]
+      }
+    ],
+    "source_008": "910826s1515    fr a     |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Argentorati"
+        ],
+        "date_labels": [
+          "An. M. D. XV."
+        ],
+        "year": 1515,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "910826s1515    fr a     |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Argentorati"
+              ],
+              [
+                "b",
+                "Ex Aedibvs Matthiæ Schvrerii"
+              ],
+              [
+                "c",
+                "An. M. D. XV."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Strasbourg",
+        "coordinates": {
+          "latitude": 48.58392,
+          "longitude": 7.74553
+        },
+        "coordinate_source": {
+          "name": "Strasbourg",
+          "latitude": 48.58392,
+          "longitude": 7.74553,
+          "authority": "GeoNames",
+          "authority_id": "2973783",
+          "source_url": "https://www.geonames.org/2973783",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1833,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Donation von Johann Caspar von Orelli an die Stadtbibliothek Zürich 1833",
+        "evidence": [
+          {
+            "record_id": "991001157179705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Donation von Johann Caspar von Orelli an die Stadtbibliothek Zürich 1833, mit dessen hs. Besitzvermerk auf dem Vorsatzblatt"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (4.168)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "4.168"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1833"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991002964399705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,10",
+    "title": [
+      "Comedia Poliscene"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991002964399705501",
+    "reference_id": "marc:e09c8757e60006be71fb",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singrenium [u. Leonardus Alantse]"
+          ],
+          [
+            "c",
+            "Anno Domini.M.D.XVI."
+          ]
+        ]
+      }
+    ],
+    "source_008": "981202s1516    au       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Impressum Viennæ Austriæ"
+        ],
+        "date_labels": [
+          "Anno Domini.M.D.XVI."
+        ],
+        "year": 1516,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "981202s1516    au       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Impressum Viennæ Austriæ"
+              ],
+              [
+                "b",
+                "per Ioannem Singrenium [u. Leonardus Alantse]"
+              ],
+              [
+                "c",
+                "Anno Domini.M.D.XVI."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991002964399705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,10"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991003918909705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.319",
+    "title": [
+      "Hermanni Bvschii Pasiphili Vallum humanitatis"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991003918909705501",
+    "reference_id": "marc:857011a291ba65a9d659",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Coloniae"
+          ],
+          [
+            "b",
+            "Impressum per Nicolaum Cæsarem Fra[n]cum"
+          ],
+          [
+            "c",
+            "Anno Christi incarnati. M.D.XVIII. pridie Idus Aprileis"
+          ]
+        ]
+      }
+    ],
+    "source_008": "030618s1518    gw            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Coloniae"
+        ],
+        "date_labels": [
+          "Anno Christi incarnati. M.D.XVIII. pridie Idus Aprileis"
+        ],
+        "year": 1518,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "030618s1518    gw            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Coloniae"
+              ],
+              [
+                "b",
+                "Impressum per Nicolaum Cæsarem Fra[n]cum"
+              ],
+              [
+                "c",
+                "Anno Christi incarnati. M.D.XVIII. pridie Idus Aprileis"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Cologne",
+        "coordinates": {
+          "latitude": 50.93333,
+          "longitude": 6.95
+        },
+        "coordinate_source": {
+          "name": "Cologne",
+          "latitude": 50.93333,
+          "longitude": 6.95,
+          "authority": "GeoNames",
+          "authority_id": "2886242",
+          "source_url": "https://www.geonames.org/2886242",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1834,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1834 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991003918909705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1834 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (4.319)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "4.319"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1834"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991004254279705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1325,2",
+    "title": [
+      "Supplication des Pfarrers/ unnd der Pfarrkinder zuo sant Thoman/ aim Ersamen Radt zuo Straßburg/ vberantwort etc"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991004254279705501",
+    "reference_id": "marc:d56d8657cac4ce9076b8",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Philipp Ulhart d. Ä.]"
+          ],
+          [
+            "c",
+            "M. D. xxiiii"
+          ]
+        ]
+      }
+    ],
+    "source_008": "100520s1524    sz            00| | ger  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Augsburg]"
+        ],
+        "date_labels": [
+          "M. D. xxiiii"
+        ],
+        "year": 1524,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "100520s1524    sz            00| | ger  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Augsburg]"
+              ],
+              [
+                "b",
+                "[Philipp Ulhart d. Ä.]"
+              ],
+              [
+                "c",
+                "M. D. xxiiii"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Augsburg",
+        "coordinates": {
+          "latitude": 48.37154,
+          "longitude": 10.89851
+        },
+        "coordinate_source": {
+          "name": "Augsburg",
+          "latitude": 48.37154,
+          "longitude": 10.89851,
+          "authority": "GeoNames",
+          "authority_id": "2954172",
+          "source_url": "https://www.geonames.org/2954172",
+          "coordinate_basis": "Reused MEI place: 02129764-p001-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1870,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "city_donation_after_name",
+        "matched_text": "Der Stadtbibliothek in Zürich geschenkt von den Brüdern Herrn Präsident Heinrich u. Herrn Dr. Felix Weidmann aus Niederweningen. 1870",
+        "evidence": [
+          {
+            "record_id": "991004254279705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Eingeklebt im Buchspiegel des Sammelbandes: \"Der Stadtbibliothek in Zürich geschenkt von den Brüdern Herrn Präsident Heinrich u. Herrn Dr. Felix Weidmann aus Niederweningen. 1870.\""
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "18.1325,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1870"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991005215189705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.430",
+    "title": [
+      "In Caru[m] Lucretiu[m] poeta[m] Co[m]mentarii: codice Lucretiano dilige[n]ter eme[n]dato: nodis o[mn]ibus et difficultatibus apertis: obiter ex diuersis auctoribus tu[m] grecis tu[m] latinis multa leges enucleata : que superior etas aut tacuit aut ignorauit"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991005215189705501",
+    "reference_id": "marc:a14425620cfa875ea9a1",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Bononiæ"
+          ],
+          [
+            "b",
+            "typis excussoriis editu[m] in ergasterio Hieronymi Baptistæ de Benedictis Platonici Bononie[n]sis"
+          ],
+          [
+            "c",
+            "Anno Domini 1511 kal. Maii"
+          ]
+        ]
+      }
+    ],
+    "source_008": "081002s1511    it            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Bononiæ"
+        ],
+        "date_labels": [
+          "Anno Domini 1511 kal. Maii"
+        ],
+        "year": 1511,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "081002s1511    it            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Bononiæ"
+              ],
+              [
+                "b",
+                "typis excussoriis editu[m] in ergasterio Hieronymi Baptistæ de Benedictis Platonici Bononie[n]sis"
+              ],
+              [
+                "c",
+                "Anno Domini 1511 kal. Maii"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Bologna",
+        "coordinates": {
+          "latitude": 44.46667,
+          "longitude": 11.43333
+        },
+        "coordinate_source": {
+          "name": "Bologna",
+          "latitude": 44.46667,
+          "longitude": 11.43333,
+          "authority": "GeoNames",
+          "authority_id": "3181927",
+          "source_url": "https://www.geonames.org/3181927",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1839,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1839 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991005215189705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1839 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, mit desssen hs. Besitz- sowie Schenkungsvermerk (datiert 13. Febr. 1839) auf dem vord. Vorsatzblatt"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (4.430)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "4.430"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1839",
+              "1839"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991016221469705501",
+    "institution_code": "Z06",
+    "shelfmark": "Zwingli 113: c.1",
+    "title": [
+      "Antwurten so ain Burgermaister, Radt und der Gross Rat, die man nempt die zway hundert der Stat Zürich, iren getrewen lieben Eydgnossen, der aylff Orten über etlich Artickel inen Inhalt ainer Instruction fürgehalten geben habent"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991016221469705501",
+    "reference_id": "marc:4c796c631206dd58532b",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Augsburg]"
+          ],
+          [
+            "b",
+            "[Heinrich Steiner]"
+          ],
+          [
+            "c",
+            "[1524]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "980210s1524    gw            00| | ger|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Augsburg]"
+        ],
+        "date_labels": [
+          "[1524]"
+        ],
+        "year": 1524,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "980210s1524    gw            00| | ger|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Augsburg]"
+              ],
+              [
+                "b",
+                "[Heinrich Steiner]"
+              ],
+              [
+                "c",
+                "[1524]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Augsburg",
+        "coordinates": {
+          "latitude": 48.37154,
+          "longitude": 10.89851
+        },
+        "coordinate_source": {
+          "name": "Augsburg",
+          "latitude": 48.37154,
+          "longitude": 10.89851,
+          "authority": "GeoNames",
+          "authority_id": "2954172",
+          "source_url": "https://www.geonames.org/2954172",
+          "coordinate_basis": "Reused MEI place: 02129764-p001-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1909,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "city_donation_after_name",
+        "matched_text": "Der Stadtbibliothek Zürich geschenkt aus dem Nachlass des Herrn Prof. J. Egli, 1909",
+        "evidence": [
+          {
+            "record_id": "991016221469705501",
+            "tag": "590",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Schenkungsvermerk auf dem vorderen Buchspiegel: \"Der Stadtbibliothek Zürich geschenkt aus dem Nachlass des Herrn Prof. J. Egli, 1909\""
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "Zwingli 113: c.1"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1909"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991017562449705501",
+    "institution_code": "Z06",
+    "shelfmark": "IV S 54 | G",
+    "title": [
+      "Beati et venerabilis Simonis de Cassia, sacri ordinis eremitarum Aurelii Augustini, eximii et preclarissimi quondam professoris, De religione christiana"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991017562449705501",
+    "reference_id": "marc:1b8016ef7c68c44b0600",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basileae"
+          ],
+          [
+            "b",
+            "ex aedibus Adae Petri de Langendorff"
+          ],
+          [
+            "c",
+            "anno 1517"
+          ]
+        ]
+      }
+    ],
+    "source_008": "041119s1517    sz            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Basileae"
+        ],
+        "date_labels": [
+          "anno 1517"
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "041119s1517    sz            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Basileae"
+              ],
+              [
+                "b",
+                "ex aedibus Adae Petri de Langendorff"
+              ],
+              [
+                "c",
+                "anno 1517"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Basel",
+        "coordinates": {
+          "latitude": 47.55839,
+          "longitude": 7.57327
+        },
+        "coordinate_source": {
+          "name": "Basel",
+          "latitude": 47.55839,
+          "longitude": 7.57327,
+          "authority": "GeoNames",
+          "authority_id": "2661604",
+          "source_url": "https://www.geonames.org/2661604",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1540,
+        "date_certainty": "circa",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Bibliothek des Grossmünsterstifts Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "pellikan_donation_circa",
+        "matched_text": "Von Konrad Pellikan um 1540 der Bibliothek des Grossmünsterstifts geschenkt",
+        "evidence": [
+          {
+            "record_id": "991017562449705501",
+            "tag": "590",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Schweinsledereinband der Zeit. Rubriziert. Mit hs. Annotationen. Von Konrad Pellikan um 1540 der Bibliothek des Grossmünsterstifts geschenkt"
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "IV S 54 | G"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1540"
+            ],
+            "place_tokens_not_stations": [],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991019857919705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.305",
+    "title": [
+      "C. Plinii Secvndi Novocomensis epistolaru[m] libri Decem in quibus multæ habentur epistolæ non ante impressæ ... Item fragmentatæ epistolæ, integræ factæ. In medio etiam epistolæ libri octaui de Clitumno fonte non solum uertici calx additus, et calci uertex, sed decem quoq[ue] epistolæ interpositæ ..."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991019857919705501",
+    "reference_id": "marc:6b8e90130a50f0336b9b",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Venetiis"
+          ],
+          [
+            "b",
+            "In Aedib. Aldi, Et Andreæ Asulani soceri,"
+          ],
+          [
+            "c",
+            "Me[n]se Nouembri M D VIII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "940315s1508    it       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Venetiis"
+        ],
+        "date_labels": [
+          "Me[n]se Nouembri M D VIII."
+        ],
+        "year": 1508,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "940315s1508    it       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Venetiis"
+              ],
+              [
+                "b",
+                "In Aedib. Aldi, Et Andreæ Asulani soceri,"
+              ],
+              [
+                "c",
+                "Me[n]se Nouembri M D VIII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Venice",
+        "coordinates": {
+          "latitude": 45.43713,
+          "longitude": 12.33265
+        },
+        "coordinate_source": {
+          "name": "Venice",
+          "latitude": 45.43713,
+          "longitude": 12.33265,
+          "authority": "GeoNames",
+          "authority_id": "3164603",
+          "source_url": "https://www.geonames.org/3164603",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1839,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1839 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991019857919705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1839 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, mit dessen hs. Schenkungsvermerk auf dem vord. Vorsatzblatt."
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (4.305)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "4.305"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1839"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991033520429705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,7",
+    "title": [
+      "Ioachimi Vadiani Helvetii, Aegloga, cui titulus. Favstvs"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991033520429705501",
+    "reference_id": "marc:f5d729057fe87ce8160d",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennae Austriae"
+          ],
+          [
+            "b",
+            "per Ioannem Singreniu[m]. Expe[n]sis uero Ioa[n]nis Meczker"
+          ],
+          [
+            "c",
+            "Anno d[omin]i. M.D.XVII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "081007s1517    au       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Impressum Viennae Austriae"
+        ],
+        "date_labels": [
+          "Anno d[omin]i. M.D.XVII."
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "081007s1517    au       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Impressum Viennae Austriae"
+              ],
+              [
+                "b",
+                "per Ioannem Singreniu[m]. Expe[n]sis uero Ioa[n]nis Meczker"
+              ],
+              [
+                "c",
+                "Anno d[omin]i. M.D.XVII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991033520429705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,7"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991034439269705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1325,8",
+    "title": [
+      "Geduoltigkait"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991034439269705501",
+    "reference_id": "marc:79426372a8e5a3ad1d2c",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Getruockt zu Oppenheym"
+          ],
+          [
+            "b",
+            "[Jakob Köbel]"
+          ],
+          [
+            "c",
+            "nach Christi geburt: feünffzehenhundert/ vnnd XXII"
+          ]
+        ]
+      }
+    ],
+    "source_008": "981202s1522    gw       |||| 000 0 ger|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Getruockt zu Oppenheym"
+        ],
+        "date_labels": [
+          "nach Christi geburt: feünffzehenhundert/ vnnd XXII"
+        ],
+        "year": 1522,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "981202s1522    gw       |||| 000 0 ger|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Getruockt zu Oppenheym"
+              ],
+              [
+                "b",
+                "[Jakob Köbel]"
+              ],
+              [
+                "c",
+                "nach Christi geburt: feünffzehenhundert/ vnnd XXII"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Oppenheim",
+        "coordinates": {
+          "latitude": 49.8581,
+          "longitude": 8.3678
+        },
+        "coordinate_source": {
+          "name": "Oppenheim",
+          "latitude": 49.8581,
+          "longitude": 8.3678,
+          "authority": "Getty TGN",
+          "authority_id": "7012639",
+          "source_url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7012639",
+          "coordinate_basis": "Getty TGN inhabited-place point, checked 2026-10-24"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1870,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "city_donation_after_name",
+        "matched_text": "Der Stadtbibliothek in Zürich geschenkt von den Brüdern Herrn Präsident Heinrich u. Herrn Dr. Felix Weidmann aus Niederweningen. 1870",
+        "evidence": [
+          {
+            "record_id": "991034439269705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Eingeklebt im Buchspiegel des Sammelbandes: \"Der Stadtbibliothek in Zürich geschenkt von den Brüdern Herrn Präsident Heinrich u. Herrn Dr. Felix Weidmann aus Niederweningen. 1870.\""
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "18.1325,8"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1870"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991036804229705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,4",
+    "title": [
+      "Ioannis Ioviani Pontani, Poeta Divini, Ad L. Franciscvm Filivm, Meteororvm Liber ..."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991036804229705501",
+    "reference_id": "marc:ea1c7159c2b216e7239a",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singrenium"
+          ],
+          [
+            "c",
+            "Anno Domini M.D.XVII"
+          ]
+        ]
+      }
+    ],
+    "source_008": "990731s1517    au ||||| |||| 00| ||lat d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Impressum Viennæ Austriæ"
+        ],
+        "date_labels": [
+          "Anno Domini M.D.XVII"
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "990731s1517    au ||||| |||| 00| ||lat d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Impressum Viennæ Austriæ"
+              ],
+              [
+                "b",
+                "per Ioannem Singrenium"
+              ],
+              [
+                "c",
+                "Anno Domini M.D.XVII"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991036804229705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Sum adriani xenodochus stam[m]ensis.\") sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,4"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991049583699705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,2",
+    "title": [
+      "<<Habes lector: hoc libello.>> Rvdolphi Agricolae Ivnioris Rheti, Ad Ioachimum Vadianum Heleutiu[m] Poeta[m] Laureatu[m], Epistolam, qua de locor[um] non nullorum obscuritate quæstio sit & percontatio"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991049583699705501",
+    "reference_id": "marc:553d96916296e784d64b",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Viennae"
+          ],
+          [
+            "b",
+            "Haec ... Singrenius iam primum emissa Ioannes Scripta Typis pressit, ..."
+          ],
+          [
+            "c",
+            "Anno.M.D.XV."
+          ]
+        ]
+      }
+    ],
+    "source_008": "890407s1515    au       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Viennae"
+        ],
+        "date_labels": [
+          "Anno.M.D.XV."
+        ],
+        "year": 1515,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "890407s1515    au       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Viennae"
+              ],
+              [
+                "b",
+                "Haec ... Singrenius iam primum emissa Ioannes Scripta Typis pressit, ..."
+              ],
+              [
+                "c",
+                "Anno.M.D.XV."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991049583699705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Adriani Hosp.\"), Schenkungsvermerk Joachim Vadians an Wirth (\"Donavit me ipso libro Joachimus uadianus ... 1517\"), sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780",
+              "1517"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991051825899705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal St 561,4",
+    "title": [
+      "Ex Lvciano Qvaedam Iam recens traducta."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991051825899705501",
+    "reference_id": "marc:86ac5a6f9a3f07116f8a",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Excusum Argentorati"
+          ],
+          [
+            "b",
+            "typis solertis uiri Ioannis Knoblouch"
+          ],
+          [
+            "c",
+            "M.D.XVII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "001001s1517    fr            00| | lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Excusum Argentorati"
+        ],
+        "date_labels": [
+          "M.D.XVII."
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "001001s1517    fr            00| | lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Excusum Argentorati"
+              ],
+              [
+                "b",
+                "typis solertis uiri Ioannis Knoblouch"
+              ],
+              [
+                "c",
+                "M.D.XVII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Strasbourg",
+        "coordinates": {
+          "latitude": 48.58392,
+          "longitude": 7.74553
+        },
+        "coordinate_source": {
+          "name": "Strasbourg",
+          "latitude": 48.58392,
+          "longitude": 7.74553,
+          "authority": "GeoNames",
+          "authority_id": "2973783",
+          "source_url": "https://www.geonames.org/2973783",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1832,
+        "date_certainty": "probable",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte vermutlich 1832 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991051825899705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Zahlreiche handschr. Unterstreichungen von unbekannter Hand, einzelne Anmerkungen Bl. A2r und A3r. Gelangte vermutlich 1832 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich - wie die anderen beigebundenen Werke"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (Gal St 561,4)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "Gal St 561,4"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1832"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": true
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991056886619705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,8",
+    "title": [
+      "A. Flacci Persii Satyrarvm Opvs"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991056886619705501",
+    "reference_id": "marc:84d27ef89d6aecb6a971",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Viennæ Pannoniæ"
+          ],
+          [
+            "b",
+            "[Hieronymus Vietor u. Johann Singriener]"
+          ],
+          [
+            "c",
+            "M.D.XI."
+          ]
+        ]
+      }
+    ],
+    "source_008": "040826s1511    au       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Viennæ Pannoniæ"
+        ],
+        "date_labels": [
+          "M.D.XI."
+        ],
+        "year": 1511,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "040826s1511    au       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Viennæ Pannoniæ"
+              ],
+              [
+                "b",
+                "[Hieronymus Vietor u. Johann Singriener]"
+              ],
+              [
+                "c",
+                "M.D.XI."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991056886619705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Schenkungsvermerk (Herkules Göldli an Andrian Wirth) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,8"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991063096409705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.141,2",
+    "title": [
+      "Gregoriana super nouum testamentum. Ex operibus beati Gregorij gloriosissimi pape [et] [con]fessoris: insigne piu[m] ac religiosu[m] exceptionu[m] opus super nouu[m] testamentu[m] ab Alulpho egregio monastice p[ro]fessio[n]is diui B[e]n[e]dicti viro (cuius fuit [et] diu[us] Gregori[us]) collectu[m]: nun[quam] antea typis excusum. ..."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991063096409705501",
+    "reference_id": "marc:525cb1916b19196cbe5a",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Parisijs"
+          ],
+          [
+            "b",
+            "pressit Bertholdus Rembolt"
+          ],
+          [
+            "c",
+            "M. D. xvj."
+          ]
+        ]
+      }
+    ],
+    "source_008": "981202s1516    fr       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Parisijs"
+        ],
+        "date_labels": [
+          "M. D. xvj."
+        ],
+        "year": 1516,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "981202s1516    fr       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Parisijs"
+              ],
+              [
+                "b",
+                "pressit Bertholdus Rembolt"
+              ],
+              [
+                "c",
+                "M. D. xvj."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Paris",
+        "coordinates": {
+          "latitude": 48.85341,
+          "longitude": 2.3488
+        },
+        "coordinate_source": {
+          "name": "Paris",
+          "latitude": 48.85341,
+          "longitude": 2.3488,
+          "authority": "GeoNames",
+          "authority_id": "2988507",
+          "source_url": "https://www.geonames.org/2988507",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1769,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk an die Stadtbibliothek Zürich (1769",
+        "evidence": [
+          {
+            "record_id": "991063096409705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gesamter Band aus dem Besitz von Johann Conrad Heidegger (1740), von ihm als Geschenk an die Stadtbibliothek Zürich (1769)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.141,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1740",
+              "1769"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991068079039705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal St 561,3",
+    "title": [
+      "Higinii hystoriographi et phylosophi argutissimi libri quattuor non solum poeticas & hystoricas verum et astronomicas"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991068079039705501",
+    "reference_id": "marc:279063dd4c5d8c1de18c",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Parrhisijs]"
+          ],
+          [
+            "b",
+            "Pasquier Lambert"
+          ],
+          [
+            "c",
+            "[pridie Kal. septembris M. D. XVII.]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "040122s1517    fr            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Parrhisijs]"
+        ],
+        "date_labels": [
+          "[pridie Kal. septembris M. D. XVII.]"
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "040122s1517    fr            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Parrhisijs]"
+              ],
+              [
+                "b",
+                "Pasquier Lambert"
+              ],
+              [
+                "c",
+                "[pridie Kal. septembris M. D. XVII.]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Paris",
+        "coordinates": {
+          "latitude": 48.85341,
+          "longitude": 2.3488
+        },
+        "coordinate_source": {
+          "name": "Paris",
+          "latitude": 48.85341,
+          "longitude": 2.3488,
+          "authority": "GeoNames",
+          "authority_id": "2988507",
+          "source_url": "https://www.geonames.org/2988507",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1832,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1832 in einem Sammelband als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991068079039705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1832 in einem Sammelband als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (Gal St 561,3)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "Gal St 561,3"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1832"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991075363949705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.88",
+    "title": [
+      "C. Plinij. Secundi. Veronensis historiae naturalis Libri xxxvij. aptissimis figuris exculti ab Alexa[n]dro Benedicto Ve. physico emendatiores redditi."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991075363949705501",
+    "reference_id": "marc:97cc7db32d7691d68c55",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressus Venetiis"
+          ],
+          [
+            "b",
+            "per Melchiorem Sessam"
+          ],
+          [
+            "c",
+            "M. D. XIII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "040827s1513    it            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Impressus Venetiis"
+        ],
+        "date_labels": [
+          "M. D. XIII."
+        ],
+        "year": 1513,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "040827s1513    it            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Impressus Venetiis"
+              ],
+              [
+                "b",
+                "per Melchiorem Sessam"
+              ],
+              [
+                "c",
+                "M. D. XIII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Venice",
+        "coordinates": {
+          "latitude": 45.43713,
+          "longitude": 12.33265
+        },
+        "coordinate_source": {
+          "name": "Venice",
+          "latitude": 45.43713,
+          "longitude": 12.33265,
+          "authority": "GeoNames",
+          "authority_id": "3164603",
+          "source_url": "https://www.geonames.org/3164603",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1769,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk an die Stadtbibliothek Zürich (1769",
+        "evidence": [
+          {
+            "record_id": "991075363949705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Aus dem Vorbesitz von Johann Conrad Heidegger als Geschenk an die Stadtbibliothek Zürich (1769)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.88"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1769"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991077419919705501",
+    "institution_code": "Z06",
+    "shelfmark": "18.1991",
+    "title": [
+      "<<Ein>> nüwes/ fast hüpsch/ vnd nutzliches Pflantzbuochlin/ Von mancherley artiger Pflantzunge[n]/ Jmpffu[n]g vnd Beltzung der böum"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991077419919705501",
+    "reference_id": "marc:edf04322a2286e155f8d",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Basel]"
+          ],
+          [
+            "b",
+            "[Adam Petri]"
+          ],
+          [
+            "c",
+            "[frühestens 1523]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "090217s1523    sz            00| | ger  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Basel]"
+        ],
+        "date_labels": [
+          "[frühestens 1523]"
+        ],
+        "year": 1523,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "090217s1523    sz            00| | ger  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Basel]"
+              ],
+              [
+                "b",
+                "[Adam Petri]"
+              ],
+              [
+                "c",
+                "[frühestens 1523]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Basel",
+        "coordinates": {
+          "latitude": 47.55839,
+          "longitude": 7.57327
+        },
+        "coordinate_source": {
+          "name": "Basel",
+          "latitude": 47.55839,
+          "longitude": 7.57327,
+          "authority": "GeoNames",
+          "authority_id": "2661604",
+          "source_url": "https://www.geonames.org/2661604",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1870,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk von Heinrich und Felix Weidmann, Niederweningen, an die Stadtbibliothek Zürich, 1870",
+        "evidence": [
+          {
+            "record_id": "991077419919705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Geschenk von Heinrich und Felix Weidmann, Niederweningen, an die Stadtbibliothek Zürich, 1870"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "18.1991"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1870"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991087357919705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,5",
+    "title": [
+      "Casparis Vrsini Velii/ Silesii Epistolarum & Epigrammatum liber"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991087357919705501",
+    "reference_id": "marc:25e3c854f31574fe9c12",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Impressum Viennæ Austriæ"
+          ],
+          [
+            "b",
+            "per Ioannem Singreniu[m]. Expensis uero honesti uiri Meczker"
+          ],
+          [
+            "c",
+            "[1517]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "940623s1517    au       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Impressum Viennæ Austriæ"
+        ],
+        "date_labels": [
+          "[1517]"
+        ],
+        "year": 1517,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "940623s1517    au       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Impressum Viennæ Austriæ"
+              ],
+              [
+                "b",
+                "per Ioannem Singreniu[m]. Expensis uero honesti uiri Meczker"
+              ],
+              [
+                "c",
+                "[1517]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991087357919705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris \"A. V. X.\" (Andran Wirth?) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,5"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": true
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991099994769705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.141",
+    "title": [
+      "Homelie quadragi[n]ta beati Gregorij pape de diuersis lectionibus euangelij: nu[n]c primu[m] diligenter castigate: et in marginibus annotate. cum duab[us] tabulis predica[n]tibus ad modum vtilibus."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991099994769705501",
+    "reference_id": "marc:6e7600149401860a1a02",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Venundantur parrhisijs"
+          ],
+          [
+            "c",
+            "1518"
+          ]
+        ]
+      }
+    ],
+    "source_008": "031104s1518    fr            000 | lat d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Venundantur parrhisijs"
+        ],
+        "date_labels": [
+          "1518"
+        ],
+        "year": 1518,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "031104s1518    fr            000 | lat d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Venundantur parrhisijs"
+              ],
+              [
+                "c",
+                "1518"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Paris",
+        "coordinates": {
+          "latitude": 48.85341,
+          "longitude": 2.3488
+        },
+        "coordinate_source": {
+          "name": "Paris",
+          "latitude": 48.85341,
+          "longitude": 2.3488,
+          "authority": "GeoNames",
+          "authority_id": "2988507",
+          "source_url": "https://www.geonames.org/2988507",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1769,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk an die Stadtbibliothek Zürich (1769",
+        "evidence": [
+          {
+            "record_id": "991099994769705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gesamter Band aus dem Besitz von Johann Conrad Heidegger (1740), von ihm als Geschenk an die Stadtbibliothek Zürich (1769)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.141"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1740",
+              "1769"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991104391249705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b",
+    "title": [
+      "Pomponii Mflae Geographiæ, libri tres"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991104391249705501",
+    "reference_id": "marc:1a37f95490fe7fb58320",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Vienn Pannoniæ"
+          ],
+          [
+            "b",
+            "per Hieronymu[m] Vietorem Philouallem & Ioannem Singreniu[m] ... de Oeting"
+          ],
+          [
+            "c",
+            "Anno M.D.XII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "040618s1512    au            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Vienn Pannoniæ"
+        ],
+        "date_labels": [
+          "Anno M.D.XII."
+        ],
+        "year": 1512,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "040618s1512    au            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Vienn Pannoniæ"
+              ],
+              [
+                "b",
+                "per Hieronymu[m] Vietorem Philouallem & Ioannem Singreniu[m] ... de Oeting"
+              ],
+              [
+                "c",
+                "Anno M.D.XII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991104391249705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Verbalexlibris von Adrian Wirth (\"Adriani philoxeni stam[m]en.\") sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991107843419705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal St 561,2",
+    "title": [
+      "Pomponii Melae De Sitv Orbis, Libri Tres"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991107843419705501",
+    "reference_id": "marc:d73da6233a4f34703ef1",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Köln]"
+          ],
+          [
+            "b",
+            "[Eucharius Cervicornus & Hero Alopecius]"
+          ],
+          [
+            "c",
+            "[1520]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "990820s1520    gw       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Köln]"
+        ],
+        "date_labels": [
+          "[1520]"
+        ],
+        "year": 1520,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "990820s1520    gw       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Köln]"
+              ],
+              [
+                "b",
+                "[Eucharius Cervicornus & Hero Alopecius]"
+              ],
+              [
+                "c",
+                "[1520]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Cologne",
+        "coordinates": {
+          "latitude": 50.93333,
+          "longitude": 6.95
+        },
+        "coordinate_source": {
+          "name": "Cologne",
+          "latitude": 50.93333,
+          "longitude": 6.95,
+          "authority": "GeoNames",
+          "authority_id": "2886242",
+          "source_url": "https://www.geonames.org/2886242",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1832,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1832 in einem Sammelband als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991107843419705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1832 in einem Sammelband als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich. Mit etlichen hs. Randglossen"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (Gal St 561,2)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "Gal St 561,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1832"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991109699849705501",
+    "institution_code": "Z06",
+    "shelfmark": "WJ 137 | G",
+    "title": [
+      "Avli Gellii Noctivm Atticarvm Libri XIX"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991109699849705501",
+    "reference_id": "marc:c476eed0b5bbf8027ffe",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Ex inclyta Basilea"
+          ],
+          [
+            "b",
+            "[Andreas Cratander]"
+          ],
+          [
+            "c",
+            "[1519]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "990603s1519    sz            00| | lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Ex inclyta Basilea"
+        ],
+        "date_labels": [
+          "[1519]"
+        ],
+        "year": 1519,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "990603s1519    sz            00| | lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Ex inclyta Basilea"
+              ],
+              [
+                "b",
+                "[Andreas Cratander]"
+              ],
+              [
+                "c",
+                "[1519]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Basel",
+        "coordinates": {
+          "latitude": 47.55839,
+          "longitude": 7.57327
+        },
+        "coordinate_source": {
+          "name": "Basel",
+          "latitude": 47.55839,
+          "longitude": 7.57327,
+          "authority": "GeoNames",
+          "authority_id": "2661604",
+          "source_url": "https://www.geonames.org/2661604",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1889,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "city_donation_year_first",
+        "matched_text": "Der Stadtbibliothek Zürich 1889 letztwillentlich geschenkt",
+        "evidence": [
+          {
+            "record_id": "991109699849705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Der Stadtbibliothek Zürich 1889 letztwillentlich geschenkt von Prof. Dr. Salomon Vögelin"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "WJ 137 | G"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1889"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991113224639705501",
+    "institution_code": "Z06",
+    "shelfmark": "IV S 20-21 | G",
+    "title": [
+      "Prima [et secunda] pars Summe Alberthi magni, alias dicte de mirabili scientia dei"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991113224639705501",
+    "reference_id": "marc:c9de48ad6a21f68f7b22",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Basilee"
+          ],
+          [
+            "b",
+            "Ex officina Magistri Jacobi de Phortzheim"
+          ],
+          [
+            "c",
+            "1507"
+          ]
+        ]
+      }
+    ],
+    "source_008": "980402s1507    sz       |||| 001 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Basilee"
+        ],
+        "date_labels": [
+          "1507"
+        ],
+        "year": 1507,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "980402s1507    sz       |||| 001 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Basilee"
+              ],
+              [
+                "b",
+                "Ex officina Magistri Jacobi de Phortzheim"
+              ],
+              [
+                "c",
+                "1507"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Basel",
+        "coordinates": {
+          "latitude": 47.55839,
+          "longitude": 7.57327
+        },
+        "coordinate_source": {
+          "name": "Basel",
+          "latitude": 47.55839,
+          "longitude": 7.57327,
+          "authority": "GeoNames",
+          "authority_id": "2661604",
+          "source_url": "https://www.geonames.org/2661604",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1540,
+        "date_certainty": "circa",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Bibliothek des Grossmünsterstifts Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "pellikan_donation_circa",
+        "matched_text": "Von Konrad Pellikan um 1540 der Bibliothek des Grossmünsterstifts geschenkt",
+        "evidence": [
+          {
+            "record_id": "991113224639705501",
+            "tag": "590",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Schweinsledereinband der Zeit. Rubriziert. Von Konrad Pellikan um 1540 der Bibliothek des Grossmünsterstifts geschenkt. Directorium im ersten Band vorgebunden"
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "IV S 20-21 | G"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1540"
+            ],
+            "place_tokens_not_stations": [],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991125795149705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.147: b,9",
+    "title": [
+      "Ioachimi Vadiani Helvetii Mythicvm Syntagma, Cvi Titvlvs Gallvs Pvgnans ..."
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991125795149705501",
+    "reference_id": "marc:a688068555defba8e5a4",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Wien]"
+          ],
+          [
+            "b",
+            "Hieronymus Vietor, & Ioannes Singrenius, impresserunt Viennæ Austriæ"
+          ],
+          [
+            "c",
+            "ad tertiu[m] Eidvs Ianuarii. Anno. M.D.XIIII"
+          ]
+        ]
+      }
+    ],
+    "source_008": "040226s1514    au            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Wien]"
+        ],
+        "date_labels": [
+          "ad tertiu[m] Eidvs Ianuarii. Anno. M.D.XIIII"
+        ],
+        "year": 1514,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "040226s1514    au            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Wien]"
+              ],
+              [
+                "b",
+                "Hieronymus Vietor, & Ioannes Singrenius, impresserunt Viennæ Austriæ"
+              ],
+              [
+                "c",
+                "ad tertiu[m] Eidvs Ianuarii. Anno. M.D.XIIII"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Vienna",
+        "coordinates": {
+          "latitude": 48.20849,
+          "longitude": 16.37208
+        },
+        "coordinate_source": {
+          "name": "Vienna",
+          "latitude": 48.20849,
+          "longitude": 16.37208,
+          "authority": "GeoNames",
+          "authority_id": "2761369",
+          "source_url": "https://www.geonames.org/2761369",
+          "coordinate_basis": "Reused MEI place: 02149949-p003-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1780,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780",
+        "evidence": [
+          {
+            "record_id": "991125795149705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Im vorderen Spiegel Kaufvermerk von Adrian Wirth, dat. Wien 1517, sowie Schenkungsvermerk Caspar Orellis an die Stadtbibliothek Zürich, dat. 1780; auf dem Titelblatt Schenkungsvermerk (Herkules Göldli an Andrian Wirth) sowie hs. studentische Annotationen, verm. ebenfalls von Wirth."
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.147: b,9"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1517",
+              "1780"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991133177529705501",
+    "institution_code": "Z06",
+    "shelfmark": "WJ 137,2",
+    "title": [
+      "Macrobii Avrelii Theodosii Viri Consvlaris In Somnivm Scipionis Libri Duo: Et Septem Eivsdem Libri Satvrnaliorvm"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991133177529705501",
+    "reference_id": "marc:32027c4e00b15183ea6e",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Apvd Sanctam Coloniam"
+          ],
+          [
+            "b",
+            "[Eucharius Cervicornus]"
+          ],
+          [
+            "c",
+            "Anno M. D. XXI."
+          ]
+        ]
+      }
+    ],
+    "source_008": "990603s1521    gw            00| | lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Apvd Sanctam Coloniam"
+        ],
+        "date_labels": [
+          "Anno M. D. XXI."
+        ],
+        "year": 1521,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "990603s1521    gw            00| | lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Apvd Sanctam Coloniam"
+              ],
+              [
+                "b",
+                "[Eucharius Cervicornus]"
+              ],
+              [
+                "c",
+                "Anno M. D. XXI."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Cologne",
+        "coordinates": {
+          "latitude": 50.93333,
+          "longitude": 6.95
+        },
+        "coordinate_source": {
+          "name": "Cologne",
+          "latitude": 50.93333,
+          "longitude": 6.95,
+          "authority": "GeoNames",
+          "authority_id": "2886242",
+          "source_url": "https://www.geonames.org/2886242",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1889,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk von Prof. Dr. F. Sal. Vögelin an die Stadtbibliothek Zürich, 1889",
+        "evidence": [
+          {
+            "record_id": "991133177529705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Letzwilliges Geschenk von Prof. Dr. F. Sal. Vögelin an die Stadtbibliothek Zürich, 1889"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "WJ 137,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1889"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991137663829705501",
+    "institution_code": "Z06",
+    "shelfmark": "Heid 2514",
+    "title": [
+      "[Deuteronomion Mose]"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991137663829705501",
+    "reference_id": "marc:e322a55c26349c8c2642",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Wittembergae]"
+          ],
+          [
+            "b",
+            "[Hans Lufft]"
+          ],
+          [
+            "c",
+            "[1525]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "970717s1525    gw       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Wittembergae]"
+        ],
+        "date_labels": [
+          "[1525]"
+        ],
+        "year": 1525,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "970717s1525    gw       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Wittembergae]"
+              ],
+              [
+                "b",
+                "[Hans Lufft]"
+              ],
+              [
+                "c",
+                "[1525]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Wittenberg",
+        "coordinates": {
+          "latitude": 51.8661,
+          "longitude": 12.64973
+        },
+        "coordinate_source": {
+          "name": "Wittenberg",
+          "latitude": 51.8661,
+          "longitude": 12.64973,
+          "authority": "GeoNames",
+          "authority_id": "7303020",
+          "source_url": "https://www.geonames.org/7303020",
+          "coordinate_basis": "Reused MEI place: 02129637-p001-loc01"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1899,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "heidenheim_donation",
+        "matched_text": "Stadtbibliothek Zürich geschenkt von der Israelitischen Kultusgemeinde Zürich (1899)",
+        "evidence": [
+          {
+            "record_id": "991137663829705501",
+            "tag": "590",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Unvollständiges Exemplar: Bogen * (Titelblatt, Vorrede) fehlt; brauner Ledereinband der Zeit, blindgeprägt; aus dem Nachlass von Moritz Heidenheim der Stadtbibliothek Zürich geschenkt von der Israelitischen Kultusgemeinde Zürich (1899)"
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "Heid 2514"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1899"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991143400189705501",
+    "institution_code": "Z06",
+    "shelfmark": "Gal St 561",
+    "title": [
+      "Svbnotata Hic Continentvr Magni Athanasij in psalmos opusculum"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991143400189705501",
+    "reference_id": "marc:258079d8efdb1c49ef9d",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Strassburg]"
+          ],
+          [
+            "b",
+            "Mathias Schürerius artium doctor id libelli veluti primitias ex officina sua.. emisit."
+          ],
+          [
+            "c",
+            "Die viij.Iunij.Anno M.D.VIII."
+          ]
+        ]
+      }
+    ],
+    "source_008": "030611s1508    fr            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Strassburg]"
+        ],
+        "date_labels": [
+          "Die viij.Iunij.Anno M.D.VIII."
+        ],
+        "year": 1508,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "030611s1508    fr            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Strassburg]"
+              ],
+              [
+                "b",
+                "Mathias Schürerius artium doctor id libelli veluti primitias ex officina sua.. emisit."
+              ],
+              [
+                "c",
+                "Die viij.Iunij.Anno M.D.VIII."
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Strasbourg",
+        "coordinates": {
+          "latitude": 48.58392,
+          "longitude": 7.74553
+        },
+        "coordinate_source": {
+          "name": "Strasbourg",
+          "latitude": 48.58392,
+          "longitude": 7.74553,
+          "authority": "GeoNames",
+          "authority_id": "2973783",
+          "source_url": "https://www.geonames.org/2973783",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1832,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1832 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991143400189705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1832 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, mit dessen hs. Besitzvermerk von 1802 und Schenkungsvermerk im vord. Vorsatz. Weitere hs. Notizen auf dem Titelblatt, u.a. Henricus Silberbornus(?)"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (Gal St 561)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "Gal St 561"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1832",
+              "1802"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": true
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991144630579705501",
+    "institution_code": "Z06",
+    "shelfmark": "4.158",
+    "title": [
+      "C. Plinii Cecilii secundi epistolae cum panagyrico"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991144630579705501",
+    "reference_id": "marc:d466df49d0c11eb95176",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "[Mediolani]"
+          ],
+          [
+            "b",
+            "[Giovanni Giacomo Da Legnano & fratelli]"
+          ],
+          [
+            "c",
+            "[ca. 1518]"
+          ]
+        ]
+      }
+    ],
+    "source_008": "081030s1518    it       |||| 000 0 lat|d",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "[Mediolani]"
+        ],
+        "date_labels": [
+          "[ca. 1518]"
+        ],
+        "year": 1518,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "081030s1518    it       |||| 000 0 lat|d",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "[Mediolani]"
+              ],
+              [
+                "b",
+                "[Giovanni Giacomo Da Legnano & fratelli]"
+              ],
+              [
+                "c",
+                "[ca. 1518]"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Milan",
+        "coordinates": {
+          "latitude": 45.46427,
+          "longitude": 9.18951
+        },
+        "coordinate_source": {
+          "name": "Milan",
+          "latitude": 45.46427,
+          "longitude": 9.18951,
+          "authority": "GeoNames",
+          "authority_id": "3173435",
+          "source_url": "https://www.geonames.org/3173435",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1838,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "arrival_donation",
+        "matched_text": "Gelangte 1838 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich",
+        "evidence": [
+          {
+            "record_id": "991144630579705501",
+            "tag": "561",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Gelangte 1838 als Donation von Johann Kaspar von Orelli in den Besitz der Stadtbibliothek Zürich, mit dessen hs. Schenkungsvermerk auf dem vord. Vorsatzblatt. Zusätzlich Notiz zum Impressum"
+              ],
+              [
+                "5",
+                "Exemplar ZB Zürich (4.158)"
+              ]
+            ],
+            "evidence_kind": "catalogue_provenance_field_or_owner_role",
+            "assignment": "explicit",
+            "reason": "complete_shelfmark_in_same_field_scope",
+            "targets": [
+              [
+                "Z06",
+                "4.158"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1838"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991148876599705501",
+    "institution_code": "Z06",
+    "shelfmark": "H 39,2",
+    "title": [
+      "Tractatus de indiciis et tortura"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991148876599705501",
+    "reference_id": "marc:04bca336717ad24b614b",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Venetiis"
+          ],
+          [
+            "b",
+            "a Philippo Pincio Mantuano impressus"
+          ],
+          [
+            "c",
+            "1502, die VII. Septembris"
+          ]
+        ]
+      }
+    ],
+    "source_008": "131217s1502    it            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Venetiis"
+        ],
+        "date_labels": [
+          "1502, die VII. Septembris"
+        ],
+        "year": 1502,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "131217s1502    it            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Venetiis"
+              ],
+              [
+                "b",
+                "a Philippo Pincio Mantuano impressus"
+              ],
+              [
+                "c",
+                "1502, die VII. Septembris"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Venice",
+        "coordinates": {
+          "latitude": 45.43713,
+          "longitude": 12.33265
+        },
+        "coordinate_source": {
+          "name": "Venice",
+          "latitude": 45.43713,
+          "longitude": 12.33265,
+          "authority": "GeoNames",
+          "authority_id": "3164603",
+          "source_url": "https://www.geonames.org/3164603",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1630,
+        "date_certainty": "exact",
+        "event_kind": "donation_to_institution",
+        "owner_or_recipient": "Stadtbibliothek Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_city_donation",
+        "matched_text": "Geschenk des Rathauses der Stadt Zürich an die Stadtbibliothek Zürich 1630",
+        "evidence": [
+          {
+            "record_id": "991148876599705501",
+            "tag": "590",
+            "occurrence": 1,
+            "subfields": [
+              [
+                "a",
+                "Handschr. annotiert; Geschenk des Rathauses der Stadt Zürich an die Stadtbibliothek Zürich 1630 (vgl. Donationenbuch, S. VIII)"
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "H 39,2"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1630"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  },
+  {
+    "record_id": "991160325189705501",
+    "institution_code": "Z06",
+    "shelfmark": "2.104",
+    "title": [
+      "Elucidatio fabricae ususque astrolabii"
+    ],
+    "catalogue_url": "https://swisscollections.ch/Record/991160325189705501",
+    "reference_id": "marc:7dd5f291f5c64aa2f085",
+    "publication_source": [
+      {
+        "tag": "264",
+        "subfields": [
+          [
+            "a",
+            "Oppenheym"
+          ],
+          [
+            "b",
+            "[Jakob Köbel]"
+          ],
+          [
+            "c",
+            "1513"
+          ]
+        ]
+      }
+    ],
+    "source_008": "030729s1513    gw            00| | lat  ",
+    "review_flags": [],
+    "stations": [
+      {
+        "role": "publication",
+        "place_labels": [
+          "Oppenheym"
+        ],
+        "date_labels": [
+          "1513"
+        ],
+        "year": 1513,
+        "date_basis": "MARC 008 single-year code; original 260/264 wording retained",
+        "source_008": "030729s1513    gw            00| | lat  ",
+        "source_fields": [
+          {
+            "tag": "264",
+            "subfields": [
+              [
+                "a",
+                "Oppenheym"
+              ],
+              [
+                "b",
+                "[Jakob Köbel]"
+              ],
+              [
+                "c",
+                "1513"
+              ]
+            ]
+          }
+        ],
+        "date_certainty": "catalogue_year_not_independently_verified",
+        "normalised_place": "Oppenheim",
+        "coordinates": {
+          "latitude": 49.8581,
+          "longitude": 8.3678
+        },
+        "coordinate_source": {
+          "name": "Oppenheim",
+          "latitude": 49.8581,
+          "longitude": 8.3678,
+          "authority": "Getty TGN",
+          "authority_id": "7012639",
+          "source_url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7012639",
+          "coordinate_basis": "Getty TGN inhabited-place point, checked 2026-10-24"
+        }
+      },
+      {
+        "role": "historical_provenance",
+        "place": "Zürich",
+        "year": 1770,
+        "date_certainty": "exact",
+        "event_kind": "dedication_to_institution",
+        "owner_or_recipient": "Naturforschende Gesellschaft Zürich",
+        "place_basis": "named recipient institution in Zürich",
+        "rule_id": "dated_dedication",
+        "matched_text": "Widmung desselben an die Naturforschende Gesellschaft (Zürich), datiert: 1770",
+        "evidence": [
+          {
+            "record_id": "991160325189705501",
+            "tag": "590",
+            "occurrence": 2,
+            "subfields": [
+              [
+                "a",
+                "Halbledereinband, Marmorpapier (18. Jh.); aus dem Besitz von Johannes Gessner mit hs. Widmung desselben an die Naturforschende Gesellschaft (Zürich), datiert: 1770"
+              ]
+            ],
+            "evidence_kind": "lexical_note_candidate",
+            "assignment": "plausible",
+            "reason": "only_one_catalogue_reference_in_record",
+            "targets": [
+              [
+                "Z06",
+                "2.104"
+              ]
+            ],
+            "year_tokens_not_events": [
+              "1770"
+            ],
+            "place_tokens_not_stations": [
+              "Zürich"
+            ],
+            "uncertainty_word_present": false
+          }
+        ],
+        "scope_note": "A catalogue copy reference is not necessarily a separate physical volume. Binding or bound-with evidence is retained as stated in the original note.",
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      },
+      {
+        "role": "current_holding",
+        "place": "Zürich",
+        "institution": "Zentralbibliothek Zürich",
+        "observed_at": "2026-10-23",
+        "acquisition_date": null,
+        "normalised_place": "Zürich",
+        "coordinates": {
+          "latitude": 47.36667,
+          "longitude": 8.55
+        },
+        "coordinate_source": {
+          "name": "Zurich",
+          "latitude": 47.36667,
+          "longitude": 8.55,
+          "authority": "GeoNames",
+          "authority_id": "2657896",
+          "source_url": "https://www.geonames.org/2657896",
+          "coordinate_basis": "Reused existing project place authority"
+        }
+      }
+    ],
+    "mapping_issues": [],
+    "limits": [
+      "Selected anchors only, not a complete ownership history. Other dated and undated evidence is not erased.",
+      "Catalogue copy assignment may be plausible rather than explicit; original MARC evidence retained.",
+      "Event year precision and certainty are distinct from copy assignment and location confidence.",
+      "Current holding observation is not an acquisition date. No continuous residence is established.",
+      "Publication statements may describe publication or distribution, not a separately established printing location."
+    ]
+  }
+]

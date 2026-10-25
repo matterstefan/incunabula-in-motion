@@ -1,0 +1,19 @@
+{
+  "working_references": 5149,
+  "additional_event_candidates": 19,
+  "distinct_references": 19,
+  "references_already_in_first_pilot": 8,
+  "new_references": 11,
+  "places": {
+    "Lucerne": 2,
+    "Rheinau": 7,
+    "Vienna": 8,
+    "Zurich": 2
+  },
+  "status": "prepared_not_published",
+  "rules_sha256": "54ae88cc12ae280cb5a6e3d1549801da50759f9cd2216dac8e4c1b8a96196d01",
+  "input_sha256": {
+    "working-copy-references.json": "2d51f038eacaef20e3055b43d1878f4e29d0238c839d4116776bcabaae797912",
+    "provenance-assignments.json": "b1c6903012716da1b9cca820a08ea2a499cdf8d600d657e06fb5597d2bc9e85b"
+  }
+}

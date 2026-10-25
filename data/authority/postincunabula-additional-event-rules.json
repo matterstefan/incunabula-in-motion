@@ -1,0 +1,110 @@
+{
+  "status": "prepared_not_published",
+  "rules": [
+    {
+      "rule_id": "wirth_purchase_vienna",
+      "pattern": "Kaufvermerk von Adrian Wirth, dat\\. Wien (?P<year>1\\d{3})",
+      "place": "Vienna",
+      "owner": "Adrian Wirth",
+      "event_kind": "purchase_record"
+    },
+    {
+      "rule_id": "frey_gift_rheinau",
+      "pattern": "Schenkungsvermerk von Johann Beat Frey aus Baden an das Kloster Rheinau \\((?P<year>1\\d{3})\\)",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "donation_to_institution"
+    },
+    {
+      "rule_id": "rheinau_latin_inscription",
+      "pattern": "Sum Monasterij Rhenoviensis\\. (?P<year>1\\d{3})",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "rheinau_eberhard_inscription",
+      "pattern": "M\\[o\\]n\\[aster\\]ij Rhenoviensis Sub Abbate Eberhardo a\\. (?P<year>1\\d{3})",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "rheinau_eberhard_boundwith",
+      "pattern": "Kloster Rheinau unter Abt Eberhard \\((?P<year>1\\d{3})\\) mit hs\\. Eintrag auf dem Titelblatt des ersten Faszikels",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "ownership_inscription_on_bound_with_print"
+    },
+    {
+      "rule_id": "rheinau_dated_exlibris",
+      "pattern": "Verbalexlibris des Klosters Rheinau \\((?P<year>1\\d{3})\\)",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "rheinau_ab_ano",
+      "pattern": "Ab ano (?P<year>1\\d{3})\\. Sum Mon\\[aste\\]rij Rheinaw",
+      "place": "Rheinau",
+      "owner": "Kloster Rheinau",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "lucerne_jesuit_exlibris",
+      "pattern": "Verbalexlibris des Jesuitenkollegs Luzern \\((?P<year>1\\d{3})\\)",
+      "place": "Lucerne",
+      "owner": "Jesuitenkolleg Luzern",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "grossmuenster_exlibris",
+      "pattern": "Verbalexlibris der reformierten Stiftsbibliothek am Grossmünster Zürich auf dem Titelblatt \\((?P<year>1\\d{3})\\)",
+      "place": "Zurich",
+      "owner": "Stiftsbibliothek am Grossmünster Zürich",
+      "event_kind": "ownership_inscription"
+    },
+    {
+      "rule_id": "alumnat_exlibris",
+      "pattern": "Verbalexlibris der Bibliotheca Neoparthenia \\(Alumnatsbibliothek Zürich\\), (?P<year>1\\d{3})",
+      "place": "Zurich",
+      "owner": "Alumnatsbibliothek Zürich",
+      "event_kind": "ownership_inscription"
+    }
+  ],
+  "places": {
+    "Rheinau": {
+      "latitude": 47.63277,
+      "longitude": 8.60251,
+      "source_url": "https://www.geonames.org/11048417",
+      "authority_id": "11048417",
+      "basis": "Reused existing MEI place 00570263-p002-loc01"
+    },
+    "Lucerne": {
+      "latitude": 47.05048,
+      "longitude": 8.30635,
+      "source_url": "https://www.geonames.org/2659811",
+      "authority_id": "2659811",
+      "basis": "Reused existing MEI place 02129767-p002-loc01"
+    },
+    "Vienna": {
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "source_url": "https://www.geonames.org/2761369",
+      "authority_id": "2761369",
+      "basis": "Reused existing MEI place 02149949-p003-loc01"
+    },
+    "Zurich": {
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "source_url": "https://www.geonames.org/2657896",
+      "authority_id": "2657896",
+      "basis": "Existing project place authority current_holding-zurichzb"
+    }
+  },
+  "limits": [
+    "Only the stated inscription or transaction is dated; no institutional residence interval is inferred.",
+    "Wirth purchase date does not date the gift by Vadian or Goldli.",
+    "A bound-with inscription remains indirect evidence for a constituent print; the binding chronology is not established."
+  ]
+}
