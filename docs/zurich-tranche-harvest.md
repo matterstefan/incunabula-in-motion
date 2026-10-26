@@ -1,63 +1,72 @@
-# Automated Zurich date-tranche assessment
+# Zurich tranche harvest (collector version 4)
 
-## Purpose and change of direction
+## Current status: retrieval paused
 
-The question is how much usable provenance information the existing catalogue exposes automatically across larger Zurich populations. Manual owner research and collection-based location inference remain separate experiments. They are not used by this collector. The website and earlier datasets are unchanged.
+Further Swisscollections catalogue requests and workflow runs are paused pending technical guidance from Swisscollections. Existing partial files remain useful for testing extraction, but are not a complete or representative census. See the [retrieval log and analysis plan](zurich-sru-status-and-analysis-plan.md).
 
-Start with 1526–1550; subsequent runs can cover 1551–1575 and 1576–1600. A new 1501–1525 run is possible later to establish a directly comparable automated baseline, but is not required now. Earlier export-based counts and this SRU profile are not interchangeable without reconciliation.
+## Scope and units
 
-## Upload and run
+The collector queries `sc.possessingInstitution` for Z01–Z06 and an inclusive `dc.date` interval. Index matches can include manuscripts, reproductions and uncertain date ranges. Adjacent tranches may overlap.
 
-Copy the four package files to their matching repository paths, commit, and push. This is an additional package: keep the previously downloaded packages too; it does not replace them.
+A MARC 001 identifies a returned catalogue record. The derived profile additionally lists unique institution-code/shelfmark pairs from 852$b and 852$j. A reference is identified by record ID plus that pair; it is not automatically a distinct physical volume. Several references can share a record, and provenance in that record is not automatically attributable to every reference.
 
-Suggested commit: `Add resumable Swisscollections harvest for Zurich date tranches`
+## Workflow and resumption
 
-In GitHub select **Actions → Collect Zurich date tranche → Run workflow** on the branch containing the new workflow (normally main). Defaults:
+When retrieval is resumed by agreement, use the manually dispatched workflow in `.github/workflows/harvest-zurich-tranche.yml`. Inputs are start year, end year and snapshot label. Defaults are 1526, 1550 and 20261025. Do not start a run merely to test this documentation update.
 
-- First year: `1526`
-- Last year: `1550`
-- Snapshot: `20261025`
+The workflow restores cached pages for the same interval and snapshot label. It saves checkpoints and uploads the results artifact even after a failed collection step, where those steps can run. Artifacts are retained for 30 days. Download important results; workflow cache is not a permanent archive.
 
-No CERL secret is needed. The script uses Swisscollections, not MEI. It does not commit results or deploy the map. Download `zurich-tranche-1526-1550-20261025` from the completed run's Artifacts section.
+The collector:
+- requests 100 records per page, sequentially, with at least two seconds between request starts;
+- uses a 300-second request timeout and up to four attempts for transport errors;
+- advances by the number of returned rows, including duplicates;
+- deduplicates by MARC 001, retaining the first version;
+- records conflicting repeated versions and preserves the raw pages;
+- retains partial results on retrieval or parsing errors.
 
-Keep the same dates and snapshot label to resume an interrupted run. Completed pages are cached; they are not queried again. Change the label for a genuinely fresh snapshot. Cache eviction is possible: if no checkpoint survives, the workflow retrieves the pages again. Artifacts are retained for 30 days and should be downloaded.
+There is no 500-record-per-year selection limit. This implementation traverses up to the first 50,000 result positions for a query; larger result sets cannot be marked complete by this collector. The workflow allows 300 minutes for the collector and 350 minutes for the job, leaving time to save results. Neither limit establishes a recommended server load.
 
-## Retrieval and completeness
+Using the same snapshot label reuses valid cached pages. A new label starts a separate cache. Reused and newly fetched pages do not form an atomic snapshot.
 
-The query includes Z01–Z06, the institution codes used for the revised Zurich baseline. It uses a date-range query directly rather than a union of individual-year searches. This avoids silently dropping range-only matches. It does not add an unverified format or hierarchy filter: non-print records, reproductions and uncertain dates are retained and flagged for subsequent assessment.
+## Outputs
 
-SRU responses are requested sequentially in pages of 100 with at least two seconds between request starts. The collector checks MARC 001 uniqueness, SRU diagnostics, hit-count consistency, empty pages and the final count. Each checkpoint has its request URL and SHA-256 hash. A stable hit count cannot guarantee a fully atomic catalogue snapshot; this limitation remains explicit.
+Under `data/research/zurich-tranches/{start}-{end}-{snapshot}/`:
 
-Swisscollections documents a retrieval ceiling of 50,000 records. The script stops if the query exceeds it; choose a smaller date interval. It never treats the first 50,000 as a complete harvest.
+| File | Meaning |
+| --- | --- |
+| `request-v4.json` | Query, endpoint, schema, page size and collector version |
+| `pages/*.xml` | Successfully parsed MARC result pages |
+| `diagnostics-v4/*.xml` | Returned response bodies, including responses that fail parsing |
+| `retrieval-status.json` | Completeness checks, counts and any request error |
+| `duplicates.json` | Repeated record IDs |
+| `conflicting-records.json` | Repeated IDs with differing content |
+| `record-profile.json` | Relevant fields and catalogue references for retrieved records |
+| `summary.json` | Retrieval status, aggregate profile, page metadata and limitations |
+| `progress.json` | Progress/checkpoint information |
+| `failure.json` | Failure information, when an exception terminates the run |
 
-The retrieval has a five-hour process limit within a 350-minute job, leaving time to save checkpoints and upload partial results. A failed/partial run is not a completed dataset. `progress.json` and `summary.json` identify completion; `failure.json` records ordinary errors. Timeout may leave only the progress file. Do not run the older Swisscollections collector simultaneously with this one.
+A matching legacy `request.json` is accepted for cached pages. Responses lost before version 4 began preserving them cannot be recovered from a log alone.
 
-Documentation consulted 25 October 2026:
-https://ub-basel.atlassian.net/wiki/spaces/swisscollections/pages/1974370315/SRU-Schnittstelle
+## What “complete” means
 
-## Outputs and counting levels
+`complete: true` requires traversal to finish, stable reported totals, a matching number of distinct IDs, no conflicting repeats and no request error. Even then, count verification cannot prove an atomic catalogue snapshot.
 
-- `pages/*.xml`: original public SRU responses, including all MARC fields returned.
-- `request.json`: query configuration.
-- `progress.json`: checkpoint progress/completion.
-- `summary.json`: counts and limitations after a complete run.
-- `record-profile.json`: titles, ZB shelfmark references, publication fields, provenance/other note fields and scope subfields.
-- `failure.json`: error information when applicable.
+A transport or parsing failure saves the partial profile before the command exits with an error. Other incomplete or unverified results can finish with a warning and a successful exit code. **A green job does not establish complete coverage: read retrieval-status.json.**
 
-The initial profile reports records containing public 361/561, former-owner access points, owner authority identifiers and other candidate note fields. Tags 541, 563 and 590 are measured separately and do not by themselves establish historical provenance. Empty fields can contribute to field-presence counts; subsequent assessment must examine their content.
+## Initial profiling
 
-A catalogue reference is MARC 001 + institution + shelfmark. Several references can belong to one record. The count `references_in_records_with_core_provenance` is deliberately NOT a count of copies with assigned provenance: it indicates references in records containing such fields. Source fields and their $3/$5 scope qualifiers remain available for later attribution. An owner authority identifier does not establish a geographical station.
+Core provenance counts currently detect 361, 561, and former-owner entries in 700/710/711 identified by `fmo` or the supported role wording. These are record-level signals, not counts of verified provenance events or copies with geographic stations.
 
-Microform encodings, reproduction date type, out-of-range/uncertain first 008 dates, non-language-material coding and missing ZB shelfmarks are review flags, not deletions. Language material is not equivalent to an eligible original printed item. Overlap between adjacent date tranches is possible and must be measured using MARC IDs/reference keys before adding totals.
+The profile retains additional contextual fields and review flags. Reproduction, material-type, date and missing-shelfmark flags are not automatic exclusions. Fields 361/541/561 with first indicator 0 are omitted from the derived profile; raw responses are preserved. This is not a general publication/privacy audit of all fields and subfields.
 
-Private-indicator 361/541/561 are omitted from the derived profile; raw public endpoint responses are retained in the artifact. Do not publish the raw artifact indiscriminately. Public map data will be a separately prepared subset.
+No biographical location inference, collection-history rules or manual owner enrichment is applied.
 
-## Next automatic analysis
+## Offline verification
 
-After retrieval, establish the eligible reference population and field-to-reference attribution, using the same rules across tranches. Report separately: field presence, assignable provenance, directly supplied location evidence, usable dates and geolocatable stations. Preserve unresolved data and the reasons for non-use. Do not apply biographical or handbook enrichment to the automatic baseline. A low yield is a result, not a reason to silently expand the inference rules.
+Run:
 
-## Validation
+```sh
+python -m unittest discover -s tests -p test_zurich_tranche.py
+```
 
-Five offline tests cover all six institution codes, pagination and checkpoint resume, duplicate/changing counts, zero results/the retrieval ceiling, and separation of private fields and record/reference counts. No new live catalogue harvest was run in ChatGPT. The first GitHub run also serves as the live check of the combined range query.
-
-Run tests: `python -m unittest discover -s tests -p test_zurich_tranche.py`
+The eight tests cover institution scope, checkpoint resumption, duplicate pages, changing totals, empty/invalid responses, conflicting versions and the distinction between references and record-level provenance. They use synthetic XML and make no catalogue requests.

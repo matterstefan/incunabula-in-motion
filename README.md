@@ -39,3 +39,9 @@ The first map is available from the repository-root `index.html` once GitHub Pag
 is enabled. See [first-map.md](docs/first-map.md) for preparation, deployment and
 known limitations. The UI includes the timeline, connections, circles, heatmap,
 MEI subject/keyword filters, languages, printing places and saved selections.
+
+## Zurich MARC exploration
+
+A separate research strand examines how much provenance information can be reused automatically from Swisscollections MARC records for Zurich early printed holdings. It does not change the public MEI map. Further catalogue retrieval is currently paused pending technical guidance from Swisscollections.
+
+See the [version-4 harvest guide](docs/zurich-tranche-harvest.md) and the [retrieval status and next analysis plan](docs/zurich-sru-status-and-analysis-plan.md). Partial harvests must not be treated as complete collection inventories.
