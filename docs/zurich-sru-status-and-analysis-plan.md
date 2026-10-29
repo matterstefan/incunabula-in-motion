@@ -2,6 +2,10 @@
 
 Status recorded on 25 October 2026. Retrieval is paused pending guidance from Swisscollections. This document consolidates the troubleshooting history reported during development; it does not constitute a fresh audit of every earlier artifact.
 
+## Method update, 29 October 2026
+
+The agreed [catalogue-density and provenance rules](marc-erschliessungsdichte.md) refine the analysis below. The primary counting unit is the catalogue record (MARC 001), not the shelfmark reference or physical volume. Fields are read together; multi-volume copy groups are not treated as multiple copies merely because they have multiple shelfmarks. The next step is offline calibration of content-based density categories on contrasting records. Retrieval remains paused. Existing scripts and historical counts have not been migrated to these rules.
+
 ## Retrieval history
 
 | Attempt | Observation | Consequence |
@@ -28,11 +32,11 @@ Reference: [SRU documentation](https://ub-basel.atlassian.net/wiki/spaces/swissc
 
 The aim is to measure what existing catalogue data make reusable, rather than to assess overall cataloguing quality by whether a map can be drawn. Start with the existing post-incunabula material to develop the method; use a sufficiently complete wider tranche before drawing collection-wide conclusions.
 
-1. **Define the population.** Record query, dates, retrieval status, distinct MARC IDs, institution/shelfmark references, exclusions and unresolved cases. Keep records, references and verified physical copies distinct. Report denominators with every proportion.
+1. **Define the population.** Use distinct MARC 001 records as the analysis unit, with query, export date, retrieval status, exclusions and retained review cases documented. Keep older reference-based counts separate; volume counts are not required. State record denominators with every proportion.
 2. **Inventory meaningful content.** Count non-empty provenance notes, owner entries, identifiers, roles, dates, places and explicit reference links. Separate simple field presence from usable content. Preserve source field, indicators, subfields and original wording.
-3. **Assess attribution.** Distinguish provenance explicitly attached to a reference from record-level statements whose copy scope remains unresolved. Do not propagate a note to all shelfmarks simply because they share a record.
+3. **Read copy context.** Catalogue owner information remains usable for record-level analysis. Treat a described multi-volume copy group as a whole under the agreed working hypothesis, preserving the location of individual marks and explicit exceptions. Read 300, 852 and 949 together. Where genuinely separate copies occur, copy-specific attribution requires a clear owner–shelfmark link; do not mistake multiple volume shelfmarks for multiple copies.
 4. **Assess entities and relationships.** Count persons and institutions with usable authority identifiers, explicit ownership roles and repeat appearances. Name-only mentions remain separate from securely identified entities. Shared owners do not establish contact between people, transfers between collections or chronological order.
-5. **Assess temporal and geographic evidence separately.** Retain catalogue dates and places with uncertainty. An identified owner without a recorded place can still support a collection-history analysis. Do not invent locations or dates from biography.
+5. **Assess temporal and geographic evidence separately.** Retain catalogue dates and places with uncertainty. An identified owner without a recorded place can still support a collection-history analysis. Label any lifespan-based bounds on personal ownership as biographical inference, not as recorded ownership dates or continuous possession. Do not infer a print's location from an owner's biography alone.
 6. **Choose a demonstration from the results.** Depending on density and attribution, candidates include owner–copy networks, collection groupings, dated provenance sequences or geographic stations. A sparse map need not imply sparse historical information.
 
 ## Separate automatic reuse from enrichment

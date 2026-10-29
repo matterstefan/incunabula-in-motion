@@ -45,3 +45,5 @@ MEI subject/keyword filters, languages, printing places and saved selections.
 A separate research strand examines how much provenance information can be reused automatically from Swisscollections MARC records for Zurich early printed holdings. It does not change the public MEI map. Further catalogue retrieval is currently paused pending technical guidance from Swisscollections.
 
 See the [version-4 harvest guide](docs/zurich-tranche-harvest.md) and the [retrieval status and next analysis plan](docs/zurich-sru-status-and-analysis-plan.md). Partial harvests must not be treated as complete collection inventories.
+
+The current MARC analysis rules are documented in [Erschliessungsdichte und Provenienz](docs/marc-erschliessungsdichte.md) (29 October 2026): count catalogue records, read provenance fields together, and assess historical copy information beyond owner names or map-ready stations. These agreed rules have not yet been implemented in the existing scripts.
