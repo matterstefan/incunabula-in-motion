@@ -1,0 +1,62 @@
+name: Inventory Zurich catalogue records offline
+on:
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: Run containing the saved SRU artifact
+        default: '41628680684'
+        required: true
+        type: string
+      source_artifact_name:
+        description: Exact artifact name from that run
+        default: 'zurich-sru-PR-1551-1600-41628680684-1'
+        required: true
+        type: string
+permissions:
+  contents: read
+  actions: read
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Offline tests
+        run: python -m unittest discover -s tests -p test_catalogue_inventory.py
+      - uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ github.token }}
+          run-id: ${{ inputs.source_run_id }}
+          name: ${{ inputs.source_artifact_name }}
+          path: source-data
+      - name: Package input and run inventory without catalogue requests
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          with zipfile.ZipFile('source-artifact.zip', 'w', zipfile.ZIP_DEFLATED) as z:
+              for p in Path('source-data').rglob('*'):
+                  if p.is_file():
+                      z.write(p, p.relative_to('source-data'))
+          PY
+          python scripts/inventory_catalogue_records.py source-artifact.zip --output inventory
+      - name: Show record counts
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          s = json.loads(Path('inventory/summary.json').read_text())
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write(f"# Offline catalogue inventory\n\n{s['records']} distinct MARC records. No density classes assigned.\n\n")
+              f.write('| Metric | Records | Percent |\n| --- | ---: | ---: |\n')
+              for m in s['metrics']:
+                  f.write(f"| {m['label']} | {m['records']} | {m['percent']} |\n")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: catalogue-inventory-${{ inputs.source_run_id }}-${{ github.run_id }}
+          path: inventory
+          retention-days: 30
