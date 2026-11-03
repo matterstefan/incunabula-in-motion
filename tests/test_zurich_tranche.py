@@ -18,6 +18,23 @@ class TestTranche(unittest.TestCase):
             self.assertIn(f'Z{i:02}', q)
         self.assertIn('dc.date <= 1550', q)
 
+    def test_format_scope_is_optional_and_rejects_query_injection(self):
+        self.assertNotIn('dc.format', m.query_for(1551, 1600))
+        self.assertTrue(m.query_for(1551, 1600, 'PR').endswith('AND dc.format = PR'))
+        with self.assertRaises(ValueError):
+            m.query_for(1551, 1600, 'PR OR dc.anywhere = *')
+
+    def test_missing_last_record_preserves_empty_response(self):
+        with tempfile.TemporaryDirectory() as folder:
+            out = Path(folder)
+            responses = iter([page(3, ['a', 'b']), page(3, [])])
+            records, _, status = m.harvest(out, 'test', lambda _: next(responses))
+            self.assertEqual(len(records), 2)
+            self.assertFalse(status['complete'])
+            self.assertEqual(status['shortfall_against_reported_total'], 1)
+            self.assertEqual(status['request_error']['start_record'], 3)
+            self.assertTrue((out / 'diagnostics-v4/0000003.xml').exists())
+
     def test_resume_paginated_short_pages(self):
         with tempfile.TemporaryDirectory() as folder:
             out = Path(folder)

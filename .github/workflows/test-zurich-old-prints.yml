@@ -1,0 +1,68 @@
+name: Test Zurich old prints SRU
+on:
+  workflow_dispatch:
+    inputs:
+      start_year:
+        description: First year
+        required: true
+        default: '1551'
+        type: string
+      end_year:
+        description: Last year
+        required: true
+        default: '1600'
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: swisscollections-zurich-harvest
+  cancel-in-progress: false
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      START_YEAR: ${{ inputs.start_year }}
+      END_YEAR: ${{ inputs.end_year }}
+      OUTPUT_DIR: data/research/zurich-sru-test-${{ github.run_id }}-${{ github.run_attempt }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Offline collector tests
+        run: python -m unittest discover -s tests -p test_zurich_tranche.py
+      - name: Fresh SRU harvest (Z01-Z06, PR)
+        run: timeout --signal=INT --kill-after=60s 300m python -u scripts/collect_zurich_tranche.py --start "$START_YEAR" --end "$END_YEAR" --format PR --snapshot "run-${{ github.run_id }}-${{ github.run_attempt }}" --output "$OUTPUT_DIR"
+      - name: Report coverage
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          out = Path(os.environ['OUTPUT_DIR'])
+          status_file = out / 'retrieval-status.json'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('# Zurich SRU test\n\n')
+              f.write('Scope: Z01–Z06, dc.format = PR, inclusive dc.date comparisons.\n\n')
+              f.write('The web result count of 12,869 for 1551–1600 is a comparison only; filter equivalence is unresolved.\n\n')
+              if not status_file.exists():
+                  f.write('No final coverage status: interrupted or failed before completion. Inspect the saved partial files.\n')
+                  raise SystemExit(1)
+              status = json.loads(status_file.read_text())
+              f.write('| Check | Result |\n| --- | --- |\n')
+              for key in ['complete', 'reported_total_initial', 'rows_returned', 'distinct_records', 'duplicate_occurrences', 'conflicting_repeat_occurrences', 'shortfall_against_reported_total']:
+                  f.write(f'| {key} | {status.get(key)} |\n')
+              if status.get('request_error'):
+                  f.write('\nRequest error:\n\n' + json.dumps(status['request_error'], ensure_ascii=False) + '\n')
+              f.write('\nCounts are catalogue records, not physical volumes. Download the artifact within 30 days.\n')
+          if not status.get('complete'):
+              raise SystemExit('Coverage incomplete or unverified; partial results are retained.')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zurich-sru-PR-${{ inputs.start_year }}-${{ inputs.end_year }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ env.OUTPUT_DIR }}
+          retention-days: 30
+          if-no-files-found: warn

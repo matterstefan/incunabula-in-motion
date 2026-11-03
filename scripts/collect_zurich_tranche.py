@@ -26,9 +26,14 @@ def write(path, data):
 def save(path, value):
     write(path, (json.dumps(value, ensure_ascii=False, indent=2) + '\n').encode())
 
-def query_for(start, end):
+def query_for(start, end, format_code=None):
     scope = ' OR '.join(f'sc.possessingInstitution = {c}' for c in sorted(CODES))
-    return f'({scope}) AND dc.date >= {start} AND dc.date <= {end}'
+    query = f'({scope}) AND dc.date >= {start} AND dc.date <= {end}'
+    if format_code:
+        if not re.fullmatch(r'[A-Z]+', format_code):
+            raise ValueError('Use an uppercase alphabetic format code')
+        query += f' AND dc.format = {format_code}'
+    return query
 
 def parse_page(raw):
     tree = ET.fromstring(raw)
@@ -172,12 +177,13 @@ def main():
     p.add_argument('--end', type=int, default=1550)
     p.add_argument('--snapshot', default='20261025')
     p.add_argument('--output', type=Path)
+    p.add_argument('--format', dest='format_code', choices=['PR'], help='Restrict to SRU format PR; equivalence to the web facet is not established')
     a = p.parse_args()
     if not (1450 <= a.start <= a.end <= 1900) or not re.fullmatch(r'[A-Za-z0-9_-]{1,40}', a.snapshot):
         p.error('Use years 1450–1900 and a simple snapshot label (letters, numbers, hyphen, underscore).')
     out = a.output or ROOT / f'data/research/zurich-tranches/{a.start}-{a.end}-{a.snapshot}'
     out.mkdir(parents=True, exist_ok=True)
-    query = query_for(a.start, a.end)
+    query = query_for(a.start, a.end, a.format_code)
     config = {'query': query, 'endpoint': ENDPOINT, 'schema': 'marc21-xml', 'page_size': 100, 'version': 4}
     manifest = out / 'request-v4.json'
     legacy = out / 'request.json'
