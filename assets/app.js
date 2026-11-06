@@ -500,6 +500,7 @@ function popupHtml(copy) {
 }
 
 function clearMapLayers() {
+  if (state.view === "locations") map.closePopup();
   if (heatCanvas) heatCanvas.hidden = true;
   state.selectedConnection = null;
   state.returnConnection = null;

@@ -1,12 +1,12 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const element=()=>({querySelector(){return null},querySelectorAll(){return []},scrollTop:0,value:'',textContent:'',innerHTML:'',hidden:false,classList:{add(){},remove(){}},setAttribute(){},focus(){},insertAdjacentHTML(){},addEventListener(){}});
 const elements=new Map();const doc={getElementById(id){if(!elements.has(id))elements.set(id,element());return elements.get(id)},addEventListener(){}};
-const map={getZoom(){return this.zoom||4},setView(){return this},closePopup(){},fitBounds(){this.fits=(this.fits||0)+1}};
+const map={getZoom(){return this.zoom||4},setView(){return this},openPopup(popup){this.popup=popup},closePopup(){this.popup=null},fitBounds(){this.fits=(this.fits||0)+1}};
 const layer=()=>({addTo(){return this},clearLayers(){},bindPopup(){},bindTooltip(){},on(){},setStyle(style){this.style={...this.style,...style}},bringToFront(){}});
 const context=vm.createContext({console,document:doc,L:{map:()=>map,tileLayer:layer,layerGroup:layer,polyline:layer,circleMarker:layer}});
 vm.runInContext(fs.readFileSync('assets/app.js','utf8').replace(/loadData\(\);\s*$/,''),context);
 
-context.assert=assert;
+context.assert=assert;context.mapStub=map;
 context.copiesText=fs.readFileSync('data/map/copies.csv','utf8');
 context.stationsText=fs.readFileSync('data/map/stations.csv','utf8');
 vm.runInContext(`
@@ -39,4 +39,26 @@ state.search='hortulus';addCheckedMatches();assert.ok(state.savedCopies.size>=n)
 state.showSaved=true;state.search='impossible';assert.equal(displayedCopies().length,state.savedCopies.size);
 const groups=groupLocations(state.copies,2026);assert.equal(groups.reduce((n,g)=>n+g.entries.size,0),3394);
 console.log('PASS: library OR and other-filter AND; 3394 copy details, timeline exclusions, current holdings, Seefeld, Iran conflicts, subject OR / language AND, saved searches.');
+`,context);
+
+vm.runInContext(`
+state.showSaved=false;state.search='';state.view='locations';
+state.year=2026;
+renderMap();
+mapStub.openPopup({year:2026});
+state.year=1600;
+renderMap();
+assert.equal(mapStub.popup,null,'Changing the year must close the previous location popup');
+assert.ok(els['result-summary'].textContent.includes('1600'));
+mapStub.openPopup({year:1600});
+state.libraries.add('ZurichZB');
+renderMap();
+assert.equal(mapStub.popup,null,'Changing library filters must close the previous location popup');
+assert.ok(els['result-summary'].textContent.startsWith('1609 copies selected'));
+mapStub.openPopup({year:1600});
+state.search='NO_MATCH_987654';
+renderMap();
+assert.equal(mapStub.popup,null,'An empty filtered selection must close the previous location popup');
+assert.ok(els['result-summary'].textContent.startsWith('0 copies selected'));
+console.log('PASS: location popups close after year and filter changes, including an empty selection.');
 `,context);
